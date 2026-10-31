@@ -25,9 +25,11 @@ BTech-and-BE/                   umbrella for B.Tech & B.E. (other AMU programmes
 ```
 
 Branch folders: `First-Year-Common`, `Computer-Engineering` (CoE & AI), `Electronics-Engineering` (ECE & VLSI),
-`Electrical-Engineering`, `Mechanical-Engineering` (ME, Automobile & B.E. ME), `Civil-Engineering`,
-`Chemical-Engineering` (ChE & Chemical Technology — Refining & Petrochemicals, formerly Petrochemical Engg), `Food-Technology`, plus `Shared-Courses`
+`Electrical-Engineering`, `Mechanical-Engineering` (ME, Automobile & B.E. ME), `Civil-Engineering`, `Chemical-Engineering`,
+`Chemical-Technology` (Refining & Petrochemicals, formerly Petrochemical Engg), `Food-Technology`, plus `Shared-Courses`
 for a course several branches take under the same code (e.g. `MEH3452`).
+A course that two branches teach from the same syllabus under different codes lives in one of them with both codes
+(`CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering`, in Chemical-Engineering); the other programme points to it.
 Which courses each programme takes in each semester lives in `catalog/programmes.json`, generated from the official
 curricula in `_Sources/AMU-Official/` (not published as a folder). A course lives in one folder only; programme views
 on the site point to it.
