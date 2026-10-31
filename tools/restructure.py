@@ -25,8 +25,9 @@ CACHE = os.path.join(REPO, ".sej-cache", "hashes.json")
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--apply", action="store_true")
+    ap.add_argument("--plan", default=os.path.join(HERE, "restructure_plan.json"))
     a = ap.parse_args()
-    plan = json.load(open(os.path.join(HERE, "restructure_plan.json")))
+    plan = json.load(open(a.plan))
     U = plan["umbrella"]
     J = lambda *p: os.path.join(REPO, *p)  # noqa: E731
     log = []

@@ -1,0 +1,294 @@
+{
+"umbrella": "BTech-and-BE",
+"tops": [],
+"relocate": {},
+"create": [],
+"cuts": [
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+4
+],
+"dst": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC2130_Statistical-Learning/Syllabus/AIC2130_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+6,
+7
+],
+"dst": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC2940_Python-Programming-Laboratory/Syllabus/AIC2940_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+8
+],
+"dst": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC3060_Artificial-Neural-Networks/Syllabus/AIC3060_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+15
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/AIE4210_Bayesian-Data-Analysis/Syllabus/AIE4210_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+17
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem7/AIE4320_Image-and-Video-Processing/Syllabus/AIE4320_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+18
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/AIE4340_Computer-Vision/Syllabus/AIE4340_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+19
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/AIE4490_Quantum-Computing/Syllabus/AIE4490_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+20
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/AIE4430_Cryptography/Syllabus/AIE4430_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+21,
+22
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem7/COC4010-AIE4010_Information-Security/Syllabus/AIE4010_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+23
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/AIE4480_AI-Applications-in-Forensics/Syllabus/AIE4480_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+26
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/AIE4270_Data-Mining/Syllabus/AIE4270_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+27
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem7/AIE4280_Big-Data-Tools-and-Techniques/Syllabus/AIE4280_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+28
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/AIE4390_Information-Retrieval/Syllabus/AIE4390_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+29
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem7/AIE4290_Data-Visualization-Tools-and-Techniques/Syllabus/AIE4290_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+30
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/AIE4220_Numerical-Linear-Algebra/Syllabus/AIE4220_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+31
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/AIE4450_Randomized-Algorithm/Syllabus/AIE4450_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+32
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/AIE4460_Blockchain-Technology/Syllabus/AIE4460_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+33
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem8/AIE4260_Computational-Intelligence/Syllabus/AIE4260_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+34
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/AIE4240_Optimization-Techniques/Syllabus/AIE4240_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+35,
+36
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem7/AIE4330_Recommender-Systems/Syllabus/AIE4330_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+37
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem7/AIE4230_Reinforcement-Learning-and-Game-Theory/Syllabus/AIE4230_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+38
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/AIE4360_Speech-Synthesis/Syllabus/AIE4360_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+39
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/AIE4350_Time-Series-Analysis/Syllabus/AIE4350_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+40
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/COE4600-AIE4600_Principles-of-Cyber-Physical-Systems/Syllabus/AIE4600_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+41,
+42
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/AIE4500_Cognitive-Sciences/Syllabus/AIE4500_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+43
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/AIE4470_AI-Applications-in-Healthcare/Syllabus/AIE4470_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+44
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/COE4570-AIE4570_Internet-of-Things/Syllabus/AIE4570_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+45
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/AIE4380_Text-Mining/Syllabus/AIE4380_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+46
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/AIE4310_Graph-Analytics/Syllabus/AIE4310_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+1,
+2
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Syllabus/AIE2020_Old-Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+3
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Syllabus/AIC2040_Old-Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+5
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem4/AIC2152_AI-Tools-and-Techniques/Syllabus/AIC2150_Old-Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+9
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem5/AIC3072_AI-System-Design/Syllabus/AIC3070_Old-Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+10
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem5/AIC3942_Machine-Learning-Lab/Syllabus/AIC3940_Old-Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+11
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem6/AIC3142_Deep-Learning/Syllabus/AIC3140_Old-Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+12,
+13
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem6/AIC3972_Deep-Learning-Lab/Syllabus/AIC3970_Old-Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+14
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem7/AIC4972_Advanced-AI-Lab/Syllabus/AIC4970_Old-Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+24,
+25
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem7/AIC4252_Advanced-Machine-Learning/Syllabus/AIE4250_Old-Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"pages": [
+16
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem6/AIC3172-COE4620_Natural-Language-Processing/Syllabus/AIE4370_Old-Syllabus_Official.pdf"
+}
+],
+"official": [
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Syllabus.pdf",
+"dst": "BTech-and-BE/Computer-Engineering/_Curriculum/Official/BTech_Artificial-Intelligence_Syllabus.pdf"
+}
+]
+}
