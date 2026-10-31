@@ -194,6 +194,8 @@ def main():
         fh.write("/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: no-referrer\n  X-Frame-Options: SAMEORIGIN\n"
                  "/files/*\n  Cache-Control: public, max-age=86400\n"
                  "/fonts/*\n  Cache-Control: public, max-age=31536000, immutable\n"
+                 "/vendor/*\n  Cache-Control: public, max-age=2592000\n"
+                 "/brand/*\n  Cache-Control: public, max-age=604800\n"
                  "/index.json\n  Cache-Control: no-cache\n")
 
     n, size = build_index.stats(idx["root"])
