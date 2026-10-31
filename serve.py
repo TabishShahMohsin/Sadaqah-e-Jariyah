@@ -123,6 +123,16 @@ class Handler(BaseHTTPRequestHandler):
             pass
 
 
+class Server(ThreadingHTTPServer):
+    daemon_threads = True
+
+    def handle_error(self, request, client_address):
+        # a browser closing a tab mid-download/video is normal; don't print a traceback for it
+        if isinstance(sys.exc_info()[1], (ConnectionResetError, BrokenPipeError, TimeoutError)):
+            return
+        super().handle_error(request, client_address)
+
+
 def lan_ip():
     try:
         with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as s:
@@ -147,7 +157,7 @@ def main():
     server = None
     for port in range(a.port, a.port + 20):
         try:
-            server = ThreadingHTTPServer((host, port), Handler)
+            server = Server((host, port), Handler)
             break
         except OSError:
             continue

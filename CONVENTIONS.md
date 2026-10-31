@@ -7,7 +7,8 @@ the contribution pipeline gives them to Claude and then **checks every placement
 ## 1. Folder tree
 
 ```
-<Branch>/
+BTech-and-BE/                   umbrella for B.Tech & B.E. (other AMU programmes get their own umbrella later)
+ <Branch>/
   _Curriculum/                  course structures, syllabi bundles, notices
   _General-PYQs/                papers that don't belong to one course
   _Old-Syllabus-Subjects/       courses no longer in the current scheme
@@ -23,8 +24,13 @@ the contribution pipeline gives them to Claude and then **checks every placement
       Records/                  labs only
 ```
 
-Branch folders today: `First-Year-Common` (shown as **First Year (Common)**), `Computer-Engineering`.
-A new branch uses the same shape, e.g. `Electrical-Engineering`, `Mechanical-Engineering`.
+Branch folders: `First-Year-Common`, `Computer-Engineering` (CoE & AI), `Electronics-Engineering` (ECE & VLSI),
+`Electrical-Engineering`, `Mechanical-Engineering` (ME, Automobile & B.E. ME), `Civil-Engineering`, `Chemical-Engineering`,
+`Chemical-Technology` (Refining & Petrochemicals, formerly Petrochemical Engg), `Food-Technology`, plus `Shared-Courses`
+for a course several branches take under the same code (e.g. `MEH3452`).
+Which courses each programme takes in each semester lives in `catalog/programmes.json`, generated from the official
+curricula in `_Sources/AMU-Official/` (not published as a folder). A course lives in one folder only; programme views
+on the site point to it.
 
 ### Course folder names
 `<CODE>_<Title-In-Title-Case>` — words joined by `-`, no spaces.
