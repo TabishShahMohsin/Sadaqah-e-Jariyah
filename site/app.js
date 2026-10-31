@@ -11,7 +11,7 @@ const S = { root: null, base: 'files/', generated: null, nodes: new Map(), files
 /* ── naming ─────────────────────────────────────────── */
 const NAMES = {
   'First-Year-Common': 'First Year (Common)',
-  'Computer-Engineering': 'Computer Engineering / Artificial Intelligence',
+  'Computer-Engineering': 'Computer Engineering & Artificial Intelligence',
   'Phys-Sem': 'Physics Semester',
   'Chem-Sem': 'Chemistry Semester',
   'PYQs-and-Assignments': 'PYQs & Assignments',
@@ -148,7 +148,7 @@ function render(node) {
 
 function crumbs(node) {
   const a = ancestors(node);
-  $('#crumbs').innerHTML = a.map(n => `<span class="sep">/</span><a href="${href(n.p)}">${esc(label(n.n))}</a>`).join('');
+  $('#crumbs').innerHTML = a.map(n => `<span class="sep">›</span><a href="${href(n.p)}">${esc(label(n.n))}</a>`).join('');
 }
 
 /* ── pieces ─────────────────────────────────────────── */
@@ -284,7 +284,7 @@ function courseView(node) {
   sections.forEach(s => {
     const subs = flatten(s).filter(x => x.dir.f.length);
     const html = s.count
-      ? (s.f.length ? fileRows(s.f) : '') + subs.map(x => `<div class="sub-head">${esc(x.dir.p.slice(s.p.length + 1).split('/').map(label).join(' / '))} <span>· ${x.dir.f.length}</span></div>${fileRows(x.dir.f)}`).join('')
+      ? (s.f.length ? fileRows(s.f) : '') + subs.map(x => `<div class="sub-head">${esc(x.dir.p.slice(s.p.length + 1).split('/').map(label).join(' › '))} <span>· ${x.dir.f.length}</span></div>${fileRows(x.dir.f)}`).join('')
       : `<div class="empty">Nothing here yet. Drop files into <code>${esc(s.p)}/</code> and open a pull request.</div>`;
     blocks.push({ id: 'sec-' + s.n, name: label(s.n), count: s.count, html });
   });
@@ -577,7 +577,7 @@ function remember(id) {
 function pageShell(key, crumbLabel, html) {
   S.rendered = key;
   if (S.spyOff) { S.spyOff(); S.spyOff = null; }
-  $('#crumbs').innerHTML = `<span class="sep">/</span><a href="${href(key)}">${esc(crumbLabel)}</a>`;
+  $('#crumbs').innerHTML = `<span class="sep">›</span><a href="${href(key)}">${esc(crumbLabel)}</a>`;
   const bb = $('#backBtn'); if (bb) bb.hidden = !EMBED;
   $('#view').innerHTML = html;
   document.title = `${crumbLabel} — Sadaqah-e-Jariyah`;
