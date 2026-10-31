@@ -21,6 +21,7 @@ const NAMES = {
   '_General-PYQs': 'General PYQs',
   '_Old-Syllabus-Subjects': 'Old-Syllabus Subjects',
   '_Curriculum': 'Curriculum & Notices',
+  '_Library-Papers-Unsorted': 'Library papers, not yet sorted',
   'Official': 'Official Curriculum & Syllabus',
 };
 const SECTION_ABBR = { 'Syllabus': 'S', 'Complete-Notes': 'N', 'PYQs-and-Assignments': 'Q', 'Books-and-Resources': 'B', 'Manuals': 'M', 'Records': 'R' };
