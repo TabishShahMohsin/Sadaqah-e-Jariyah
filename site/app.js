@@ -283,10 +283,10 @@ function progPanel(node, p) {
   }).join('');
   const official = p.official.map(x => S.files.get(x)).filter(Boolean);
   return `
+  ${official.length ? `<div class="official">${official.map(f => `<a class="off" href="${href(f.p)}" data-p="${esc(f.p)}"><span class="ext k-pdf">pdf</span><span><b>${/curriculum/i.test(f.n) ? 'Curriculum' : 'Syllabus'}</b><small>Official · ${fmtSize(f.s)}</small></span></a>`).join('')}</div>` : ''}
   ${fy ? `<section class="group"><div class="group-head"><span class="gi">S01</span><h2>Semesters 1 & 2</h2><span class="gc">common to all branches</span></div>
     <a class="course" href="${href(fy.p)}"><span class="ci">01</span><span class="cc"><i>FY</i></span><span class="ct">First Year (Common)</span><span class="cov"></span><span class="cn">${plural(fy.count, 'file')}</span><span class="arr">→</span></a></section>` : ''}
-  ${sems}
-  ${official.length ? `<h2 class="label">Official curriculum & syllabus</h2>${fileRows(official)}` : ''}`;
+  ${sems}`;
 }
 
 function dirView(node) {

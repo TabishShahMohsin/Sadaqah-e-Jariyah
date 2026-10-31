@@ -368,3 +368,11 @@ main { width: 100%; max-width: var(--w); margin: 0 auto; padding-block: 0 120px;
 .ct small { display: block; font-size: 12.5px; font-weight: 400; color: var(--mute); }
 .taught { margin: 10px 0 0; font-size: 14px; color: var(--mute); }
 .label a:hover { color: var(--accent-ink); }
+
+/* official curriculum & syllabus, right under the programme switch */
+.official { display: flex; flex-wrap: wrap; gap: 10px; margin: 18px 0 8px; }
+.off { display: flex; align-items: center; gap: 12px; padding: 12px 18px 12px 12px; border-radius: 16px; background: var(--fog); transition: background .2s; }
+.off:hover { background: var(--fog2); }
+.off b { display: block; font-weight: 600; font-size: 15px; }
+.off small { display: block; font-size: 12.5px; color: var(--mute); }
+.off .ext { background: #fff; }
