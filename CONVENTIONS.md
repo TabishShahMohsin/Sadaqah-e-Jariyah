@@ -39,6 +39,12 @@ A code is 2–4 capital letters + 3–4 digits (`COC2072`, `EZH1112`). 2023-sche
 an old-scheme file of a current course goes in the current course's folder (its syllabus is marked `Old-Syllabus`).
 Theory and its lab are **separate courses** (`ACS1112_Applied-Chemistry` vs `ACS1912_Applied-Chemistry-Lab`).
 
+**Programmes covered:** B.Tech only. B.Arch and B.E. (evening) have no branches or course folders of their own.
+**B.E. material:** when a B.E. course is the same course as a B.Tech one (same title and syllabus), its notes, papers and
+assignments go into the **B.Tech course's folder**, like any other file. The B.E. code goes in the file name where a
+code is part of the pattern (e.g. `Sem-End_2023-24_<BE-CODE>.pdf`) and in the catalog's `note`, so search finds it by
+either code. B.E. material for a course with no B.Tech twin is not added.
+
 ### Which section
 | Section | Put here |
 |---|---|

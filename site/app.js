@@ -6,7 +6,7 @@ const $$ = (s, el = document) => [...el.querySelectorAll(s)];
 const esc = s => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: 'base' });
 
-const S = { root: null, base: 'files/', generated: null, nodes: new Map(), files: new Map(), all: [], courses: [], rendered: null, preview: null };
+const S = { pg: null, root: null, base: 'files/', generated: null, nodes: new Map(), files: new Map(), all: [], courses: [], rendered: null, preview: null };
 
 /* ── naming ─────────────────────────────────────────── */
 const NAMES = {
@@ -20,6 +20,8 @@ const NAMES = {
   'Video-Lectures': 'Video Lectures',
   '_General-PYQs': 'General PYQs',
   '_Old-Syllabus-Subjects': 'Old-Syllabus Subjects',
+  '_Curriculum': 'Curriculum & Notices',
+  'Official': 'Official Curriculum & Syllabus',
 };
 const SECTION_ABBR = { 'Syllabus': 'S', 'Complete-Notes': 'N', 'PYQs-and-Assignments': 'Q', 'Books-and-Resources': 'B', 'Manuals': 'M', 'Records': 'R' };
 const isSection = n => n in SECTION_ABBR || /^Unit-\d+$/.test(n);
@@ -210,7 +212,9 @@ function homeView() {
   const r = S.root;
   const pyqs = S.all.filter(f => f.p.includes('/PYQs-and-Assignments/')).length;
   const videos = S.all.filter(f => f.k === 'video').length;
-  const branches = r.d.filter(d => !d.n.startsWith('_'));
+  const tops = r.d.filter(d => !d.n.startsWith('_'));
+  const umbrellas = tops.filter(d => !d.course && !hasCourses(d) && d.d.some(x => !x.course && x.d.length));
+  const branches = tops.filter(d => !umbrellas.includes(d));
   const others = r.d.filter(d => d.n.startsWith('_'));
   const recent = [...S.all].sort((a, b) => b.m - a.m).slice(0, 8);
   return `
@@ -230,15 +234,64 @@ function homeView() {
     <div class="stat"><div class="num">${fmtNum(pyqs)}</div><div class="cap">PYQs & Assignments</div></div>
     <div class="stat"><div class="num">${(r.size / 1e9).toFixed(1)}<small>GB</small></div><div class="cap">${fmtNum(videos)} lecture videos</div></div>
   </section>
-  <h2 class="label">Branches</h2>
-  <div class="cards">${branches.map((d, i) => card(d, i, 'Branch')).join('')}</div>
+  ${umbrellas.map(u => `<h2 class="label"><a href="${href(u.p)}">${esc(label(u.n))}</a></h2>
+  <div class="cards">${u.d.filter(d => !d.n.startsWith('_')).sort(branchOrder).map((d, i) => card(d, i, 'Branch')).join('')}</div>`).join('')}
+  ${branches.length ? `<h2 class="label">Branches</h2><div class="cards">${branches.map((d, i) => card(d, i, 'Branch')).join('')}</div>` : ''}
   ${others.length ? `<h2 class="label">Other</h2><div class="cards">${others.map((d, i) => card(d, i, 'Folder', true)).join('')}</div>` : ''}
   <a class="cta hud" href="#/contribute"><span class="eyebrow"><span class="pulse"></span> Contribute</span><span class="cta-t">Have notes, past papers or lab work? Drop them here and they’ll be sorted into the right course.</span><span class="go">→</span></a>
   <h2 class="label">Recently added</h2>
   ${fileRows(recent, { ctx: true })}`;
 }
 
+/* ── programmes (from the official curricula) ───────── */
+const branchOrder = (a, b) => (a.n === 'First-Year-Common' ? -1 : b.n === 'First-Year-Common' ? 1 : 0) || (a.n === 'Shared-Courses') - (b.n === 'Shared-Courses') || collator.compare(label(a.n), label(b.n));
+const progsOf = node => (S.pg?.programmes || []).filter(p => p.branch === node.p);
+const progName = p => `${p.degree} ${p.name}`;
+function pickedProg(node, list) {
+  let id = null;
+  try { id = localStorage.getItem('sej-prog:' + node.p); } catch { /* storage unavailable */ }
+  return list.find(p => p.id === id) || list.find(p => p.published) || list[0];
+}
+function progRow(it, i) {
+  const node = S.nodes.get(it.p);
+  const meta = S.pg.courses[it.p] || {};
+  const codes = [it.c, ...(meta.codes || []).filter(x => x !== it.c)];
+  const title = node ? label(node.n) : (meta.title || it.p.split('/').pop());
+  const inner = `<span class="ci">${pad(i + 1)}</span>
+    <span class="cc">${codes.map(x => `<i>${esc(x)}</i>`).join('')}</span>
+    <span class="ct">${esc(title)}${it.p.split('/')[1] === 'Shared-Courses' ? '<small>shared course</small>' : ''}</span>
+    ${node && node.course ? coverage(node) : '<span class="cov"></span>'}
+    <span class="cn">${node && node.count ? plural(node.count, 'file') : 'no files yet'}</span>
+    <span class="arr">→</span>`;
+  return node ? `<a class="course${node.count ? '' : ' dim'}" href="${href(it.p)}">${inner}</a>` : `<div class="course dim">${inner}</div>`;
+}
+function progPanel(node, p) {
+  if (!p.published) {
+    const twin = progsOf(node).find(x => x.published && x.degree === 'B.Tech');
+    return `<div class="empty">The department hasn’t published the ${esc(progName(p))} curriculum yet, so its course list isn’t here. ${p.degree === 'B.E.' && twin
+      ? `B.E. courses share their B.Tech twin’s folder (the B.E. code is the B.Tech code with an E in front), so open <b>${esc(progName(twin))}</b> above.`
+      : 'Files can still be added to the semester folders below.'}</div>`;
+  }
+  const fy = S.nodes.get((S.pg.umbrella || '') + '/First-Year-Common');
+  const listed = new Set();
+  const sems = Object.entries(p.semesters).map(([sem, items]) => {
+    items.forEach(it => listed.add(it.p));
+    return `<section class="group">
+      <div class="group-head"><span class="gi">S${pad(sem)}</span><h2>Semester ${sem}</h2><span class="gc">${plural(items.length, 'course')}</span></div>
+      ${items.map((it, j) => progRow(it, j)).join('')}
+    </section>`;
+  }).join('');
+  const official = p.official.map(x => S.files.get(x)).filter(Boolean);
+  return `
+  ${fy ? `<section class="group"><div class="group-head"><span class="gi">S01</span><h2>Semesters 1 & 2</h2><span class="gc">common to all branches</span></div>
+    <a class="course" href="${href(fy.p)}"><span class="ci">01</span><span class="cc"><i>FY</i></span><span class="ct">First Year (Common)</span><span class="cov"></span><span class="cn">${plural(fy.count, 'file')}</span><span class="arr">→</span></a></section>` : ''}
+  ${sems}
+  ${official.length ? `<h2 class="label">Official curriculum & syllabus</h2>${fileRows(official)}` : ''}`;
+}
+
 function dirView(node) {
+  const progs = progsOf(node);
+  if (progs.length) return branchView(node, progs);
   const groups = node.d.filter(hasCourses).sort((a, b) => groupRank(a.n) - groupRank(b.n) || collator.compare(a.n, b.n));
   const terms = groups.filter(g => isTerm(g.n)).length;
   const loose = node.d.filter(d => !hasCourses(d));
@@ -265,7 +318,26 @@ function dirView(node) {
     </section>`;
   }).join('')}
   ${node.f.length ? `<h2 class="label">Files <b>${node.f.length}</b></h2>${fileRows(node.f, { limit: 200 })}` : ''}
-  ${!node.count ? `<div class="empty">This folder is empty. Add files under <code>${esc(node.p)}/</code> and open a pull request.</div>` : ''}`;
+  ${!node.count && !node.d.length ? `<div class="empty">This folder is empty. Add files under <code>${esc(node.p)}/</code> and open a pull request.</div>` : ''}`;
+}
+
+function branchView(node, progs) {
+  const p = pickedProg(node, progs);
+  const inProgs = new Set(progs.flatMap(x => Object.values(x.semesters).flat().map(it => it.p)));
+  // everything in the branch's folders that no programme lists (elective slots, extra electives, old subjects…)
+  const extra = node.d.filter(d => !d.n.startsWith('_') || d.n === '_Old-Syllabus-Subjects').map(g => ({ g, cs: g.d.filter(d => d.course && !inProgs.has(d.p)) })).filter(x => x.cs.length);
+  const folders = node.d.filter(d => (d.n.startsWith('_') && d.n !== '_Old-Syllabus-Subjects') || (!d.course && !hasCourses(d) && !d.n.startsWith('_')));
+  const nCourses = S.courses.filter(c => c.p.startsWith(node.p + '/')).length;
+  return `
+  <header class="page-head">
+    <div class="eyebrow">${esc(node.parent && node.parent !== S.root ? label(node.parent.n) : 'B.Tech')}</div>
+    <h1>${esc(label(node.n))}</h1>
+    <div class="meta"><span><b>${fmtNum(node.count)}</b> files</span><span>${fmtSize(node.size)}</span><span><b>${nCourses}</b> courses</span></div>
+  </header>
+  <nav class="progs" aria-label="Programme">${progs.map(x => `<button type="button" class="prog${x === p ? ' on' : ''}" data-prog="${esc(x.id)}" aria-pressed="${x === p}"><b>${esc(x.degree)}</b> ${esc(x.name)}</button>`).join('')}</nav>
+  <div id="progPanel">${progPanel(node, p)}</div>
+  ${extra.map(({ g, cs }) => `<section class="group"><div class="group-head"><span class="gi">+</span><h2><a href="${href(g.p)}">${esc(label(g.n))}</a></h2><span class="gc">${plural(cs.length, 'course')}</span></div>${cs.map((d, j) => courseRow(d, j)).join('')}</section>`).join('')}
+  ${folders.length ? `<h2 class="label">Folders</h2><div class="cards">${folders.map((d, j) => card(d, j, 'Folder', true)).join('')}</div>` : ''}`;
 }
 
 function flatten(dir, depth = 0) {
@@ -292,9 +364,19 @@ function courseView(node) {
   return `
   <header class="page-head">
     <div class="eyebrow">${anc}</div>
-    ${c ? `<div class="codes" style="margin-top:22px">${c.codes.map(x => `<span class="code-chip">${esc(x)}</span>`).join('')}</div>` : ''}
+    ${(() => {
+      const meta = S.pg?.courses?.[node.p];
+      const codes = [...new Set([...(c ? c.codes : []), ...(meta?.codes || []), ...(meta?.be || [])])];
+      return codes.length ? `<div class="codes" style="margin-top:22px">${codes.map(x => `<span class="code-chip">${esc(x)}</span>`).join('')}</div>` : '';
+    })()}
     <h1>${esc(label(node.n))}</h1>
     <div class="meta"><span><b>${fmtNum(node.count)}</b> files</span><span>${fmtSize(node.size)}</span><span><b>${filled}</b>/${sections.length} sections filled</span>${node.latest ? `<span>updated ${fmtDate(node.latest)}</span>` : ''}</div>
+    ${(() => {
+      const meta = S.pg?.courses?.[node.p]; if (!meta) return '';
+      const P = S.pg.programmes;
+      const taught = Object.entries(meta.progs || {}).map(([id, sems]) => { const p = P.find(x => x.id === id); return p ? `${p.short.startsWith(p.degree) ? p.short : p.degree + ' ' + p.short}${sems.length ? ' · Sem ' + sems.join(', ') : ''}` : ''; }).filter(Boolean);
+      return (taught.length ? `<p class="taught">Taught in ${esc(taught.join('  ·  '))}</p>` : '') + (meta.old?.length ? `<p class="taught">Older codes: ${esc(meta.old.join(', '))}</p>` : '');
+    })()}
   </header>
   <nav class="secnav">${blocks.map(b => `<a class="chip${b.count ? '' : ' empty'}" href="#" data-jump="${esc(b.id)}">${esc(b.name)} <em>${b.count}</em></a>`).join('')}</nav>
   ${blocks.map((b, i) => `<section class="sec" id="${esc(b.id)}"><div class="sec-head"><span class="si">${pad(i + 1)}</span><h2>${esc(b.name)}</h2><span class="sc">${plural(b.count, 'file')}</span></div>${b.html}</section>`).join('')}`;
@@ -307,6 +389,14 @@ function bindView(v) {
     const wrap = b.closest('.more');
     wrap.previousElementSibling.outerHTML = fileRows(node.f);
     wrap.remove();
+  }));
+  $$('[data-prog]', v).forEach(b => b.addEventListener('click', () => {
+    const node = S.rendered, p = progsOf(node).find(x => x.id === b.dataset.prog);
+    if (!p) return;
+    try { localStorage.setItem('sej-prog:' + node.p, p.id); } catch { /* storage unavailable */ }
+    $$('[data-prog]', v).forEach(x => { x.classList.toggle('on', x === b); x.setAttribute('aria-pressed', x === b); });
+    $('#progPanel').innerHTML = progPanel(node, p);
+    markCurrent();
   }));
   if (S.spyOff) { S.spyOff(); S.spyOff = null; }
   const chips = $$('[data-jump]', v);
@@ -560,7 +650,7 @@ const norm = s => s.toLowerCase().replace(/[_\-/.·]+/g, ' ');
 let searchItems = null, results = [], active = 0;
 function buildSearch() {
   searchItems = [
-    ...S.courses.map(c => ({ type: 'course', node: c, hay: norm(c.p + ' ' + label(c.n) + ' ' + ancestors(c).map(a => label(a.n)).join(' ')), name: norm(c.n) })),
+    ...S.courses.map(c => { const m = S.pg?.courses?.[c.p]; const alt = m ? [...m.codes, ...m.be, ...m.old].join(' ') : ''; return { type: 'course', node: c, hay: norm(c.p + ' ' + alt + ' ' + label(c.n) + ' ' + ancestors(c).map(a => label(a.n)).join(' ')), name: norm(c.n + ' ' + alt) }; }),
     ...S.all.map(f => ({ type: 'file', f, hay: norm(f.p + ' ' + ancestors(f.parent).map(a => label(a.n)).join(' ')), name: norm(f.n) })),
   ];
 }
@@ -993,6 +1083,8 @@ async function boot() {
     S.turnstile = idx.turnstile || null;
     S.generated = idx.generated;
     S.root = idx.root;
+    S.pg = idx.programmes || null;
+    if (S.pg) Object.assign(NAMES, S.pg.labels || {}, { [S.pg.umbrella]: 'B.Tech & B.E.' });
     prep(S.root, '', null);
   } catch (e) {
     const local = /^(localhost|127\.|\[::1\]|)$/.test(location.hostname);

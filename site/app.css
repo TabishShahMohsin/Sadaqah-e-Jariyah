@@ -358,3 +358,13 @@ main { width: 100%; max-width: var(--w); margin: 0 auto; padding-block: 0 120px;
 .pdfp { width: 100%; max-width: 920px; background: #fff; border-radius: 4px; box-shadow: 0 1px 2px rgba(0,0,0,.08), 0 8px 24px -12px rgba(0,0,0,.18); overflow: hidden; }
 .pdfp canvas { display: block; width: 100%; height: auto; }
 .pdfn { position: sticky; bottom: 16px; margin: -56px auto 16px; width: max-content; padding: 6px 12px; border-radius: 999px; background: rgba(29,29,31,.78); color: #fff; font-size: 13px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); pointer-events: none; }
+
+/* programme switch on a branch page */
+.progs { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0 8px; }
+.prog { height: 40px; padding: 0 18px; border-radius: 999px; background: var(--fog); font-size: 14.5px; letter-spacing: -.01em; transition: background .2s, color .2s; }
+.prog b { font-weight: 600; margin-right: 2px; }
+.prog:hover { background: var(--fog2); }
+.prog.on { background: var(--ink); color: #fff; }
+.ct small { display: block; font-size: 12.5px; font-weight: 400; color: var(--mute); }
+.taught { margin: 10px 0 0; font-size: 14px; color: var(--mute); }
+.label a:hover { color: var(--accent-ink); }

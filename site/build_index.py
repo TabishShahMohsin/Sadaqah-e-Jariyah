@@ -17,7 +17,7 @@ from datetime import datetime, timezone
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 
-EXCLUDE_TOP = {".git", "_Inbox", "site", "node_modules", "__pycache__", "catalog", "tools", "worker", "setup", ".sej-cache"}
+EXCLUDE_TOP = {".git", "_Inbox", "site", "node_modules", "__pycache__", "catalog", "tools", "worker", "setup", ".sej-cache", "_dist", "_Sources"}
 SKIP_FILES = {".DS_Store", "Thumbs.db", "desktop.ini", "Icon\r"}
 
 
@@ -42,12 +42,22 @@ def walk(path, top=False):
     return node
 
 
+def programmes(repo=REPO):
+    """catalog/programmes.json: each programme's semester-by-semester course list (made from the official curricula)."""
+    try:
+        with open(os.path.join(repo, "catalog", "programmes.json"), encoding="utf-8") as fh:
+            return json.load(fh)
+    except (OSError, ValueError):
+        return None
+
+
 def build(repo=REPO, file_base="files/"):
     return {
         "name": "Sadaqah-e-Jariyah",
         "version": 1,
         "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "fileBase": file_base,
+        "programmes": programmes(repo),
         "root": walk(repo, top=True),
     }
 

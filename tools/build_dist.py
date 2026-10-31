@@ -185,8 +185,8 @@ def main():
         shutil.copyfile(os.path.join(REPO, "site", f), os.path.join(a.out, f))
     for sub in ("fonts", "brand", "vendor"):
         shutil.copytree(os.path.join(REPO, "site", sub), os.path.join(a.out, sub), dirs_exist_ok=True)
-    idx = {"name": "Sadaqah-e-Jariyah", "version": 1,
-           "generated": sej.now_iso(), "fileBase": "files/", "root": build_index.walk(files_root, top=False)}
+    idx = {"name": "Sadaqah-e-Jariyah", "version": 1, "generated": sej.now_iso(), "fileBase": "files/",
+           "programmes": build_index.programmes(REPO), "root": build_index.walk(files_root, top=False)}
     idx["root"]["n"] = ""
     with open(os.path.join(a.out, "index.json"), "w", encoding="utf-8") as fh:
         json.dump(idx, fh, ensure_ascii=False, separators=(",", ":"))

@@ -1,0 +1,5670 @@
+{
+"umbrella": "BTech-and-BE",
+"tops": [
+"Computer-Engineering",
+"First-Year-Common"
+],
+"relocate": {
+"Computer-Engineering/_Old-Syllabus-Subjects/AIC2130_Statistical-Learning": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC2130_Statistical-Learning",
+"Computer-Engineering/_Old-Syllabus-Subjects/AIC2940_Python-Programming-Laboratory": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC2940_Python-Programming-Laboratory",
+"Computer-Engineering/_Old-Syllabus-Subjects/AIC3060_Artificial-Neural-Networks": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC3060_Artificial-Neural-Networks",
+"Computer-Engineering/_Old-Syllabus-Subjects/AP308_Engineering-Materials-and-Material-Science": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AP308_Engineering-Materials-and-Material-Science",
+"Computer-Engineering/_Old-Syllabus-Subjects/CO306_Systems-Programming": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/CO306_Systems-Programming",
+"Computer-Engineering/_Old-Syllabus-Subjects/COA3600_Data-Structures-and-Programming-Electronics-Dept": "BTech-and-BE/Computer-Engineering/Electives/COA3600_Data-Structures-and-Programming-Electronics-Dept",
+"Computer-Engineering/_Old-Syllabus-Subjects/ELA2410_Signals-and-Systems": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/ELA2410_Signals-and-Systems",
+"Computer-Engineering/Electives/AIE4210_Bayesian-Data-Analysis": "BTech-and-BE/Computer-Engineering/Electives/AIE4210_Bayesian-Data-Analysis",
+"Computer-Engineering/Electives/AIE4220_Numerical-Linear-Algebra": "BTech-and-BE/Computer-Engineering/Electives/AIE4220_Numerical-Linear-Algebra",
+"Computer-Engineering/Electives/AIE4240_Optimization-Techniques": "BTech-and-BE/Computer-Engineering/Electives/AIE4240_Optimization-Techniques",
+"Computer-Engineering/Electives/AIE4270_Data-Mining": "BTech-and-BE/Computer-Engineering/Electives/AIE4270_Data-Mining",
+"Computer-Engineering/Electives/AIE4310_Graph-Analytics": "BTech-and-BE/Computer-Engineering/Electives/AIE4310_Graph-Analytics",
+"Computer-Engineering/Electives/AIE4340_Computer-Vision": "BTech-and-BE/Computer-Engineering/Electives/AIE4340_Computer-Vision",
+"Computer-Engineering/Electives/AIE4350_Time-Series-Analysis": "BTech-and-BE/Computer-Engineering/Electives/AIE4350_Time-Series-Analysis",
+"Computer-Engineering/Electives/AIE4360_Speech-Synthesis": "BTech-and-BE/Computer-Engineering/Electives/AIE4360_Speech-Synthesis",
+"Computer-Engineering/Electives/AIE4380_Text-Mining": "BTech-and-BE/Computer-Engineering/Electives/AIE4380_Text-Mining",
+"Computer-Engineering/Electives/AIE4390_Information-Retrieval": "BTech-and-BE/Computer-Engineering/Electives/AIE4390_Information-Retrieval",
+"Computer-Engineering/Electives/AIE4430_Cryptography": "BTech-and-BE/Computer-Engineering/Electives/AIE4430_Cryptography",
+"Computer-Engineering/Electives/AIE4450_Randomized-Algorithm": "BTech-and-BE/Computer-Engineering/Electives/AIE4450_Randomized-Algorithm",
+"Computer-Engineering/Electives/AIE4460_Blockchain-Technology": "BTech-and-BE/Computer-Engineering/Electives/AIE4460_Blockchain-Technology",
+"Computer-Engineering/Electives/AIE4470_AI-Applications-in-Healthcare": "BTech-and-BE/Computer-Engineering/Electives/AIE4470_AI-Applications-in-Healthcare",
+"Computer-Engineering/Electives/AIE4480_AI-Applications-in-Forensics": "BTech-and-BE/Computer-Engineering/Electives/AIE4480_AI-Applications-in-Forensics",
+"Computer-Engineering/Electives/AIE4490_Quantum-Computing": "BTech-and-BE/Computer-Engineering/Electives/AIE4490_Quantum-Computing",
+"Computer-Engineering/Electives/AIE4500_Cognitive-Sciences": "BTech-and-BE/Computer-Engineering/Electives/AIE4500_Cognitive-Sciences",
+"Computer-Engineering/Electives/COE4030_Design-of-Programming-Languages": "BTech-and-BE/Computer-Engineering/Electives/COE4030_Design-of-Programming-Languages",
+"Computer-Engineering/Electives/COE4310_Internet-Tools": "BTech-and-BE/Computer-Engineering/Electives/COE4310_Internet-Tools",
+"Computer-Engineering/Electives/COE4320_Image-Processing": "BTech-and-BE/Computer-Engineering/Electives/COE4320_Image-Processing",
+"Computer-Engineering/Electives/COE4380_Selected-Topics-in-Computer-Applications": "BTech-and-BE/Computer-Engineering/Electives/COE4380_Selected-Topics-in-Computer-Applications",
+"Computer-Engineering/Electives/COE4420_VLSI-Design-Tools-and-Techniques": "BTech-and-BE/Computer-Engineering/Electives/COE4420_VLSI-Design-Tools-and-Techniques",
+"Computer-Engineering/Electives/COE4440_Soft-Computing": "BTech-and-BE/Computer-Engineering/Electives/COE4440_Soft-Computing",
+"Computer-Engineering/Electives/COE4450_Network-Security": "BTech-and-BE/Computer-Engineering/Electives/COE4450_Network-Security",
+"Computer-Engineering/Electives/COE4480_Embedded-Systems": "BTech-and-BE/Computer-Engineering/Electives/COE4480_Embedded-Systems",
+"Computer-Engineering/Electives/COE4500_Multimedia-Technologies": "BTech-and-BE/Computer-Engineering/Electives/COE4500_Multimedia-Technologies",
+"Computer-Engineering/Electives/COE4510_Computer-Network-Design": "BTech-and-BE/Computer-Engineering/Electives/COE4510_Computer-Network-Design",
+"Computer-Engineering/Electives/COE4520_Mobile-Computing": "BTech-and-BE/Computer-Engineering/Electives/COE4520_Mobile-Computing",
+"Computer-Engineering/Electives/COE4580_Cloud-Computing": "BTech-and-BE/Computer-Engineering/Electives/COE4580_Cloud-Computing",
+"Computer-Engineering/Electives/COE4590_Distributed-and-Parallel-Systems": "BTech-and-BE/Computer-Engineering/Electives/COE4590_Distributed-and-Parallel-Systems",
+"Computer-Engineering/Electives/COE4600-AIE4600_Principles-of-Cyber-Physical-Systems": "BTech-and-BE/Computer-Engineering/Electives/COE4600-AIE4600_Principles-of-Cyber-Physical-Systems",
+"Computer-Engineering/Electives/COE4610-AIC2042_Principles-of-Machine-Learning": "BTech-and-BE/Computer-Engineering/Electives/COE4610-AIC2042_Principles-of-Machine-Learning",
+"Computer-Engineering/Electives/COE4620-AIC3172_Natural-Language-Processing": "BTech-and-BE/Computer-Engineering/Electives/COE4620-AIC3172_Natural-Language-Processing",
+"Computer-Engineering/Electives/COE4630_Data-Mining": "BTech-and-BE/Computer-Engineering/Electives/COE4630_Data-Mining",
+"Computer-Engineering/Electives/COE4640_Applied-Machine-Learning": "BTech-and-BE/Computer-Engineering/Electives/COE4640_Applied-Machine-Learning",
+"Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence",
+"Computer-Engineering/Sem3/AIC2922_Artificial-Intelligence-Lab": "BTech-and-BE/Computer-Engineering/Sem3/AIC2922_Artificial-Intelligence-Lab",
+"Computer-Engineering/Sem3/AMS2612_Higher-Mathematics": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics",
+"Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming",
+"Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm",
+"Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design",
+"Computer-Engineering/Sem3/COC2122-AIC2122_Database-Management-System": "BTech-and-BE/Computer-Engineering/Sem3/COC2122-AIC2122_Database-Management-System",
+"Computer-Engineering/Sem3/COC2932_C-and-Cpp-Programming-Lab": "BTech-and-BE/Computer-Engineering/Sem3/COC2932_C-and-Cpp-Programming-Lab",
+"Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits",
+"Computer-Engineering/Sem3/EZH2910_Communication-Skills": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab",
+"Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning",
+"Computer-Engineering/Sem4/AIC2152_AI-Tools-and-Techniques": "BTech-and-BE/Computer-Engineering/Sem4/AIC2152_AI-Tools-and-Techniques",
+"Computer-Engineering/Sem4/AIP2922_Colloquium": "BTech-and-BE/Computer-Engineering/Sem4/AIP2922_Colloquium",
+"Computer-Engineering/Sem4/AMS2622_Numerical-Analysis-Transforms-Probability": "BTech-and-BE/Computer-Engineering/Sem4/AMS2622_Numerical-Analysis-Transforms-Probability",
+"Computer-Engineering/Sem4/AMS2632_Discrete-Structures": "BTech-and-BE/Computer-Engineering/Sem4/AMS2632_Discrete-Structures",
+"Computer-Engineering/Sem4/COC2082_Computer-Architecture": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture",
+"Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm",
+"Computer-Engineering/Sem4/COC2922_Digital-Design-and-Simulation-Lab": "BTech-and-BE/Computer-Engineering/Sem4/COC2922_Digital-Design-and-Simulation-Lab",
+"Computer-Engineering/Sem4/COC2942-AIC2912_Data-Structure-Lab": "BTech-and-BE/Computer-Engineering/Sem4/COC2942-AIC2912_Data-Structure-Lab",
+"Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP",
+"Computer-Engineering/Sem4/ELA2902_Electronics-Laboratory": "BTech-and-BE/Computer-Engineering/Sem4/ELA2902_Electronics-Laboratory",
+"Computer-Engineering/Sem5/AIC3072_AI-System-Design": "BTech-and-BE/Computer-Engineering/Sem5/AIC3072_AI-System-Design",
+"Computer-Engineering/Sem5/AIC3942_Machine-Learning-Lab": "BTech-and-BE/Computer-Engineering/Sem5/AIC3942_Machine-Learning-Lab",
+"Computer-Engineering/Sem5/AIP3932_Minor-Project-I": "BTech-and-BE/Computer-Engineering/Sem5/AIP3932_Minor-Project-I",
+"Computer-Engineering/Sem5/COC3092-AIC3092_Microprocessor-Theory-and-Applications": "BTech-and-BE/Computer-Engineering/Sem5/COC3092-AIC3092_Microprocessor-Theory-and-Applications",
+"Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems",
+"Computer-Engineering/Sem5/COC3162_Software-Engineering": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering",
+"Computer-Engineering/Sem5/COC3932_Algorithms-and-OS-Lab": "BTech-and-BE/Computer-Engineering/Sem5/COC3932_Algorithms-and-OS-Lab",
+"Computer-Engineering/Sem5/COP3802_Colloquium": "BTech-and-BE/Computer-Engineering/Sem5/COP3802_Colloquium",
+"Computer-Engineering/Sem5/COU4042_Internet-Protocols-and-Models": "BTech-and-BE/Computer-Engineering/Sem5/COU4042_Internet-Protocols-and-Models",
+"Computer-Engineering/Sem5/ELA3402_Communication-Systems": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems",
+"Computer-Engineering/Sem5/MEH3452_Engineering-Economy-and-Management": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management",
+"Computer-Engineering/Sem5/OE-1_Atmospheric-Chemistry-Open-Elective-1": "BTech-and-BE/Computer-Engineering/Sem5/OE-1_Atmospheric-Chemistry-Open-Elective-1",
+"Computer-Engineering/Sem6/AIC3142_Deep-Learning": "BTech-and-BE/Computer-Engineering/Sem6/AIC3142_Deep-Learning",
+"Computer-Engineering/Sem6/AIC3172-COE4620_Natural-Language-Processing": "BTech-and-BE/Computer-Engineering/Sem6/AIC3172-COE4620_Natural-Language-Processing",
+"Computer-Engineering/Sem6/AIC3972_Deep-Learning-Lab": "BTech-and-BE/Computer-Engineering/Sem6/AIC3972_Deep-Learning-Lab",
+"Computer-Engineering/Sem6/AU-2_Audit-Course-2": "BTech-and-BE/Computer-Engineering/Sem6/AU-2_Audit-Course-2",
+"Computer-Engineering/Sem6/COC3082_Digital-Electronics": "BTech-and-BE/Computer-Engineering/Sem6/COC3082_Digital-Electronics",
+"Computer-Engineering/Sem6/COC3112_Theory-of-Computation": "BTech-and-BE/Computer-Engineering/Sem6/COC3112_Theory-of-Computation",
+"Computer-Engineering/Sem6/COC3132-AIC3132_Computer-Networks": "BTech-and-BE/Computer-Engineering/Sem6/COC3132-AIC3132_Computer-Networks",
+"Computer-Engineering/Sem6/COC3152_Computer-Graphics": "BTech-and-BE/Computer-Engineering/Sem6/COC3152_Computer-Graphics",
+"Computer-Engineering/Sem6/COC3962_Advanced-Computing-Lab": "BTech-and-BE/Computer-Engineering/Sem6/COC3962_Advanced-Computing-Lab",
+"Computer-Engineering/Sem6/COC3972-AIC3982_Microprocessor-and-Embedded-Systems-Lab": "BTech-and-BE/Computer-Engineering/Sem6/COC3972-AIC3982_Microprocessor-and-Embedded-Systems-Lab",
+"Computer-Engineering/Sem6/COO4470_Selected-Topics-in-Computer-Engineering-II": "BTech-and-BE/Computer-Engineering/Electives/COO4470_Selected-Topics-in-Computer-Engineering-II",
+"Computer-Engineering/Sem6/COP3952-AIP3952_Minor-Project": "BTech-and-BE/Computer-Engineering/Sem6/COP3952-AIP3952_Minor-Project",
+"Computer-Engineering/Sem6/HM-Elective_Humanities-Elective": "BTech-and-BE/Computer-Engineering/Sem6/HM-Elective_Humanities-Elective",
+"Computer-Engineering/Sem7/AIC4252_Advanced-Machine-Learning": "BTech-and-BE/Computer-Engineering/Sem7/AIC4252_Advanced-Machine-Learning",
+"Computer-Engineering/Sem7/AIC4972_Advanced-AI-Lab": "BTech-and-BE/Computer-Engineering/Sem7/AIC4972_Advanced-AI-Lab",
+"Computer-Engineering/Sem7/AIE4230_Reinforcement-Learning-and-Game-Theory": "BTech-and-BE/Computer-Engineering/Sem7/AIE4230_Reinforcement-Learning-and-Game-Theory",
+"Computer-Engineering/Sem7/AIE4280_Big-Data-Tools-and-Techniques": "BTech-and-BE/Computer-Engineering/Sem7/AIE4280_Big-Data-Tools-and-Techniques",
+"Computer-Engineering/Sem7/AIE4290_Data-Visualization-Tools-and-Techniques": "BTech-and-BE/Computer-Engineering/Sem7/AIE4290_Data-Visualization-Tools-and-Techniques",
+"Computer-Engineering/Sem7/AIE4320_Image-and-Video-Processing": "BTech-and-BE/Computer-Engineering/Sem7/AIE4320_Image-and-Video-Processing",
+"Computer-Engineering/Sem7/AIE4330_Recommender-Systems": "BTech-and-BE/Computer-Engineering/Sem7/AIE4330_Recommender-Systems",
+"Computer-Engineering/Sem7/COC4010-AIE4010_Information-Security": "BTech-and-BE/Computer-Engineering/Sem7/COC4010-AIE4010_Information-Security",
+"Computer-Engineering/Sem7/COC4060_Compiler-Design": "BTech-and-BE/Computer-Engineering/Sem7/COC4060_Compiler-Design",
+"Computer-Engineering/Sem7/COC4950_Network-and-Embedded-System-Lab": "BTech-and-BE/Computer-Engineering/Sem7/COC4950_Network-and-Embedded-System-Lab",
+"Computer-Engineering/Sem7/COC4980-AIP4982_BTech-Project-Part-I": "BTech-and-BE/Computer-Engineering/Sem7/COC4980-AIP4982_BTech-Project-Part-I",
+"Computer-Engineering/Sem7/COO4460_Selected-Topics-in-Computer-Engineering-I": "BTech-and-BE/Computer-Engineering/Electives/COO4460_Selected-Topics-in-Computer-Engineering-I",
+"Computer-Engineering/Sem7/DE-1_Departmental-Elective-I": "BTech-and-BE/Computer-Engineering/Sem7/DE-1_Departmental-Elective-I",
+"Computer-Engineering/Sem7/DE-2_Departmental-Elective-II": "BTech-and-BE/Computer-Engineering/Sem7/DE-2_Departmental-Elective-II",
+"Computer-Engineering/Sem7/DE-3_Departmental-Elective-III": "BTech-and-BE/Computer-Engineering/Sem7/DE-3_Departmental-Elective-III",
+"Computer-Engineering/Sem8/AIE4260_Computational-Intelligence": "BTech-and-BE/Computer-Engineering/Sem8/AIE4260_Computational-Intelligence",
+"Computer-Engineering/Sem8/AIP4802_Industrial-Training-Internship": "BTech-and-BE/Computer-Engineering/Sem8/AIP4802_Industrial-Training-Internship",
+"Computer-Engineering/Sem8/COC4990-AIP4992_BTech-Project-Part-II": "BTech-and-BE/Computer-Engineering/Sem8/COC4990-AIP4992_BTech-Project-Part-II",
+"Computer-Engineering/Sem8/COE4570-AIE4570_Internet-of-Things": "BTech-and-BE/Computer-Engineering/Electives/COE4570-AIE4570_Internet-of-Things",
+"Computer-Engineering/Sem8/DE-4_Departmental-Elective-IV": "BTech-and-BE/Computer-Engineering/Sem8/DE-4_Departmental-Elective-IV",
+"Computer-Engineering/Sem8/DE-5_Departmental-Elective-V": "BTech-and-BE/Computer-Engineering/Sem8/DE-5_Departmental-Elective-V",
+"Computer-Engineering/Sem8/DE-6_Departmental-Elective-VI": "BTech-and-BE/Computer-Engineering/Sem8/DE-6_Departmental-Elective-VI",
+"Computer-Engineering/Sem8/OE-2_Open-Elective-II": "BTech-and-BE/Computer-Engineering/Sem8/OE-2_Open-Elective-II",
+"First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials",
+"First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry",
+"First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab",
+"First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II",
+"First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit",
+"First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab",
+"First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg",
+"First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences",
+"First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab",
+"First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I",
+"First-Year-Common/Phys-Sem/APS1112_Applied-Physics": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics",
+"First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab",
+"First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg",
+"First-Year-Common/Phys-Sem/EZH1112_English": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English",
+"First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab",
+"First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics",
+"First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop"
+},
+"create": [
+{
+"path": "BTech-and-BE/Computer-Engineering/Sem6/AIP3952_Minor-Project-II",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Computer-Engineering/Sem7/AIP4982_Project-Phase-I",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Computer-Engineering/Sem8/AIP4992_Project-Phase-II",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2522_Numerical-Methods-and-Optimization",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2942_Electronic-Circuits-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem4/COA2602_Data-Structures-and-Programming",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2142_Physics-of-Semiconductor-Devices",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2952_Digital-Electronics-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2962_Circuit-Simulation-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3212_Control-Systems",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3332_Embedded-System",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3442_Principle-of-Communication-Systems",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3632_Analog-IC-Design",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3642_DIgital-IC-Design",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3622_Digital-System-Design",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3972_Digital-System-Design-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3912_Circuit-Design-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3122_Analog-Signal-Processing",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3652_RF-IC-Design",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3432_Digital-Signal-Processing",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem6/ELP3992_Mini-Project",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3982_DSP-Systems-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3962_Embedded-System-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem7/ELA4342_Computer-Architecture",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem7/ELC4612_IC-Fabrication-and-Technology",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem7/ELC4932_IC-Design-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem7/ELP4982_Project-Phase-I",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem8/ELP4902_Industrial-Training-Internship",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem8/ELP4992_Project-Phase-II",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2722_Electromagnetic-Field-Theory",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2212_Power-Electronics-I",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2312_Power-System-Engineering",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2922_Electrical-Machines-Lab-II",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem4/MEH2452_Engineering-Economy-and-Management",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3312_Power-System-Analysis",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3932_Instrumentation-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3942_Electric-Machine-Design",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3022_Fundamentals-of-Communication-Engineering",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3912_Electronics-Engineering-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3112_Electrical-Drives",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3322_Electrical-Power-Generation-and-Utilization",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem6/EEP3812_Seminar",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4222_New-and-Renewable-Energy-Sources",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4912_Power-System-Protection-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4942_Power-System-Design",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem7/EEP4982_Project-Phase-I",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem8/EEP4802_Industrial-Training-Internship",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Sem8/EEP4992_Project-Phase-II",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912_Machine-Drawing-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3912_Heat-and-Mass-Transfer-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3232_Energy-Conversion-Systems",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3322_Fluid-Machinery",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932_Manufacturing-Technology-Lab-III",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3942_Solid-Modelling-and-Analysis",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3962_Fluid-Mechanics-and-Machinery-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4112_Mechanical-Vibrations",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4932_Manufacturing-Technology-Lab-III",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4942_Vibrations-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4952-AEC4952_Energy-Conversion-Systems-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem7/MEP4812-AEP4812_Colloquium",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem7/MEP4912-AEP4912_Project-Phase-I",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem8/MEP4802-AEP4802_Industrial-Training-Internship",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem8/MEP4922-AEP4922_Project-Phase-II",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2322_Fluid-Mechanics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2432_Automotive-Materials",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2752_Lean-Methods-for-Automobile-Engineers",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2912_Machine-Drawing-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2222_Applied-Thermodynamics-and-Heat-Transfer",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2412_Manufacturing-Technology",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2452_Vehicle-Body-Design",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2762_Additive-Manufacturing",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2042_Automotive-Electrical-and-Electronic-System",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem4/AEA2972_Automotive-Electrical-and-Electronic-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2962_Thermal-System-Lab-I",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3112_Design-of-Vehicle-Components",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3132_Automotive-Drives-and-Transmission",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3242_Fuels-Lubricants-and-Coolants",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3292_Electric-and-Hybrid-Vehicles",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3962_Modeling-and-Simulation-of-Thermofluid-System",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem6/AEC3252_Automotive-Emission-and-Control",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem6/AEC3342_Automotive-Hydraulic-and-Pneumatic-Systems",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem6/AEC3932_Manufacturing-Technology-Lab-II",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem6/AEC3942_Solid-Modeling-and-Analysis-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem6/AEC3972_Fuel-Testing-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem7/AEC4212_Automotive-System",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Mechanical-Engineering/Sem7/AEC4962_Thermal-System-Lab-II",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem3/AMS2112_Applied-Mathematics-III",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem3/CEC2122_Soil-Mechanics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem3/CEC2252_Construction-Materials-and-Practices",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem3/CEC2912_Civil-Engineering-Material-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem3/CEC2922_Soil-Mechanics-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem3/CEH2132_Quantity-Survey-Drawing-and-Management",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem3/CEU2162_Disaster-Preparedness-and-Mitigation",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem4/AMS2122_Applied-Mathematics-IV",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem4/CEA2162_Environmental-Engineering",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem4/CEC2182_Surveying",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem4/CEC2192_Hydrology",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem4/CEC2942_Structural-Mechanics-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem4/CEC2952_Surveying-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem4/CEC2962_Fluid-Mechanics-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem5/CEC3112_Design-of-Concrete-Structures-I",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem5/CEC3132_Engineering-Hydraulics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem5/CEC3152_Structural-Analysis-I",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem5/CEC3922_Environmental-Engineering-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem5/CEC3932_Hydraulics-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem5/CEC3942_Structure-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem6/CEC3162_Design-of-Concrete-Structure-II",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem6/CEC3172_Transportation-Engineering",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem6/CEC3202_Structural-Analysis-II",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem6/CEC3392_Open-Channel-Hydraulics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem6/CEC3812_Survey-Camp",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem6/CEC3952_CAD-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem6/CEC3962_Transportation-Engineering-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem7/CEC4222_Elements-of-Earthquake-and-Wind-Engineering",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem7/CEH4112_Construction-Planning-and-Management",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem7/CEP4982_Project-Phase-I",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem8/CEP4802_Industrial-Training-Internship",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Civil-Engineering/Sem8/CEP4992_Project-Phase-II",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012_Basic-Principles-of-Chemical-Engineering",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032_Fluid-Mechanics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2052_Chemical-Engineering-Thermodynamics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem4/ACS2022_Engineering-Chemistry",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2002_Process-Instrumentation",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2022_Chemical-Reaction-Engineering",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2082_Mass-Transfer-Operations",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2092_Equilibrium-Stage-Processes",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2922_Fluid-Mechanics-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2932_Mechanical-Operations-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2942_Heat-Transfer-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Shared-Courses/ACA3112_Engineering-Materials",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem5/AMS3412_Advanced-Engineering-Mathematics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem5/CHA3012_Biology-for-Engineers",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3122_Process-Equipment-Design",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3912_Computer-Programming-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3952_Reaction-Engineering-and-Thermodynamics-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3962_Mass-Transfer-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem5/CHP3812_Seminar-and-Report-Writing",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3132_Chemical-Process-Industries",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3162_Energy-Engineering-and-Management",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3182_Transport-Phenomena",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3192_Plant-Design-and-Economics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3922_CAD-Simulation-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3972_Chemical-Engineering-Design-and-Drawing",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem6/CHP3932_Plant-Design-Project-A",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem7/CHC4112_Industrial-Pollution-Control-and-Waste",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem7/CHC4122_Process-Dynamics-and-Control",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem7/CHC4232_Process-Safety-and-Risk-Analysis",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem7/CHC4922_Process-Dynamics-and-Control-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem7/CHC4932_Technology-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem7/CHP4982_Plant-Design-Project-B",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem7/CHP4992_Project-Experimental-Computational",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem8/CHC4952_Industrial-Lectures",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem8/CHP4802_Industrial-Training-Internship",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Engineering/Sem8/CHP4812_Social-Internship",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem3/MEA2942_Machine-Drawing-and-Computer-Graphics",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem3/PKC2112_Basic-Principles-of-Chemical-Engineering",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem3/PKC2132_Chemistry-of-Hydrocarbons",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem3/PKC2152_Fluid-Mechanics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem3/PKC2192_Fluid-Particle-Operations",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem3/PKC2912_Computer-Applications-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem4/AMS2422_Applied-Numerical-Methods",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem4/CHA2922_Unit-Operations-Lab-I",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem4/PKC2222_Chemical-Engineering-Thermodynamics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem4/PKC2282_Introduction-to-Petroleum-Engineering",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem4/PKC2902_Petroleum-Testing-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem4/PKH2202_Health-Safety-and-Environment-Management",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem5/PKC3112_Petroleum-Refining-Processes",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem5/PKC3132_Heat-Transfer-Operations",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem5/PKC3152_Process-Engineering-and-Equipment-Design",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem5/PKC3172_Heterogeneous-Reaction-Engineering",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem5/PKC3932_Reaction-Engineering-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem5/PKC3952_Process-Equipment-Design",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem5/PKP3812_Seminar",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem6/CHA3932_Unit-Operations-Lab-II",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem6/PKC3222_Petrochemical-Technology-I",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem6/PKC3242_Polymer-Science-and-Technology",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem6/PKC3262_Natural-Gas-Processing",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem6/PKC3902_Process-Simulation-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem6/PKP3922_Project-Phase-I",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem7/PKC4112_Process-Dynamics-and-Control",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem7/PKC4132_Plant-Design-and-Economics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem7/PKC4152_Petrochemical-Technology-II",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem7/PKC4912_Instrumentation-and-Process-Control-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem7/PKC4952_Polymer-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem7/PKP4932_Project-Phase-II",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Chemical-Technology/Sem8/PKP4802_Industrial-Training-Internship",
+"sections": [
+"Syllabus",
+"Complete-Notes"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3422_Digital-Communications",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3512_Microwaves-and-Antennas",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Computer-Engineering/Electives/COE4300_Artificial-Intelligence-and-Neural-Network",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Computer-Engineering/Electives/COE4360_Information-Technology",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Computer-Engineering/Electives/COE4390_Advance-Microprocessor-System-and-Design",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Computer-Engineering/Electives/COE4410_Pattern-Recognition-and-Computer-Vision",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Computer-Engineering/Electives/COE4490_Internet-Protocol",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Computer-Engineering/Electives/COE4530_Artificial-Intelligence-and-Soft-Computing",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Computer-Engineering/Electives/COE4540_Software-Testing",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Computer-Engineering/Electives/COE4550_Real-Time-Systems",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Computer-Engineering/Electives/COE4560_Big-Data-Analytics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Computer-Engineering/Electives/COO4330_Smart-Grids",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4112_Modern-Electric-Drives",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4122_Electric-Vehicles-and-Traction",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4132_Generalized-Theory-of-Electrical",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4212_Power-Semiconductor-Controllers",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4222_Modelling-and-Control-of-Electronics-Converters",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4312_Power-Station-Practice",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4322_Power-Quality",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4332_Digital-Simulation-of-Power-System",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4342_Power-System-Reliability",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4352_HVDC-and-FACTS-Technology",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4362_Smart-Grid",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4422_Embedded-Systems",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4432_Nonlinear-Control-Systems",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4442_Mechatronics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4512_Measurement-and-Data-Acquisition",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4522_Process-Instrumentation-and-Control",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4712_Numerical-Computational-Methods-in-Electrical-Engineering",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4732_Artificial-Neural-Networks",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4742_Digital-Signal-Processing",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4130_Generalized-Theory-of-Electrical-Machines",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Electrical-Engineering/Electives/EEE4430_Nonlinear-Control-System",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics",
+"sections": [
+"Syllabus",
+"Complete-Notes",
+"Unit-1",
+"Unit-2",
+"Unit-3",
+"Unit-4",
+"Unit-5",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab",
+"sections": [
+"Syllabus",
+"Manuals",
+"Records",
+"PYQs-and-Assignments"
+]
+},
+{
+"path": "BTech-and-BE/Food-Technology/Sem3",
+"sections": [
+""
+]
+},
+{
+"path": "BTech-and-BE/Food-Technology/Sem4",
+"sections": [
+""
+]
+},
+{
+"path": "BTech-and-BE/Food-Technology/Sem5",
+"sections": [
+""
+]
+},
+{
+"path": "BTech-and-BE/Food-Technology/Sem6",
+"sections": [
+""
+]
+},
+{
+"path": "BTech-and-BE/Food-Technology/Sem7",
+"sections": [
+""
+]
+},
+{
+"path": "BTech-and-BE/Food-Technology/Sem8",
+"sections": [
+""
+]
+}
+],
+"cuts": [
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+11
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Syllabus/COC2032_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+13
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Syllabus/COC2062_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+16
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Syllabus/COC2072_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+47
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem3/COC2122-AIC2122_Database-Management-System/Syllabus/COC2122_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+32
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem3/COC2932_C-and-Cpp-Programming-Lab/Syllabus/COC2932_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+20
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Syllabus/ELA2112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+19
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/Syllabus/COC2082_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+25
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/Syllabus/COC2142_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+30
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem4/COC2922_Digital-Design-and-Simulation-Lab/Syllabus/COC2922_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+33,
+34
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem4/COC2942-AIC2912_Data-Structure-Lab/Syllabus/COC2942_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+21
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Syllabus/ELA2412_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+40
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem5/COC3092-AIC3092_Microprocessor-Theory-and-Applications/Syllabus/COC3092_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+43
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Syllabus/COC3102_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+24
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Syllabus/COC3162_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+57
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem5/COC3932_Algorithms-and-OS-Lab/Syllabus/COC3932_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+67
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem5/COP3802_Colloquium/Syllabus/COP3802_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+23
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Syllabus/ELA3402_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+30
+],
+"dst": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Syllabus/MEH3452_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+30
+],
+"dst": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Syllabus/EMEH3452_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+37
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem6/COC3082_Digital-Electronics/Syllabus/COC3082_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+46
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem6/COC3112_Theory-of-Computation/Syllabus/COC3112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+52
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem6/COC3132-AIC3132_Computer-Networks/Syllabus/COC3132_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+55
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem6/COC3152_Computer-Graphics/Syllabus/COC3152_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+65
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem6/COC3962_Advanced-Computing-Lab/Syllabus/COC3962_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+59
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem6/COC3972-AIC3982_Microprocessor-and-Embedded-Systems-Lab/Syllabus/COC3972_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+62
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem6/COP3952-AIP3952_Minor-Project/Syllabus/COP3952_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+68,
+69
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem7/COC4010-AIE4010_Information-Security/Syllabus/COC4010_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+70
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem7/COC4060_Compiler-Design/Syllabus/COC4060_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+72
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem7/COC4980-AIP4982_BTech-Project-Part-I/Syllabus/COC4980_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+71
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem7/COC4950_Network-and-Embedded-System-Lab/Syllabus/COC4950_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+73
+],
+"dst": "BTech-and-BE/Computer-Engineering/Sem8/COC4990-AIP4992_BTech-Project-Part-II/Syllabus/COC4990_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+2
+],
+"dst": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Syllabus/MEA1122_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+2
+],
+"dst": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Syllabus/EMEA1122_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+4
+],
+"dst": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Syllabus/MEA1922_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+4
+],
+"dst": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Syllabus/EMEA1922_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech-I_Applied-Chemistry_Syllabus.pdf",
+"pages": [
+1,
+2
+],
+"dst": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Syllabus/ACS1112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE-I_Applied-Chemistry_Syllabus.pdf",
+"pages": [
+1,
+2
+],
+"dst": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Syllabus/EACS1112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+22
+],
+"dst": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Syllabus/EEA1112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+3
+],
+"dst": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Syllabus/MEA1112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+3
+],
+"dst": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Syllabus/EMEA1112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech-I_Applied-Chemistry-Lab_Syllabus.pdf",
+"pages": [
+1
+],
+"dst": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Syllabus/ACS1912_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE-I_Applied-Chemistry-Lab_Syllabus.pdf",
+"pages": [
+1
+],
+"dst": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Syllabus/EACS1912_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+5
+],
+"dst": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Syllabus/MEA1912_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+5
+],
+"dst": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Syllabus/EMEA1912_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+2
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits/Syllabus/ELC2112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+3
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/Syllabus/ELC2122_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+6
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/Syllabus/ELC2312_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+7
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Syllabus/ELC2412_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+89
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem4/COA2602_Data-Structures-and-Programming/Syllabus/COA2602_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+9
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Syllabus/ELA2432_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+8
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/Syllabus/ELC2512_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+4
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/Syllabus/ELC2132_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+5
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/Syllabus/ELC2152_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+11
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3212_Control-Systems/Syllabus/ELC3212_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+12
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3332_Embedded-System/Syllabus/ELC3332_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+15
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3442_Principle-of-Communication-Systems/Syllabus/ELC3442_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+18
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3622_Digital-System-Design/Syllabus/ELC3622_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+10
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3122_Analog-Signal-Processing/Syllabus/ELC3122_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+14
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3432_Digital-Signal-Processing/Syllabus/ELC3432_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+29,
+30,
+31,
+32,
+33,
+34
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Syllabus/EEC2112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+36,
+37
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Syllabus/EEC2712_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+40,
+41
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2722_Electromagnetic-Field-Theory/Syllabus/EEC2722_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+42
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Syllabus/EEC2732_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+88
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Syllabus/EEC2912_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+35
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2312_Power-System-Engineering/Syllabus/EEC2312_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+38,
+39
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Syllabus/EEC2512_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+89
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2922_Electrical-Machines-Lab-II/Syllabus/EEC2922_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+90
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Syllabus/EEC2932_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+19
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/Syllabus/ELA2012_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+45
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/Syllabus/EEC3212_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+47
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3312_Power-System-Analysis/Syllabus/EEC3312_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+51
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Syllabus/EEC3512_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+52,
+53
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/Syllabus/EEC3612_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+93
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Syllabus/EEC3912_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+95
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3932_Instrumentation-Lab/Syllabus/EEC3932_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+22
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3022_Fundamentals-of-Communication-Engineering/Syllabus/ELA3022_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+43,
+44
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3112_Electrical-Drives/Syllabus/EEC3112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+48
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3322_Electrical-Power-Generation-and-Utilization/Syllabus/EEC3322_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+56
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Syllabus/EEC3332_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+49,
+50
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/Syllabus/EEC3412_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+54,
+55
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Syllabus/EEC3712_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+94
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Syllabus/EEC3922_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+6
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Syllabus/MEA2422_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+6
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Syllabus/AEA2422_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+6
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Syllabus/EMEA2422_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+7
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Syllabus/MEC2112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+7
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Syllabus/AEC2112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+7
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Syllabus/EMEC2112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+8
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Syllabus/MEC2122_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+8
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Syllabus/EMEC2122_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+10
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Syllabus/MEC2432_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+10
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Syllabus/EMEC2432_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+11
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912_Machine-Drawing-Lab/Syllabus/MEC2912_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+11
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912_Machine-Drawing-Lab/Syllabus/EMEC2912_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+12
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Syllabus/MEC2922_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+14
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Syllabus/AEC2952_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+12
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Syllabus/EMEC2922_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+13,
+14
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Syllabus/MEC2932_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+12,
+13
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Syllabus/AEC2932_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+13,
+14
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Syllabus/EMEC2932_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+15
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Syllabus/MEC2132_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+15
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Syllabus/EMEC2132_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+16
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Syllabus/MEC2212_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+16
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Syllabus/EMEC2212_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+17
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Syllabus/MEC2412_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+17
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Syllabus/EMEC2412_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+92
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Syllabus/EEA2972_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+18
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Syllabus/MEC2942_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+18
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Syllabus/EMEC2942_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+19
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Syllabus/MEC3112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+19
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Syllabus/EMEC3112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+20
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/Syllabus/MEC3212_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+20
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/Syllabus/EMEC3212_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+21
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/Syllabus/MEC3312_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+21
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/Syllabus/EMEC3312_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+22
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Syllabus/MEC3412_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+22
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Syllabus/EMEC3412_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+23
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Syllabus/MEC3442_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+23
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Syllabus/EMEC3442_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+24
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3912_Heat-and-Mass-Transfer-Lab/Syllabus/MEC3912_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+24
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3912_Heat-and-Mass-Transfer-Lab/Syllabus/EMEC3912_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+25
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice/Syllabus/MEC3922_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+25
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice/Syllabus/EMEC3922_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+26
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/Syllabus/MEC3122_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+25
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/Syllabus/AEC3122_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+26
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/Syllabus/EMEC3122_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+27
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/Syllabus/MEC3222_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+26
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/Syllabus/AEC3222_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+27
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/Syllabus/EMEC3222_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+28
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3232_Energy-Conversion-Systems/Syllabus/MEC3232_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+28
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3232_Energy-Conversion-Systems/Syllabus/EMEC3232_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+29
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3322_Fluid-Machinery/Syllabus/MEC3322_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+29
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3322_Fluid-Machinery/Syllabus/EMEC3322_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+31
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932_Manufacturing-Technology-Lab-III/Syllabus/MEC3932_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+31
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932_Manufacturing-Technology-Lab-III/Syllabus/EMEC3932_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+32
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3942_Solid-Modelling-and-Analysis/Syllabus/MEC3942_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+32
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3942_Solid-Modelling-and-Analysis/Syllabus/EMEC3942_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+33
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Syllabus/MEC3952_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+32
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Syllabus/AEC3952_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+33
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Syllabus/EMEC3952_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+34
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3962_Fluid-Mechanics-and-Machinery-Lab/Syllabus/MEC3962_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+34
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3962_Fluid-Mechanics-and-Machinery-Lab/Syllabus/EMEC3962_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+35
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4112_Mechanical-Vibrations/Syllabus/MEC4112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+35
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4112_Mechanical-Vibrations/Syllabus/EMEC4112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+36
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4932_Manufacturing-Technology-Lab-III/Syllabus/MEC4932_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+36
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4932_Manufacturing-Technology-Lab-III/Syllabus/EMEC4932_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+37
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4942_Vibrations-Lab/Syllabus/MEC4942_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+37
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4942_Vibrations-Lab/Syllabus/EMEC4942_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"pages": [
+38,
+39,
+40
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4952-AEC4952_Energy-Conversion-Systems-Lab/Syllabus/MEC4952_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+35
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4952-AEC4952_Energy-Conversion-Systems-Lab/Syllabus/AEC4952_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"pages": [
+38
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4952-AEC4952_Energy-Conversion-Systems-Lab/Syllabus/EMEC4952_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+8
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2322_Fluid-Mechanics/Syllabus/AEC2322_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+9
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2432_Automotive-Materials/Syllabus/AEC2432_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+10
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2752_Lean-Methods-for-Automobile-Engineers/Syllabus/AEC2752_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+11
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2912_Machine-Drawing-Lab/Syllabus/AEC2912_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+15
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2222_Applied-Thermodynamics-and-Heat-Transfer/Syllabus/AEC2222_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+16
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2412_Manufacturing-Technology/Syllabus/AEC2412_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+17
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2452_Vehicle-Body-Design/Syllabus/AEC2452_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+18
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2762_Additive-Manufacturing/Syllabus/AEC2762_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+19
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2962_Thermal-System-Lab-I/Syllabus/AEC2962_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+20
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3112_Design-of-Vehicle-Components/Syllabus/AEC3112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+21
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3132_Automotive-Drives-and-Transmission/Syllabus/AEC3132_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+22
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3242_Fuels-Lubricants-and-Coolants/Syllabus/AEC3242_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+23
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3292_Electric-and-Hybrid-Vehicles/Syllabus/AEC3292_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+24
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3962_Modeling-and-Simulation-of-Thermofluid-System/Syllabus/AEC3962_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+27
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/AEC3252_Automotive-Emission-and-Control/Syllabus/AEC3252_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+28
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/AEC3342_Automotive-Hydraulic-and-Pneumatic-Systems/Syllabus/AEC3342_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+30
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/AEC3932_Manufacturing-Technology-Lab-II/Syllabus/AEC3932_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+31
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/AEC3942_Solid-Modeling-and-Analysis-Lab/Syllabus/AEC3942_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+33
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem6/AEC3972_Fuel-Testing-Lab/Syllabus/AEC3972_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"pages": [
+36,
+37,
+38
+],
+"dst": "BTech-and-BE/Mechanical-Engineering/Sem7/AEC4962_Thermal-System-Lab-II/Syllabus/AEC4962_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+3,
+4,
+5,
+6,
+7,
+8
+],
+"dst": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Syllabus/CEA2142_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+9
+],
+"dst": "BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp/Syllabus/CEA2932_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+10,
+11,
+12,
+13,
+14,
+15
+],
+"dst": "BTech-and-BE/Civil-Engineering/Sem3/CEC2912_Civil-Engineering-Material-Lab/Syllabus/CEC2912_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+16
+],
+"dst": "BTech-and-BE/Civil-Engineering/Sem4/CEC2192_Hydrology/Syllabus/CEC2192_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+18
+],
+"dst": "BTech-and-BE/Civil-Engineering/Sem4/CEC2942_Structural-Mechanics-Lab/Syllabus/CEC2942_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+19
+],
+"dst": "BTech-and-BE/Civil-Engineering/Sem4/CEC2952_Surveying-Lab/Syllabus/CEC2952_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+20
+],
+"dst": "BTech-and-BE/Civil-Engineering/Sem4/CEC2962_Fluid-Mechanics-Lab/Syllabus/CEC2962_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+21,
+22,
+44
+],
+"dst": "BTech-and-BE/Civil-Engineering/Sem5/CEC3112_Design-of-Concrete-Structures-I/Syllabus/CEC3112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+23,
+24
+],
+"dst": "BTech-and-BE/Civil-Engineering/Sem5/CEC3152_Structural-Analysis-I/Syllabus/CEC3152_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+25
+],
+"dst": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/Syllabus/CEC3242_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+26,
+27
+],
+"dst": "BTech-and-BE/Civil-Engineering/Sem5/CEC3922_Environmental-Engineering-Lab/Syllabus/CEC3922_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+28
+],
+"dst": "BTech-and-BE/Civil-Engineering/Sem5/CEC3942_Structure-Lab/Syllabus/CEC3942_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+29,
+30,
+31,
+32
+],
+"dst": "BTech-and-BE/Civil-Engineering/Sem6/CEC3162_Design-of-Concrete-Structure-II/Syllabus/CEC3162_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+33,
+34,
+35
+],
+"dst": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Syllabus/CEC3182_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+38
+],
+"dst": "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering/Syllabus/CEC4132_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+39,
+40
+],
+"dst": "BTech-and-BE/Civil-Engineering/Sem7/CEC4222_Elements-of-Earthquake-and-Wind-Engineering/Syllabus/CEC4222_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+41,
+42
+],
+"dst": "BTech-and-BE/Civil-Engineering/Sem7/CEH4112_Construction-Planning-and-Management/Syllabus/CEH4112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+2,
+3
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012_Basic-Principles-of-Chemical-Engineering/Syllabus/CHC2012_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+4,
+5
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032_Fluid-Mechanics/Syllabus/CHC2032_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+6,
+7
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Syllabus/CHC2042_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+8,
+9
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2052_Chemical-Engineering-Thermodynamics/Syllabus/CHC2052_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+10,
+11
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/Syllabus/CHC2062_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+12,
+13
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering/Syllabus/CHC2072_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+14
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Syllabus/CHC2902_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech-II_Engineering-Chemistry_Syllabus.pdf",
+"pages": [
+1,
+2
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem4/ACS2022_Engineering-Chemistry/Syllabus/ACS2022_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+16
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2002_Process-Instrumentation/Syllabus/CHC2002_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+19,
+20
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2022_Chemical-Reaction-Engineering/Syllabus/CHC2022_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+17,
+18
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2092_Equilibrium-Stage-Processes/Syllabus/CHC2092_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+21
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2922_Fluid-Mechanics-Lab/Syllabus/CHC2922_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+22
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2932_Mechanical-Operations-Lab/Syllabus/CHC2932_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+25,
+26
+],
+"dst": "BTech-and-BE/Shared-Courses/ACA3112_Engineering-Materials/Syllabus/ACA3112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+25,
+26
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem5/CHA3012_Biology-for-Engineers/Syllabus/CHA3012_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+24
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3122_Process-Equipment-Design/Syllabus/CHC3122_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+29
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3912_Computer-Programming-Lab/Syllabus/CHC3912_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+28
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3952_Reaction-Engineering-and-Thermodynamics-Lab/Syllabus/CHC3952_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+30,
+31
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3962_Mass-Transfer-Lab/Syllabus/CHC3962_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+27
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem5/CHP3812_Seminar-and-Report-Writing/Syllabus/CHP3812_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+32
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3132_Chemical-Process-Industries/Syllabus/CHC3132_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+33,
+34
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3162_Energy-Engineering-and-Management/Syllabus/CHC3162_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+35,
+36
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3182_Transport-Phenomena/Syllabus/CHC3182_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+37,
+38
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3192_Plant-Design-and-Economics/Syllabus/CHC3192_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+39
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3922_CAD-Simulation-Lab/Syllabus/CHC3922_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+40,
+41
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3972_Chemical-Engineering-Design-and-Drawing/Syllabus/CHC3972_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+42
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem6/CHP3932_Plant-Design-Project-A/Syllabus/CHP3932_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+43
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem7/CHC4112_Industrial-Pollution-Control-and-Waste/Syllabus/CHC4112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+44,
+45
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem7/CHC4122_Process-Dynamics-and-Control/Syllabus/CHC4122_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+46
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem7/CHC4232_Process-Safety-and-Risk-Analysis/Syllabus/CHC4232_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+47
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem7/CHC4922_Process-Dynamics-and-Control-Lab/Syllabus/CHC4922_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+48
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem7/CHC4932_Technology-Lab/Syllabus/CHC4932_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+49
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem7/CHP4982_Plant-Design-Project-B/Syllabus/CHP4982_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+50
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem7/CHP4992_Project-Experimental-Computational/Syllabus/CHP4992_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+53
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem8/CHC4952_Industrial-Lectures/Syllabus/CHC4952_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+51,
+52
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem8/CHP4802_Industrial-Training-Internship/Syllabus/CHP4802_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"pages": [
+54
+],
+"dst": "BTech-and-BE/Chemical-Engineering/Sem8/CHP4812_Social-Internship/Syllabus/CHP4812_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+1
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/Syllabus/AMS2412_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+2
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem3/MEA2942_Machine-Drawing-and-Computer-Graphics/Syllabus/MEA2942_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+3
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem3/PKC2112_Basic-Principles-of-Chemical-Engineering/Syllabus/PKC2112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+4,
+5
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem3/PKC2132_Chemistry-of-Hydrocarbons/Syllabus/PKC2132_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+6,
+7
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem3/PKC2152_Fluid-Mechanics/Syllabus/PKC2152_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+8
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/Syllabus/PKC2172_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+9,
+10
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem3/PKC2192_Fluid-Particle-Operations/Syllabus/PKC2192_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+11,
+12
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem3/PKC2912_Computer-Applications-Lab/Syllabus/PKC2912_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+13
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem4/AMS2422_Applied-Numerical-Methods/Syllabus/AMS2422_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+14,
+15
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem4/CHA2922_Unit-Operations-Lab-I/Syllabus/CHA2922_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+16,
+17
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/Syllabus/PKC2222_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+18,
+19
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/Syllabus/PKC2242_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+20
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/Syllabus/PKC2262_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+21
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem4/PKC2282_Introduction-to-Petroleum-Engineering/Syllabus/PKC2282_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+22
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem4/PKC2902_Petroleum-Testing-Lab/Syllabus/PKC2902_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+23,
+24
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem4/PKH2202_Health-Safety-and-Environment-Management/Syllabus/PKH2202_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+28
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem5/PKC3112_Petroleum-Refining-Processes/Syllabus/PKC3112_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+29,
+30
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem5/PKC3132_Heat-Transfer-Operations/Syllabus/PKC3132_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+31
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem5/PKC3152_Process-Engineering-and-Equipment-Design/Syllabus/PKC3152_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+32,
+33
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/Syllabus/PKC3172_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+34
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem5/PKC3932_Reaction-Engineering-Lab/Syllabus/PKC3932_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+35
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem5/PKC3952_Process-Equipment-Design/Syllabus/PKC3952_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+36
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem5/PKP3812_Seminar/Syllabus/PKP3812_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+37,
+38
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/Syllabus/PKC3202_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+39
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem6/PKC3222_Petrochemical-Technology-I/Syllabus/PKC3222_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+40,
+41
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem6/PKC3242_Polymer-Science-and-Technology/Syllabus/PKC3242_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+42,
+43
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem6/PKC3262_Natural-Gas-Processing/Syllabus/PKC3262_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+44,
+45
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem6/PKC3902_Process-Simulation-Lab/Syllabus/PKC3902_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"pages": [
+46,
+47
+],
+"dst": "BTech-and-BE/Chemical-Technology/Sem6/PKP3922_Project-Phase-I/Syllabus/PKP3922_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+13
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3422_Digital-Communications/Syllabus/ELC3422_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+16
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3512_Microwaves-and-Antennas/Syllabus/ELC3512_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"pages": [
+17
+],
+"dst": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/Syllabus/ELC3612_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+98
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/COE4310_Internet-Tools/Syllabus/COE4310_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+80
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/COE4420_VLSI-Design-Tools-and-Techniques/Syllabus/COE4420_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+76,
+77
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/COE4510_Computer-Network-Design/Syllabus/COE4510_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+78,
+79
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/COE4520_Mobile-Computing/Syllabus/COE4520_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+83
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/COE4580_Cloud-Computing/Syllabus/COE4580_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+74,
+75
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/COE4590_Distributed-and-Parallel-Systems/Syllabus/COE4590_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+84
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/COE4600-AIE4600_Principles-of-Cyber-Physical-Systems/Syllabus/COE4600_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+81,
+82
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/COE4610-AIC2042_Principles-of-Machine-Learning/Syllabus/COE4610_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+93,
+94
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/COE4620-AIC3172_Natural-Language-Processing/Syllabus/COE4620_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+96,
+97
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/COE4630_Data-Mining/Syllabus/COE4630_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+95
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/COE4640_Applied-Machine-Learning/Syllabus/COE4640_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+91
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/COO4460_Selected-Topics-in-Computer-Engineering-I/Syllabus/COO4460_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+85,
+86,
+87
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/COO4470_Selected-Topics-in-Computer-Engineering-II/Syllabus/COO4470_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"pages": [
+90
+],
+"dst": "BTech-and-BE/Computer-Engineering/Electives/COA3600_Data-Structures-and-Programming-Electronics-Dept/Syllabus/COA3600_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+63
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Electives/EEE4130_Generalized-Theory-of-Electrical-Machines/Syllabus/EEE4130_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"pages": [
+76
+],
+"dst": "BTech-and-BE/Electrical-Engineering/Electives/EEE4430_Nonlinear-Control-System/Syllabus/EEE4430_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+43
+],
+"dst": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/Syllabus/CEA1110_Syllabus_Official.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"pages": [
+17
+],
+"dst": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/Syllabus/CEA1120_Syllabus_Official.pdf"
+}
+],
+"official": [
+{
+"src": "SEJ_BTech_Computer-Engineering_Curriculum.pdf",
+"dst": "BTech-and-BE/Computer-Engineering/_Curriculum/Official/BTech_Computer-Engineering_Curriculum.pdf"
+},
+{
+"src": "SEJ_BTech_Computer-Engineering_Syllabus.pdf",
+"dst": "BTech-and-BE/Computer-Engineering/_Curriculum/Official/BTech_Computer-Engineering_Syllabus.pdf"
+},
+{
+"src": "SEJ_BTech_Artificial-Intelligence_Curriculum.pdf",
+"dst": "BTech-and-BE/Computer-Engineering/_Curriculum/Official/BTech_Artificial-Intelligence_Curriculum.pdf"
+},
+{
+"src": "SEJ_BTech_Electronics-and-Communication_Syllabus.pdf",
+"dst": "BTech-and-BE/Electronics-Engineering/_Curriculum/Official/BTech_Electronics-and-Communication_Syllabus.pdf"
+},
+{
+"src": "SEJ_BTech_VLSI-Design-and-Technology_Curriculum.pdf",
+"dst": "BTech-and-BE/Electronics-Engineering/_Curriculum/Official/BTech_VLSI-Design-and-Technology_Curriculum.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Curriculum.pdf",
+"dst": "BTech-and-BE/Electrical-Engineering/_Curriculum/Official/BTech_Electrical-Engineering_Curriculum.pdf"
+},
+{
+"src": "SEJ_BTech_Electrical-Engineering_Syllabus.pdf",
+"dst": "BTech-and-BE/Electrical-Engineering/_Curriculum/Official/BTech_Electrical-Engineering_Syllabus.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Curriculum.pdf",
+"dst": "BTech-and-BE/Mechanical-Engineering/_Curriculum/Official/BTech_Mechanical-Engineering_Curriculum.pdf"
+},
+{
+"src": "SEJ_BTech_Mechanical-Engineering_Syllabus.pdf",
+"dst": "BTech-and-BE/Mechanical-Engineering/_Curriculum/Official/BTech_Mechanical-Engineering_Syllabus.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Curriculum.pdf",
+"dst": "BTech-and-BE/Mechanical-Engineering/_Curriculum/Official/BTech_Automobile-Engineering-EHV_Curriculum.pdf"
+},
+{
+"src": "SEJ_BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+"dst": "BTech-and-BE/Mechanical-Engineering/_Curriculum/Official/BTech_Automobile-Engineering-EHV_Syllabus.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Curriculum.pdf",
+"dst": "BTech-and-BE/Mechanical-Engineering/_Curriculum/Official/BE_Mechanical-Evening_Curriculum.pdf"
+},
+{
+"src": "SEJ_BE_Mechanical-Evening_Syllabus.pdf",
+"dst": "BTech-and-BE/Mechanical-Engineering/_Curriculum/Official/BE_Mechanical-Evening_Syllabus.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Curriculum.pdf",
+"dst": "BTech-and-BE/Civil-Engineering/_Curriculum/Official/BTech_Civil-Engineering_Curriculum.pdf"
+},
+{
+"src": "SEJ_BTech_Civil-Engineering_Syllabus.pdf",
+"dst": "BTech-and-BE/Civil-Engineering/_Curriculum/Official/BTech_Civil-Engineering_Syllabus.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Curriculum.pdf",
+"dst": "BTech-and-BE/Chemical-Engineering/_Curriculum/Official/BTech_Chemical-Engineering_Curriculum.pdf"
+},
+{
+"src": "SEJ_BTech_Chemical-Engineering_Syllabus.pdf",
+"dst": "BTech-and-BE/Chemical-Engineering/_Curriculum/Official/BTech_Chemical-Engineering_Syllabus.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Curriculum.pdf",
+"dst": "BTech-and-BE/Chemical-Technology/_Curriculum/Official/BTech_Petrochemical-Chemical-Technology_Curriculum.pdf"
+},
+{
+"src": "SEJ_BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+"dst": "BTech-and-BE/Chemical-Technology/_Curriculum/Official/BTech_Petrochemical-Chemical-Technology_Syllabus.pdf"
+},
+{
+"src": "SEJ_BTech-I_Applied-Physics_Syllabus.pdf",
+"dst": "BTech-and-BE/First-Year-Common/_Curriculum/Official/BTech-I_Applied-Physics_Syllabus.pdf"
+},
+{
+"src": "SEJ_BTech-I_Applied-Chemistry_Syllabus.pdf",
+"dst": "BTech-and-BE/First-Year-Common/_Curriculum/Official/BTech-I_Applied-Chemistry_Syllabus.pdf"
+},
+{
+"src": "SEJ_BTech-I_Applied-Chemistry_Curriculum.pdf",
+"dst": "BTech-and-BE/First-Year-Common/_Curriculum/Official/BTech-I_Applied-Chemistry_Curriculum.pdf"
+},
+{
+"src": "SEJ_BTech-I_Applied-Chemistry-Lab_Syllabus.pdf",
+"dst": "BTech-and-BE/First-Year-Common/_Curriculum/Official/BTech-I_Applied-Chemistry-Lab_Syllabus.pdf"
+},
+{
+"src": "SEJ_BE-I_Applied-Chemistry_Syllabus.pdf",
+"dst": "BTech-and-BE/First-Year-Common/_Curriculum/Official/BE-I_Applied-Chemistry_Syllabus.pdf"
+},
+{
+"src": "SEJ_BE-I_Applied-Chemistry-Lab_Syllabus.pdf",
+"dst": "BTech-and-BE/First-Year-Common/_Curriculum/Official/BE-I_Applied-Chemistry-Lab_Syllabus.pdf"
+},
+{
+"src": "SEJ_BTech-II_Engineering-Chemistry_Syllabus.pdf",
+"dst": "BTech-and-BE/Shared-Courses/_Curriculum/Official/BTech-II_Engineering-Chemistry_Syllabus.pdf"
+},
+{
+"src": "SEJ_BTech-III_Engineering-Materials_Syllabus.pdf",
+"dst": "BTech-and-BE/Shared-Courses/_Curriculum/Official/BTech-III_Engineering-Materials_Syllabus.pdf"
+},
+{
+"src": "SEJ_BTech-OE_Atmospheric-Chemistry_Syllabus.pdf",
+"dst": "BTech-and-BE/Shared-Courses/_Curriculum/Official/BTech-OE_Atmospheric-Chemistry_Syllabus.pdf"
+}
+]
+}

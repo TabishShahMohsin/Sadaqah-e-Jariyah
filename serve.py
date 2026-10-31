@@ -25,7 +25,7 @@ SITE = os.path.join(ROOT, "site")
 sys.path.insert(0, SITE)
 import build_index  # noqa: E402
 
-BLOCKED_TOP = {".git", "_Inbox", "site", "catalog", "tools", "worker", "setup", ".sej-cache"}
+BLOCKED_TOP = {".git", "_Inbox", "site", "catalog", "tools", "worker", "setup", ".sej-cache", "_dist", "_Sources"}
 TEXTY = (".c", ".cpp", ".h", ".hpp", ".java", ".py", ".md", ".txt", ".csv", ".tsv", ".ipynb", ".json", ".m", ".sql", ".sh")
 for ext, t in {".ipynb": "application/json", ".md": "text/markdown", ".mp4": "video/mp4", ".m4v": "video/mp4",
                ".webm": "video/webm", ".mov": "video/quicktime", ".tsv": "text/tab-separated-values",
