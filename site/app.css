@@ -38,9 +38,8 @@ code { font: 13px ui-monospace, SFMono-Regular, Menlo, monospace; background: va
 body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 31; background: rgba(255,255,255,.8); }
 .bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 30; display: flex; align-items: center; gap: 22px; height: var(--bar); padding-block: 0; padding-left: max(16px, env(safe-area-inset-left, 0px), calc((100vw - var(--w)) / 2 + 16px)); padding-right: max(16px, env(safe-area-inset-right, 0px), calc((100vw - var(--w)) / 2 + 16px)); background: rgba(255,255,255,.72); backdrop-filter: saturate(1.8) blur(20px); -webkit-backdrop-filter: saturate(1.8) blur(20px); border-bottom: 1px solid rgba(0,0,0,.06); }
 .brand { display: flex; align-items: center; gap: 12px; font: 300 12.5px/1 var(--display); letter-spacing: .34em; white-space: nowrap; }
-.mark { position: relative; width: 16px; height: 16px; border-radius: 50%; border: 1px solid var(--ink); flex: none; }
-.mark::after { content: ""; position: absolute; inset: 4px; border-radius: 50%; background: var(--ink); transition: transform .5s var(--ease); }
-.brand:hover .mark::after { transform: scale(1.5); }
+.mark { display: block; width: 27px; height: auto; flex: none; transition: transform .5s var(--ease); }
+.brand:hover .mark { transform: translateY(1px) rotate(-3deg); }
 #crumbs { flex: 1; min-width: 0; display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--mute); white-space: nowrap; overflow: hidden; mask-image: linear-gradient(90deg, #000 85%, transparent); }
 #crumbs a { transition: color .15s; overflow: hidden; text-overflow: ellipsis; }
 #crumbs a:hover, #crumbs a:last-child { color: var(--ink); }

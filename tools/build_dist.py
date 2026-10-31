@@ -183,7 +183,8 @@ def main():
     kept_meta = sum(v == "kept" for v in done.values())
     for f in ("index.html", "app.css", "app.js"):
         shutil.copyfile(os.path.join(REPO, "site", f), os.path.join(a.out, f))
-    shutil.copytree(os.path.join(REPO, "site", "fonts"), os.path.join(a.out, "fonts"), dirs_exist_ok=True)
+    for sub in ("fonts", "brand"):
+        shutil.copytree(os.path.join(REPO, "site", sub), os.path.join(a.out, sub), dirs_exist_ok=True)
     idx = {"name": "Sadaqah-e-Jariyah", "version": 1,
            "generated": sej.now_iso(), "fileBase": "files/", "root": build_index.walk(files_root, top=False)}
     idx["root"]["n"] = ""
