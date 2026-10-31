@@ -1,0 +1,58 @@
+# Claude sorts a new contribution and opens a pull request for review.
+# Triggered by the issue the intake Worker opens. Issue text is never put into a shell command.
+name: Sort contribution
+
+on:
+  issues:
+    types: [opened, labeled]
+  workflow_dispatch:
+    inputs:
+      issue:
+        description: Issue number to (re)sort
+        required: true
+      force:
+        description: Re-sort even if a PR already exists
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: sort-${{ github.event.issue.number || inputs.issue }}
+  cancel-in-progress: false
+
+jobs:
+  sort:
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.issue.labels.*.name, 'submission')
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: tools/requirements.txt
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+      - run: pip install -r tools/requirements.txt
+      - name: Sort
+        env:
+          ISSUE: ${{ github.event.issue.number || inputs.issue }}
+          FORCE: ${{ inputs.force && '--force' || '' }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SEJ_MODEL: ${{ vars.SEJ_MODEL }}
+          INTAKE_API: ${{ vars.INTAKE_API }}
+          ADMIN_TOKEN: ${{ secrets.ADMIN_TOKEN }}
+          R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          INBOX_BUCKET: sej-inbox
+          DRIVE_API_KEY: ${{ secrets.DRIVE_API_KEY }}
+          PREVIEW_LINKS: ${{ vars.PREVIEW_LINKS || 'true' }}
+        run: python tools/triage.py --issue "$ISSUE" $FORCE

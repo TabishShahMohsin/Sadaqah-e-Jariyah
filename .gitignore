@@ -9,3 +9,29 @@
 # Allow all Python files in all folders
 !*.py
 !*/**/*.py
+
+# Allow all json files in all folders
+!*.json
+!*/**/*.json
+# Website (local browser + future hosted site)
+!site/
+!site/**
+
+# Archive tooling (content files stay out of git; the catalog describes them)
+!CONVENTIONS.md
+!CLAUDE.md
+!DEPLOY.md
+!catalog/
+!catalog/**
+!tools/
+!tools/**
+!worker/
+!worker/**
+!.github/
+!.github/**
+worker/node_modules/
+.sej-cache/
+__pycache__/
+site/index.json
+!setup/
+!setup/**

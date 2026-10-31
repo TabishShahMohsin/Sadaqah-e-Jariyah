@@ -1,0 +1,31 @@
+# Sadaqah-e-Jariyah contribution intake — see DEPLOY.md
+name = "sej-intake"
+main = "src/index.js"
+compatibility_date = "2025-06-01"
+
+# Runs every 30 minutes: clears abandoned uploads, retries GitHub issues that failed to open.
+[triggers]
+crons = ["*/30 * * * *"]
+
+[vars]
+# Sites allowed to call this API (comma-separated). Add your custom domain when you have one.
+ALLOWED_ORIGINS = "https://sej.pages.dev,http://localhost:8000"
+GITHUB_REPO = "YOUR-ANONYMOUS-ACCOUNT/Sadaqah-e-Jariyah"   # see DEPLOY.md step 0
+LIMIT_PER_HOUR = "6"
+LIMIT_PER_DAY = "20"
+LIMIT_GLOBAL_PER_DAY = "300"
+LIMIT_GLOBAL_BYTES_PER_DAY = "40000000000"
+
+# Secrets (set with `npx wrangler secret put NAME`, never in this file):
+#   TURNSTILE_SECRET   from Cloudflare Turnstile
+#   GITHUB_TOKEN       fine-grained token: this repo only, Issues read/write
+#   ADMIN_TOKEN        long random string, also stored as a GitHub Actions secret
+
+[[r2_buckets]]
+binding = "INBOX"
+bucket_name = "sej-inbox"        # PRIVATE bucket — never enable public access on it
+
+[[d1_databases]]
+binding = "DB"
+database_name = "sej-intake"
+database_id = "REPLACE_WITH_ID_FROM_wrangler_d1_create"
