@@ -11,6 +11,7 @@ to the umbrella (BTech-and-BE/). <kind> says how files from that folder are name
     ""      same course and code (a misread folder name)  files keep their names
     "be"    the B.E. twin                                 _<code> is added before the extension
     "old"   an older code of the same course              _<code> is added; <code>_Syllabus_* → <code>_Old-Syllabus_*
+    "alt"   the same course under another current code    _<code> is added (e.g. MEC2912 + AEC2912 for ME and Auto)
 
 Never deletes anything. A file identical to one already in the target (same SHA-256) is moved to
 .sej-cache/merge-duplicates/ instead, and emptied folders go to .sej-cache/merged-folders/. Every move is recorded in
@@ -36,7 +37,7 @@ SPARE = re.compile(r"_[2-9]$")
 
 
 def merged_name(fn, kind, code):
-    if kind not in ("be", "old") or not code:
+    if kind not in ("be", "old", "alt") or not code:
         return fn
     stem, ext = os.path.splitext(fn)
     if code in stem:
@@ -85,13 +86,29 @@ def main():
         return cache.get(rel(fp), fp)[2]
 
     ops, log, renamed = [], [], {}
-    moved = dups = parked = 0
+    moved = dups = parked = merges = 0
     for m in plan:
         tgt = os.path.join(REPO, U, m["to"])
         srcs = [(os.path.join(REPO, U, s), k, c) for s, k, c in m["from"]]
         live = [s for s in srcs if os.path.isdir(s[0]) and os.path.normpath(s[0]) != os.path.normpath(tgt)]
+        # a case-only rename (Rf → RF): on a case-insensitive disk the target *is* the source, so rename the folder itself
+        for s_ in list(live):
+            if os.path.isdir(tgt) and os.path.samefile(s_[0], tgt) and not s_[1]:
+                live.remove(s_)
+                merges += 1
+                log.append(f"{m['to']}  ←  {os.path.basename(s_[0])} (renamed)")
+                for fp in files_under(s_[0]):
+                    ops.append({"op": "move", "from": rel(fp), "to": rel(os.path.join(tgt, os.path.relpath(fp, s_[0])))})
+                renamed[f"{U}/{os.path.relpath(s_[0], os.path.join(REPO, U))}"] = (f"{U}/{m['to']}", "", "")
+                if a.apply:
+                    tmp = s_[0] + ".renaming"
+                    os.rename(s_[0], tmp)
+                    os.rename(tmp, tgt)
+                    for k in [k for k in cache.d if k.startswith(rel(s_[0]) + "/")]:
+                        cache.d[rel(tgt) + k[len(rel(s_[0])):]] = cache.d.pop(k)
         if not live:
             continue
+        merges += 1
         log.append(f"{m['to']}  ←  " + ", ".join(os.path.basename(s[0]) + (f" ({s[1]})" if s[1] else "") for s in live))
         for src, kind, code in live:
             renamed[f"{U}/{os.path.relpath(src, os.path.join(REPO, U))}"] = (f"{U}/{m['to']}", kind, code)
@@ -103,7 +120,7 @@ def main():
                 if os.path.isdir(os.path.dirname(dst)):
                     for e in os.listdir(os.path.dirname(dst)):
                         ep = os.path.join(os.path.dirname(dst), e)
-                        if os.path.isfile(ep) and os.path.splitext(e)[1] == os.path.splitext(dst)[1]:
+                        if os.path.isfile(ep) and not os.path.samefile(ep, fp) and os.path.splitext(e)[1] == os.path.splitext(dst)[1]:
                             existing[ep] = h(ep)
                 if fh in existing.values():
                     dup_of = next(p for p, v in existing.items() if v == fh)
@@ -153,6 +170,8 @@ def main():
                 for k in ("cr", "ltp", "kind"):
                     base[k] = base.get(k) or e.get(k)
                 base["progs"] = {**(e.get("progs") or {}), **(base.get("progs") or {})}
+                for k in ("be", "old"):
+                    base[k] = list(dict.fromkeys((base.get(k) or []) + (e.get(k) or [])))
             base.setdefault("be", [])
             base.setdefault("old", [])
             if kind == "be" and code and code not in base["be"]:
@@ -183,7 +202,7 @@ def main():
         if ops:
             change = sej.write_change(ops, {"kind": "local", "by": "maintainer", "note": "merge duplicate course folders"}, "merge")
     print("\n".join(log))
-    print(f"\n{'APPLIED' if a.apply else 'DRY RUN'}: {len(log) and sum(1 for l in log if not l.startswith('    '))} merges, "
+    print(f"\n{'APPLIED' if a.apply else 'DRY RUN'}: {merges} merges, "
           f"{moved} files moved, {dups} identical copies set aside, {parked} emptied folders parked, "
           f"{progs_changed} programmes.json updates" + (f", catalog change {rel(change)}" if change else ""))
 
