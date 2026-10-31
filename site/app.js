@@ -381,6 +381,7 @@ function closePreview() {
   S.preview = null;
   S.pushed = false;
   previewToken++;
+  stopPdf();
   $('#drawer').classList.remove('on');
   $('#drawer').inert = true;
   $('#drawer').setAttribute('aria-hidden', 'true');
@@ -400,13 +401,17 @@ function noPreview(f, url, msg) {
 async function fillBody(f, url) {
   const body = $('#drBody');
   const token = ++previewToken;
+  stopPdf();
   body.scrollTop = 0;
   if (S.base === null) {
     body.innerHTML = `<div class="nofile"><div><div class="big">.${esc(ext(f.n) || 'file')}</div><p>${esc(f.n)} · ${fmtSize(f.s)}<br><br>This file is stored on the laptop.<br>Files go online once the archive is moved to cloud storage.</p></div></div>`;
     return;
   }
   switch (f.k) {
-    case 'pdf': body.innerHTML = `<iframe src="${url}#view=FitH" title="${esc(f.n)}"></iframe>`; return;
+    case 'pdf':
+      if (NATIVE_PDF) body.innerHTML = `<iframe src="${url}#view=FitH" title="${esc(f.n)}"></iframe>`;
+      else renderPdf(f, url, body, token);
+      return;
     case 'img': body.innerHTML = `<div class="media"><img src="${url}" alt="${esc(f.n)}"></div>`; return;
     case 'video': body.innerHTML = `<div class="media"><video src="${url}" controls preload="metadata" playsinline></video></div>`; return;
     case 'audio': body.innerHTML = `<div class="media"><audio src="${url}" controls></audio></div>`; return;
@@ -430,6 +435,84 @@ async function fillBody(f, url) {
   else if (f.k === 'md') body.innerHTML = await renderMarkdown(text);
   else body.innerHTML = `<pre class="code${/^(txt|md|csv|tsv|log)$/.test(ext(f.n)) ? ' wrap' : ''}">${esc(text)}</pre>`;
 }
+/* ── PDF pages, drawn by pdf.js where the browser can't show a PDF inline (Android, iOS, tablets) ── */
+const NATIVE_PDF = navigator.pdfViewerEnabled === true && !matchMedia('(pointer: coarse)').matches;
+const PDFJS = new URL('vendor/pdfjs/', location.href).href;
+let pdfjs = null, stopPdfFn = null;
+function stopPdf() { if (stopPdfFn) { const f = stopPdfFn; stopPdfFn = null; f(); } }
+async function renderPdf(f, url, body, token) {
+  body.innerHTML = `<div class="loading"><span class="spinner"></span> <span>Opening PDF…</span></div>`;
+  const say = t => { const el = body.querySelector('.loading span:last-child'); if (el) el.textContent = t; };
+  let doc;
+  try {
+    if (!pdfjs) {
+      pdfjs = await import(PDFJS + 'pdf.min.mjs');
+      pdfjs.GlobalWorkerOptions.workerSrc = PDFJS + 'pdf.worker.min.mjs';
+    }
+    if (token !== previewToken) return;
+    const task = pdfjs.getDocument({ url: new URL(url, location.href).href, cMapUrl: PDFJS + 'cmaps/', cMapPacked: true,
+      standardFontDataUrl: PDFJS + 'standard_fonts/', disableAutoFetch: true, isEvalSupported: false });
+    task.onProgress = ({ loaded, total }) => { if (total && loaded < total) say(`Opening PDF… ${Math.round(loaded / total * 100)}%`); };
+    stopPdfFn = () => task.destroy();
+    doc = await task.promise;
+  } catch (e) {
+    if (token === previewToken) body.innerHTML = noPreview(f, url, 'This PDF couldn’t be shown here.');
+    return;
+  }
+  if (token !== previewToken) return;
+
+  const v1 = (await doc.getPage(1)).getViewport({ scale: 1 });
+  if (token !== previewToken) return;
+  const wrap = document.createElement('div');
+  wrap.className = 'pdfv';
+  const pages = [];
+  for (let n = 1; n <= doc.numPages; n++) {
+    const el = document.createElement('div');
+    el.className = 'pdfp';
+    el.dataset.n = n;
+    el.style.aspectRatio = `${v1.width} / ${v1.height}`;
+    wrap.appendChild(el); pages.push(el);
+  }
+  const counter = document.createElement('div');
+  counter.className = 'pdfn';
+  counter.textContent = `1 / ${doc.numPages}`;
+  body.replaceChildren(wrap, counter);
+
+  const busy = new Set();
+  const draw = async el => {
+    const n = +el.dataset.n;
+    if (el.firstChild || busy.has(n)) return;
+    busy.add(n);
+    try {
+      const page = await doc.getPage(n);
+      if (token !== previewToken || !el._want) return;
+      const base = page.getViewport({ scale: 1 });
+      el.style.aspectRatio = `${base.width} / ${base.height}`;
+      const vp = page.getViewport({ scale: el.clientWidth / base.width * Math.min(devicePixelRatio || 1, 2) });
+      const c = document.createElement('canvas');
+      c.width = Math.floor(vp.width); c.height = Math.floor(vp.height);
+      el._task = page.render({ canvasContext: c.getContext('2d'), viewport: vp });
+      await el._task.promise;
+      if (token === previewToken && el._want) el.replaceChildren(c);
+    } catch { /* cancelled while scrolling past, or a broken page */ } finally {
+      busy.delete(n); el._task = null;
+      if (token === previewToken && el._want && !el.firstChild) requestAnimationFrame(() => draw(el));
+    }
+  };
+  // draw pages near the screen, free the ones far away (long PDFs would otherwise eat the phone's memory)
+  const io = new IntersectionObserver(entries => entries.forEach(en => {
+    const el = en.target;
+    el._want = en.isIntersecting;
+    if (el._want) draw(el);
+    else { el._task?.cancel(); const c = el.firstChild; if (c) { c.width = c.height = 0; el.replaceChildren(); } }
+  }), { root: body, rootMargin: '150% 0px' });
+  const seen = new IntersectionObserver(entries => entries.forEach(en => {
+    if (en.isIntersecting) counter.textContent = `${en.target.dataset.n} / ${doc.numPages}`;
+  }), { root: body, rootMargin: '-45% 0px -45% 0px' });
+  pages.forEach(p => { io.observe(p); seen.observe(p); });
+  stopPdfFn = () => { io.disconnect(); seen.disconnect(); doc.destroy(); };
+}
+
 function renderNotebook(text) {
   let nb;
   try { nb = JSON.parse(text); } catch { return `<pre class="code">${esc(text)}</pre>`; }
