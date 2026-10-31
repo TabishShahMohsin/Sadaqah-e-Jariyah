@@ -11,7 +11,7 @@ const S = { root: null, base: 'files/', generated: null, nodes: new Map(), files
 /* ── naming ─────────────────────────────────────────── */
 const NAMES = {
   'First-Year-Common': 'First Year (Common)',
-  'Computer-Engineering': 'Computer Engineering',
+  'Computer-Engineering': 'Computer Engineering / Artificial Intelligence',
   'Phys-Sem': 'Physics Semester',
   'Chem-Sem': 'Chemistry Semester',
   'PYQs-and-Assignments': 'PYQs & Assignments',
@@ -180,7 +180,7 @@ function courseRow(d, i) {
   const codes = c ? c.codes : [];
   return `<a class="course${d.count ? '' : ' dim'}" href="${href(d.p)}">
     <span class="ci">${pad(i + 1)}</span>
-    <span class="cc">${esc(codes[0] || '—')}${codes.slice(1).map(x => `<i>${esc(x)}</i>`).join('')}</span>
+    <span class="cc">${codes.length ? codes.map(x => `<i>${esc(x)}</i>`).join('') : '—'}</span>
     <span class="ct">${esc(label(d.n))}</span>
     ${coverage(d)}
     <span class="cn">${d.count ? plural(d.count, 'file') : 'empty'}</span>
@@ -233,7 +233,7 @@ function homeView() {
   <h2 class="label">Branches</h2>
   <div class="cards">${branches.map((d, i) => card(d, i, 'Branch')).join('')}</div>
   ${others.length ? `<h2 class="label">Other</h2><div class="cards">${others.map((d, i) => card(d, i, 'Folder', true)).join('')}</div>` : ''}
-  <a class="cta hud" href="#/contribute"><span class="eyebrow"><span class="pulse"></span> Contribute</span><span class="cta-t">Have notes, past papers or lab work? Drop them here. Claude sorts them into the right course.</span><span class="go">→</span></a>
+  <a class="cta hud" href="#/contribute"><span class="eyebrow"><span class="pulse"></span> Contribute</span><span class="cta-t">Have notes, past papers or lab work? Drop them here and they’ll be sorted into the right course.</span><span class="go">→</span></a>
   <h2 class="label">Recently added</h2>
   ${fileRows(recent, { ctx: true })}`;
 }
@@ -528,7 +528,7 @@ function renderResults() {
 function resRow(r, i, q) {
   if (r.type === 'course') {
     const c = parseCourse(r.node.n);
-    return `<div class="res${i === active ? ' on' : ''}" data-i="${i}"><span class="ext k-dir">${esc(c ? c.codes[0].slice(0, 3) : 'DIR')}</span>
+    return `<div class="res${i === active ? ' on' : ''}" data-i="${i}"><span class="ext k-dir" aria-label="Course"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg></span>
       <span class="rn">${highlight(label(r.node.n), q)}<span class="rc">${esc(c ? c.codes.join(' / ') + ' · ' : '')}${esc(ancestors(r.node).slice(0, -1).map(a => label(a.n)).join(' › '))}</span></span>
       <span class="rs">${plural(r.node.count, 'file')}</span></div>`;
   }
@@ -566,7 +566,7 @@ const C = {
 };
 const STAGES = [
   ['received', 'Received', 'Your files are safely stored, waiting to be sorted.'],
-  ['sorting', 'Sorting', 'Claude is reading the files and finding where each belongs.'],
+  ['sorting', 'Sorting', 'The files are being read and matched to the right course.'],
   ['in_review', 'In review', 'A maintainer is checking the placement before it goes live.'],
   ['published', 'Published', 'Live on the site. Thank you!'],
 ];
@@ -598,7 +598,7 @@ function contributeView() {
   <header class="page-head">
     <div class="eyebrow"><span class="pulse"></span> Contribute</div>
     <h1>Add to the archive</h1>
-    <p class="lede-sm">Drop notes, past papers, syllabi or lab work. Claude reads each file and files it under the right course; a maintainer checks it before it goes live. You don't need an account.</p>
+    <p class="lede-sm">Drop notes, past papers, syllabi or lab work. Each file is read and placed under the right course, then checked by a maintainer before it goes live. You don't need an account.</p>
   </header>
   ${live ? '' : `<div class="notice">Contributions aren’t open yet. Soon you’ll be able to drop files here.</div>`}
   <form class="cform" id="cform" novalidate>

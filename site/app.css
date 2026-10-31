@@ -111,7 +111,6 @@ main { width: 100%; max-width: var(--w); margin: 0 auto; padding-block: 0 120px;
 .meta b { color: var(--ink); font-weight: 500; }
 .codes { display: flex; gap: 8px; flex-wrap: wrap; }
 .code-chip { font: 500 13px var(--sans); letter-spacing: .02em; padding: 5px 12px; border-radius: 999px; background: var(--ink); color: #fff; }
-.code-chip + .code-chip { background: var(--fog); color: var(--mute); }
 
 /* ── semesters & courses ───────────────── */
 .group { margin-top: 88px; }
@@ -126,7 +125,7 @@ main { width: 100%; max-width: var(--w); margin: 0 auto; padding-block: 0 120px;
 .course:hover + .course { border-top-color: transparent; }
 .course .ci, .course .arr { display: none; }
 .course .cc { font-size: 13px; line-height: 1.35; font-weight: 500; color: var(--ink2); letter-spacing: .02em; }
-.course .cc i { font-style: normal; color: var(--faint); font-weight: 400; display: block; }
+.course .cc i { font-style: normal; display: block; }
 .course .ct { font-size: 18px; letter-spacing: -.02em; font-weight: 500; }
 .course .cn { font-size: 14px; color: var(--mute); text-align: right; }
 .course.dim .ct { color: var(--faint); }
@@ -164,7 +163,6 @@ main { width: 100%; max-width: var(--w); margin: 0 auto; padding-block: 0 120px;
 .fsize, .fdate { font-size: 14px; color: var(--mute); text-align: right; white-space: nowrap; }
 .ext { flex: none; display: inline-grid; place-items: center; width: 44px; height: 24px; font: 600 10.5px var(--sans); letter-spacing: .04em; text-transform: uppercase; color: var(--ink2); background: var(--fog); border-radius: 7px; overflow: hidden; }
 .file:hover .ext { background: #fff; }
-.k-pdf { color: #b3261e; } .k-video, .k-audio { color: #1f55c4; } .k-img { color: #137a4d; }
 .k-dir { background: var(--ink); color: #fff; }
 .more { margin-top: 14px; font-size: 14px; color: var(--mute); }
 .more button { color: var(--accent-ink); }
@@ -327,7 +325,8 @@ main { width: 100%; max-width: var(--w); margin: 0 auto; padding-block: 0 120px;
   .course { grid-template-columns: 1fr auto; gap: 2px 12px; }
   .course .cov { display: none; }
   .course .cc { grid-column: 1 / -1; }
-  .course .cc i { display: inline; margin-left: 6px; }
+  .course .cc i { display: inline; }
+  .course .cc i + i::before { content: " / "; }
   .group-head { flex-wrap: wrap; gap: 2px 12px; }
   .group-head .gi { min-width: 0; }
   .group-head h2 { flex-basis: 100%; order: 2; }
