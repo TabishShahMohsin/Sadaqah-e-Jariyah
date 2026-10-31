@@ -50,6 +50,10 @@ Theory and its lab are **separate courses** (`ACS1112_Applied-Chemistry` vs `ACS
 assignments go into the **B.Tech course's folder**, like any other file. The B.E. code goes in the file name where a
 code is part of the pattern (e.g. `Sem-End_2023-24_<BE-CODE>.pdf`) and in the catalog's `note`, so search finds it by
 either code. B.E. material for a course with no B.Tech twin is not added.
+An **old-syllabus** course with a B.E. twin is one folder carrying both codes, B.Tech first
+(`CE217-ECE217_Construction-Practice`). A course whose code changed between schemes keeps only its newest code in the
+folder name; papers under an older or B.E. code carry that code in the file name (`Sem-End_2023-24_EMEE4210.pdf`).
+Duplicate folders are merged with `tools/merge_courses.py` (dry run first), which records every move in the catalog.
 
 ### Which section
 | Section | Put here |
