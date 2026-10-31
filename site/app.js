@@ -326,7 +326,11 @@ function branchView(node, progs) {
   const p = pickedProg(node, progs);
   const inProgs = new Set(progs.flatMap(x => Object.values(x.semesters).flat().map(it => it.p)));
   // everything in the branch's folders that no programme lists (elective slots, extra electives, old subjects…)
-  const extra = node.d.filter(d => !d.n.startsWith('_') || d.n === '_Old-Syllabus-Subjects').map(g => ({ g, cs: g.d.filter(d => d.course && !inProgs.has(d.p)) })).filter(x => x.cs.length);
+  // a departmental elective (COE4610…) that is also another programme's core course lives in that semester's folder;
+  // list it under Electives as well, so the branch's elective list stays complete
+  const isElective = c => (parseCourse(c.n)?.codes || []).some(x => /^[A-Z]{2}E\d{4}$/.test(x));
+  const elsewhere = g => S.courses.filter(c => c.p.startsWith(node.p + '/') && c.parent !== g && !c.p.includes('/_') && isElective(c));
+  const extra = node.d.filter(d => !d.n.startsWith('_') || d.n === '_Old-Syllabus-Subjects').map(g => ({ g, cs: [...g.d.filter(d => d.course && !inProgs.has(d.p)), ...(g.n === 'Electives' ? elsewhere(g) : [])] })).filter(x => x.cs.length);
   const folders = node.d.filter(d => (d.n.startsWith('_') && d.n !== '_Old-Syllabus-Subjects') || (!d.course && !hasCourses(d) && !d.n.startsWith('_')));
   const nCourses = S.courses.filter(c => c.p.startsWith(node.p + '/')).length;
   return `
