@@ -33,7 +33,7 @@ UMB = "BTech-and-BE"
 PROG_BRANCH = {"AI": "Computer-Engineering", "CoE": "Computer-Engineering", "Auto": "Mechanical-Engineering",
                "ME": "Mechanical-Engineering", "ChE": "Chemical-Engineering", "CE": "Civil-Engineering",
                "EE": "Electrical-Engineering", "ECE": "Electronics-Engineering", "VLSI": "Electronics-Engineering",
-               "FT": "Food-Technology", "PK": "Chemical-Technology", "FY": "First-Year-Common",
+               "FT": "Food-Technology", "PK": "Chemical-Engineering", "FY": "First-Year-Common",
                "OE-Odd": "Shared-Courses", "OE-Even": "Shared-Courses"}
 
 
