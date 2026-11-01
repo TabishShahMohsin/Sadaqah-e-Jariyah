@@ -460,7 +460,10 @@ function openPreview(f) {
   $('#drName').textContent = prettyFile(f.n);
   $('#drName').title = f.n;
   const by = f.meta ? [f.meta.author && 'notes by ' + f.meta.author, f.meta.professor && 'taught by ' + f.meta.professor, f.meta.credit && f.meta.credit !== f.meta.author && 'shared by ' + f.meta.credit].filter(Boolean).join(' · ') : '';
-  $('#drPath').textContent = `${context(f)}  ·  ${fmtSize(f.s)}${by ? '  ·  ' + by : ''}`;
+  $('#drPath').textContent = `${context(f)}  ·  ${fmtSize(f.s)}`;
+  $('#drBy').textContent = by ? by[0].toUpperCase() + by.slice(1) : '';
+  $('#drBy').hidden = !by;
+  $('#drBy').title = $('#drBy').textContent;
   $('#drPos').textContent = `${i + 1} / ${sib.length}`;
   $('#prevBtn').disabled = i <= 0;
   $('#nextBtn').disabled = i >= sib.length - 1;
