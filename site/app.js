@@ -150,11 +150,13 @@ function render(node) {
   if (node === S.root) playIntro(v);
 }
 
-// Intro: the video plays over the title block, then sinks away while the title rises in. The search below it is never covered.
-// Anything that goes wrong (autoplay blocked, slow network, a decode error) skips straight to the title.
+// Intro: a transparent animated image (a notebook dropped into the box, 1.9 s, plays once) over the title block,
+// then it sinks away while the title rises in. The search below it is never covered.
+// If the image is slow or fails, the title shows straight away.
+const INTRO_MS = 1875;
 function playIntro(v) {
-  const hero = $('.hero.intro-on', v), video = hero && $('.intro video', hero);
-  if (!video) return;
+  const hero = $('.hero.intro-on', v), img = hero && $('.intro img', hero);
+  if (!img) return;
   let done = false;
   const finish = () => {
     if (done) return;
@@ -162,11 +164,13 @@ function playIntro(v) {
     hero.classList.add('intro-out');
     setTimeout(() => { hero.classList.remove('intro-on', 'intro-out'); $('.intro', hero)?.remove(); }, 1400);
   };
-  const stalled = setTimeout(() => { if (video.paused || video.currentTime === 0) finish(); }, 1500);
-  setTimeout(finish, 4500);
-  video.addEventListener('ended', () => { clearTimeout(stalled); finish(); });
-  video.addEventListener('error', finish, true);
-  video.play().catch(finish);
+  const start = () => setTimeout(finish, INTRO_MS + 120);
+  const slow = setTimeout(finish, 1500);
+  if (img.complete && img.naturalWidth) { clearTimeout(slow); start(); }
+  else {
+    img.addEventListener('load', () => { clearTimeout(slow); if (!done) start(); }, { once: true });
+    img.addEventListener('error', finish, { once: true });
+  }
 }
 
 function crumbs(node) {
@@ -245,7 +249,7 @@ function homeView() {
   <section class="hero${intro ? ' intro-on' : ''}">
     <div class="ripples" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
     <div class="hero-reveal">
-      ${intro ? `<div class="intro" aria-hidden="true"><video muted playsinline preload="auto" poster="brand/intro-poster.webp" disablepictureinpicture><source src="brand/intro.mp4" type="video/mp4"><source src="brand/intro.webm" type="video/webm"></video></div>` : ''}
+      ${intro ? `<div class="intro" aria-hidden="true"><img src="brand/intro.webp" alt="" decoding="sync"></div>` : ''}
       <h1 class="display">Sadaqah-e-Jariyah</h1>
       <p class="arabic" lang="ar">صدقة جارية</p>
       <p class="lede">Notes, past papers, syllabi and lab work for every B.Tech semester at AMU, laid out so the next student never has to hunt for them.</p>
