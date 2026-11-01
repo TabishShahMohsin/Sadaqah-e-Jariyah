@@ -74,6 +74,17 @@ main { width: 100%; max-width: var(--w); margin: 0 auto; padding-block: 0 120px;
 .ripples i:nth-child(3) { animation-delay: -9s; }
 .ripples i:nth-child(4) { animation-delay: -13.5s; }
 @keyframes ripple { 0% { opacity: 0; transform: translate(-50%, -50%) scale(.1); } 12% { opacity: 1; } 100% { opacity: 0; transform: translate(-50%, -50%) scale(1); } }
+.hero-reveal { position: relative; display: flex; flex-direction: column; align-items: center; }
+.intro { position: absolute; inset: -14px 0; display: flex; justify-content: center; pointer-events: none; mix-blend-mode: multiply; z-index: 1; }
+.intro video { height: 100%; width: auto; max-width: 100%; object-fit: contain; display: block; background: transparent; }
+.hero.intro-on .hero-reveal > :not(.intro) { opacity: 0; }
+.hero.intro-out .intro { animation: intro-away .65s var(--ease) forwards; }
+.hero.intro-out .hero-reveal > :not(.intro) { animation: intro-rise .9s var(--ease) both; }
+.hero.intro-out .hero-reveal > .display { animation-delay: .18s; }
+.hero.intro-out .hero-reveal > .arabic { animation-delay: .32s; }
+.hero.intro-out .hero-reveal > .lede { animation-delay: .44s; }
+@keyframes intro-away { to { opacity: 0; transform: translateY(5%) scale(.86); filter: blur(6px); } }
+@keyframes intro-rise { from { opacity: 0; transform: translateY(26px) scale(.97); filter: blur(8px); } to { opacity: 1; transform: none; filter: none; } }
 .display { font: 200 clamp(40px, 9.6vw, 132px)/1 var(--display); letter-spacing: -.045em; margin: 0; white-space: nowrap; }
 .arabic { font: 400 24px/1 "Geeza Pro", "Noto Naskh Arabic", "Amiri", serif; color: var(--mute); margin: 30px 0 0; }
 .lede { max-width: 540px; font-size: clamp(19px, 2.2vw, 24px); line-height: 1.38; color: var(--ink2); margin: 28px 0 0; font-weight: 400; letter-spacing: -.02em; text-wrap: balance; }

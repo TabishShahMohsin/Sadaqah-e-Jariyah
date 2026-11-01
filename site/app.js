@@ -147,6 +147,26 @@ function render(node) {
   document.title = node === S.root ? 'Sadaqah-e-Jariyah' : `${label(node.n)} — Sadaqah-e-Jariyah`;
   window.scrollTo(0, 0);
   bindView(v);
+  if (node === S.root) playIntro(v);
+}
+
+// Intro: the video plays over the title block, then sinks away while the title rises in. The search below it is never covered.
+// Anything that goes wrong (autoplay blocked, slow network, a decode error) skips straight to the title.
+function playIntro(v) {
+  const hero = $('.hero.intro-on', v), video = hero && $('.intro video', hero);
+  if (!video) return;
+  let done = false;
+  const finish = () => {
+    if (done) return;
+    done = true;
+    hero.classList.add('intro-out');
+    setTimeout(() => { hero.classList.remove('intro-on', 'intro-out'); $('.intro', hero)?.remove(); }, 1400);
+  };
+  const stalled = setTimeout(() => { if (video.paused || video.currentTime === 0) finish(); }, 1500);
+  setTimeout(finish, 4500);
+  video.addEventListener('ended', () => { clearTimeout(stalled); finish(); });
+  video.addEventListener('error', finish, true);
+  video.play().catch(finish);
 }
 
 function crumbs(node) {
@@ -218,12 +238,18 @@ function homeView() {
   const branches = tops.filter(d => !umbrellas.includes(d));
   const others = r.d.filter(d => d.n.startsWith('_'));
   const recent = [...S.all].sort((a, b) => b.m - a.m).slice(0, 8);
+  // the intro (a notebook dropped into the box) plays once per visit, then hands over to the title
+  const intro = !S.introDone && !EMBED && !matchMedia('(prefers-reduced-motion: reduce)').matches;
+  S.introDone = true;
   return `
-  <section class="hero">
+  <section class="hero${intro ? ' intro-on' : ''}">
     <div class="ripples" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
-    <h1 class="display">Sadaqah-e-Jariyah</h1>
-    <p class="arabic" lang="ar">صدقة جارية</p>
-    <p class="lede">Notes, past papers, syllabi and lab work for every B.Tech semester at AMU, laid out so the next student never has to hunt for them.</p>
+    <div class="hero-reveal">
+      ${intro ? `<div class="intro" aria-hidden="true"><video muted playsinline preload="auto" poster="brand/intro-poster.webp" disablepictureinpicture><source src="brand/intro.mp4" type="video/mp4"><source src="brand/intro.webm" type="video/webm"></video></div>` : ''}
+      <h1 class="display">Sadaqah-e-Jariyah</h1>
+      <p class="arabic" lang="ar">صدقة جارية</p>
+      <p class="lede">Notes, past papers, syllabi and lab work for every B.Tech semester at AMU, laid out so the next student never has to hunt for them.</p>
+    </div>
     <button class="hero-search" type="button" data-search>
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
       <span>Search ${fmtNum(r.count)} files</span><kbd>${isMac ? '⌘' : 'Ctrl'} K</kbd>
