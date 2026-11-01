@@ -171,7 +171,11 @@ def courses(state):
 def write_change(ops, source, tag):
     os.makedirs(CHANGES, exist_ok=True)
     cid = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S") + "-" + tag
-    path = os.path.join(CHANGES, cid + ".json")
+    path, n = os.path.join(CHANGES, cid + ".json"), 1
+    while os.path.exists(path):  # never overwrite a change set written in the same second
+        n += 1
+        cid = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S") + f"-{tag}-{n}"
+        path = os.path.join(CHANGES, cid + ".json")
     with open(path, "w", encoding="utf-8") as fh:
         json.dump({"id": cid, "created": now_iso(), "source": source, "ops": ops}, fh, ensure_ascii=False, indent=1)
         fh.write("\n")

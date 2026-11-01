@@ -89,12 +89,24 @@ Allowed characters: letters, digits, `-`, `_`, `.`, `(`, `)`. No spaces in new n
 Academic year is always `YYYY-YY` (`2023-24`), never `2023` alone when the session is known.
 If a name would collide with an existing file, append `_2`, `_3`, …
 
-## 3. Metadata (kept in the catalog, not the file name)
-`author` (who made the notes), `professor` (who taught), `year` (`YYYY-YY`), `credit` (contributor's chosen name), `note`.
+## 3. Metadata and credits (kept in the catalog, not the file name)
+`author` (who made the notes), `professor` (who taught), `year` (`YYYY-YY`), `credit` (who shared it with the archive), `note`.
+The site shows them when a file is opened: *notes by … · taught by … · shared by …*.
+
+- **`credit`** is a contributor's chosen name or enrolment number (`gk7093`) or a source (`AMU Cloud`, `AMU Drive`,
+  `Engineering College Library`, `AMU website (official)`). A file found in more than one place keeps every credit, joined with `, `.
+- **No sources or teachers in file names.** `Notes_Unit-1_FROM_AMU_Cloud.pdf` becomes `Notes_Unit-1.pdf` with credit
+  `AMU Cloud`; `Ishtiyak-Sir_Lecture-3.pdf` becomes `Lecture-3.pdf` with professor `Ishtiyak`.
+- Credits are set with `tools/credit.py` (each run writes one reviewable catalog change set):
+  `report` · `set --credit NAME PATH…` · `change CHANGE-ID --credit NAME` (everything a batch added) ·
+  `tags` / `teachers` (move source tags and teacher prefixes from names into the catalog; dry run unless `--apply`).
+- A batch imported with `source.credit` in its change set credits every file it adds.
+- The maintainer is never credited and never named anywhere.
 
 ## 4. What we never publish
 - **Copyrighted books or book chapters** (textbooks, Schaum's, publisher PDFs, scanned books). Link the library
-  catalogue entry instead. Lecture slides and notes by teachers and students are fine.
+  catalogue entry instead. Lecture slides and notes by teachers and students are fine. Exception: material the
+  maintainer adds directly has already been cleared with its library, author or teacher, so it is published as provided.
 - Personal data: phone numbers, attendance sheets, marks lists, ID cards, anything with another student's details.
 - Executables, archives, HTML/SVG, or anything that isn't study material.
 
