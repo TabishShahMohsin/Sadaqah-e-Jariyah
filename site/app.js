@@ -253,10 +253,16 @@ function pickedProg(node, list) {
   try { id = localStorage.getItem('sej-prog:' + node.p); } catch { /* storage unavailable */ }
   return list.find(p => p.id === id) || list.find(p => p.published) || list[0];
 }
+// every code a course goes by — the folder's, the catalog's and its B.E. twins — with `first` (the programme's own) leading
+function courseCodes(p, first) {
+  const meta = S.pg?.courses?.[p] || {};
+  const pc = parseCourse(p.split('/').pop());
+  return [...new Set([first, ...(pc ? pc.codes : []), ...(meta.codes || []), ...(meta.be || [])].filter(Boolean))];
+}
 function progRow(it, i) {
   const node = S.nodes.get(it.p);
   const meta = S.pg.courses[it.p] || {};
-  const codes = [it.c, ...(meta.codes || []).filter(x => x !== it.c)];
+  const codes = courseCodes(it.p, it.c);
   const title = node ? label(node.n) : (meta.title || it.p.split('/').pop());
   const inner = `<span class="ci">${pad(i + 1)}</span>
     <span class="cc">${codes.map(x => `<i>${esc(x)}</i>`).join('')}</span>
@@ -705,9 +711,9 @@ function renderResults() {
 }
 function resRow(r, i, q) {
   if (r.type === 'course') {
-    const c = parseCourse(r.node.n);
+    const codes = courseCodes(r.node.p);
     return `<div class="res${i === active ? ' on' : ''}" data-i="${i}"><span class="ext k-dir" aria-label="Course"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg></span>
-      <span class="rn">${highlight(label(r.node.n), q)}<span class="rc">${esc(c ? c.codes.join(' / ') + ' · ' : '')}${esc(ancestors(r.node).slice(0, -1).map(a => label(a.n)).join(' › '))}</span></span>
+      <span class="rn">${highlight(label(r.node.n), q)}<span class="rc">${esc(codes.length ? codes.join(' / ') + ' · ' : '')}${esc(ancestors(r.node).slice(0, -1).map(a => label(a.n)).join(' › '))}</span></span>
       <span class="rs">${plural(r.node.count, 'file')}</span></div>`;
   }
   const f = r.f;
@@ -768,8 +774,7 @@ function contributeView() {
   C.files = []; C.tsToken = ''; C.tsWidget = null;
   const live = !!S.api;
   const courseOptions = S.courses.filter(c => parseCourse(c.n)).map(c => {
-    const pc = parseCourse(c.n);
-    return `<option value="${esc(`${label(c.n)} (${pc.codes.join('/')}, ${label(c.parent.n)})`)}"></option>`;
+    return `<option value="${esc(`${label(c.n)} (${courseCodes(c.p).join('/')}, ${label(c.parent.n)})`)}"></option>`;
   }).join('');
   const prev = mine();
   pageShell('contribute', 'Contribute', `
