@@ -109,6 +109,16 @@ def check_destination(dir_path, filename, original_ext, known_courses, new_cours
 
     if len(parts) == 2 and parts[1] in BRANCH_FOLDERS:
         return None
+    if parts[0] == "Shared-Courses" and len(parts) in (3, 4) and not TERM_RE.match(parts[1]):
+        # a course several branches take lives directly in Shared-Courses (no term folder): Shared-Courses/Course/Section
+        course_path = "/".join(parts[:2])
+        if course_path not in known_courses and course_path not in new_courses:
+            return f"course folder '{course_path}' doesn't exist and wasn't proposed as new"
+        if parts[2] not in SECTIONS:
+            return f"'{parts[2]}' is not a section"
+        if len(parts) == 4 and not (parts[2].startswith("Unit-") and parts[3] == "Video-Lectures" and original_ext.lower() in ("mp4", "mov", "webm")):
+            return "only videos go in Unit-N/Video-Lectures"
+        return None
     if len(parts) not in (4, 5):
         return "files go inside a course section (Branch/Term/Course/Section)"
     branch, term, course, section = parts[:4]

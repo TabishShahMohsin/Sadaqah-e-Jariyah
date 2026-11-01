@@ -12,6 +12,7 @@ Format (kept compact on purpose):
 import argparse
 import json
 import os
+import sys
 from datetime import datetime, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -21,7 +22,28 @@ EXCLUDE_TOP = {".git", "_Inbox", "site", "node_modules", "__pycache__", "catalog
 SKIP_FILES = {".DS_Store", "Thumbs.db", "desktop.ini", "Icon\r"}
 
 
-def walk(path, top=False):
+_META = None
+
+
+def catalog_meta(repo=REPO):
+    """Credits and other file metadata kept in the catalog (catalog/base.jsonl + changes), keyed by archive path."""
+    global _META
+    if _META is None:
+        _META = {}
+        try:
+            sys.path.insert(0, os.path.join(repo, "tools"))
+            import sej
+            for p, e in sej.load_state().items():
+                m = {k: v for k, v in (e.get("meta") or {}).items() if k in ("author", "professor", "year", "credit", "note") and v}
+                if m:
+                    _META[p] = m
+        except Exception:  # noqa: BLE001 — no catalog: the index simply carries no credits
+            _META = {}
+    return _META
+
+
+def walk(path, top=False, base=None):
+    base = base or path
     node = {"n": "" if top else os.path.basename(path), "d": [], "f": []}
     try:
         entries = sorted(os.scandir(path), key=lambda e: e.name.lower())
@@ -33,12 +55,16 @@ def walk(path, top=False):
         if top and e.name in EXCLUDE_TOP:
             continue
         if e.is_dir(follow_symlinks=False):
-            node["d"].append(walk(e.path))
+            node["d"].append(walk(e.path, base=base))
         elif e.is_file(follow_symlinks=False):
             if top:  # README, LICENSE, scripts at the root are not course content
                 continue
             st = e.stat()
-            node["f"].append([e.name, st.st_size, int(st.st_mtime)])
+            row = [e.name, st.st_size, int(st.st_mtime)]
+            m = catalog_meta().get(os.path.relpath(e.path, base).replace(os.sep, "/"))
+            if m:
+                row.append(m)
+            node["f"].append(row)
     return node
 
 
