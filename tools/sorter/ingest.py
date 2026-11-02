@@ -3,6 +3,7 @@ import os
 import re
 import shutil
 import subprocess
+import sys
 import tempfile
 import zipfile
 
@@ -83,11 +84,17 @@ def unpack(items, workdir, depth=0):
 
 
 # ── conversion to published formats (CONVENTIONS.md §5) ─────────────────────
+FONTS_CONF = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fonts.conf")
+
+
 def soffice(src, fmt, outdir, timeout=240):
     """LibreOffice headless conversion with a throwaway profile (safe to run in parallel)."""
     with tempfile.TemporaryDirectory() as prof:
         cmd = ["soffice", f"-env:UserInstallation=file://{prof}", "--headless", "--norestore", "--convert-to", fmt, "--outdir", outdir, src]
-        subprocess.run(cmd, capture_output=True, timeout=timeout, env={**os.environ, "HOME": prof})
+        env = {**os.environ, "HOME": prof}
+        if sys.platform.startswith("linux") and os.path.exists(FONTS_CONF):
+            env["FONTCONFIG_FILE"] = FONTS_CONF  # stand-ins for Windows fonts (macOS has them or uses its own lookup)
+        subprocess.run(cmd, capture_output=True, timeout=timeout, env=env)
 
 
 def quicklook_pdf(path, out):
@@ -101,6 +108,49 @@ def quicklook_pdf(path, out):
     return False
 
 
+# Bullets drawn from symbol fonts that have no free stand-in come out as empty boxes; swap them for
+# ordinary characters before converting. Plain Wingdings is left alone: fonts.conf provides it.
+SLIDE_EXT = {"ppt", "pptx", "pps", "ppsx", "pot", "potx", "odp"}
+SYMBOL_BULLET_FONTS = {"wingdings 2": "\u25aa", "wingdings 3": "\u25ba", "monotype sorts": "\u25aa",
+                       "webdings": "\u25aa", "marlett": "\u25aa", "zapfdingbats": "\u25aa", "zapf dingbats": "\u25aa"}
+BULLET_RE = re.compile(r'<a:buFont typeface="([^"]+)"[^>]*/>\s*<a:buChar char="[^"]*"/>')
+
+
+def _swap_bullets(xml):
+    def sub(m):
+        ch = SYMBOL_BULLET_FONTS.get(m.group(1).lower())
+        return f'<a:buFont typeface="Arial"/><a:buChar char="{ch}"/>' if ch else m.group(0)
+    return BULLET_RE.sub(sub, xml)
+
+
+def fixed_slides(path, out_dir):
+    """A copy of the deck with symbol-font bullets replaced, or the original when nothing needs fixing."""
+    src = path
+    if not path.lower().endswith((".pptx", ".ppsx", ".potx")):
+        tmp = os.path.join(out_dir, "_pptx")
+        os.makedirs(tmp, exist_ok=True)
+        soffice(path, "pptx", tmp)  # old binary .ppt: read it through LibreOffice's own PowerPoint export
+        conv = [os.path.join(tmp, f) for f in os.listdir(tmp) if f.endswith(".pptx")]
+        if not conv:
+            return path
+        src = conv[0]
+    try:
+        with zipfile.ZipFile(src) as zin:
+            names = zin.namelist()
+            xml = {n: zin.read(n).decode("utf-8") for n in names if n.startswith("ppt/") and n.endswith(".xml")}
+            fixed = {n: _swap_bullets(x) for n, x in xml.items()}
+            if all(fixed[n] == xml[n] for n in xml):
+                return path
+            out = os.path.join(out_dir, "_fixed", os.path.splitext(os.path.basename(path))[0] + ".pptx")
+            os.makedirs(os.path.dirname(out), exist_ok=True)
+            with zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED) as zout:
+                for n in names:
+                    zout.writestr(zin.getinfo(n), fixed[n].encode("utf-8") if n in fixed else zin.read(n))
+            return out
+    except (zipfile.BadZipFile, UnicodeDecodeError, KeyError):
+        return path
+
+
 def to_pdf(it, workdir):
     out_dir = os.path.join(workdir, f"conv-{it['id']}")
     os.makedirs(out_dir, exist_ok=True)
@@ -110,6 +160,8 @@ def to_pdf(it, workdir):
         ok = quicklook_pdf(it["path"], out)
         if not ok and it["ext"] != "numbers":
             soffice(it["path"], "pdf", out_dir)
+    elif it["ext"] in SLIDE_EXT:
+        soffice(fixed_slides(it["path"], out_dir), "pdf", out_dir)
     else:
         soffice(it["path"], "pdf", out_dir)
     return out if os.path.exists(out) and os.path.getsize(out) > 0 else None
