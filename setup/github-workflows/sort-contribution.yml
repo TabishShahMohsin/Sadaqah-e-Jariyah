@@ -28,7 +28,7 @@ jobs:
   sort:
     if: github.event_name == 'workflow_dispatch' || contains(github.event.issue.labels.*.name, 'submission')
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 360   # a whole semester's folder can take a while
     steps:
       - uses: actions/checkout@v4
         with:
@@ -38,7 +38,7 @@ jobs:
           python-version: "3.12"
           cache: pip
           cache-dependency-path: tools/requirements.txt
-      - run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends poppler-utils tesseract-ocr libreoffice-impress libreoffice-writer libreoffice-calc ffmpeg
       - run: pip install -r tools/requirements.txt
       - name: Sort
         env:

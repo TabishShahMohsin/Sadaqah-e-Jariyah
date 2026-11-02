@@ -10,6 +10,7 @@ The catalog is append-only:
         {"op":"move","from","to"}
         {"op":"remove","p","reason"}
         {"op":"meta","p","meta"}                          update metadata only
+        {"op":"link","p","url","t","meta"?}               a link entry (shown on the site like a file; p ends in .link)
 
 Commands
   python3 tools/sej.py import            hash the local folder into catalog/base.jsonl (first time only)
@@ -149,6 +150,11 @@ def apply_change(state, ch, name="?"):
                 state[op["to"]] = e
         elif kind == "remove":
             state.pop(op["p"], None)
+        elif kind == "link":
+            e = {"p": op["p"], "s": 0, "h": "", "t": op.get("t", 0), "url": op["url"], "link": True,
+                 "meta": {**(op.get("meta") or {}), "url": op["url"]}}
+            e["change"] = ch.get("id", name)
+            state[op["p"]] = e
         elif kind == "meta":
             if op["p"] in state:
                 state[op["p"]]["meta"] = {**state[op["p"]].get("meta", {}), **op.get("meta", {})}
@@ -159,12 +165,17 @@ def courses(state):
     out = {}
     for p in state:
         parts = p.split("/")
-        if len(parts) >= 5 and rules.TERM_RE.match(parts[1]):
-            cp = "/".join(parts[:3])
+        k = 1 if parts[0] in rules.UMBRELLAS else 0  # 'BTech-and-BE/Branch/Term/Course/...'
+        if parts[k:k + 1] == ["Shared-Courses"] and len(parts) >= k + 4 and not rules.TERM_RE.match(parts[k + 1]):
+            cp = "/".join(parts[:k + 2])  # Shared-Courses/Course/Section/file
             c = out.setdefault(cp, {"sections": {}})
-            c["sections"][parts[3]] = c["sections"].get(parts[3], 0) + 1
-        elif len(parts) == 4 and rules.TERM_RE.match(parts[1]):  # files directly in a course folder
-            out.setdefault("/".join(parts[:3]), {"sections": {}})
+            c["sections"][parts[k + 2]] = c["sections"].get(parts[k + 2], 0) + 1
+        elif len(parts) >= k + 5 and rules.TERM_RE.match(parts[k + 1]):
+            cp = "/".join(parts[:k + 3])
+            c = out.setdefault(cp, {"sections": {}})
+            c["sections"][parts[k + 3]] = c["sections"].get(parts[k + 3], 0) + 1
+        elif len(parts) == k + 4 and rules.TERM_RE.match(parts[k + 1]):  # files directly in a course folder
+            out.setdefault("/".join(parts[:k + 3]), {"sections": {}})
     return out
 
 
@@ -183,6 +194,7 @@ def write_change(ops, source, tag):
 
 
 # ── index.json for the website ─────────────────────────────
+META_KEYS = ("author", "professor", "year", "credit", "source", "note", "url")
 def build_tree(state):
     root = {"n": "", "d": [], "f": []}
     dirs = {"": root}
@@ -202,7 +214,7 @@ def build_tree(state):
         row = [name, e.get("s", 0), e.get("t", 0)]
         meta = e.get("meta")
         if meta:
-            row.append({k: v for k, v in meta.items() if k in ("author", "professor", "year", "credit", "note") and v})
+            row.append({k: v for k, v in meta.items() if k in META_KEYS and v})
         get_dir(parent)["f"].append(row)
     return root
 
@@ -302,7 +314,7 @@ def cmd_check(a):
             assert ch.get("id") not in seen, "duplicate id"
             seen.add(ch.get("id"))
             for op in ch["ops"]:
-                assert op.get("op") in ("add", "move", "remove", "meta"), f"unknown op {op.get('op')}"
+                assert op.get("op") in ("add", "move", "remove", "meta", "link"), f"unknown op {op.get('op')}"
                 for key in ("p", "from", "to"):
                     if key in op:
                         v = op[key]
@@ -310,6 +322,8 @@ def cmd_check(a):
                         assert v.split("/")[0] not in EXCLUDE_TOP, f"path in reserved folder: {v}"
                 if op["op"] == "add":
                     assert isinstance(op.get("s"), int) and len(op.get("h", "")) == 64, "add needs size and sha256"
+                if op["op"] == "link":
+                    assert str(op.get("url", "")).startswith("https://") and op["p"].endswith(".link"), "link needs an https url and a .link path"
         except Exception as e:  # noqa: BLE001
             bad += 1
             print(f"✗ {name}: {e}")

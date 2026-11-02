@@ -7,15 +7,20 @@ only suggestions: if this module says no, the file is not placed.
 import re
 
 MAX_FILE_BYTES = 500 * 1024 * 1024
-MAX_FILES = 20
+MAX_FILES = 1000
 
-ALLOWED_EXT = {
-    "pdf", "png", "jpg", "jpeg", "webp",
-    "pptx", "ppt", "docx", "doc", "xlsx", "xls",
-    "mp4", "mov", "webm",
-    "txt", "md", "c", "cpp", "h", "hpp", "java", "py", "ipynb", "csv",
-}
-TEXT_EXT = {"txt", "md", "c", "cpp", "h", "hpp", "java", "py", "ipynb", "csv"}
+# What contributors may upload (CONVENTIONS.md §5) — kept in step with worker/src/index.js
+CODE_EXT = {"c", "cpp", "h", "hpp", "java", "py", "ipynb", "asm", "s", "v", "sv", "vhd", "vhdl", "circ", "m", "sql",
+            "js", "ts", "json", "xml", "tex", "r", "cs", "go", "rs", "kt", "sh", "pl", "lab"}
+TEXT_EXT = {"txt", "md", "csv"} | CODE_EXT
+OFFICE_EXT = {"pptx", "ppt", "docx", "doc", "odt", "odp", "rtf", "pages", "key"}
+SHEET_EXT = {"xlsx", "xls", "ods", "numbers"}
+PHOTO_EXT = {"jpg", "jpeg", "png", "webp", "heic", "heif", "gif"}
+VIDEO_EXT = {"mp4", "mov", "webm", "mkv"}
+ALLOWED_EXT = {"pdf", "zip"} | OFFICE_EXT | SHEET_EXT | PHOTO_EXT | VIDEO_EXT | TEXT_EXT
+# What the archive publishes after conversion. .txt only as program output in lab Records.
+ARCHIVE_EXT = {"pdf", "jpg", "jpeg", "png", "csv", "mp4", "txt"} | CODE_EXT
+UMBRELLAS = {"BTech-and-BE"}  # degree umbrellas above the branch folders
 
 SECTIONS = ["Syllabus", "Complete-Notes", "Unit-1", "Unit-2", "Unit-3", "Unit-4", "Unit-5",
             "PYQs-and-Assignments", "Books-and-Resources", "Manuals", "Records"]
@@ -104,6 +109,11 @@ def check_destination(dir_path, filename, original_ext, known_courses, new_cours
         return "file name has characters that aren't allowed"
     if ext_of(filename) != original_ext.lower():
         return "file extension must not change"
+    pre = []
+    if parts[0] in UMBRELLAS:  # 'BTech-and-BE/Branch/...': the umbrella is part of every catalog path
+        pre, parts = parts[:1], parts[1:]
+        if not parts:
+            return "files go inside a branch"
     if not BRANCH_RE.match(parts[0]):
         return f"'{parts[0]}' is not a branch folder"
 
@@ -111,7 +121,7 @@ def check_destination(dir_path, filename, original_ext, known_courses, new_cours
         return None
     if parts[0] == "Shared-Courses" and len(parts) in (3, 4) and not TERM_RE.match(parts[1]):
         # a course several branches take lives directly in Shared-Courses (no term folder): Shared-Courses/Course/Section
-        course_path = "/".join(parts[:2])
+        course_path = "/".join(pre + parts[:2])
         if course_path not in known_courses and course_path not in new_courses:
             return f"course folder '{course_path}' doesn't exist and wasn't proposed as new"
         if parts[2] not in SECTIONS:
@@ -124,7 +134,7 @@ def check_destination(dir_path, filename, original_ext, known_courses, new_cours
     branch, term, course, section = parts[:4]
     if not TERM_RE.match(term):
         return f"'{term}' is not a semester folder"
-    course_path = "/".join(parts[:3])
+    course_path = "/".join(pre + parts[:3])
     if course_path not in known_courses and course_path not in new_courses:
         return f"course folder '{course_path}' doesn't exist and wasn't proposed as new"
     if course_path in new_courses and not is_course_name(course):
@@ -135,6 +145,16 @@ def check_destination(dir_path, filename, original_ext, known_courses, new_cours
         return "only Unit-N/Video-Lectures may be nested"
     if len(parts) == 5 and original_ext.lower() not in ("mp4", "mov", "webm"):
         return "only videos go in Video-Lectures"
+    return None
+
+
+def check_format(dir_path, filename):
+    """Formats the archive publishes (CONVENTIONS.md §5). Only applied to new placements; older files are reported by conform."""
+    ext = ext_of(filename)
+    if ext not in ARCHIVE_EXT:
+        return f".{ext} isn't a published format (convert it first)"
+    if ext == "txt" and "/Records" not in "/" + dir_path.strip("/") + "/" and not dir_path.rstrip("/").endswith("Records"):
+        return ".txt is only kept as program output in a lab's Records"
     return None
 
 

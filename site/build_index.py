@@ -23,23 +23,33 @@ SKIP_FILES = {".DS_Store", "Thumbs.db", "desktop.ini", "Icon\r"}
 
 
 _META = None
+_LINKS = None
+META_KEYS = ("author", "professor", "year", "credit", "source", "note", "url")
 
 
 def catalog_meta(repo=REPO):
     """Credits and other file metadata kept in the catalog (catalog/base.jsonl + changes), keyed by archive path."""
-    global _META
+    global _META, _LINKS
     if _META is None:
-        _META = {}
+        _META, _LINKS = {}, {}
         try:
             sys.path.insert(0, os.path.join(repo, "tools"))
             import sej
             for p, e in sej.load_state().items():
-                m = {k: v for k, v in (e.get("meta") or {}).items() if k in ("author", "professor", "year", "credit", "note") and v}
-                if m:
+                m = {k: v for k, v in (e.get("meta") or {}).items() if k in META_KEYS and v}
+                if e.get("link"):  # link entries live only in the catalog; they appear in their folder like a file
+                    parent, _, name = p.rpartition("/")
+                    _LINKS.setdefault(parent, []).append([name, 0, e.get("t", 0), m])
+                elif m:
                     _META[p] = m
         except Exception:  # noqa: BLE001 — no catalog: the index simply carries no credits
-            _META = {}
+            _META, _LINKS = {}, {}
     return _META
+
+
+def catalog_links(rel_dir):
+    catalog_meta()
+    return _LINKS.get(rel_dir, [])
 
 
 def walk(path, top=False, base=None):
@@ -65,6 +75,8 @@ def walk(path, top=False, base=None):
             if m:
                 row.append(m)
             node["f"].append(row)
+    if not top:
+        node["f"].extend(catalog_links(os.path.relpath(path, base).replace(os.sep, "/")))
     return node
 
 
