@@ -1,0 +1,290 @@
+{
+ "id": "20261031-092953-local",
+ "created": "2026-10-31T09:29:53+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4210_Bayesian-Data-Analysis/Syllabus/AIE4210_Syllabus_Official.pdf",
+   "s": 14856,
+   "h": "5f7e7099b430714a0323042d00ddfb9960ca33223e1d2acb088a44f42d9b66f7",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4220_Numerical-Linear-Algebra/Syllabus/AIE4220_Syllabus_Official.pdf",
+   "s": 80105,
+   "h": "b06acb25a69db7252e8f06c05bda1b5e20991b26b8dee97a9577011f7e7c03b3",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4240_Optimization-Techniques/Syllabus/AIE4240_Syllabus_Official.pdf",
+   "s": 200439,
+   "h": "9d0fb46846fa2977d0b471950cfbf2a7727880dd2e7997fc237b3c04f2497663",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4270_Data-Mining/Syllabus/AIE4270_Syllabus_Official.pdf",
+   "s": 15517,
+   "h": "b7fcf73479f3f2ae85ba0ef8971fe0615d6131faa5449a4041865781fa58b38a",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4310_Graph-Analytics/Syllabus/AIE4310_Syllabus_Official.pdf",
+   "s": 79828,
+   "h": "e70616c370acd383478194dd8413c33e7cb5c9de129bdf49e7f6fa041b46737c",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4340_Computer-Vision/Syllabus/AIE4340_Syllabus_Official.pdf",
+   "s": 16206,
+   "h": "254b2120d23a2c4e336a1cd9ebe6b8f07204f235c713f5e26fe165c8f9ccbfbe",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4350_Time-Series-Analysis/Syllabus/AIE4350_Syllabus_Official.pdf",
+   "s": 80512,
+   "h": "07865f418cb518ad68a22488e05908a6f2d1ebeacde42ad9155585efb16f3e44",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4360_Speech-Synthesis/Syllabus/AIE4360_Syllabus_Official.pdf",
+   "s": 81498,
+   "h": "dbae209d975cb10f482f8cb8ac5f608d1b8e778fe3d58f360e27824e9d866d0f",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4380_Text-Mining/Syllabus/AIE4380_Syllabus_Official.pdf",
+   "s": 79893,
+   "h": "6c330ca1afe03fd5a2d83237ad2170eea1124bab28d4e4bc055f161c342dfd99",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4390_Information-Retrieval/Syllabus/AIE4390_Syllabus_Official.pdf",
+   "s": 19004,
+   "h": "1f145a76f62d568b417ce588625dd96ada03a33e35bb1683ea9c59c78be204ee",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4430_Cryptography/Syllabus/AIE4430_Syllabus_Official.pdf",
+   "s": 81244,
+   "h": "95d9c84ff3275dd7cd7276b6c08a01c42d71ce80a6df5ad180cd9d89ee8095b6",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4450_Randomized-Algorithm/Syllabus/AIE4450_Syllabus_Official.pdf",
+   "s": 15722,
+   "h": "765339c19c7ca1c16e8e7d5dcb40a55b904f134c7aa38dffa6f9788013e15420",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4460_Blockchain-Technology/Syllabus/AIE4460_Syllabus_Official.pdf",
+   "s": 80839,
+   "h": "06130e15052dc95f184cf1271294417cc6aad2b45510b0b6b8d11b60c0a0d2f9",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4470_AI-Applications-in-Healthcare/Syllabus/AIE4470_Syllabus_Official.pdf",
+   "s": 80740,
+   "h": "3e6e13a24fa4fe830b92dff069a1482eecaeb9fdbb858f541d035726f4360075",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4480_AI-Applications-in-Forensics/Syllabus/AIE4480_Syllabus_Official.pdf",
+   "s": 19730,
+   "h": "9b3a743b3c6066ba6bf9c35c73a38952415c3ad74fc4ff72663b4f209f1bb359",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4490_Quantum-Computing/Syllabus/AIE4490_Syllabus_Official.pdf",
+   "s": 81116,
+   "h": "1b17dc16cd3082fe29a39ea8b064e2c6f07e60d0043b2bb6a0a881ed551c4beb",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4500_Cognitive-Sciences/Syllabus/AIE4500_Syllabus_Official.pdf",
+   "s": 17603,
+   "h": "4cb37abea315b6844d258e14a2dbf1d996280b470ea1428741e703ded99deb15",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COE4570-AIE4570_Internet-of-Things/Syllabus/AIE4570_Syllabus_Official.pdf",
+   "s": 80893,
+   "h": "0d7459815e29854a7fca7eadf83bb8c860b973bd6c3feb6cdd9ef9721550f8ec",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COE4600-AIE4600_Principles-of-Cyber-Physical-Systems/Syllabus/AIE4600_Syllabus_Official.pdf",
+   "s": 35229,
+   "h": "2cf58408613c8ef803794080de5046612c29814011abcf508d53f2f23c1a8d60",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Syllabus/AIE2020_Old-Syllabus_Official.pdf",
+   "s": 85182,
+   "h": "42b594918fdbb328416846b463a8505e08d57ab024a3e66b6be485a43bf73009",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Syllabus/AIC2040_Old-Syllabus_Official.pdf",
+   "s": 15434,
+   "h": "83466e278bbfb9c12fe900a7217b86c771574962b78bd4aaae28124a0c3af992",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2152_AI-Tools-and-Techniques/Syllabus/AIC2150_Old-Syllabus_Official.pdf",
+   "s": 80230,
+   "h": "29e3984498a83dd044d0f86a24f1873f61c371b872198f01de4d03240affcfc0",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/AIC3072_AI-System-Design/Syllabus/AIC3070_Old-Syllabus_Official.pdf",
+   "s": 81055,
+   "h": "48d5f9e9ff736ada6f6b68d3a9cd21f2b2e1de99cc145b70ee6e3eef5af0daf0",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/AIC3942_Machine-Learning-Lab/Syllabus/AIC3940_Old-Syllabus_Official.pdf",
+   "s": 15285,
+   "h": "a64e78dbda314b90966cb93679ecf62434445a13ab3621e54484506e783cbc04",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem6/AIC3142_Deep-Learning/Syllabus/AIC3140_Old-Syllabus_Official.pdf",
+   "s": 16754,
+   "h": "bc9bb9034bebe6335b2603c01cd24a3d9dc8627515c88285388afbf45e995735",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem6/AIC3172-COE4620_Natural-Language-Processing/Syllabus/AIE4370_Old-Syllabus_Official.pdf",
+   "s": 81170,
+   "h": "d4227f551b263584f82709565f5fa6cd245267b5e487698ea69d41fc1bc12cf3",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem6/AIC3972_Deep-Learning-Lab/Syllabus/AIC3970_Old-Syllabus_Official.pdf",
+   "s": 17749,
+   "h": "015b65036f881c48d7b26ad0df1709643f280785c71d491660b71bbfaf2b4ba7",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/AIC4252_Advanced-Machine-Learning/Syllabus/AIE4250_Old-Syllabus_Official.pdf",
+   "s": 17459,
+   "h": "3eb99d5b886e8c961357567465523f81f5baa4f793bf8cede7df8ff5d52627ff",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/AIC4972_Advanced-AI-Lab/Syllabus/AIC4970_Old-Syllabus_Official.pdf",
+   "s": 14876,
+   "h": "18bf6d872d819c3abc8e977f85d43c9aadae094cbca6bc3b02e5dd531493f19a",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/AIE4230_Reinforcement-Learning-and-Game-Theory/Syllabus/AIE4230_Syllabus_Official.pdf",
+   "s": 80324,
+   "h": "034a0f726338fe2c89e021c6e4ff59d2dae17dfa22a9bb593d43b3908305510a",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/AIE4280_Big-Data-Tools-and-Techniques/Syllabus/AIE4280_Syllabus_Official.pdf",
+   "s": 15175,
+   "h": "1b58dde876129fdec827fb6f100c51493d38f1d40322e3e119fbf3f5db71e1cb",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/AIE4290_Data-Visualization-Tools-and-Techniques/Syllabus/AIE4290_Syllabus_Official.pdf",
+   "s": 19058,
+   "h": "61a7df801e3c0e801bdd33e86db1cf917b0333bc39ea5881269c1da8b606d8b8",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/AIE4320_Image-and-Video-Processing/Syllabus/AIE4320_Syllabus_Official.pdf",
+   "s": 81094,
+   "h": "216fb505691dd6e89d2fc7173547c5b8f78460c2055ca31858cd0fa67f1d702d",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/AIE4330_Recommender-Systems/Syllabus/AIE4330_Syllabus_Official.pdf",
+   "s": 137026,
+   "h": "5931ef2cce5fa407ea24a82857be9e4de56258b04a4f7f5e50f404aa43ba0fa0",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/COC4010-AIE4010_Information-Security/Syllabus/AIE4010_Syllabus_Official.pdf",
+   "s": 83771,
+   "h": "722bf03aa4019ec155b9a9413ad74a99a44eaae8fe55fe06f65ab77c6c172707",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem8/AIE4260_Computational-Intelligence/Syllabus/AIE4260_Syllabus_Official.pdf",
+   "s": 80660,
+   "h": "489d36cfa2a7fbc11dddf71f50244f1794cf5740fd0b8ada75b4980b2e43ef0b",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/_Curriculum/Official/BTech_Artificial-Intelligence_Syllabus.pdf",
+   "s": 551736,
+   "h": "b73db39ac2240c79b3c3401e53438091ac32f091ed6ef9fc922d6a2e3a3f87e5",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC2130_Statistical-Learning/Syllabus/AIC2130_Syllabus_Official.pdf",
+   "s": 79832,
+   "h": "824fd4cab6070d800473c9871dde890f0fa6aa0cf67b39924f34e4032d676453",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC2940_Python-Programming-Laboratory/Syllabus/AIC2940_Syllabus_Official.pdf",
+   "s": 19001,
+   "h": "a3086d0eb7dedaa3aee930b9e666a063abb12bbd233dd3365bbeee4dc5dad60c",
+   "t": 1793438992
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC3060_Artificial-Neural-Networks/Syllabus/AIC3060_Syllabus_Official.pdf",
+   "s": 80194,
+   "h": "4265493558c07a40a17d27fc6794a316d6e362674542c291692447f2931680be",
+   "t": 1793438992
+  }
+ ]
+}

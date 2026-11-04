@@ -1,0 +1,1876 @@
+{
+ "id": "20261031-140442-merge",
+ "created": "2026-10-31T14:04:42+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "merge duplicate course folders"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK231_Course-Code/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK231_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK231_Course-Code/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK231_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK231_Course-Code/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK231_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK231_Course-Cone/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK231_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PH242_Process-Development-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK242_Process-Development-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK213_Fluid-Mechanics-and-Mechanicat-Operations/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK213_Fluid-Mechanics-and-Mechanical-Operations/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PR213_Fluid-Mechanics-and-Mechanical-Operations/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK213_Fluid-Mechanics-and-Mechanical-Operations/PYQs-and-Assignments/Sem-End_2013-14_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/BL202_Electronics-and-Instrumentation/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/EL202_Electronics-and-Instrumentation/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK222_Course-Code/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK222_Crude-Oil-and-Petroleum-Products/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK222_Course-Code/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK222_Crude-Oil-and-Petroleum-Products/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK222_Course-Code/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK222_Crude-Oil-and-Petroleum-Products/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK411_Course-Code/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK411_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK411_Course-Code/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK411_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK411_Course-Code/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK411_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK411_Course-Code/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK411_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2018-19.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK411_Course-Code/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK411_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PR213_Fluid-Mechanics-and-Mechanical-Operations/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK213_Fluid-Mechanics-and-Mechanical-Operations/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/BL202_Electronics-and-Instrumentation/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/EL202_Electronics-and-Instrumentation/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/BU202_Communication-Skills/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/HU202_Communication-Skills/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/HL202_Communication-Skills/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/HU202_Communication-Skills/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK222_Course-Code/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK222_Crude-Oil-and-Petroleum-Products/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/HU202_P-Communication-Skills/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/HU202_Communication-Skills/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/HU202_P-Communication-Skills/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/HU202_Communication-Skills/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE352_Course-No/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE352_Electrical-and-Electronics-Instrumentation/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE325_Course-Code/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE325_New-and-Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL2452_Theory-of-Electromagnetic-Waves/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL252_Theory-of-Electromagnetic-Waves/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM252_Higher-Mathematics-I/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM252_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM252_Higher-Mathematics-I/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM252_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM252_Higher-Mathematics-I/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM252_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2018-19.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM252_Higher-Mathematics-I/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM252_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MF418_Advanced-Mechanics-of-Sot-Ids/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME418_Advanced-Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/AM211_Mathematics-Hi/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/AM211_Mathematics-III/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EE421_Course-Code/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EE421_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EE421_Course-Code/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EE421_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME401_Cheating-Ventilation-and-Air-Condi-Ioning/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME401_Heating-Ventilation-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2018-19.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC2012_Couese-Code/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC2012_Fluid-Mechanics-and-Mechanical-Operations-in-Food-Industry/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC2012_Couese-Code/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC2012_Fluid-Mechanics-and-Mechanical-Operations-in-Food-Industry/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE278_Matlab-For-Engineers/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE278-EEE278_Matlab-for-Engineers/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE278_Matlab-For-Engineers/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE278-EEE278_Matlab-for-Engineers/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE278_Matlab-For-Engineers/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE278-EEE278_Matlab-for-Engineers/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE278_Matlab-For-Engineers/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE278-EEE278_Matlab-for-Engineers/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE278_Matlab-For-Engineers/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE278-EEE278_Matlab-for-Engineers/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/FE278_Matlab-For-Engineers/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE278-EEE278_Matlab-for-Engineers/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEE278_Matlab-For-Engineers/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE278-EEE278_Matlab-for-Engineers/PYQs-and-Assignments/Sem-End_2014-15_EEE278.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEE278_Matlab-For-Engineers/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE278-EEE278_Matlab-for-Engineers/PYQs-and-Assignments/Sem-End_2015-16_EEE278.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEE278_Matlab-For-Engineers/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE278-EEE278_Matlab-for-Engineers/PYQs-and-Assignments/Sem-End_2017-18_EEE278.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEE278_Matlab-For-Engineers/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE278-EEE278_Matlab-for-Engineers/PYQs-and-Assignments/Sem-End_2018-19_EEE278.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEE278_Matlab-For-Engineers/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE278-EEE278_Matlab-for-Engineers/PYQs-and-Assignments/Sem-End_2019-20_EEE278.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/BE204_Elecyrical-Techn-Ology/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE204-EEE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE204-EEE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2015-16_EEE204.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE333_Course-No/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE333-EEE333_Power-System-Protection/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEE333_Course-Code/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE333-EEE333_Power-System-Protection/PYQs-and-Assignments/Sem-End_2017-18_EEE333.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE423_Solar-Energy-and-Its-Application/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE423-EEE423_Solar-Energy-and-Its-Applications/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE423_Solar-Energy-and-Its-Application/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE423-EEE423_Solar-Energy-and-Its-Applications/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE423_Solar-Energy-and-Its-Application/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE423-EEE423_Solar-Energy-and-Its-Applications/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEE423_Solar-Energy-and-Applications/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE423-EEE423_Solar-Energy-and-Its-Applications/PYQs-and-Assignments/Sem-End_2017-18_EEE423.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEE423_Solar-Energy-and-Applications/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE423-EEE423_Solar-Energy-and-Its-Applications/PYQs-and-Assignments/Sem-End_2018-19_EEE423.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE473_Microprocessor-Systems-and-Applications/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE473-EEE473_Microprocessor-Systems-and-Applications/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE473_Microprocessor-Systems-and-Applications/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE473-EEE473_Microprocessor-Systems-and-Applications/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE473_Microprocessor-Systems-and-Applications/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE473-EEE473_Microprocessor-Systems-and-Applications/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE473_Microprocessor-Systems-and-Applications/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE473-EEE473_Microprocessor-Systems-and-Applications/PYQs-and-Assignments/Sem-End_2018-19.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE473_Microprocessor-Systems-and-Applications/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE473-EEE473_Microprocessor-Systems-and-Applications/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEE473_Microprocessor-Systems-and-Applications/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE473-EEE473_Microprocessor-Systems-and-Applications/PYQs-and-Assignments/Sem-End_2018-19_EEE473.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEE473_Microprocessor-Systems-and-Applications/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE473-EEE473_Microprocessor-Systems-and-Applications/PYQs-and-Assignments/Sem-End_2019-20_EEE473.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA3010-EEEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA3010-EEEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA3010-EEEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2023-24_EEEA3010.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EL201_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EL201-EEL201_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EL201_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EL201-EEL201_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EL201_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EL201-EEL201_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EL201_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EL201-EEL201_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EL201_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EL201-EEL201_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EL201_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EL201-EEL201_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2018-19.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EL201_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EL201-EEL201_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEL201_Electronics-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EL201-EEL201_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2018-19_EEL201.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340-EME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2012-13_2.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340-EME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2012-13_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340-EME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340-EME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MF340_L-Economics-and-Management/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340-EME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2013-14_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EME340_Economics-Management/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340-EME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2015-16_EME340.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME211_Machine-Drawing-and-Computer-Graphics/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME211-EME211_Machine-Drawing-and-Computer-Graphics/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME211_Machine-Drawing-and-Computer-Graphics/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME211-EME211_Machine-Drawing-and-Computer-Graphics/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME211_Machine-Drawing-and-Computer-Graphics/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME211-EME211_Machine-Drawing-and-Computer-Graphics/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MU211_Machine-Drawing-and-Computer-Graphics/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME211-EME211_Machine-Drawing-and-Computer-Graphics/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EME211_Machine-Drawing-and-Computer-Graphics/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME211-EME211_Machine-Drawing-and-Computer-Graphics/PYQs-and-Assignments/Sem-End_2014-15_EME211.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EME211_Machine-Drawing-and-Computer-Graphics/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME211-EME211_Machine-Drawing-and-Computer-Graphics/PYQs-and-Assignments/Sem-End_2015-16_EME211.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME420_Fuel-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME420-EME420_Fuels-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME420_Fuel-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME420-EME420_Fuels-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME420_Fuel-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME420-EME420_Fuels-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME420_Fuel-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME420-EME420_Fuels-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2018-19.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME420_Fuels-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME420-EME420_Fuels-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME420_Fuels-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME420-EME420_Fuels-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME420_Fuels-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME420-EME420_Fuels-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EME420_Fuel-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME420-EME420_Fuels-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2017-18_EME420.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EME420_Fuel-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME420-EME420_Fuels-and-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2018-19_EME420.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME215_Kinematics-and-Design-of-Machines/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME215-EME215_Kinematics-and-Design-of-Machines/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME215_Kinematics-and-Design-of-Machines/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME215-EME215_Kinematics-and-Design-of-Machines/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME215_Kinematics-and-Design-of-Machines/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME215-EME215_Kinematics-and-Design-of-Machines/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EME215_Kinematics-Design-of-Machines/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME215-EME215_Kinematics-and-Design-of-Machines/PYQs-and-Assignments/Sem-End_2014-15_EME215.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EME215_Kinematics-Design-of-Machines/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME215-EME215_Kinematics-and-Design-of-Machines/PYQs-and-Assignments/Sem-End_2015-16_EME215.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EME215_Kinematics-Design-of-Machines/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME215-EME215_Kinematics-and-Design-of-Machines/PYQs-and-Assignments/Sem-End_2018-19_EME215.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EME215_Kinematics-Design-of-Machines/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME215-EME215_Kinematics-and-Design-of-Machines/PYQs-and-Assignments/Sem-End_2019-20_EME215.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME407_Processing-of-Plastics-Polymers-Ceramics-De/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME407-EME407_Processing-of-Plastics-Polymers-and-Ceramics/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME407_Processing-of-Plastics-Polymers-Ceramics-De/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME407-EME407_Processing-of-Plastics-Polymers-and-Ceramics/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EME407_Processing-of-Plastics-Polymers-and-Ceramics/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME407-EME407_Processing-of-Plastics-Polymers-and-Ceramics/PYQs-and-Assignments/Sem-End_2017-18_EME407.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME429-EME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME429-EME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2014-15_2.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME429-EME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2014-15_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME429-EME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME429-EME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME429-EME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME429-EME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME429-EME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2015-16_EME429.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME429-EME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2017-18_EME429.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME429-EME429_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2018-19_EME429.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451-EME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451-EME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451-EME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451-EME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451-EME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451-EME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2018-19_EME451.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451-EME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2022-23_EME451.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME453_Numerical-Control-of-Machine-Tools-De/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME453-EME453_Numerical-Control-of-Machine-Tools/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME453_Numerical-Control-of-Machine-Tools-De/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME453-EME453_Numerical-Control-of-Machine-Tools/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME453_Numerical-Control-of-Machine-Tools-De/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME453-EME453_Numerical-Control-of-Machine-Tools/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME453_Numerical-Control-of-Machine-Tools-De/PYQs-and-Assignments/Sem-End_2016-17_2.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME453-EME453_Numerical-Control-of-Machine-Tools/PYQs-and-Assignments/Sem-End_2016-17_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME453_Numerical-Control-of-Machine-Tools-De/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME453-EME453_Numerical-Control-of-Machine-Tools/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME453_Numerical-Control-of-Machine-Tools-De/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME453-EME453_Numerical-Control-of-Machine-Tools/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EME453_Numerical-Control-of-Machine-Tools-De/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME453-EME453_Numerical-Control-of-Machine-Tools/PYQs-and-Assignments/Sem-End_2017-18_EME453.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EME453_Numerical-Control-of-Machine-Tools-De/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME453-EME453_Numerical-Control-of-Machine-Tools/PYQs-and-Assignments/Sem-End_2018-19_EME453.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4120_Introduction-To-Fem/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4120-EMEE4120_Introduction-to-Finite-Element-Method/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EMEE4120_Introduction-To-Finite-Element-Method/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4120-EMEE4120_Introduction-to-Finite-Element-Method/PYQs-and-Assignments/Sem-End_2023-24_EMEE4120.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4230_Refrigeration-Air-Conditioning/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4230-EMEE4230_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4230_Refrigeration-Air-Conditioning/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4230-EMEE4230_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4230_Refrigeration-Air-Conditioning/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4230-EMEE4230_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4230_Refrigeration-Air-Conditioning/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4230-EMEE4230_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EMEE4230_Mechanical/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4230-EMEE4230_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2022-23_EMEE4230.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4231_Refrigeration-Cold-Chain/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4231-EMEE4231_Refrigeration-and-Cold-Chain/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4231_Refrigeration-Cold-Chain/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4231-EMEE4231_Refrigeration-and-Cold-Chain/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4231_Refrigeration-Cold-Chain/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4231-EMEE4231_Refrigeration-and-Cold-Chain/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EMEE4231_Refrigeration-Cold-Chain/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4231-EMEE4231_Refrigeration-and-Cold-Chain/PYQs-and-Assignments/Sem-End_2025-26_EMEE4231.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4290_Introduction-To-Electric-Vehicles/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4290-EMEE4290_Introduction-to-Electric-Vehicles/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EMEE4290_Introduction-To-Electric-Vehicles/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4290-EMEE4290_Introduction-to-Electric-Vehicles/PYQs-and-Assignments/Sem-End_2022-23_EMEE4290.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EEA3010-EEEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EEA3010-EEEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EEA3010-EEEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EEEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EEA3010-EEEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2019-20_EEEA3010.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EEEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EEA3010-EEEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2022-23_EEEA3010.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EEEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EEA3010-EEEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2024-25_EEEA3010.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE204-EEE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE204-EEE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE204-EEE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE204-EEE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE204-EEE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EEE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE204-EEE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2014-15_EEE204.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EEE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE204-EEE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2017-18_EEE204.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EEE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE204-EEE204_Electrical-Technology/PYQs-and-Assignments/Sem-End_2018-19_EEE204.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111-EME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111-EME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2014-15_2.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111-EME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2014-15_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111-EME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111-EME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2016-17_2.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111-EME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2016-17_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111-EME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111-EME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2018-19.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111-EME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111-EME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2017-18_EME111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111-EME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2018-19_EME111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EE111_Basics-of-Electrical-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EE111-EEE111_Basic-Electrical-and-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EE111_Basics-of-Electrical-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EE111-EEE111_Basic-Electrical-and-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EE111_Basics-of-Electrical-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EE111-EEE111_Basic-Electrical-and-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EE111_Basics-of-Electrical-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2017-18_2.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EE111-EEE111_Basic-Electrical-and-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2017-18_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EE111_Basics-of-Electrical-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EE111-EEE111_Basic-Electrical-and-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2018-19.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EE111_Basics-of-Electrical-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2018-19_2.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EE111-EEE111_Basic-Electrical-and-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2018-19_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EE111_Basics-of-Electrical-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EE111-EEE111_Basic-Electrical-and-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EEE111_Basic-Electrical-and-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EE111-EEE111_Basic-Electrical-and-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2017-18_EEE111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EEE111_Basic-Electrical-and-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EE111-EEE111_Basic-Electrical-and-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2018-19_EEE111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EEE111_Basic-Electrical-and-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EE111-EEE111_Basic-Electrical-and-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2019-20_EEE111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM111_Mathematics-I/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM111-EAM111_Mathematics-I/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM111_Mathematics-I/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM111-EAM111_Mathematics-I/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM111_Mathematics-I/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM111-EAM111_Mathematics-I/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM111_Mathematics-I/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM111-EAM111_Mathematics-I/PYQs-and-Assignments/Sem-End_2018-19.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EAM111_Mathematics/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM111-EAM111_Mathematics-I/PYQs-and-Assignments/Sem-End_2018-19_EAM111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EAM111_Mathematics/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM111-EAM111_Mathematics-I/PYQs-and-Assignments/Sem-End_2019-20_EAM111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM112_Mathematics-If/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM112-EAM112_Mathematics-II/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM112_Mathematics-If/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM112-EAM112_Mathematics-II/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM112_Mathematics-If/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM112-EAM112_Mathematics-II/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM112_Mathematics-If/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM112-EAM112_Mathematics-II/PYQs-and-Assignments/Sem-End_2018-19.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM112_Mathematics-If/PYQs-and-Assignments/Sem-End_2018-19_2.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM112-EAM112_Mathematics-II/PYQs-and-Assignments/Sem-End_2018-19_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM112_Mathematics-If/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM112-EAM112_Mathematics-II/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EAM112_Mathematics-Ii/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM112-EAM112_Mathematics-II/PYQs-and-Assignments/Sem-End_2017-18_EAM112.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EAM112_Mathematics-Ii/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM112-EAM112_Mathematics-II/PYQs-and-Assignments/Sem-End_2018-19_EAM112.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EAM112_Mathematics-Ii/PYQs-and-Assignments/Sem-End_2021-22.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM112-EAM112_Mathematics-II/PYQs-and-Assignments/Sem-End_2021-22_EAM112.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM102_Applied-Mathematics-Ii-Old-Course/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM102-EAM102_Applied-Mathematics-II/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EAM102_Mathematics-Ii/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM102-EAM102_Applied-Mathematics-II/PYQs-and-Assignments/Sem-End_2014-15_EAM102.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211_Mathematics/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211-EAM211_Mathematics-III/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211_Mathematics/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211-EAM211_Mathematics-III/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211_Mathematics/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211-EAM211_Mathematics-III/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211_Mathematics/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211-EAM211_Mathematics-III/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211_Mathematics/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211-EAM211_Mathematics-III/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211_Mathematics/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211-EAM211_Mathematics-III/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211_Mathematics/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211-EAM211_Mathematics-III/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/EAM211_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211-EAM211_Mathematics-III/PYQs-and-Assignments/Sem-End_2019-20_EAM211.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM212_Higher-Mathematics-Ii/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM212-EAM212_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM212_Higher-Mathematics-Ii/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM212-EAM212_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM212_Higher-Mathematics-Ii/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM212-EAM212_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/EAM212_Higher-Mathematics-Iw/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM212-EAM212_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2015-16_EAM212.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/EAM212_Higher-Mathematics-Iw/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM212-EAM212_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2017-18_EAM212.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/EAM212_Higher-Mathematics-Iw/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM212-EAM212_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2018-19_EAM212.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE217_Construction-Practice/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE217-ECE217_Construction-Practice/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE217_Construction-Practice/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE217-ECE217_Construction-Practice/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE217_Construction-Practice/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE217-ECE217_Construction-Practice/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE217_Construction-Practice/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE217-ECE217_Construction-Practice/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECE217_Construction-Practice/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE217-ECE217_Construction-Practice/PYQs-and-Assignments/Sem-End_2014-15_ECE217.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECE217_Construction-Practice/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE217-ECE217_Construction-Practice/PYQs-and-Assignments/Sem-End_2015-16_ECE217.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE218_Surveying-I/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE218-ECE218_Surveying-I/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE218_Surveying-I/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE218-ECE218_Surveying-I/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE218_Surveying-I/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE218-ECE218_Surveying-I/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE218_Surveying-I/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE218-ECE218_Surveying-I/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECE218_Surveying-Ce/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE218-ECE218_Surveying-I/PYQs-and-Assignments/Sem-End_2014-15_ECE218.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE316_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE316-ECE316_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE316_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE316-ECE316_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE316_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE316-ECE316_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE316_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE316-ECE316_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECE316_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE316-ECE316_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2015-16_ECE316.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECE316_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE316-ECE316_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2019-20_ECE316.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE410_Construction-Management/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE410-ECE410_Construction-Management/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE410_Construction-Management/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE410-ECE410_Construction-Management/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE410_Construction-Management/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE410-ECE410_Construction-Management/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECE410_Construction-Management/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE410-ECE410_Construction-Management/PYQs-and-Assignments/Sem-End_2017-18_ECE410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECE410_Construction-Management/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE410-ECE410_Construction-Management/PYQs-and-Assignments/Sem-End_2018-19_ECE410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150_Quantity-Survey/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/PYQs-and-Assignments/Sem-End_2018-19.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150_Quantity-Survey/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150_Quantity-Survey/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150_Quantity-Survey/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150_Quantity-Survey/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150_Quantity-Survey/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEC2150_Quantity-Survey/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/PYQs-and-Assignments/Sem-End_2024-25_ECEC2150.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160_Civil-Engineering-Materials-and-Construction-Practice/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160_Civil-Engineering-Materials-and-Construction-Practice/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160_Civil-Engineering-Materials-and-Construction-Practice/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEC2160_Civil-Engineering-Materials-Construction-Practice/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/PYQs-and-Assignments/Sem-End_2022-23_ECEC2160.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEC2160_Civil-Engineering-Materials-Construction-Practice/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/PYQs-and-Assignments/Sem-End_2023-24_ECEC2160.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEC2160_Civil-Engineering-Materials-Construction-Practice/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/PYQs-and-Assignments/Sem-End_2024-25_ECEC2160.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3140_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3140-ECEC3140_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3140_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3140-ECEC3140_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3140_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3140-ECEC3140_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEC3140_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3140-ECEC3140_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2022-23_ECEC3140.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEC3140_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3140-ECEC3140_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2023-24_ECEC3140.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEC3140_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3140-ECEC3140_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2024-25_ECEC3140.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3190_T-Engineering-Hydraulics-Ii/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3190-ECEC3190_Engineering-Hydraulics-II/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3190_T-Engineering-Hydraulics-Ii/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3190-ECEC3190_Engineering-Hydraulics-II/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEC3190_Engineering-Hyfraulics-Ii/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3190-ECEC3190_Engineering-Hydraulics-II/PYQs-and-Assignments/Sem-End_2022-23_ECEC3190.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEC3190_Engineering-Hyfraulics-Ii/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3190-ECEC3190_Engineering-Hydraulics-II/PYQs-and-Assignments/Sem-End_2023-24_ECEC3190.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEC3190_Engineering-Hyfraulics-Ii/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3190-ECEC3190_Engineering-Hydraulics-II/PYQs-and-Assignments/Sem-End_2024-25_ECEC3190.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510_Concrete-Technology/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510_Concrete-Technology/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510_Concrete-Technology/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEE4510_Concrete-Technology/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/PYQs-and-Assignments/Sem-End_2023-24_ECEE4510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEE4510_Concrete-Technology/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/PYQs-and-Assignments/Sem-End_2024-25_ECEE4510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570_Rock-Engineering/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEE4570_Rock-Engineering/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/PYQs-and-Assignments/Sem-End_2022-23_ECEE4570.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2022-23_ECEE4590.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2023-24_ECEE4590.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2024-25_ECEE4590.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2025-26_ECEE4590.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660-ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660-ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660-ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/Sem-End_2022-23_ECEE4660.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660-ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/Sem-End_2023-24_ECEE4660.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660-ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/Sem-End_2024-25_ECEE4660.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH2210_Construction-Management-I/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH2210-ECEH2210_Construction-Management-I/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH2210_Construction-Management-I/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH2210-ECEH2210_Construction-Management-I/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEH2210_Construction-Management-I/PYQs-and-Assignments/Sem-End_2021-22.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH2210-ECEH2210_Construction-Management-I/PYQs-and-Assignments/Sem-End_2021-22_ECEH2210.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEH2210_Construction-Management-I/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH2210-ECEH2210_Construction-Management-I/PYQs-and-Assignments/Sem-End_2022-23_ECEH2210.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEH2210_Construction-Management-I/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH2210-ECEH2210_Construction-Management-I/PYQs-and-Assignments/Sem-End_2023-24_ECEH2210.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEH2210_Construction-Management-I/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH2210-ECEH2210_Construction-Management-I/PYQs-and-Assignments/Sem-End_2024-25_ECEH2210.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4710_Disaster-Management/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4710-ECEO4710_Disaster-Management/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEO4710_Disaster-Management/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4710-ECEO4710_Disaster-Management/PYQs-and-Assignments/Sem-End_2022-23_ECEO4710.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEO4710_Disaster-Management/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4710-ECEO4710_Disaster-Management/PYQs-and-Assignments/Sem-End_2023-24_ECEO4710.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720_Advance-Environmental-Engineering/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ECEO4720_Advanced-Environmental-Engineering/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/PYQs-and-Assignments/Sem-End_2023-24_ECEO4720.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ECEO4720_Advanced-Environmental-Engineering/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/PYQs-and-Assignments/Sem-End_2024-25_ECEO4720.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4710_Open-Elective-Disaster-Management/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4710-ECEO4710_Disaster-Management/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4710_Open-Elective-Disaster-Management/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4710-ECEO4710_Disaster-Management/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4710_Open-Elective-Disaster-Management/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4710-ECEO4710_Disaster-Management/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ECEO4710_Open-Elective-Disaster-Management/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4710-ECEO4710_Disaster-Management/PYQs-and-Assignments/Sem-End_2024-25_ECEO4710.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ECEO4710_Open-Elective-Disaster-Management/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4710-ECEO4710_Disaster-Management/PYQs-and-Assignments/Sem-End_2025-26_ECEO4710.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4740_Water-Resources-and-Watershed-Management/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4740-ECEO4740_Water-Resources-and-Watershed-Management/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4740_Water-Resources-and-Watershed-Management/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4740-ECEO4740_Water-Resources-and-Watershed-Management/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4740_Water-Resources-and-Watershed-Management/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4740-ECEO4740_Water-Resources-and-Watershed-Management/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ECEO4740_Water-Resources-and-Watershed-Management/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4740-ECEO4740_Water-Resources-and-Watershed-Management/PYQs-and-Assignments/Sem-End_2022-23_ECEO4740.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ECEO4740_Water-Resources-and-Watershed-Management/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4740-ECEO4740_Water-Resources-and-Watershed-Management/PYQs-and-Assignments/Sem-End_2024-25_ECEO4740.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEO4210_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEO4210-EEEO4210_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEO4210_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEO4210-EEEO4210_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEEO4210_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEO4210-EEEO4210_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2022-23_EEEO4210.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEEO4210_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEO4210-EEEO4210_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2023-24_EEEO4210.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEEO4210_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEO4210-EEEO4210_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2024-25_EEEO4210.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEEO4210_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEO4210-EEEO4210_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2025-26_EEEO4210.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020_Intellectual-Property-Rigthts-For-Engineers/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020-EEZH3020_Intellectual-Property-Rights-for-Engineers/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020_Intellectual-Property-Rigthts-For-Engineers/PYQs-and-Assignments/Sem-End_2022-23_2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020-EEZH3020_Intellectual-Property-Rights-for-Engineers/PYQs-and-Assignments/Sem-End_2022-23_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020_Intellectual-Property-Rigthts-For-Engineers/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020-EEZH3020_Intellectual-Property-Rights-for-Engineers/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020_Intellectual-Property-Rigthts-For-Engineers/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020-EEZH3020_Intellectual-Property-Rights-for-Engineers/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020_Intellectual-Property-Rigthts-For-Engineers/PYQs-and-Assignments/Sem-End_2024-25_2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020-EEZH3020_Intellectual-Property-Rights-for-Engineers/PYQs-and-Assignments/Sem-End_2024-25_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEZH3020_Intellectual-Property-Rigths-For-Engineers/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020-EEZH3020_Intellectual-Property-Rights-for-Engineers/PYQs-and-Assignments/Sem-End_2022-23_EEZH3020.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEZH3020_Intellectual-Property-Rigths-For-Engineers/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020-EEZH3020_Intellectual-Property-Rights-for-Engineers/PYQs-and-Assignments/Sem-End_2023-24_EEZH3020.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEZH3020_Intellectual-Property-Rigths-For-Engineers/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020-EEZH3020_Intellectual-Property-Rights-for-Engineers/PYQs-and-Assignments/Sem-End_2024-25_EEZH3020.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3030_Patent-Law-For-Engineers/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3030-EEZH3030_Patent-Law-for-Engineers/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3030_Patent-Law-For-Engineers/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3030-EEZH3030_Patent-Law-for-Engineers/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3030_Patent-Law-For-Engineers/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3030-EEZH3030_Patent-Law-for-Engineers/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3030_Patent-Law-For-Engineers/PYQs-and-Assignments/Sem-End_2024-25_2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3030-EEZH3030_Patent-Law-for-Engineers/PYQs-and-Assignments/Sem-End_2024-25_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3030_Patent-Law-For-Engineers/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3030-EEZH3030_Patent-Law-for-Engineers/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEZH3030_Patent-Law-For-Engineers/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3030-EEZH3030_Patent-Law-for-Engineers/PYQs-and-Assignments/Sem-End_2022-23_EEZH3030.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEZH3030_Patent-Law-For-Engineers/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3030-EEZH3030_Patent-Law-for-Engineers/PYQs-and-Assignments/Sem-End_2023-24_EEZH3030.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEZH3030_Patent-Law-For-Engineers/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3030-EEZH3030_Patent-Law-for-Engineers/PYQs-and-Assignments/Sem-End_2024-25_EEZH3030.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEZH3030_Patent-Law-For-Engineers/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3030-EEZH3030_Patent-Law-for-Engineers/PYQs-and-Assignments/Sem-End_2025-26_EEZH3030.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425-EME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425-EME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425-EME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425-EME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425-EME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425-EME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425-EME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2018-19.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425-EME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425-EME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2022-23_EME425.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME425-EME425_Air-Pollution-Technology/PYQs-and-Assignments/Sem-End_2023-24_EME425.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/MEO4220_Non-Conventional-Energy-Open-Elective-Ii/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/MEO4220-EMEO4220_Non-Conventional-Energy/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EMEO4220_Non-Conventional-Energy-Oe-I/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/MEO4220-EMEO4220_Non-Conventional-Energy/PYQs-and-Assignments/Sem-End_2022-23_EMEO4220.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EMEO4220_Non-Conventional-Energy-Oe-I/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/MEO4220-EMEO4220_Non-Conventional-Energy/PYQs-and-Assignments/Sem-End_2023-24_EMEO4220.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082_Open-Elective-O-E/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3080_Open-Elective-E/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/PYQs-and-Assignments/Sem-End_2022-23_ACO3080.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3080_Open-Elective-E/PYQs-and-Assignments/Sem-End_2022-23_2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/PYQs-and-Assignments/Sem-End_2022-23_ACO3080_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3080_Open-Elective-E/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/PYQs-and-Assignments/Sem-End_2023-24_ACO3080.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3080_Open-Elective-E/PYQs-and-Assignments/Sem-End_2023-24_2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/PYQs-and-Assignments/Sem-End_2023-24_ACO3080_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3080_Open-Elective-E/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/PYQs-and-Assignments/Sem-End_2024-25_ACO3080.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3080_Open-Elective-E/PYQs-and-Assignments/Sem-End_2024-25_2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/PYQs-and-Assignments/Sem-End_2024-25_ACO3080_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EACO3080_Open-Elective-E/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/PYQs-and-Assignments/Sem-End_2024-25_EACO3080.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AMO3512_Numerical-Techniques/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AMO3512-EAMO3510_Numerical-Techniques/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AMO3510_Numerical-Techniques/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AMO3512-EAMO3510_Numerical-Techniques/PYQs-and-Assignments/Sem-End_2022-23_AMO3510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AMO3510_Numerical-Techniques/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AMO3512-EAMO3510_Numerical-Techniques/PYQs-and-Assignments/Sem-End_2023-24_AMO3510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AMO3510_Numerical-Techniques/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AMO3512-EAMO3510_Numerical-Techniques/PYQs-and-Assignments/Sem-End_2024-25_AMO3510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EAMO3510_Numerical-Techniques/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AMO3512-EAMO3510_Numerical-Techniques/PYQs-and-Assignments/Sem-End_2023-24_EAMO3510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EAMO3510_Numerical-Techniques/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AMO3512-EAMO3510_Numerical-Techniques/PYQs-and-Assignments/Sem-End_2024-25_EAMO3510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/APO3091_Open-Elective/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/APO3091_Nanophysics-and-Nanotechnology/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/APO3090_Open-Elective/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/APO3091_Nanophysics-and-Nanotechnology/PYQs-and-Assignments/Sem-End_2022-23_APO3090.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/APO3090_Open-Elective/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/APO3091_Nanophysics-and-Nanotechnology/PYQs-and-Assignments/Sem-End_2023-24_APO3090.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/APO3090_Open-Elective/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/APO3091_Nanophysics-and-Nanotechnology/PYQs-and-Assignments/Sem-End_2024-25_APO3090.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2025-26_EMEE4152.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EMEE4150_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2024-25_EMEE4150.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4211_Itroduction-To-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4211-EMEE4211_Introduction-to-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4211_Itroduction-To-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4211-EMEE4211_Introduction-to-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EMEE4211_Fuels-and-Combustion/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4211-EMEE4211_Introduction-to-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2024-25_EMEE4211.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EMEE4210_Fuels-Combustion/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4211-EMEE4211_Introduction-to-Combustion-Engineering/PYQs-and-Assignments/Sem-End_2023-24_EMEE4210.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3311_Microprocessors-Microcontrollers/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3311_Microprocessors-and-Microcontrollers/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3310_Microprocessors-Microcontrollers/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3311_Microprocessors-and-Microcontrollers/PYQs-and-Assignments/Sem-End_2022-23_ELC3310.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3310_Microprocessors-Microcontrollers/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3311_Microprocessors-and-Microcontrollers/PYQs-and-Assignments/Sem-End_2023-24_ELC3310.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/ACS2010_Food-Chemistry-and-Nutrients/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/ACS2012_Food-Chemistry-and-Nutrition/PYQs-and-Assignments/Sem-End_2024-25_ACS2010.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/ACS3010_Food-Technology/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/ACS3011_Food-Technology/PYQs-and-Assignments/Sem-End_2022-23_ACS3010.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FT3020_Cereal-Pulses-and-Oilseed-Technology/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC3020_Cereals-Pulses-and-Oilseed-Technology/PYQs-and-Assignments/Sem-End_2024-25_FT3020.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTE3040_Fruits-and-Vegetables-Processing-Technology/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC3040_Fruits-and-Vegetables-Processing-Technology/PYQs-and-Assignments/Sem-End_2022-23_FTE3040.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTE4020_Selected-Topics-For-Food-Processing/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC4020_Selected-Topics-in-Food-Processing/PYQs-and-Assignments/Sem-End_2023-24_FTE4020.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Electives/EEE4130_Generalized-Theory-of-Electrical-Machines/Syllabus/EEE4130_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Electives/EEE4132_Generalized-Theory-of-Electrical-Machines/Syllabus/EEE4130_Old-Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Electives/EEE4430_Nonlinear-Control-System/Syllabus/EEE4430_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Electives/EEE4432_Nonlinear-Control-Systems/Syllabus/EEE4430_Old-Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/ATE4280_Big-Data-Tools-Techniques/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem7/AIE4280_Big-Data-Tools-and-Techniques/PYQs-and-Assignments/Sem-End_2024-25_ATE4280.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/ATE4290_Data-Visualization-Tools-Techniques/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem7/AIE4290_Data-Visualization-Tools-and-Techniques/PYQs-and-Assignments/Sem-End_2024-25_ATE4290.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/ATE4290_Data-Visualization-Tools-Techniques/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem7/AIE4290_Data-Visualization-Tools-and-Techniques/PYQs-and-Assignments/Sem-End_2025-26_ATE4290.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/ATE4320_Image-Video-Processing/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem7/AIE4320_Image-and-Video-Processing/PYQs-and-Assignments/Sem-End_2024-25_ATE4320.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/ATE4320_Image-Video-Processing/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem7/AIE4320_Image-and-Video-Processing/PYQs-and-Assignments/Sem-End_2025-26_ATE4320.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AITE4330_Recommender-Systems/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem7/AIE4330_Recommender-Systems/PYQs-and-Assignments/Sem-End_2025-26_AITE4330.pdf"
+  }
+ ]
+}

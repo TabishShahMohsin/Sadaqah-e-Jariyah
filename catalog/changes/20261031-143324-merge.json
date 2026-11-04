@@ -1,0 +1,61 @@
+{
+ "id": "20261031-143324-merge",
+ "created": "2026-10-31T14:33:24+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "record moves from an interrupted merge"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH442_Petroleum-Processing/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHE4430_Petroleum-Processing/PYQs-and-Assignments/Sem-End_2014-15_CH442.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH442_Petroleum-Processing/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHE4430_Petroleum-Processing/PYQs-and-Assignments/Sem-End_2015-16_CH442.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH442_Petroleum-Processing/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHE4430_Petroleum-Processing/PYQs-and-Assignments/Sem-End_2016-17_CH442.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH442_Petroleum-Processing/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHE4430_Petroleum-Processing/PYQs-and-Assignments/Sem-End_2017-18_CH442.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH452_Petroleum-Processing/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHE4430_Petroleum-Processing/PYQs-and-Assignments/Sem-End_2013-14_CH452.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH452_Petroleum-Processing/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHE4430_Petroleum-Processing/PYQs-and-Assignments/Sem-End_2014-15_CH452.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH452_Petroleum-Processing/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHE4430_Petroleum-Processing/PYQs-and-Assignments/Sem-End_2015-16_CH452.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/CO201_Algorithm-and-Data-Structure/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/CO206_Algorithms-and-Data-Structures/PYQs-and-Assignments/Sem-End_2012-13_CO201.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/CO202_Logic-Theory-and-Computer-Organization/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/CO207_Logic-Theory-and-Computer-Organization/PYQs-and-Assignments/Sem-End_2012-13_CO202.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/CO202_Logic-Theory-and-Computer-Organization/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/CO207_Logic-Theory-and-Computer-Organization/PYQs-and-Assignments/Sem-End_2013-14_CO202.pdf"
+  }
+ ]
+}

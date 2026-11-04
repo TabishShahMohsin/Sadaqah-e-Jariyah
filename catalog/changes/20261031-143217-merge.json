@@ -1,0 +1,1081 @@
+{
+ "id": "20261031-143217-merge",
+ "created": "2026-10-31T14:32:17+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "merge duplicate course folders"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL410_Rf-System-Design/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_Rf-System-Design/PYQs-and-Assignments/Sem-End_2013-14_EL410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL410_Rf-System-Design/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_Rf-System-Design/PYQs-and-Assignments/Sem-End_2014-15_EL410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL410_Rf-System-Design/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_Rf-System-Design/PYQs-and-Assignments/Sem-End_2015-16_EL410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL416_Rf-System-Design/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_Rf-System-Design/PYQs-and-Assignments/Sem-End_2012-13_EL416.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/ME240_Economics-and-Management/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2012-13_ME240.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ME240_Economics-and-Management/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2012-13_ME240.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ME240_Economics-and-Management/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2012-13_ME240.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/MEO4210_Heating-Ventilation-Air-Conditioning-Hvac/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/MEO4210_Heating-Ventilation-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ME401_Heating-Ventilation-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/MEO4210_Heating-Ventilation-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2018-19_ME401.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EE421_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEO4210-EEEO4210_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2015-16_EE421.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EE421_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEO4210-EEEO4210_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2016-17_EE421.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ER421_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEO4210-EEEO4210_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2014-15_ER421.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EE472_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEO4210-EEEO4210_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2013-14_EE472.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ERE421_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EEO4210-EEEO4210_Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2022-23_ERE421.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE325_New-and-Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4222_New-and-Renewable-Energy-Sources/PYQs-and-Assignments/Sem-End_2015-16_EE325.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451-EME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2012-13_ME451.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451-EME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2013-14_ME451.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451-EME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2015-16_ME451.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451-EME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2017-18_ME451.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451-EME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2018-19_EME451.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2018-19_EME451.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451-EME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2019-20_ME451.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME451-EME451_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2022-23_EME451.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2022-23_EME451.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EMEE4510_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2019-20_EMEE4510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4290-EMEE4290_Introduction-to-Electric-Vehicles/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4290-EMEE4291_Introduction-to-Electric-Vehicles/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4290-EMEE4290_Introduction-to-Electric-Vehicles/PYQs-and-Assignments/Sem-End_2022-23_EMEE4290.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4290-EMEE4291_Introduction-to-Electric-Vehicles/PYQs-and-Assignments/Sem-End_2022-23_EMEE4290.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EMEE4291_Electric-and-Hybrid-Vehicles-Introduction-To-Electric-Vehicles/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4290-EMEE4291_Introduction-to-Electric-Vehicles/PYQs-and-Assignments/Sem-End_2023-24_EMEE4291.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912_Machine-Drawing-Lab/Syllabus/EMEC2912_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Syllabus/EMEC2912_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912_Machine-Drawing-Lab/Syllabus/MEC2912_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Syllabus/MEC2912_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2912_Machine-Drawing-Lab/Syllabus/AEC2912_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Syllabus/AEC2912_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3942_Solid-Modelling-and-Analysis/Syllabus/EMEC3942_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3942-AEC3942_Solid-Modelling-and-Analysis-Lab/Syllabus/EMEC3942_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3942_Solid-Modelling-and-Analysis/Syllabus/MEC3942_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3942-AEC3942_Solid-Modelling-and-Analysis-Lab/Syllabus/MEC3942_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem6/AEC3942_Solid-Modeling-and-Analysis-Lab/Syllabus/AEC3942_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3942-AEC3942_Solid-Modelling-and-Analysis-Lab/Syllabus/AEC3942_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932_Manufacturing-Technology-Lab-III/Syllabus/EMEC3932_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Syllabus/EMEC3932_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932_Manufacturing-Technology-Lab-III/Syllabus/MEC3932_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Syllabus/MEC3932_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem6/AEC3932_Manufacturing-Technology-Lab-II/Syllabus/AEC3932_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Syllabus/AEC3932_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Books-and-Resources/Donald-G_Engineering-Economy_2012.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Books-and-Resources/Donald-G_Engineering-Economy_2012.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Books-and-Resources/Donald-G_Solutions_2008.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Books-and-Resources/Donald-G_Solutions_2008.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Books-and-Resources/Donald-G_Solutions_2009.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Books-and-Resources/Donald-G_Solutions_2009.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Books-and-Resources/Engineering-Economics.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Books-and-Resources/Engineering-Economics.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Books-and-Resources/Engineering-Economy-Book.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Books-and-Resources/Engineering-Economy-Book.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Books-and-Resources/YouTube-Playlist_EEM.xlsx",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Books-and-Resources/YouTube-Playlist_EEM.xlsx"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Complete-Notes/2022-23_Annual worth analysis_F.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/2022-23_Annual worth analysis_F.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Complete-Notes/2Controlling.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/2Controlling.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Complete-Notes/2Leadership.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/2Leadership.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Complete-Notes/2Motivation.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/2Motivation.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Complete-Notes/2Operations.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/2Operations.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Complete-Notes/Handwritten_EEM-Notebook_Austin-Varshney.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/Handwritten_EEM-Notebook_Austin-Varshney.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Complete-Notes/Human Resource.pptx",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/Human Resource.pptx"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Complete-Notes/Marketing.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/Marketing.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Complete-Notes/Organising.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/Organising.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Complete-Notes/Quality.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/Quality.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Complete-Notes/decision making.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/decision making.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Complete-Notes/management process.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/management process.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Complete-Notes/management_syllabus.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/management_syllabus.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Mid-Sem-1_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Mid-Sem-1_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Mid-Sem-2_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Mid-Sem-2_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Mid-Sem_2021-22.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Mid-Sem_2021-22.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Mid-Sem_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Mid-Sem_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Mid-Sem_2022-23_Makeup.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Mid-Sem_2022-23_Makeup.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Mid-Sem_2023-24.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Mid-Sem_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2015-16_Set-2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2015-16_Set-2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2018-19_EMEH2450.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2018-19_EMEH2450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2019-20_MEH3450.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2019-20_MEH3450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2019-20_Set-2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2019-20_Set-2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2021-22.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2021-22.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2021-22_EMEH2450.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2021-22_EMEH2450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2021-22_MEH2450.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2021-22_MEH2450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2022-23_EMEH2450.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2022-23_EMEH2450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2022-23_EMEH3450.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2022-23_EMEH3450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2022-23_MEH2450.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2022-23_MEH2450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2022-23_MEH3450.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2022-23_MEH3450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2022-23_MEH3450_3.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2022-23_MEH3450_3.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2022-23_MEH3450_4.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2022-23_MEH3450_4.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2022-23_MEH3450_5.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2022-23_MEH3450_5.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_EMEH2450.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_EMEH2450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_EMEH3450.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_EMEH3450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_MEH2450.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_MEH2450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_MEH2450_2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_MEH2450_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_MEH3450.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_MEH3450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_MEH3450_2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_MEH3450_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_MEH3450_3.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_MEH3450_3.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_MEH3450_4.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_MEH3450_4.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_MEH3450_5.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_MEH3450_5.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_EMEH2450.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_EMEH2450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_EMEH3450.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_EMEH3450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_MEH2450.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_MEH2450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_MEH3450.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_MEH3450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_MEH3450_4.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_MEH3450_4.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_MEH3450_6.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_MEH3450_6.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2025-26_MEH3450.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2025-26_MEH3450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Z_Assignment_Eco quiz ques.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Z_Assignment_Eco quiz ques.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Z_Assignment_Economics.docx",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Z_Assignment_Economics.docx"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Z_Assignment_Economics.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Z_Assignment_Economics.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Z_Assignment_economy.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Z_Assignment_economy.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Classroom_2026-27/Z_Assignment_MEH3452_Home_Assignment_due-2026-11-07.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Classroom_2026-27/Z_Assignment_MEH3452_Home_Assignment_due-2026-11-07.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Syllabus/EMEH3452_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Syllabus/EMEH3452_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Syllabus/MEH3452_Syllabus.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Syllabus/MEH3452_Syllabus.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Syllabus/MEH3452_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Syllabus/MEH3452_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Syllabus/MEH3452_Syllabus_photo_2025-07-28.jpg",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Syllabus/MEH3452_Syllabus_photo_2025-07-28.jpg"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Syllabus/Old_MEA3450_Syllabus_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Syllabus/Old_MEA3450_Syllabus_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Syllabus/Old_MEH3450_Syllabus_2022-23.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Syllabus/Old_MEH3450_Syllabus_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Syllabus/Old_MEH3450_Syllabus_2024-25.docx",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Syllabus/Old_MEH3450_Syllabus_2024-25.docx"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-1/2022-23_Breakeven Analysis.pptx",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/2022-23_Breakeven Analysis.pptx"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-1/2022-23_Class-Notes_Eco n Management 1.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/2022-23_Class-Notes_Eco n Management 1.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-1/2022-23_Class-Notes_Eco n Management 2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/2022-23_Class-Notes_Eco n Management 2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-1/2022-23_Class-Notes_Economics notes.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/2022-23_Class-Notes_Economics notes.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-1/2022-23_Class-Notes_Economy-Midsem_Handwritten.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/2022-23_Class-Notes_Economy-Midsem_Handwritten.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-1/2022-23_Economic Indicators.pptx",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/2022-23_Economic Indicators.pptx"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-1/2022-23_Forecasting.pptx",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/2022-23_Forecasting.pptx"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-1/2022-23_Prof-Notes_Old-Unit-1.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/2022-23_Prof-Notes_Old-Unit-1.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-1/2022-23_Prof-Notes_Old-Unit-2_Demand-Forecasting.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/2022-23_Prof-Notes_Old-Unit-2_Demand-Forecasting.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-1/2022-23_supply and demand_F.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/2022-23_supply and demand_F.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-1/Economic-Indicators_2025.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/Economic-Indicators_2025.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-1/Nasir-Sir_2024-25_Lecture-1.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/Nasir-Sir_2024-25_Lecture-1.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-1/Nasir-Sir_2024-25_Lecture-2_Economic-Indicators.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/Nasir-Sir_2024-25_Lecture-2_Economic-Indicators.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-1/Unit-1_Merged_2025.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/Unit-1_Merged_2025.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/01_UNIT-2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/01_UNIT-2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/02_UNIT-2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/02_UNIT-2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/03_UNIT-2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/03_UNIT-2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/05_UNIT-2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/05_UNIT-2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/06_UNIT-2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/06_UNIT-2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/07_INFLATION.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/07_INFLATION.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/2022-23_Class-Notes_Management Unit 1_1.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/2022-23_Class-Notes_Management Unit 1_1.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/2022-23_Class-Notes_Management Unit 1_2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/2022-23_Class-Notes_Management Unit 1_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/2022-23_Class-Notes_Management Unit 1_3.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/2022-23_Class-Notes_Management Unit 1_3.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/2022-23_Class-Notes_Management(1).pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/2022-23_Class-Notes_Management(1).pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/2022-23_Class-Notes_Management(3).pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/2022-23_Class-Notes_Management(3).pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/2022-23_Notes_Motivation_Old-Unit-4.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/2022-23_Notes_Motivation_Old-Unit-4.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/2022-23_Prof-Notes_5.1 Operations Management & forecating.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/2022-23_Prof-Notes_5.1 Operations Management & forecating.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/2022-23_Prof-Notes_5.2 Inventory Management.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/2022-23_Prof-Notes_5.2 Inventory Management.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/2022-23_Prof-Notes_5.3 Quality Management.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/2022-23_Prof-Notes_5.3 Quality Management.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/2022-23_Prof-Notes_5.6 International Business.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/2022-23_Prof-Notes_5.6 International Business.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/2022-23_Prof-Notes_MEH3450_Old-Unit-3_slides.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/2022-23_Prof-Notes_MEH3450_Old-Unit-3_slides.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/2022-23_Prof-Notes_MEH3450_Old-Unit-4_slides.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/2022-23_Prof-Notes_MEH3450_Old-Unit-4_slides.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/2022-23_Prof-Notes_Old-Unit-3_Management.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/2022-23_Prof-Notes_Old-Unit-3_Management.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/2022-23_Prof-Notes_Old-Unit-4_Planning-to-Operations.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/2022-23_Prof-Notes_Old-Unit-4_Planning-to-Operations.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Decision-Making_FH.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Decision-Making_FH.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Introduction-to-Management.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Introduction-to-Management.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Leadership-and-Motivation.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Leadership-and-Motivation.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Management_Organizing.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Management_Organizing.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Notes_EEM-Sir_Intro-to-Management.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Notes_EEM-Sir_Intro-to-Management.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_1. Decision Making.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_1. Decision Making.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_1. Decision making.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_1. Decision making.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_10. Marketing management 2024 AQ.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_10. Marketing management 2024 AQ.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_10. Marketing mgmt.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_10. Marketing mgmt.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_11. International Business.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_11. International Business.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_11. International business.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_11. International business.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_12. Human resource.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_12. Human resource.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_13. Quality Management.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_13. Quality Management.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_14. Capacity Planning.pptx",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_14. Capacity Planning.pptx"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_15. Operations Management_definition.pptx",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_15. Operations Management_definition.pptx"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_16. Inventory Management.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_16. Inventory Management.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_2. Ethics.pptx",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_2. Ethics.pptx"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_3. Management Process.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_3. Management Process.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_3. Managers.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_3. Managers.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_4. Planning.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_4. Planning.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_4. Planning.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_4. Planning.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_5. Organising.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_5. Organising.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_5. Organising.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_5. Organising.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_7. Leadership.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_7. Leadership.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_7. Leadership.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_7. Leadership.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_8. Motivation.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_8. Motivation.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_8. Motivation.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_8. Motivation.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_9. Control.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_9. Control.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_9. Controlling.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_9. Controlling.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_Unit-3_Intro-to-Management.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_Unit-3_Intro-to-Management.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 1 Facility.jpg",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 1 Facility.jpg"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 2 Facility.jpg",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 2 Facility.jpg"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 3 Facility.jpg",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 3 Facility.jpg"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 4 Facility.jpg",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 4 Facility.jpg"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 5 Facility.jpg",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 5 Facility.jpg"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 6 Facility.jpg",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 6 Facility.jpg"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 7 Facility.jpg",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 7 Facility.jpg"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 8 Facility.jpg",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 8 Facility.jpg"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 9 Facility.jpg",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_17_Facility-Images/17. 9 Facility.jpg"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/2022-10-26_Handwritten_Gradient-Series-Example.jpeg",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2022-10-26_Handwritten_Gradient-Series-Example.jpeg"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/2022-10-26_Handwritten_Uniform-Series-Withdrawals-Example.jpeg",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2022-10-26_Handwritten_Uniform-Series-Withdrawals-Example.jpeg"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/2022-23_Annual worth analysis_F.pptx",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2022-23_Annual worth analysis_F.pptx"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/2022-23_Document 230-1.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2022-23_Document 230-1.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/2022-23_Document 230.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2022-23_Document 230.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/2022-23_Nominal _ Effective Interest Rates.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2022-23_Nominal _ Effective Interest Rates.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/2022-23_Present worth analysis with unequal lives_F.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2022-23_Present worth analysis with unequal lives_F.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/2022-23_Time Value of Money_F.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2022-23_Time Value of Money_F.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/2022-23_present worth analysis_equal lives_F.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2022-23_present worth analysis_equal lives_F.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/2022-23_relations of cash flow.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2022-23_relations of cash flow.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/Handwritten_2025-09-02-to-12_Capitalized-Cost-Problems.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Handwritten_2025-09-02-to-12_Capitalized-Cost-Problems.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/Hasan-Sir_2024-25_Annual Worth.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Hasan-Sir_2024-25_Annual Worth.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/Hasan-Sir_2024-25_Present Worth 1.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Hasan-Sir_2024-25_Present Worth 1.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/Hasan-Sir_2024-25_Present worth 2.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Hasan-Sir_2024-25_Present worth 2.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/Hasan-Sir_2024-25_Time value Money.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Hasan-Sir_2024-25_Time value Money.ppt"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/Nasir-Sir_2024-25_Effective and Nominal Interest rate notes.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Nasir-Sir_2024-25_Effective and Nominal Interest rate notes.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/Nasir-Sir_2024-25_Effective and Nominal Interest rate.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Nasir-Sir_2024-25_Effective and Nominal Interest rate.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/Nasir-Sir_2024-25_Lecture-3_Time-Value-of-Money.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Nasir-Sir_2024-25_Lecture-3_Time-Value-of-Money.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/Nasir-Sir_2024-25_Time value of money chapter from Sullivan book.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Nasir-Sir_2024-25_Time value of money chapter from Sullivan book.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/Nominal-and-Effective-Interest-Rates.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Nominal-and-Effective-Interest-Rates.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/Shanky_Riggs-Ch3-Problems.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Shanky_Riggs-Ch3-Problems.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-3/Unit-3_Merged_2025.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Unit-3_Merged_2025.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-4/2022-23_Cost_Benefit_Analysis.pptx",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-4/2022-23_Cost_Benefit_Analysis.pptx"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-4/2022-23_Replacement Analysis.pptx",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-4/2022-23_Replacement Analysis.pptx"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-4/Depreciation_2025.pptx",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-4/Depreciation_2025.pptx"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/Unit-4/Unit-4_Merged_2025.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-4/Unit-4_Merged_2025.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem4/MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_MEH2452.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem4/MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_EMEH2452.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_EMEH2452.pdf"
+  }
+ ]
+}

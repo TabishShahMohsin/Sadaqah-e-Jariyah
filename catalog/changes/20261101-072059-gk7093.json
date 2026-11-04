@@ -1,0 +1,1520 @@
+{
+ "id": "20261101-072059-gk7093",
+ "created": "2026-11-01T07:20:59+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "credit": "gk7093",
+  "note": "Electrical material collected by gk7093 (_Inbox/BTech_Electrical, BTech_Electrical 2)"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment_2021-22_Solution.pdf",
+   "s": 8865355,
+   "h": "53756151371f99eebe838bfbf15adbf145f7a2b5f4f5f4af4f5d2ce36df2d11d",
+   "t": 1758260764,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment_2021-22_Essay.pdf",
+   "s": 11348113,
+   "h": "0b8acef42bf2ad742145094e62556327d0567936e8ed519fc5cf58555daa16a1",
+   "t": 1793517655,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment_2021-22_Solution.pdf",
+   "s": 1371558,
+   "h": "176d0de005ac38ae99bd54179e2b6d215c90620f6965b5f83ecc98238fd31c13",
+   "t": 1793517655,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Z_Assignment_2021-22_Solution.pdf",
+   "s": 27062230,
+   "h": "060f77747faf8d488a17e975eaacce40f15f913f3a4423dc5560dd4c77ede34d",
+   "t": 1657389052,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Z_Assignment_2021-22_Solution_2.pdf",
+   "s": 1774829,
+   "h": "397902f460530e833ef3b3fc6bd48e31f8dc68a302feb41db744d2f6835aac60",
+   "t": 1793517655,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_Assignment-1_2021-22_Solution.pdf",
+   "s": 414119,
+   "h": "dacd8e2990aef2ecea7ba7ebbdfcdc555961950def3eb8a8933b2eab40679dde",
+   "t": 1793517655,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_Assignment-1_2021-22_Solution_2.pdf",
+   "s": 4478673,
+   "h": "f4819bef2561b9760382037a1f4417b5ffaaa99f39316bc99e687f9caf9f7340",
+   "t": 1643496048,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Assignment_2021-22_Project-Problems-in-Aligarh-and-Solutions.pdf",
+   "s": 1465005,
+   "h": "66c570bd981fd832c4e415be7ea1ebdb315c58ce1eca5e46e095410abe65d55a",
+   "t": 1647453074,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Assignment_2021-22_Solution.pdf",
+   "s": 3211656,
+   "h": "0f5952acc1a66d5ea31c89978e2f463fb63806bf946fdb32c4896f9c64783002",
+   "t": 1793517655,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Program-4_Output_2021-22.txt",
+   "s": 522,
+   "h": "f3232cc2933ee00cfa1d0c537a3405263183228629681d80f9f741e96a28a3ef",
+   "t": 1644913128,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Program-1_2021-22.c",
+   "s": 2122,
+   "h": "c328ac1ddbd1c51b619e6b9d360729d3594efdfd22484ba4a4c91d86df60024b",
+   "t": 1649223216,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Program-2_2021-22.c",
+   "s": 1351,
+   "h": "e398cbeded68632412e33eb8d38b8b8bb339735e7c5c79d68c7ad88e9921516f",
+   "t": 1649218400,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Program-5_Output_2021-22.txt",
+   "s": 507,
+   "h": "8381e8b44d0add44399f03af1079094afe7e2ee94cc15aae916844d5623c628c",
+   "t": 1644329258,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Program-5_2021-22.c",
+   "s": 2192,
+   "h": "dae8ed164feb331c32285e3dd7b1b95a1e5ecb9670944bed005f9005b622eee4",
+   "t": 1644329070,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Program-1_Output_2021-22.txt",
+   "s": 515,
+   "h": "a4c4e631b8d6ab50bb63436fd0aa4b9526a55722cdae25b12f830b1f5af4af6a",
+   "t": 1649223436,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Program-4_2021-22.c",
+   "s": 2792,
+   "h": "bd4dcd0f60b9583ebb2d951d25ec52108a309314cbd6529886359ddd5879b870",
+   "t": 1644913000,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet-3_2021-22.pdf",
+   "s": 2403806,
+   "h": "da9a1ebfbd66ebf8fb35e23e000df105ce4fc3d2473e2c06856a4fe901009d24",
+   "t": 1710862984,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheets_2021-22.pdf",
+   "s": 1057819,
+   "h": "82d31ac578e4865140692d8b334f2ba476f1f70a800363c6a95c1a871aa9989c",
+   "t": 1640643186,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet-5_2021-22.pdf",
+   "s": 372256,
+   "h": "36b592bd7d8eee3ba3e69757ae65487b80c261dbc3179d9e683c608cb9e4f57d",
+   "t": 1710863176,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet-6_2021-22.pdf",
+   "s": 1077434,
+   "h": "4f65dd7940f6c559fb3828e8a9c340d6b20fe70f8be3c8884904759a4869631c",
+   "t": 1643496058,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheets_2021-22_2.pdf",
+   "s": 2122399,
+   "h": "2ddfcd25f15ff211c9c5b1e3f46727c3907ff2c92f00342c646d4e8830d17bf9",
+   "t": 1639952446,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet-7_2021-22.pdf",
+   "s": 436651,
+   "h": "97e951a0ee03ca35058d6c7c94c0507aca2a43bc69ba9f6c12087a0f135b0dcd",
+   "t": 1732653468,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet-Final_2021-22.pdf",
+   "s": 658120,
+   "h": "d88a75d67f14cc6e1d9228d5794bb770145567297cdee74b1892239d67cd3e01",
+   "t": 1646168874,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheets_2021-22_3.pdf",
+   "s": 1211583,
+   "h": "3eb92d5ef2564d56cdaad9cc723a7c900e59aca25c1f5ee7e220d3d1839b5eed",
+   "t": 1641670208,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Z_Tutorial-3_2021-22_Solution.pdf",
+   "s": 3216162,
+   "h": "579817833ae65f37acd2ddf2579f3964b9c26d0c3e0234e354c75cb131aebbff",
+   "t": 1647077010,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Mid-Sem_2021-22_Handwritten-Answers.pdf",
+   "s": 442869,
+   "h": "ef37141bae87335353d06000e391e415ba1a99956560a9e65fa3515fa122291e",
+   "t": 1645501614,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Z_Tutorial_2021-22_Solution-Rough-Work.pdf",
+   "s": 1136983,
+   "h": "8f8bdcc1314ac5b1890d5a7ded0f689af3e3311792595f8ab1b27ec13b713c14",
+   "t": 1724690180,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Z_Tutorial_2021-22_Solution.pdf",
+   "s": 7145991,
+   "h": "50bb0f214ea122b3511c621f98a033bbcc4798e3579de8b592aa67ceb1e4c848",
+   "t": 1642479800,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Z_Tutorial-2_2021-22_Solution.pdf",
+   "s": 4777323,
+   "h": "9ace36facc37fce74a3497dce14212c89fcef5e6ebe66dc828721a407d0ea3c0",
+   "t": 1642687352,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Z_Tutorial-1_2021-22_Solution.pdf",
+   "s": 4444675,
+   "h": "c65e5a383042300d2a5e1e36f707fdcb61214383d994254240cbe757f1b63c9f",
+   "t": 1641799414,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Z_Tutorial_2021-22_Solution-Rough-Work_2.pdf",
+   "s": 1201072,
+   "h": "a40dfca8028b2b095aaaef242e231b879891486e206f292d2311a05c6ad2e590",
+   "t": 1648190112,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/PYQs-and-Assignments/Z_Assignment_2021-22_Solution.pdf",
+   "s": 1720615,
+   "h": "124c02714b0fd468099e976130973ceeba526ab18e6d8353318cd73b4a9ca5c2",
+   "t": 1754014818,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Dr. Farman Ali",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2312_Power-System-Engineering/PYQs-and-Assignments/Z_Assignment_2022-23_Solution-Part-2.pdf",
+   "s": 8988907,
+   "h": "9d9691cb4a2e6e5b310aa25dcd88041c13deee56cbac66ae2a7b9522be4edae4",
+   "t": 1683009500,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2312_Power-System-Engineering/PYQs-and-Assignments/Z_Assignment-3_2022-23_Solution.pdf",
+   "s": 1511390,
+   "h": "a99edfe5803e1ace7a8ae972d00503acecd3feee7bde28c1b656d35d0f6f1cd8",
+   "t": 1793517655,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2312_Power-System-Engineering/PYQs-and-Assignments/Z_Assignment-2_2022-23_Solution.pdf",
+   "s": 2126433,
+   "h": "e00d276a7b22a9defd18f85c30be8f209f459d84e4eb910184de157263a3f46a",
+   "t": 1739737342,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2312_Power-System-Engineering/PYQs-and-Assignments/Z_Assignment_2022-23_Solution.pdf",
+   "s": 5371765,
+   "h": "e4cfbf148d44a3a837fdfeff848f9c65afcc21306f07971b973e8cd5635638d3",
+   "t": 1682714424,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2312_Power-System-Engineering/PYQs-and-Assignments/Z_Assignment-1_2022-23_Solution.pdf",
+   "s": 1802579,
+   "h": "d239d6b4fbf5c24c571354da79a8955a2fef52008be5a4f65baedfb6230823c1",
+   "t": 1739737316,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/PYQs-and-Assignments/Z_Assignment_2022-23_Solution-DC-Machines.pdf",
+   "s": 15958229,
+   "h": "7cf0f6bdc0399a6d5d24cd95c62a112cc8172602e8b05c1a02ce6870bba1bbee",
+   "t": 1683837420,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/PYQs-and-Assignments/Z_Assignment_2022-23_Solution-Synchronous-Machines.pdf",
+   "s": 4300264,
+   "h": "85f1472a2bb9ee5d24b06aa5cb11ee85d707395ccbcfd9469387af4670619192",
+   "t": 1726166090,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2212_Power-Electronics-I/PYQs-and-Assignments/Z_Assignment_2022-23_Solution.pdf",
+   "s": 3298879,
+   "h": "41821a44eec031cb2c9ed2f1fb7ab51761c8e2e448f83f8224be5fd63c12a4f2",
+   "t": 1793517655,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/PYQs-and-Assignments/Z_Assignment_2022-23_Solution.pdf",
+   "s": 6905764,
+   "h": "1e2f8dfa7893fcd994ccb9024a3b20fcaf5d33353f1b1df95a639bdecc377cf5",
+   "t": 1682714384,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/PYQs-and-Assignments/Z_Assignment_2022-23_Solution_2.pdf",
+   "s": 3142654,
+   "h": "82167bad8f7f3e8368782d5ac482adc814e2c8401cf895c9801182ea0a57fe7d",
+   "t": 1682714392,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Records/Experiment-9_2022-23.pdf",
+   "s": 435301,
+   "h": "6694114f289402bd14b837a9ce3c8dc2b15032dd2e86a549fc1249675afeb067",
+   "t": 1681502800,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Records/Experiment-6_2022-23.pdf",
+   "s": 1071919,
+   "h": "e598ef2eaa19481c02623f475073980c7e3b280353d548b1e3904d36c02f9939",
+   "t": 1680884938,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Records/Experiment-5_2022-23.pdf",
+   "s": 547109,
+   "h": "451d3b8ac5de3f21237f9d894a02a3259ac7f7631cb1e9e31f5437beadc3d248",
+   "t": 1680885028,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Records/Experiment-7_2022-23.pdf",
+   "s": 949279,
+   "h": "5d6ce789130c75bb796a5f229f75d29da2b52be4bbb9f52a5b077b14b5c27169",
+   "t": 1680884930,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Records/Experiment-8_2022-23.pdf",
+   "s": 175650,
+   "h": "96c6ff72e34c69d77302bac5c78ef1349071100abd625033339c5dfdf39160ac",
+   "t": 1680884924,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Records/Experiment-4_2022-23.pdf",
+   "s": 1922067,
+   "h": "ffc289f57dd52a4261df294bb011fd67b94344de75340e837aade16bc582f0e9",
+   "t": 1793517656,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Records/Experiment-6_2022-23_2.pdf",
+   "s": 292980,
+   "h": "eb5f57c3660a4cd2e80cf85b9ef85722b807f632e98b92fdc786b3865ca616ec",
+   "t": 1680885038,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2922_Electrical-Machines-Lab-II/Records/Experiment-9_2022-23.pdf",
+   "s": 763499,
+   "h": "437614b3efa024e242fbd928b31009df7c1f94fc694890768f75d05fde163a36",
+   "t": 1680762098,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2922_Electrical-Machines-Lab-II/Records/Experiment-8_2022-23.pdf",
+   "s": 756225,
+   "h": "36580fb5c91ffd3ce842441d6a1f21286a53f10581c820978b6ddb4ac99169d9",
+   "t": 1680117390,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2922_Electrical-Machines-Lab-II/Records/Experiment-1_2022-23.pdf",
+   "s": 4804940,
+   "h": "cb4368dc9008c6dd8841ba4e948f52aff0e03929f729960a9d84f773cc180463",
+   "t": 1681190950,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2922_Electrical-Machines-Lab-II/Records/Experiment-2_2022-23.pdf",
+   "s": 1958485,
+   "h": "fdef02abb1e97d1f7c1cc046e6f92a7cf2380281b7bccb4c4b0a532bb1f0f7b8",
+   "t": 1683305912,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2922_Electrical-Machines-Lab-II/Records/Experiment-4_2022-23.pdf",
+   "s": 7606684,
+   "h": "eb855a4d0daf97449178e5004eb94406e4925a3812691058d8971b0a7846d35d",
+   "t": 1677557404,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2922_Electrical-Machines-Lab-II/Records/Experiment-6_2022-23.pdf",
+   "s": 654263,
+   "h": "8ac7996632167f35764fffaccc848d902fb3cffe509d6760fb14965e605ee2bb",
+   "t": 1793517656,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2922_Electrical-Machines-Lab-II/Records/Experiment-7_2022-23.pdf",
+   "s": 3660966,
+   "h": "d829104029c646056c87b81327ab31e4cb3dc1e132eeb9d9864704c8c129c6ba",
+   "t": 1793517656,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2922_Electrical-Machines-Lab-II/Records/Experiment-5_2022-23.pdf",
+   "s": 2080388,
+   "h": "88b73166a35c7f8f64498a7c8c7d5e8848cf9b1b639fc128df80184c75b75018",
+   "t": 1677557456,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2922_Electrical-Machines-Lab-II/Records/Experiment-4_2022-23_2.pdf",
+   "s": 2065561,
+   "h": "7d78b8dd22078d4e1a5c0b6983237b7cc9ca91dbee3d23eb8f39ecf733aca8a6",
+   "t": 1677557432,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2922_Electrical-Machines-Lab-II/Records/Lab-Record_2022-23.pdf",
+   "s": 1952562,
+   "h": "4875b789f1f2837591c5d12a6fa75a97c7546b19c38ee411e3d24d9bd9a5344a",
+   "t": 1793517656,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/PYQs-and-Assignments/Z_Assignment_2022-23_Solution.pdf",
+   "s": 2268702,
+   "h": "b640d483d398a2f7308eb11df82529ffecd782cb1964bf2481cef71cea2eed0b",
+   "t": 1668989876,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/PYQs-and-Assignments/Z_Assignment_2022-23_Solution.pdf",
+   "s": 11239843,
+   "h": "a0557475a3bba1f8e134c9574b958c1272cb881a311a3e79fea4a4be1cc610fa",
+   "t": 1671164042,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Complete-Notes/Class-Notes_Negative-Root_2022-23.pdf",
+   "s": 198327,
+   "h": "a7de21d4fdccdaed27ee29e976e87256dc6e8b976eb56f3f81ffdcbea06fdec0",
+   "t": 1671164042,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2722_Electromagnetic-Field-Theory/PYQs-and-Assignments/Z_Assignment_2022-23_Solution.pdf",
+   "s": 12872644,
+   "h": "d5ebd91bcde93edd0d49c3fca12f152b03b0bd72c2ac40047ec78143f1bb375b",
+   "t": 1673235010,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Records/Experiment-3-5_2022-23.pdf",
+   "s": 2289873,
+   "h": "3998cdd12aa0c5cf6ffe1f15881f502c6e8272c162edec290c6ab34b664205b4",
+   "t": 1664825714,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Records/Experiment-Observations_2022-23.jpg",
+   "s": 104531,
+   "h": "85d74927917aa078578de807fc4d12ef4d31d450c73eb7027590bf1519cf8280",
+   "t": 1665425644,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Records/Experiment-Observations_2022-23_2.jpg",
+   "s": 92176,
+   "h": "8cc613870f07cecb0fb79f94b4d98513ce79b6ca190fbf78ea16e28042dd17b2",
+   "t": 1665425644,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Records/Experiment-3-1_2022-23.pdf",
+   "s": 1460653,
+   "h": "b7999c94b50f73f61ee6f00fe046c244a679c56ea5ec2f9a7da5bd9448f25656",
+   "t": 1793517656,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Records/Experiment-3-2_2022-23.pdf",
+   "s": 2499641,
+   "h": "bc8e2a6cc3df7ce824dc050a7c1b8be7c86241924f28e900b48f862f351faeb6",
+   "t": 1672249538,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Records/Experiment-3-3_2022-23.pdf",
+   "s": 6197751,
+   "h": "373c81313def97b3b8ea2987b5aa06b0cc8284ce5b2262efff50a2080e536e84",
+   "t": 1664825714,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Records/Experiment-3-4_2022-23.pdf",
+   "s": 2148565,
+   "h": "527c6d2df98c0232f47b21ec590f68ccc026487dc8beb52f18510e950a73bb38",
+   "t": 1664825714,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Records/Experiment-Observations_2022-23_3.jpg",
+   "s": 129239,
+   "h": "dc13c4dcaa757404ac2b6788e276c576f9f3085fa5b649a8a9ec48a171533a21",
+   "t": 1665425644,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Records/Experiment-Observations_2022-23_4.jpg",
+   "s": 308621,
+   "h": "fdb809d40870f4881fcf36048b2707b0d3dbf4c2732b917665c60d1263ee09ae",
+   "t": 1665425644,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Records/Experiment-3-6_2022-23.pdf",
+   "s": 3235398,
+   "h": "aeb3707ed6c876a1be1379fe38dc3c0e37aa5a9bcc3f04b5cd45a1aa86a45837",
+   "t": 1668302666,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Records/Experiment-4-5_2022-23.pdf",
+   "s": 1820884,
+   "h": "47fc4908816dffde02ae4bba2f7a50cecf641c210ce06368b1edf536b88df5ab",
+   "t": 1668306532,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Records/Experiment-4-1_2022-23.pdf",
+   "s": 1042659,
+   "h": "9e3e40712790a07892a1cb391376fdcd4d3ba28b083f2de8a8d5a9e71c8cc065",
+   "t": 1668302684,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Records/Lab-Record_2022-23.pdf",
+   "s": 2563512,
+   "h": "9f8ca2d500fbeaf5cd729ea19524ef8681711ffd44a39bb70c8ae3e25b81322b",
+   "t": 1662587838,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/PYQs-and-Assignments/Z_Assignment_2024-25_Solution.pdf",
+   "s": 4891203,
+   "h": "8f95df2ab7370ae2bafc282b9c8cda2f5855dc5a9c7c868f43e646c82a0cce66",
+   "t": 1747723942,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4122_Electric-Vehicles-and-Traction/PYQs-and-Assignments/Z_Assignment_2024-25_Solution.pdf",
+   "s": 1090589,
+   "h": "bcc20f8844555d31cf9d59ba83e361adb40f992c551e462ab4e391e782a21a98",
+   "t": 1793517656,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4352_HVDC-and-FACTS-Technology/PYQs-and-Assignments/Z_Assignment_2024-25_Solution.pdf",
+   "s": 3597507,
+   "h": "e65725ce8521544de93ea9377d806d87dbc257f1ba8c7f6f798e5de9e8da1d37",
+   "t": 1746760560,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/Records/Experiment-5_2024-25.pdf",
+   "s": 637755,
+   "h": "100636c0b8992b706d83a72045911356ba23750c7c7fbf62ea39b1af1b332e8e",
+   "t": 1724881914,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/Records/Experiment-1_2024-25.pdf",
+   "s": 1578480,
+   "h": "3ceac215ada643000faceecc4ea3d0f6f954ebd99b18a8a9b0d83922b261afcf",
+   "t": 1729567942,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/Records/Experiment-6_2024-25.pdf",
+   "s": 575761,
+   "h": "d607edf6c558e609cbab4d08179c9797783ceb4d7627fdbb1093fb9e32fb228b",
+   "t": 1727416826,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/Records/Experiment-2_2024-25.pdf",
+   "s": 498873,
+   "h": "e4a115e0c03d5aedabcad99e93bd8bc6ccfc575cf7e5e18e5d4986f9f7edff03",
+   "t": 1729567950,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/Records/Experiment-3_2024-25.pdf",
+   "s": 1513210,
+   "h": "350e73608bd3d0ff7c23654d2a6154f2a985f1d323e92475d0eb6945cf7ec944",
+   "t": 1732493352,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/Records/Experiment-7_Final-Matlab-Code_2024-25.pdf",
+   "s": 91980,
+   "h": "4ed038842e0cfc69e2f1384aa7e204dc3383815998b08766f232aa95f63a31d1",
+   "t": 1793517656,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/Records/Experiment-4_2024-25.pdf",
+   "s": 163530,
+   "h": "1f05ded043d3cfec2819959a54b110872a4b211bb1ef93fe3bb14efed1610eb9",
+   "t": 1724609932,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/Records/Experiment-7_Matlab-Code-1st_2024-25.pdf",
+   "s": 108759,
+   "h": "6f543abfefcb9eb451af5daac5d50a19fef43aa3abe102025326af08e1849498",
+   "t": 1793517656,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/Records/Experiment-9_2024-25.pdf",
+   "s": 699260,
+   "h": "6340ac436f505b2a8d83c6f372c51fc42318a29f192a4b7e42b18426b79953bd",
+   "t": 1729824034,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/Records/Experiment-7_Block-Reduction_2024-25.pdf",
+   "s": 704226,
+   "h": "ce3fbb6551b1620b0248af72e5760bbfcf4c8c93ae5c96fdbc2387bb311adc9a",
+   "t": 1727136314,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4912_Power-System-Protection-Lab/Records/Experiment-5_2024-25.pdf",
+   "s": 565047,
+   "h": "7ed0017ef2803e9948a26ca22f4d93f34a836cca68900b91e65ae526c4fdb7b1",
+   "t": 1728882272,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4912_Power-System-Protection-Lab/Records/Experiment-3_2024-25.pdf",
+   "s": 2057211,
+   "h": "c20a28207006f07f26581623109baecb8bc985c7ca32ace69ea186818f51d85a",
+   "t": 1725743794,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4912_Power-System-Protection-Lab/Records/Experiment-4_2024-25.pdf",
+   "s": 554874,
+   "h": "1884a2acf808b31d0a09f0f668dcc30c2375fab8fdd8e950afa0c89df130e22a",
+   "t": 1727416286,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4912_Power-System-Protection-Lab/Records/Experiment-8_2024-25.pdf",
+   "s": 2281792,
+   "h": "e68ac39857c143e1d91e3ca77816c9db4484e4b1f6b313a928b8862a457f77d0",
+   "t": 1730001840,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4912_Power-System-Protection-Lab/Records/Experiment-6b_2024-25.pdf",
+   "s": 637985,
+   "h": "f0454937700810e9c250dae3e3da1fcd61c6406a9352d1e1c69dcb419100447f",
+   "t": 1728189254,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4912_Power-System-Protection-Lab/Records/Experiment-7_2024-25.pdf",
+   "s": 1114967,
+   "h": "fb946ede3c37c414fb11fea681c1c191a692446970e95a0dc75aa2233a239548",
+   "t": 1728848898,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3322_Electrical-Power-Generation-and-Utilization/PYQs-and-Assignments/Z_Assignment_2023-24_Solution-Traction.pdf",
+   "s": 4202951,
+   "h": "6ccd555c65d85197c33d5ac1162f22c9a47159089c7b4fcbbecabc721c9fe4a4",
+   "t": 1736963544,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020-EEZH3020_Intellectual-Property-Rights-for-Engineers/PYQs-and-Assignments/Z_Assignment_2023-24_Solution.pdf",
+   "s": 755155,
+   "h": "c709ef215a3a9e8ab7a8732789ea4778d60512f796399add6ffcc4955e54af7a",
+   "t": 1740016496,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Records/Experiment-6_2023-24.pdf",
+   "s": 2426067,
+   "h": "531c049d156dbfc9252d0c968d8418cfd13180e2dd2dda9da4818bac5915bb64",
+   "t": 1793517657,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Records/Experiment-7_2023-24.pdf",
+   "s": 2239906,
+   "h": "4ccbe694a2c6f2c2a168fe04e7ad20a4722a1346a04fe491fd5de7ad2a625f9b",
+   "t": 1710648268,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Records/Experiment-4_2023-24.pdf",
+   "s": 1213135,
+   "h": "5d4789303b18384a15bf4ba355d2b700e1d345bc72936242dca103ebabfabde1",
+   "t": 1709489352,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Records/Experiment-2_2023-24.pdf",
+   "s": 600325,
+   "h": "af0eaf6ae988268ec832361577978defd694707066239eaac0220275f674e039",
+   "t": 1714317004,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Records/Experiment-5_2023-24.pdf",
+   "s": 2155213,
+   "h": "c76931234a27f6e49df406e735fe5ab074dabab27b454fb55d0e1e77f9366221",
+   "t": 1709489374,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Records/Experiment-2_HV-Lab_2023-24.pdf",
+   "s": 9720393,
+   "h": "28f052d3321812ba32d3b4d62019a5fd82b3da3163a5a8d52764edc7034e5572",
+   "t": 1793517657,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3112_Electrical-Drives/PYQs-and-Assignments/Z_Tutorial-1_2023-24_Solution.pdf",
+   "s": 19837037,
+   "h": "0e7511460685bdd85f2c60ddbaf766fb377be120b284abbe798240c9000671c4",
+   "t": 1715728682,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3112_Electrical-Drives/PYQs-and-Assignments/Z_Assignment_2023-24_Solution.pdf",
+   "s": 3505437,
+   "h": "89940578ccd7a000a805c4138a7943f9043e3d7a72824c20cd3f628cd5cd1cf2",
+   "t": 1714171010,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/PYQs-and-Assignments/Z_Quiz_2023-24_Solution.pdf",
+   "s": 658280,
+   "h": "b7ca0ac12dcd9ba5c0dc26c9aec60dbe875169663e4b43dffd8fabf7c2cb8681",
+   "t": 1714880034,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/PYQs-and-Assignments/Z_Assignment_2023-24_Solution.pdf",
+   "s": 16120350,
+   "h": "3209b7125c9242398d0f2fd85cc9ed9d28902fe40ed22426d36512b909a491e2",
+   "t": 1714519228,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3932_Instrumentation-Lab/Records/Experiment-5_2023-24.pdf",
+   "s": 2565322,
+   "h": "16d94c22d7b1ea26448f2d690be7722cc75bdb228ebd1cdab9281595b876feef",
+   "t": 1707934548,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3932_Instrumentation-Lab/Records/Experiment-3_2023-24.pdf",
+   "s": 314080,
+   "h": "4e73912a5f42ea7d2a9fe2f3428132d5d45964a4401ea8fab7674669ce132c6e",
+   "t": 1713924018,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3932_Instrumentation-Lab/Records/Experiment-8_2023-24.pdf",
+   "s": 1119894,
+   "h": "05e00bc654008ceb320fa00591d32c386e55cde2c19c05ab12384730cd2d6c8c",
+   "t": 1710094418,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3932_Instrumentation-Lab/Records/Experiment-4_2023-24.pdf",
+   "s": 4590864,
+   "h": "f276765245d84e1c060a44bef33bcd4abd419977190f8707df97af283fd3cdfb",
+   "t": 1707224862,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3932_Instrumentation-Lab/Records/Experiment-1_2023-24.pdf",
+   "s": 996241,
+   "h": "8ae3dcf120c15ad06c60d1e6e93627335cd58cb3fd299f86867d1766a364f6f7",
+   "t": 1710648298,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3932_Instrumentation-Lab/Records/Experiment-6_2023-24.pdf",
+   "s": 1660468,
+   "h": "32068e23af8265ee4f6d389e458f30c8efedda31a43bc0458b3bc3a9fdafface",
+   "t": 1709039064,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3932_Instrumentation-Lab/Records/Experiment-7_2023-24.pdf",
+   "s": 3917996,
+   "h": "38478b86c0bb9952f59426254d5c5bf320f50336e1ba72c60e2a492f39db08bd",
+   "t": 1709607476,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Records/Experiment-9_2023-24.pdf",
+   "s": 3058360,
+   "h": "bdd9be2300fb7746edb1fc9792caaeb8860fb15aa5c7abc02d531cf625c828b5",
+   "t": 1696310544,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Records/Experiment-8_2023-24.pdf",
+   "s": 2822571,
+   "h": "cfa7d63c26efc45e2d89d8c275965bf33ed79d3b147d7aa8c5f27d4fdf559da6",
+   "t": 1694531094,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Records/Lab-Record_2023-24.pdf",
+   "s": 14949995,
+   "h": "b20e6abc90ded6101f41f9b707f0538f1a15c254fc3f154f6ffa00625bf4e251",
+   "t": 1793517657,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Records/Experiment-3_Waveforms_2023-24.pdf",
+   "s": 2772165,
+   "h": "5da1fd531af534bb46786517029254c11883fe7a3f145c49af987bd471823578",
+   "t": 1699322122,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Records/Experiment-5_Waveforms_2023-24.pdf",
+   "s": 2372711,
+   "h": "2290676fab8599b200c3b2171c6b9a6c8d17173bd5f8aa5b2efc87bf2492df56",
+   "t": 1699916094,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Records/Experiment-6_Graph-and-Waveforms_2023-24.pdf",
+   "s": 4683041,
+   "h": "44466239cb2eeebb176a8185a9012304db495db8823518662c6c977bcfed681f",
+   "t": 1692852440,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Records/Experiment-9_Simulation_2023-24.pdf",
+   "s": 2504262,
+   "h": "1f1c6b1b4170b9b7f56b848ecc197dba89dfc24afb2800546517caff62839140",
+   "t": 1698023478,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Records/Experiment-4_Waveforms_2023-24.pdf",
+   "s": 177367,
+   "h": "a08193c6826ffb61e111ccb5eedd0c475aa50dc10b2b8ba3f335a5b915841912",
+   "t": 1698023256,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Records/Experiment-7_Waveforms_2023-24.pdf",
+   "s": 2106829,
+   "h": "7d4f592f4feb59212aa441dc306ae38611c13deec9822830348ae934a4681a2d",
+   "t": 1694484040,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Records/Experiment-7_2023-24.pdf",
+   "s": 2217514,
+   "h": "387ebbce169e2e0731e76f50fd711dd0b33bcd8fd6ae340225d9b91eccc48049",
+   "t": 1694498760,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Records/Experiment-4_2023-24.pdf",
+   "s": 2040719,
+   "h": "8d3f24969a2ee52aeb61995bec0c84e67414fda28db0f714e76fc6631c26b33d",
+   "t": 1694498796,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/PYQs-and-Assignments/Z_Assignment-2_2023-24_Solution.docx",
+   "s": 127271,
+   "h": "2823a2dde4ac6a48aeb43e0507c1edc323ff6288cda8be56df36f6dd14f445ff",
+   "t": 1793517658,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/PYQs-and-Assignments/Z_Assignment-2_2023-24_Solution.pdf",
+   "s": 903965,
+   "h": "867b69f2db6598a963ac1b22c5ecc8fb082e3522c6d28f73e56f58f6627245ad",
+   "t": 1793517658,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/PYQs-and-Assignments/Z_Assignment-2_2023-24_Solution_2.pdf",
+   "s": 825003,
+   "h": "e8efc2150d19c8b27fcd6228e253920c0c7cbe20b7439452a0a0e8bab039d41c",
+   "t": 1793517658,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/PYQs-and-Assignments/Z_Presentation_2023-24.pptx",
+   "s": 9045466,
+   "h": "29a00a85b9f4feb0cedc8fcf034a39b82bf3fb2148bc6030e931006dbe27c7b1",
+   "t": 1793517658,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/PYQs-and-Assignments/Z_Assignment-1_2023-24_Solution.pdf",
+   "s": 1349993,
+   "h": "13bdf81ca6c3d632f21cbc774a2684d43a5ba7250c6eabda2aebc80cccea66e7",
+   "t": 1793517658,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/PYQs-and-Assignments/Z_Assignment_2023-24_Solution-SHE-Equation.docx",
+   "s": 331092,
+   "h": "65b52a182b998262215cbafa5d8fe8d46a68b325c952b67cad783b85a70a11e9",
+   "t": 1793517658,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/PYQs-and-Assignments/Z_Assignment_2023-24_Solution-Boost-Converter.docx",
+   "s": 1115762,
+   "h": "225b2c960c5889d09927c47866c43acad6093f9fc568fb68983090148510352a",
+   "t": 1793517658,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3912_Electronics-Engineering-Lab/Records/Experiment-Observations_2023-24.jpg",
+   "s": 2132538,
+   "h": "62e01545be1284d8ff4cc2f9dade9fb7c5264b532fc16aa12e14f7c995999cd0",
+   "t": 1793517658,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3912_Electronics-Engineering-Lab/Records/Experiment-Observations_2023-24_2.jpg",
+   "s": 2011257,
+   "h": "dc8c60f1e68b593eb65dfb7424c81f55d85dd35d6f66950e1d45c9f222e59127",
+   "t": 1793517658,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3912_Electronics-Engineering-Lab/Records/Lab-Record_2023-24.pdf",
+   "s": 16334312,
+   "h": "0a14a2a227fc247814e966e2242e6024a0cad2d177882407a51541e5b943d32f",
+   "t": 1691907842,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3912_Electronics-Engineering-Lab/Records/Experiment-5_2023-24.pdf",
+   "s": 1762182,
+   "h": "d8313fc834155dfb706af98926babbfca1a9f379492ad226611f8bb7ec10a7be",
+   "t": 1690906374,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3912_Electronics-Engineering-Lab/Records/Experiment-_Experiment-5-Manual-ELA_2023-24.pdf",
+   "s": 288839,
+   "h": "96a4d53353b5e547622f6901d21459559693ac977b97c98bddbda42239fa94b7",
+   "t": 1793517658,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  }
+ ]
+}

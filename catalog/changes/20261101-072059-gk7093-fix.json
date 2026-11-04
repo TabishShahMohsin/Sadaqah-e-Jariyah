@@ -1,0 +1,15 @@
+{
+ "id": "20261101-072059-gk7093-fix",
+ "created": "2026-11-01T07:20:59+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Mid-Sem_2021-22.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Mid-Sem_2021-22_Handwritten-Answers.pdf"
+  }
+ ]
+}

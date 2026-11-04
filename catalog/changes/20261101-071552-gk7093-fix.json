@@ -1,0 +1,15 @@
+{
+ "id": "20261101-071552-gk7093-fix",
+ "created": "2026-11-01T07:15:52+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer"
+ },
+ "ops": [
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/Complete-Notes/Notes_DC-Motor-Numericals_2022-23.pdf",
+   "reason": "textbook chapter (copyrighted) — returned to _Inbox"
+  }
+ ]
+}

@@ -1,0 +1,503 @@
+{
+ "id": "20261101-094728-credits",
+ "created": "2026-11-01T09:47:28+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "teacher names in file names → professor"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Abbas-Sir_OS-Lecture-Slides.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/OS-Lecture-Slides.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/OS-Lecture-Slides.pdf",
+   "meta": {
+    "professor": "Abbas"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-1/Dr-Inamullah_2024-8-21-ipres1.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-1/2024-8-21-ipres1.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-1/2024-8-21-ipres1.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-1/Dr-Inamullah_2024-8-22-ipres2.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-1/2024-8-22-ipres2.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-1/2024-8-22-ipres2.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-1/Dr-Inamullah_2024-8-23,24-ipres3.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-1/2024-8-23,24-ipres3.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-1/2024-8-23,24-ipres3.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-1/Dr-Inamullah_2024-8-27,28-ipres4.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-1/2024-8-27,28-ipres4.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-1/2024-8-27,28-ipres4.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-1/Dr-Inamullah_2024-8-29-ipres5.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-1/2024-8-29-ipres5.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-1/2024-8-29-ipres5.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-2/Dr-Inamullah_2024-8-30,31,3sep-ipres6.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-2/2024-8-30,31,3sep-ipres6.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-2/2024-8-30,31,3sep-ipres6.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-2/Dr-Inamullah_2024-9-4-ipres7.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-2/2024-9-4-ipres7.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-2/2024-9-4-ipres7.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-2/Dr-Inamullah_2024-9-6-pres8.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-2/2024-9-6-pres8.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-2/2024-9-6-pres8.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-2/Dr-Inamullah_2025-26-pres10-rt-sched.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-2/2025-26-pres10-rt-sched.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-2/2025-26-pres10-rt-sched.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-2/Dr-Inamullah_2025-26-pres9-cpu-sched.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-2/2025-26-pres9-cpu-sched.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-2/2025-26-pres9-cpu-sched.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-3/Dr-Inamullah_2025-26-pres11-synch.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-3/2025-26-pres11-synch.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-3/2025-26-pres11-synch.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-3/Dr-Inamullah_2025-26-pres12-synch-hardware.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-3/2025-26-pres12-synch-hardware.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-3/2025-26-pres12-synch-hardware.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-3/Dr-Inamullah_2025-26-pres13-Semaphores.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-3/2025-26-pres13-Semaphores.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-3/2025-26-pres13-Semaphores.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-3/Dr-Inamullah_2025-26-pres14-deadlock-drawing.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-3/2025-26-pres14-deadlock-drawing.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-3/2025-26-pres14-deadlock-drawing.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-4/Dr-Inamullah_2025-26-pres15-mem.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-4/2025-26-pres15-mem.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-4/2025-26-pres15-mem.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-4/Dr-Inamullah_2025-26-pres16-vmem.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-4/2025-26-pres16-vmem.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-4/2025-26-pres16-vmem.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-4/Dr-Inamullah_Ch10-mass-storage-disk-scheduling.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-4/Ch10-mass-storage-disk-scheduling.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-4/Ch10-mass-storage-disk-scheduling.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-4/Dr-Inamullah_ch11-file-interface-protection.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-4/ch11-file-interface-protection.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Unit-4/ch11-file-interface-protection.pdf",
+   "meta": {
+    "professor": "Dr. Inamullah"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Ishtiyak-Sir_Unit-1_Lecture-1.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Unit-1_Lecture-1.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Unit-1_Lecture-1.pdf",
+   "meta": {
+    "professor": "Ishtiyak"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Ishtiyak-Sir_Unit-1_Lecture-2.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Unit-1_Lecture-2.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Unit-1_Lecture-2.pdf",
+   "meta": {
+    "professor": "Ishtiyak"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Ishtiyak-Sir_Unit-1_Lecture-3.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Unit-1_Lecture-3.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Unit-1_Lecture-3.pdf",
+   "meta": {
+    "professor": "Ishtiyak"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Ishtiyak-Sir_Unit-1_Lecture-4.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Unit-1_Lecture-4.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Unit-1_Lecture-4.pdf",
+   "meta": {
+    "professor": "Ishtiyak"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Ishtiyak-Sir_Unit-1_Lecture-5.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Unit-1_Lecture-5.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Unit-1_Lecture-5.pdf",
+   "meta": {
+    "professor": "Ishtiyak"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Ishtiyak-Sir_Unit-2_Lecture-1.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Unit-2_Lecture-1.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Unit-2_Lecture-1.pdf",
+   "meta": {
+    "professor": "Ishtiyak"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Ishtiyak-Sir_Unit-2_Lecture-2.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Unit-2_Lecture-2.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Unit-2_Lecture-2.pdf",
+   "meta": {
+    "professor": "Ishtiyak"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Ishtiyak-Sir_Unit-2_Lecture-3.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Unit-2_Lecture-3.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Unit-2_Lecture-3.pdf",
+   "meta": {
+    "professor": "Ishtiyak"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Ishtiyak-Sir_Unit-2_Lecture-4.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Unit-2_Lecture-4.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Unit-2_Lecture-4.pdf",
+   "meta": {
+    "professor": "Ishtiyak"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Ishtiyak-Sir_Unit-2_Lecture-5.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Unit-2_Lecture-5.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Unit-2_Lecture-5.pdf",
+   "meta": {
+    "professor": "Ishtiyak"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Ishtiyak-Sir_Unit-2_Lecture-6.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Unit-2_Lecture-6.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Unit-2_Lecture-6.pdf",
+   "meta": {
+    "professor": "Ishtiyak"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/FIBRE OPTICS Hilal Sir's Notes(3).pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/FIBRE OPTICS Notes(3).pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/FIBRE OPTICS Notes(3).pdf",
+   "meta": {
+    "professor": "Hilal"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/Nasir-Sir_2024-25_Lecture-1.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/2024-25_Lecture-1.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/2024-25_Lecture-1.pdf",
+   "meta": {
+    "professor": "Nasir"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/Nasir-Sir_2024-25_Lecture-2_Economic-Indicators.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/2024-25_Lecture-2_Economic-Indicators.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/2024-25_Lecture-2_Economic-Indicators.pdf",
+   "meta": {
+    "professor": "Nasir"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Hasan-Sir_2024-25_Annual Worth.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2024-25_Annual Worth.ppt"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2024-25_Annual Worth.ppt",
+   "meta": {
+    "professor": "Hasan"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Hasan-Sir_2024-25_Present Worth 1.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2024-25_Present Worth 1.ppt"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2024-25_Present Worth 1.ppt",
+   "meta": {
+    "professor": "Hasan"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Hasan-Sir_2024-25_Present worth 2.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2024-25_Present worth 2.ppt"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2024-25_Present worth 2.ppt",
+   "meta": {
+    "professor": "Hasan"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Hasan-Sir_2024-25_Time value Money.ppt",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2024-25_Time value Money.ppt"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2024-25_Time value Money.ppt",
+   "meta": {
+    "professor": "Hasan"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Nasir-Sir_2024-25_Effective and Nominal Interest rate notes.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2024-25_Effective and Nominal Interest rate notes.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2024-25_Effective and Nominal Interest rate notes.pdf",
+   "meta": {
+    "professor": "Nasir"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Nasir-Sir_2024-25_Effective and Nominal Interest rate.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2024-25_Effective and Nominal Interest rate.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2024-25_Effective and Nominal Interest rate.pdf",
+   "meta": {
+    "professor": "Nasir"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Nasir-Sir_2024-25_Lecture-3_Time-Value-of-Money.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2024-25_Lecture-3_Time-Value-of-Money.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2024-25_Lecture-3_Time-Value-of-Money.pdf",
+   "meta": {
+    "professor": "Nasir"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Nasir-Sir_2024-25_Time value of money chapter from Sullivan book.pdf",
+   "to": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2024-25_Time value of money chapter from Sullivan book.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2024-25_Time value of money chapter from Sullivan book.pdf",
+   "meta": {
+    "professor": "Nasir"
+   }
+  }
+ ]
+}

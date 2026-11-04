@@ -91,7 +91,9 @@ def soffice(src, fmt, outdir, timeout=240):
     """LibreOffice headless conversion with a throwaway profile (safe to run in parallel)."""
     with tempfile.TemporaryDirectory() as prof:
         cmd = ["soffice", f"-env:UserInstallation=file://{prof}", "--headless", "--norestore", "--convert-to", fmt, "--outdir", outdir, src]
-        env = {**os.environ, "HOME": prof}
+        # throwaway HOME, but fonts installed in the user's own folder (~/.local/share/fonts) stay visible
+        env = {**os.environ, "HOME": prof,
+               "XDG_DATA_HOME": os.environ.get("XDG_DATA_HOME") or os.path.join(os.path.expanduser("~"), ".local", "share")}
         if sys.platform.startswith("linux") and os.path.exists(FONTS_CONF):
             env["FONTCONFIG_FILE"] = FONTS_CONF  # stand-ins for Windows fonts (macOS has them or uses its own lookup)
         subprocess.run(cmd, capture_output=True, timeout=timeout, env=env)

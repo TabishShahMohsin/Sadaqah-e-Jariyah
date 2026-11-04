@@ -375,6 +375,24 @@ def cmd_push(a, root=REPO):
     if not card_ok:
         commit([CommitOperationAdd(path_in_repo="README.md", path_or_fileobj=CARD.encode())], "Dataset card")
     print("in sync")
+    if not a.no_tag:
+        print(f"release tag: {tag_release(api, repo)}")
+
+
+def tag_release(api, repo):
+    """Name the current state of the dataset (v2026-11-04, v2026-11-04.2 …) so it can always be fetched again."""
+    head = api.dataset_info(repo).sha
+    tags = {t.name: t.target_commit for t in api.list_repo_refs(repo, repo_type="dataset").tags}
+    for name, commit_id in tags.items():
+        if commit_id == head:
+            return name + " (already)"
+    base = "v" + time.strftime("%Y-%m-%d")
+    name, n = base, 1
+    while name in tags:
+        n += 1
+        name = f"{base}.{n}"
+    api.create_tag(repo, tag=name, revision=head, repo_type="dataset")
+    return name
 
 
 def file_ids_bytes(b):
@@ -440,6 +458,7 @@ def main():
     p = sub.add_parser("push"); p.add_argument("--dry-run", action="store_true"); p.add_argument("--show", type=int, default=15)
     p.add_argument("--budget", type=float, default=0, help="stop starting new commits after N seconds")
     p.add_argument("--allow-unscanned", action="store_true")
+    p.add_argument("--no-tag", action="store_true", help="don't name this state of the dataset")
     p = sub.add_parser("site"); p.add_argument("--out", default=os.path.join(REPO, "_dist"))
     a = ap.parse_args()
     {"scan": cmd_scan, "push": cmd_push, "site": cmd_site}[a.cmd](a)

@@ -1,0 +1,4926 @@
+{
+ "id": "20261101-105306-farhan-mech",
+ "created": "2026-11-01T10:53:06+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "credit": "Farhan Baig",
+  "note": "Mechanical Engineering (semesters 3-5) material shared by Farhan Baig"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-1/Lecture-Slides_I-5-BinPoiNormal.pdf",
+   "s": 34522810,
+   "h": "091b486dc4df43a9f45b9f94aea0357fc0ede5ddf19e5460865018120820c786",
+   "t": 1758334164,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Class-Notes_Unit-1.pdf",
+   "s": 31171051,
+   "h": "92bea5230f37aeb17329427322f30b18b0e89a9393bf276a2028f417ff92c261",
+   "t": 1765407524,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Unit-2/Class-Notes_Unit-2-MEC2120.pdf",
+   "s": 3515391,
+   "h": "bd466fcc2924af24db62f5f9928500d1fa860687e7d01534f6bc24501eba1e83",
+   "t": 1758334066,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Complete-Notes/Class-Notes.pdf",
+   "s": 109267583,
+   "h": "6e62886a78a8a2f171469981625ed2b88475f48570328003cf2a25aee6d1a9c6",
+   "t": 1767212666,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/Unit-1/Lecture-Slides_Unit-1_2022-23.pdf",
+   "s": 11952671,
+   "h": "2263f29618fb5fa8643b73903775e0372edc75b60e956f01a42bd3e8e2ac7182",
+   "t": 1793530317,
+   "meta": {
+    "professor": "Dr. Syed Fahad Anwer",
+    "year": "2022-23",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3912_Heat-and-Mass-Transfer-Lab/Records/Lab-Reports_All-Experiments.pdf",
+   "s": 21785908,
+   "h": "e68d7f0700aec94df66685c77970354aba8821b5086f8a14d6db06280a1b0d0d",
+   "t": 1793530319,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/Books-and-Resources/Solutions-of-Unsolved-Problems_Book.docx",
+   "s": 10010684,
+   "h": "dde9590c5cabf28dc6f25f852d32706497a80641e3727e672b3ac888a5efebbd",
+   "t": 1788073486,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Unit-3/Class-Notes_Simplex-Method.pdf",
+   "s": 8354918,
+   "h": "5f494cd0c2d8fc33dbc219acf7e1efabd550b3c9386a6b3b8c7ab27973c1e60a",
+   "t": 1781391296,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_General-PYQs/Sem-End_2022-23_Sem5-All-Courses.pdf",
+   "s": 8933147,
+   "h": "ccb1892afe92d26f991ed394882c31538a433e4ddc3e334e1add326da31f5f76",
+   "t": 1793530320,
+   "meta": {
+    "year": "2022-23",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_General-PYQs/Sem-End_2023-24_Sem5-All-Courses.pdf",
+   "s": 5898418,
+   "h": "1d7403538236e800bd024a6a0d95e7222de54c45f0fe8a2ca4763fef86fab0d7",
+   "t": 1793530320,
+   "meta": {
+    "year": "2023-24",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Records/Drawing-Sheet.pdf",
+   "s": 1268211,
+   "h": "82baea8ec1ed3bc34fb5a00ecc333b74af76861902dca6a1325e58fd8af3abea",
+   "t": 1762051580,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Records/Drawing-Sheet_2025-09-03.jpg",
+   "s": 211267,
+   "h": "756842b51f7be8f2c2172f6af41d22565feb5b984b774ec00a5979bf2306aadc",
+   "t": 1758668372,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Records/Drawing-Sheet_2025-10-07.jpg",
+   "s": 651448,
+   "h": "e2fa828967064facb18173d76747a39a39b311c0dc9462a82f95192fcbda0f32",
+   "t": 1759859354,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Records/Drawing-Sheet_2025-12-18.jpg",
+   "s": 720351,
+   "h": "e67822fa5c47b7b31d06872cb4e829b461eac60e01ec33da11e15150691ece77",
+   "t": 1766212858,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Records/Drawing-Sheet_2025-12-18_2.jpg",
+   "s": 17553,
+   "h": "a517ca94f996389be84222e148dd77845006cf5dd743c2d52e34b0399f7ad2c5",
+   "t": 1766212856,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Records/Drawing-Sheet_2025-12-18_3.jpg",
+   "s": 740214,
+   "h": "d0a286f1ca8aa7f0c20414524daeb71c0508a39cb5def6db16f4127b8a9fb2f8",
+   "t": 1766212856,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Records/Drawing-Sheet_2025-08-27.jpg",
+   "s": 3478227,
+   "h": "65cb90e0d3f67392c0cccfcfe84a0eb7c801dbf2f6484280fdfdbf4b9b6a1784",
+   "t": 1793530320,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Records/Drawing-Sheet_2025-09-03_2.jpg",
+   "s": 2847339,
+   "h": "9bc6d31e59bc03481bea6fbba24aa9b81e7a3a8c35275b30949be115bb8e723a",
+   "t": 1793530321,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Records/Drawing-Sheet_2025-09-03_3.jpg",
+   "s": 2958874,
+   "h": "b52215a7ace122bce5184c122860720c64f598b5fdb88c94d9fe854340689278",
+   "t": 1793530321,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Records/Drawing-Sheet_2025-09-10.jpg",
+   "s": 4014405,
+   "h": "79656e8ad170074bbc7b705e7169369b044ea2b4b1d77e72f5f53000f0460b95",
+   "t": 1793530321,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Records/Drawing-Sheet-Photo.jpg",
+   "s": 190059,
+   "h": "de877d7ce399e2c92ed69ff369fa299ea9b359d4e3934e0407590b00aeae6721",
+   "t": 1759869922,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Records/Drawing-Sheet_2025-09-20.jpeg",
+   "s": 155590,
+   "h": "cb03eb065bf9c9f74110b1268eb3a841034762050975549d5cff551007a50842",
+   "t": 1758334104,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Records/Drawing-Sheet_2025-09-20_2.jpeg",
+   "s": 138381,
+   "h": "b94bce4f3627fc82bf76b465080133e67f0e0bc4c9fcf7a9c9d06186b44507a3",
+   "t": 1758334104,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Records/Drawing-Sheet_2025-09-20_3.jpeg",
+   "s": 163499,
+   "h": "21a173ce3eba13bfb6a65b858bca3288fa464f4145291f4444055848a32e0563",
+   "t": 1758334110,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Books-and-Resources/Book-Excerpt_Impedance-Loading-and-Matching.pdf",
+   "s": 450939,
+   "h": "7dca84975dc7247fa0cee2823062f54173039769db9ce97016ba3f5c91cb8788",
+   "t": 1793530321,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Z_Assignment_2022-23_Home-Assignment.pdf",
+   "s": 314728,
+   "h": "7fc102b65cce8c91ff95a39c3a86582755ef08f2c174f96ce4fc0a703c94e080",
+   "t": 1793530321,
+   "meta": {
+    "professor": "Dr. Arees Qamareen",
+    "year": "2022-23",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Z_Assignment_Experimental-1-Solution.pdf",
+   "s": 2267247,
+   "h": "405b28dd74d694d09f63687880ce300a91d9f29711bdc97e8211c3de07274d72",
+   "t": 1758334088,
+   "meta": {
+    "author": "Syed Mohammad Talha",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Books-and-Resources/Book-Excerpt_Measurement-Systems.pdf",
+   "s": 1167016,
+   "h": "a274cc0f20b61b77b72d83bb4d7aad42f964f112b6a52ed28b3710ec07682b72",
+   "t": 1793530322,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Mid-Sem-2_2024-25.pdf",
+   "s": 664578,
+   "h": "df8f8f6465e600a15372e796fb14130ca0121fc2a8f3184dd9a3c96306b26b65",
+   "t": 1753574174,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Books-and-Resources/Statistical-Tables.pdf",
+   "s": 184418,
+   "h": "29efa9b070fcbeb658a44df9d00b208fa4621ee355d77ba313d3af1b706690bc",
+   "t": 1793530322,
+   "meta": {
+    "professor": "Abid Ali Khan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Syllabus/MEA2422_Syllabus_Course-Outline.pdf",
+   "s": 682805,
+   "h": "755146d14753011b87813611bf8d60ac5d5df499f1eaa6e72043129a96af0ccb",
+   "t": 1753574118,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Z_Tutorial_Prob-Unit-2-Ha.pdf",
+   "s": 129835,
+   "h": "a079043bf64655a3fee6513c68d319c32561213e1381be1f47f4f94f66f4a43d",
+   "t": 1793530322,
+   "meta": {
+    "professor": "Abid Ali Khan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Z_Tutorial_Problem-SheetU1-P1.pdf",
+   "s": 142748,
+   "h": "fd71c9c248bd251293a9fbddac37d8eb1b68ce35ba0b7dbee8b9a82df24580e6",
+   "t": 1793530322,
+   "meta": {
+    "professor": "Abid Ali Khan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Z_Tutorial_Problem-SheetU1-P2.pdf",
+   "s": 1098247,
+   "h": "dc6fae40e904e57ebb53894b2aeadda9a06ed635457643aad1f49db9ce46311e",
+   "t": 1753574156,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Z_Tutorial_Problem-SheetU1-P3.pdf",
+   "s": 409895,
+   "h": "95dc8258a6fee6c01e9bb255644cb0dba36356e2517419a32b84444d66e3a76a",
+   "t": 1793530322,
+   "meta": {
+    "professor": "Abid Ali Khan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Z_Tutorial_Problem-SheetU2-P1-1.pdf",
+   "s": 270770,
+   "h": "ac74ae54bb19e97e15f8078d514ce42e9653c8f9ede66f832aad75d5e2820aae",
+   "t": 1753574174,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Z_Tutorial_Problem-SheetU2-P2.pdf",
+   "s": 242514,
+   "h": "b039354e13ae6ef20d07e75ee7e85e7be3735f034e975e3f8d4f27f139c0aca7",
+   "t": 1753574174,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Z_Tutorial_Problem-Sheet-1.pdf",
+   "s": 633944,
+   "h": "1a554b9674339423795a35324cc4814f9812e3f2727f343fc3c52005dbe91df4",
+   "t": 1793530322,
+   "meta": {
+    "professor": "Dr. Mohammad Asif",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Z_Tutorial_Sheet-2.pdf",
+   "s": 419252,
+   "h": "01dff991ebeb7f7717878a6e476f4cf02f957aaf14b7f0c1411fd793328e9cc3",
+   "t": 1793530322,
+   "meta": {
+    "professor": "Dr. Mohammad Asif",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-1/Class-Notes_Unit-1-Incomplete.pdf",
+   "s": 11475185,
+   "h": "ec3369b26a474edd3c7863c01f9b575fd58a5962615ed507c1298683a407763e",
+   "t": 1793530322,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-2/Class-Notes_Sampling-Distribution.pdf",
+   "s": 4287193,
+   "h": "cd50258c53765519488a0a16ce81c69eef09c73dc6137515f725483d6f7cc6f9",
+   "t": 1793530323,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-3/Book-Excerpt_Instrument-Types-and-Performance-Characteristics.pdf",
+   "s": 162557,
+   "h": "0f0e3f440f381b3ec3f0327b9483a3aba32d17d15f21ee94226b7597155b9729",
+   "t": 1793530323,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-3/Class-Notes_Unit-3.pdf",
+   "s": 21768785,
+   "h": "b5fa69e668c740c834d987fa9b988ac35badb1a930ec94b0f0157c18f5efb390",
+   "t": 1793530324,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-4/Class-Notes_Signal-Conditioning-Element.pdf",
+   "s": 1450294,
+   "h": "97b2986250a7b1e6a1b65a2f5b95cd09435571cbc8938b01cfdab40554c83796",
+   "t": 1793530324,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-4/Class-Notes_Unit-4-All-Parts.pdf",
+   "s": 24058246,
+   "h": "fdba744d4435a2470374f7a3d2f20c7699d1f6ef88a0a14fc8fb4c6c695ba803",
+   "t": 1793530325,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-4/Class-Notes_Data-Presentation-MEA2420-2024.pdf",
+   "s": 1798331,
+   "h": "889ff505e492d54a11b7e233caeb0c1fda17bc339e43be5682e1557809a22263",
+   "t": 1793530325,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/PYQs-and-Assignments/Z_Tutorial-1_2025-26_Handwritten-Solution.pdf",
+   "s": 2921819,
+   "h": "a3b47473e1e9167b97b7241603def1e302fc77e35aac781a1ab9ee06e7359ee3",
+   "t": 1758334080,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/Complete-Notes/Class-Notes_Up-to-10-Oct_2025-26.pdf",
+   "s": 9493257,
+   "h": "1482f82accd674ae05e88ebf491bfa6e72a05c98c9dbc19130a22dc4114400a6",
+   "t": 1753572604,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/PYQs-and-Assignments/Mid-Sem-2_2024-25.pdf",
+   "s": 417078,
+   "h": "9fff3305b2bafd406cad78aa151085135932ff8dd6714afd49b5b05a22882dd6",
+   "t": 1753572604,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/Syllabus/MEC2312_Syllabus_Course-Outline.pdf",
+   "s": 491186,
+   "h": "ae9f07886c6a9587f9f4f014886c8f4528a954b69b4de9df978331d1e209cf4b",
+   "t": 1753572524,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/Books-and-Resources/White_Fluid-Mechanics_Chapter-6_Solutions-Manual.pdf",
+   "s": 3318656,
+   "h": "565f2447b717167ae2b7b1bfacdb3f2a96bf1a9f0118a40984431b7045176edc",
+   "t": 1793530326,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/PYQs-and-Assignments/Z_Tutorial-1_2025-26_Solution.pdf",
+   "s": 2866038,
+   "h": "cd637abfd6924386fa33711caa4148068c150a47bb5e128413e572caf0bf250c",
+   "t": 1758334240,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/PYQs-and-Assignments/Z_Tutorial-3_2025-26.pdf",
+   "s": 154231,
+   "h": "4f6634d2ffaa1b9afa64f8c2bbab03d3bf8f1dad59d0165d3a8b4676fabde995",
+   "t": 1762051464,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/PYQs-and-Assignments/Z_Tutorial-1_2025-26_Solution_2.pdf",
+   "s": 2856105,
+   "h": "aa6bfb473e49bb6cbbcfa20d03d64d1c6168c40e3e3f90529566f253dbda39bb",
+   "t": 1765406866,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/PYQs-and-Assignments/Z_Tutorial-2_2025-26.pdf",
+   "s": 55220,
+   "h": "0c4868450728faabf1e89256cc203fbcd7a860aa16543cdc725ff26e88dd34a7",
+   "t": 1760462928,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/PYQs-and-Assignments/Z_Tutorial-1_2025-26.pdf",
+   "s": 129309,
+   "h": "6fa71dc9fbcc9060ca00b708c406ca650a6857fa28b1638ead621b0ede5bc674",
+   "t": 1765407124,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/PYQs-and-Assignments/Z_Tutorial-4_2025-26.pdf",
+   "s": 167653,
+   "h": "a297b71cf0bc6ba15393b5feef887957712c1ce37191796863de240cae75746e",
+   "t": 1765407124,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/PYQs-and-Assignments/Z_Tutorial_Example-6-113.pdf",
+   "s": 86255,
+   "h": "83ab1945c3c68f598ff3252c50005b76c53773edb227b041388c599b27d6f8a1",
+   "t": 1793530326,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/PYQs-and-Assignments/Z_Tutorial_2025-26_Handwritten-Solutions.pdf",
+   "s": 5178158,
+   "h": "0122d242f85e11e134aa7189ef5fd2b66a46f4f0720184675abe52e22c26cbc7",
+   "t": 1753572604,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/PYQs-and-Assignments/Z_Tutorial_Pipe-Flow-Problem.pdf",
+   "s": 365941,
+   "h": "3e140a98b20ce66925b83b724f3fc0f0061b9011fd81a3ff2a854b9ac15003f6",
+   "t": 1793530326,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/Unit-1/Class-Notes_Of-Smy.pdf",
+   "s": 21337590,
+   "h": "ae9ed38be8bb477b4b2cc2f54fade91e4109cf878fec3612f5fa1e12e627c570",
+   "t": 1793530327,
+   "meta": {
+    "professor": "SMY",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/Unit-1/Class-Notes_Unit-1-As-A-Continuum.pdf",
+   "s": 15878706,
+   "h": "f2448fe2bda900563d3db49c40021ac940a3dc01ffcbe9ef57147be2c4b7b16b",
+   "t": 1754686536,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/Unit-2/Class-Notes_Unit-2.pdf",
+   "s": 7589988,
+   "h": "2bd8309b00a440c451f5aefbbb70ab6036b7b58f4d4b6e40de627f1bf0e39503",
+   "t": 1793530328,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/Unit-2/Class-Notes_Unit-2-B.pdf",
+   "s": 7451605,
+   "h": "197c9597d9d5e74f41f64873c229d21ca9648329fbdabdfbf4c00b34fac25f4b",
+   "t": 1753572604,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/Unit-2/Class-Notes_Unit-2_2.pdf",
+   "s": 21299810,
+   "h": "8d68b43e669522ab628a490794ee99c702fbccb9907a90d3a53d47340bf30b4f",
+   "t": 1759815120,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/Unit-3/Class-Notes_Unit-3.pdf",
+   "s": 11165632,
+   "h": "b343588012257ad08b53fe0d0d7c83a9874538614e95407c28f61aaf46490d36",
+   "t": 1753572604,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/Unit-4/Class-Notes_Unit-4.pdf",
+   "s": 10173278,
+   "h": "cc4a4951a35fc1fe6bbd2f0086b8feebfd700ecab3776accd6b34fba834a5aec",
+   "t": 1753572604,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/Books-and-Resources/Moody-Diagram.pdf",
+   "s": 66557,
+   "h": "4cbd011af9b9f3190e73c066b44539ad7e8710dfb56fe3c512ae5729acc3b851",
+   "t": 1765407202,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Manuals/Result-Sheet_Bend-Losses.pdf",
+   "s": 32071,
+   "h": "eb0aedb009a9a488c8390fd04ad5b1b329e18cf0d89a30612a19c0674d3c69c9",
+   "t": 1793530328,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Records/Write-Up_Bend-Losses.pdf",
+   "s": 919601,
+   "h": "14eb95f84108b2deb08f3589d1c2787bd236c5c33b9825a84006199fb0d7a6b5",
+   "t": 1758334198,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Manuals/Result-Sheet_Bernoullis-Theorem.pdf",
+   "s": 33310,
+   "h": "525af2eddd975c920486f904d1161debac2ab37d5441025ed767b0d7c467f287",
+   "t": 1793530328,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Records/Write-Up_Bernoullis-Theorem.pdf",
+   "s": 2577197,
+   "h": "2b04e18e07436195cd550738436b1521d04caf2203a450b20f352c64498dc926",
+   "t": 1758334230,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Manuals/Result-Sheet_Car-Model-Drag.pdf",
+   "s": 136369,
+   "h": "8c054b8ff27098467238649ad0e723fb7af000fbfd881957537acf6412378d47",
+   "t": 1793530328,
+   "meta": {
+    "professor": "Prof. Nadeem Hasan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Manuals/Result-Sheet_Constriction-Meters.pdf",
+   "s": 210216,
+   "h": "ed4ad3c33afd009eca0b689000e397d83592a62673b3af242b966058c7b78c04",
+   "t": 1793530328,
+   "meta": {
+    "professor": "Prof. Nadeem Hasan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Records/Write-Up_Constriction-Meters.pdf",
+   "s": 2305280,
+   "h": "f09b98c143d4a4f7c956a4600005e564ca6c2781bf43ac4a9dc0d2f755fb3d52",
+   "t": 1762051834,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Manuals/Write-Up_Car-Model-Drag.pdf",
+   "s": 819359,
+   "h": "932c5bbc0683632e634babeff2fa49908e9bae4df2ab5aacebcc3382420db799",
+   "t": 1793530328,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Records/Write-Up_Sudden-Expansion-and-Contraction.pdf",
+   "s": 1257319,
+   "h": "3405cfefe891e1942fbbd01d6fe73580e9b4c50a4fc7a9704f8f35b49c44d79e",
+   "t": 1758334184,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Manuals/Lab-Report-Title-Page.pdf",
+   "s": 94504,
+   "h": "a6e7b34b469ae5f9eebd71c894911f8143212c0f6868fe5c6e1af0d94b55cc92",
+   "t": 1793530328,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Records/Lab-Record_All-Experiments.pdf",
+   "s": 8261761,
+   "h": "e6e8e2189b87095d234caaac5ff1aa730cf321f4b0a25e0911450cfcb400fd8e",
+   "t": 1754686536,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Records/Write-Up_Friction-Factor-Pipe-Flow.pdf",
+   "s": 4610140,
+   "h": "002b29e2c294fee36f4d0b81066267994c1eca0905680abca427af43f615682b",
+   "t": 1758334242,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Records/Write-Up_Impact-of-Jet.pdf",
+   "s": 1123714,
+   "h": "fbbe04985df40a9960b1a001feca5994603e04e26c6233ae397dd277d0516186",
+   "t": 1762051834,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Manuals/Result-Sheet_Impact-of-Jet.pdf",
+   "s": 33083,
+   "h": "332c45e7cb28e44c01a48d5bec12726227f534127f8fee6ac7e7b4f565042bff",
+   "t": 1793530328,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Manuals/List-of-Experiments.pdf",
+   "s": 81528,
+   "h": "ec54964b249b1062132ae7c82d7e9d101747541c39a155e082e9669040e0254f",
+   "t": 1793530328,
+   "meta": {
+    "professor": "Prof. Nadeem Hasan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Manuals/Write-Up_Pressure-in-Rectangular-Bend.pdf",
+   "s": 824114,
+   "h": "c263f7f7cdbddd74b1903e4b1bb57204b2022f424db65a08f966784e26f40b55",
+   "t": 1793530328,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Manuals/Result-Sheet_Rectangular-Bend.pdf",
+   "s": 38345,
+   "h": "bc7f2bb2f8ad908deb2141be335b37f596c2e67c892204918669378f904d8a3a",
+   "t": 1793530328,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Manuals/Result-Sheet_Sudden-Expansion-and-Contraction.pdf",
+   "s": 180341,
+   "h": "5e5bf843ad1f2d29a5dc3f30b9d777d14c034ba069af7175e9fc2be3e8b2eb3a",
+   "t": 1793530328,
+   "meta": {
+    "professor": "Prof. Nadeem Hasan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Manuals/Result-Sheet_Friction-Factor.pdf",
+   "s": 32065,
+   "h": "05dcb441830c076ba754fa3085ef54647777cf4fd8d18aa52ecac09ce5ea8e96",
+   "t": 1793530328,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Syllabus/AMS2312_Syllabus_Lecture-Plan-Unit-1.pdf",
+   "s": 585535,
+   "h": "4bc70aaef974d029036df3fa8f9ab80130bad5a075c1dcb2d264f475380a014c",
+   "t": 1793530328,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Syllabus/AMS2312_Syllabus_Lecture-Plan-Unit-2.pdf",
+   "s": 288961,
+   "h": "ae2891ef81ff084c574fbc31d626acdb7739ff50f928e6180e60c676e0f57581",
+   "t": 1793530328,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Syllabus/AMS2312_Syllabus_Lecture-Plan-Unit-3.pdf",
+   "s": 285769,
+   "h": "ed9fd6d21c599e6aae62a43c0f7f93f0f6f5a53a9242c54ee9f89e106cce5d77",
+   "t": 1793530328,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Z_Tutorial_2024-25_Probability-Solutions.pdf",
+   "s": 1941433,
+   "h": "08d46c1315be8cc8a378dfa21511744f4126117d3262e06455abb33c484bab9d",
+   "t": 1753574170,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/PYQs-and-Assignments/Z_Assignment_2025-26.pdf",
+   "s": 546458,
+   "h": "fb57767e50a3f820560ba06946df85cf12f1224c657d37cef4fed09968e09660",
+   "t": 1793530328,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/PYQs-and-Assignments/Z_Assignment_2025-26_Handwritten-Solution.pdf",
+   "s": 8033052,
+   "h": "ac9fa57740713058c953ae061654a36e1a863bc0545fd752d062477415661f7b",
+   "t": 1765406502,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/PYQs-and-Assignments/Z_Assignment_Handwritten-Solution_Affan.pdf",
+   "s": 4986226,
+   "h": "8267aca21944a59edc3ca9a02c9bf4b539bf2f1fe43f0c49ec46b2f862561910",
+   "t": 1765406706,
+   "meta": {
+    "author": "Affan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Class-Notes_Unit-1_2.pdf",
+   "s": 6959305,
+   "h": "a78085c2a137418200076adcaecf5ae2b08e24a424e8b3acc947179999e04e3a",
+   "t": 1765407524,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-2/Lecture-01_Unit-2.pdf",
+   "s": 5284353,
+   "h": "12818f7af7968db8539688b1e8d6c9ca2d353f6ce30f2b64f3fbd1f1c87ffcc8",
+   "t": 1764176392,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-2/Lecture-02_Unit-2.pdf",
+   "s": 3871440,
+   "h": "66d8b348edfbdcbc312be78407ab4bc3a125d2b2c82c562e2cfc8e317d019bae",
+   "t": 1764176390,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-2/Lecture-03_Unit-2.pdf",
+   "s": 816875,
+   "h": "acb9b88e6b4f6b938a5f5e082e45843f9d82a9a05baabcbffb5686650b212d5e",
+   "t": 1764176390,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-2/Class-Notes_Unit-2.pdf",
+   "s": 15786786,
+   "h": "73ba01111451e22d95581ff1d05d2c557871297df5d175a26f4639e00f3340f2",
+   "t": 1793530329,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-2/Class-Notes_Series-and-Contour-Integration.pdf",
+   "s": 7718952,
+   "h": "d7e6f6fbabf15d127029990be3c513f568a381b9afe0a1369985bdf2139afc81",
+   "t": 1764176392,
+   "meta": {
+    "author": "Syed Mohammad Talha",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-2/Lecture-04_Unit-2.pdf",
+   "s": 3998639,
+   "h": "e0e42d5451d6252bed26a5d55730ec423c9ce6034672725e1e873838aeda6bfc",
+   "t": 1764176390,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-3/Class-Notes_Unit-3.pdf",
+   "s": 18762717,
+   "h": "bb48baa83b6276a50bfaaa6b7c60c5b3f889ac6e1e8d63c005bd6b6f2f1f6230",
+   "t": 1793530330,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-3/Class-Notes_Vector-Differentiation.pdf",
+   "s": 1926244,
+   "h": "998b0e0cfe3d48118ea88536cd1c9c7d23baacda2c855338d885d0fec1d35ca6",
+   "t": 1764175972,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-3/Class-Notes_Vector-Integration.pdf",
+   "s": 13188038,
+   "h": "63d9a262112d09c65211352ca4a17f4c0a6956f5f835d070d2ba779f78fc39dd",
+   "t": 1793530331,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/PYQs-and-Assignments/Z_Assignment-2_Home-Assignment_MEC2120.pdf",
+   "s": 77857,
+   "h": "fdf78a26210208fd6db25b6ded888d7ce1911eb85c03d5d4143ba6ce7933c763",
+   "t": 1793530331,
+   "meta": {
+    "professor": "Abid Ali Khan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/PYQs-and-Assignments/Z_Assignment_Home-Assignment_Gears.pdf",
+   "s": 238079,
+   "h": "ecc6e33d291628ab80493d46f3a2a87963d25df06546c4bddbea6ec4e8dc4a0d",
+   "t": 1793530331,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/PYQs-and-Assignments/Z_Assignment-1_Handwritten-Solution.pdf",
+   "s": 2409051,
+   "h": "9a5df97ee358f6ff7927a70ad081d196f1c0661e79f67533edd037c167c0de4f",
+   "t": 1765407598,
+   "meta": {
+    "author": "Syed Mohammad Talha",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/PYQs-and-Assignments/Z_Assignment-1_Handwritten-Solution_2.pdf",
+   "s": 3093273,
+   "h": "2fab36cee5ba3fbce381b671b5e3e6c8fc485e2b3ebbb5f9d16aa4dc8094b325",
+   "t": 1793530331,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Syllabus/MEC2122_Syllabus_Topic-Wise-Study-Guide.pdf",
+   "s": 218797,
+   "h": "0083e3cc3405db04949548e593c58ddce792168ab2940668bf555fb67d63257a",
+   "t": 1793530331,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/PYQs-and-Assignments/Sem-End_Papers-Collection.pdf",
+   "s": 853390,
+   "h": "135c497d72ff10f06154dd576ec31efae0ca1922398a86f429ec601517f85a4d",
+   "t": 1764176472,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/PYQs-and-Assignments/Mid-Sem-1_2021-22_MEC2120.pdf",
+   "s": 376028,
+   "h": "ab2c14d337da54b2918f84b16c1276ee9a916a2ed4fdcff3c6ba3d87877cc011",
+   "t": 1793530331,
+   "meta": {
+    "professor": "Abid Ali Khan",
+    "year": "2021-22",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Syllabus/MEC2122_Syllabus_Course-Outline.pdf",
+   "s": 159867,
+   "h": "060f9b149b4f47f7f5ba99eb13f35bf0b5eb391848ea7b93b83865f0175cd37b",
+   "t": 1793530331,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Unit-1/Class-Notes_Unit-1.pdf",
+   "s": 7184698,
+   "h": "e98dbd8e0dcafd4b25942880488d3f84200545138b5e085ab284d89bdca3a332",
+   "t": 1754686536,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Books-and-Resources/Hande_Kinematics-of-Machines_KDKCE-Notes.pdf",
+   "s": 2075593,
+   "h": "fa8ed94fe3ae519c6e90d30212e1cefb18b7ac8e640421027628033da0666b9e",
+   "t": 1753574080,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Unit-2/Class-Notes_Acceleration-Analysis-Graphical-Method.pdf",
+   "s": 1431339,
+   "h": "c19fbb5a3bd42312df41596d7524174c59bcd40464a7422b389e714b04ed68ed",
+   "t": 1760548046,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Unit-3/Lecture-Slides_Kom-Unit-3.pdf",
+   "s": 1812390,
+   "h": "0d718bbc606b2aaf2809530d8414000e5688fe443eb6c45041793797bf495957",
+   "t": 1764175904,
+   "meta": {
+    "professor": "Dr. Najeeb ur Rahman",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Unit-4/Lecture-Slides_Cams.pdf",
+   "s": 1720567,
+   "h": "28a68629b3790770bf153becaed3fd884aa790b67614b0b0f1bff9b7c6ab0da8",
+   "t": 1753574118,
+   "meta": {
+    "professor": "Dr. Najeeb ur Rahman",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Unit-4/Lecture-Slides_Gear-Trains.pdf",
+   "s": 1406796,
+   "h": "067c57eb9070b9f8e7292ee5a1d91d5beec4637391b513547a59a38e5b062801",
+   "t": 1753574118,
+   "meta": {
+    "professor": "Dr. Najeeb ur Rahman",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Unit-4/Lecture-Slides_Unit-4_2025-26.pdf",
+   "s": 7414946,
+   "h": "9e7f445e6108e471ddfd1bb62f818dd0b1f078dadde8a42e2cb371446e73c60d",
+   "t": 1793530332,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Lab-Notes_Alloying-Elements_2022.pdf",
+   "s": 8083199,
+   "h": "3a3d8bc792d2b65ea99c7498a08bbddd5e858ede9aa64d005b449c502605d51b",
+   "t": 1753574076,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Lab-Photo_2025-10-04.jpg",
+   "s": 1989634,
+   "h": "efd4812f5ebe2054358be9d5a26d50f8821124ab330526838fa6962b15e2a017",
+   "t": 1793530332,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Lab-Photo_2025-10-04_2.jpg",
+   "s": 1720585,
+   "h": "68d719ea336548e7d51acb9fb1119c604051f632c5e35adf47903bd8c1a9940d",
+   "t": 1793530332,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Lab-Photo_2025-10-04_3.jpg",
+   "s": 1858754,
+   "h": "06b9ac79e1dd08965a50867ec937d51ab54a8516a88ad589400325f31893828d",
+   "t": 1793530332,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Lab-Photo_2025-10-04_4.jpg",
+   "s": 1719045,
+   "h": "37030025ca97a2252621b42342ac35cad43e487bf800f5633a996b8576165222",
+   "t": 1793530333,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Lab-Photo_2025-10-04_5.jpg",
+   "s": 1854635,
+   "h": "03528db5ab3b93670d1ecdd08001e2cd83ef3d63a8fbc445f23f812aebd5639c",
+   "t": 1793530333,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Lab-Photo_2025-10-04_6.jpg",
+   "s": 156015,
+   "h": "0bd5fb58f9e785700f3cd6eceaff3e9426132f7e9dbc62f70d1663a3cd329460",
+   "t": 1793530333,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Lab-Photo_2025-10-04_7.jpg",
+   "s": 1805916,
+   "h": "717a29a3cc321d2016cb6e7ddc8383ac61ac26c47b1f1cb40a81d8d03a50cba4",
+   "t": 1793530333,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Lab-Photo_2025-10-04_8.jpg",
+   "s": 1303249,
+   "h": "e7012340d3bdd810f1f389c9d6bee2b65a5bb035221031dd1827086f1672c91a",
+   "t": 1793530333,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Manuals/Lab-Manual.pdf",
+   "s": 483278,
+   "h": "136c715429f6db4963b00fc354d6dd57aecc6e8346ea5370fd0575d2734e48ff",
+   "t": 1793530333,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Manuals/Lab-Report-Structure.pdf",
+   "s": 91107,
+   "h": "bc20481bf8df88492d3adc3f94dcf6e1e74f1a264750ef2b876839c2ece7a10b",
+   "t": 1793530333,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Lab-Photo_2025-09-20.jpeg",
+   "s": 95211,
+   "h": "9e7626fafa4d6810d070687c0d70cd9212ba98a3c2cb6d1a9283c773f8cda426",
+   "t": 1758334114,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Lab-Photo_2025-09-20_2.jpeg",
+   "s": 84922,
+   "h": "fd248e8fb1175af7b977c93e6a574cf22e2682837d871dc3bca1a3a41da763cc",
+   "t": 1758334118,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Lab-Photo_2025-09-20_3.jpeg",
+   "s": 78371,
+   "h": "17217011970520796a832fccd2a9f45a43299d4bc981a3befb5e17c2e21267d8",
+   "t": 1758334118,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Lab-Photo_2025-09-20_4.jpeg",
+   "s": 93813,
+   "h": "699ffda635bf5e5c616a3dd10f0ea5f1a4319401f5be55fada8e861b0b5f19bd",
+   "t": 1758334114,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Lab-Photo_2025-09-20_5.jpeg",
+   "s": 94627,
+   "h": "43b99888ad2af59343b19d49c7d54b3d9ab2ed841cf16890f599aaaf46ade0de",
+   "t": 1758334124,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Lab-Photo_2025-09-20_6.jpeg",
+   "s": 81172,
+   "h": "8715fd3e171b8e1b3828cb95588406e7bbce64a5c140dadade370c4910788e6a",
+   "t": 1758334120,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Record_ECR.pdf",
+   "s": 507226,
+   "h": "e17306df0205e1e7ed56103994180af3d858a2dc977308d54dc1f8d34642b378",
+   "t": 1793530333,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Record_Heat-Affected-Zone.pdf",
+   "s": 792725,
+   "h": "3a46568666198a07e4a70a6ba6d0d04cf1d3e5d5137a21673ba4d2883c183df0",
+   "t": 1793530333,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Experiment-1.pdf",
+   "s": 359428,
+   "h": "21ed61104017e125b28571169bbc99091a7e8011116700c8783f62690f44cb96",
+   "t": 1758334212,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Experiment-2.pdf",
+   "s": 951904,
+   "h": "7e892f9794dfdba3d1e6cfa39cea3f8127f7cacbb30e6cbf4f65988c3e4f3f18",
+   "t": 1758334214,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Experiment-3.pdf",
+   "s": 807344,
+   "h": "bc8551681e22d35b892344ea567afb654272c4a935e5b5e8f83a156649749fc6",
+   "t": 1758334222,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Experiment-4.pdf",
+   "s": 954598,
+   "h": "d13f9ba3ccad712c266a440fb992798133af20f2d93ef4e33d749451e6e3d5fb",
+   "t": 1754545444,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Experiment-5.pdf",
+   "s": 792845,
+   "h": "608ef9f785482ddc800a915a451f3de393d131d67a51173178417ff74a825446",
+   "t": 1758334220,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Experiment-6.pdf",
+   "s": 805259,
+   "h": "1d95fa26a95e04fe67e22e44371cb1eb7edfdb8be9eeac6691790adf40c6add1",
+   "t": 1758334232,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Experiment-7.pdf",
+   "s": 1027405,
+   "h": "c70a29d8c408ee1d87da9b6b4fc1869a2361f0b9e0ac5a26314678ab507844b4",
+   "t": 1758334222,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Experiment-8.pdf",
+   "s": 692517,
+   "h": "5458cd80f69271547542824ceb87d71c1273d9c7cd67fb5627135205a1bb16a9",
+   "t": 1758334218,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Record_Microstructure.pdf",
+   "s": 252005,
+   "h": "df77bb9cafa75a9e65f94ebbd8cc27bd7aecc9cca51a502c181f90dce618f39f",
+   "t": 1793530333,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Records/Record_Microstructure-2.pdf",
+   "s": 92789,
+   "h": "252bcd5ef1f034aa33312a0bdecedbd5bc40c3a66a55c8213678a2ad4565dfaa",
+   "t": 1793530333,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-3/Lecture-Slides_Non-Ferrous-Alloys.pdf",
+   "s": 709954,
+   "h": "97348055e5042420bf1cb48c6c875ca6ed5ab8c237cf7e1e146b2ad8303aeeca",
+   "t": 1764176236,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/PYQs-and-Assignments/Z_Assignment.pdf",
+   "s": 6248650,
+   "h": "a9685c35e2decb4df029452ff7cf420d88a07de59eed1cad2458b9850cb639d6",
+   "t": 1753574076,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/PYQs-and-Assignments/Z_Assignment_2025-26.pdf",
+   "s": 1370270,
+   "h": "1c219eea4d4241c95b793bb49fbeb698893aaef8574ca6cf05b0e9e97ea0347c",
+   "t": 1765407326,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/PYQs-and-Assignments/Z_Assignment_2025-26_XRD-Lab.pdf",
+   "s": 109687,
+   "h": "1bb2dab9b37692981c740cd10826c16164d7dfd03feb18d679d81bc85d541652",
+   "t": 1793530334,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/PYQs-and-Assignments/Z_Assignment_2.pdf",
+   "s": 933440,
+   "h": "8377acbb30e9d053a25f66eae42eab2f8d51440adb2edfbc7a94a9f93fe6155b",
+   "t": 1765407324,
+   "meta": {
+    "author": "Syed Mohammad Talha",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/PYQs-and-Assignments/Z_Assignment_Sajjad.pdf",
+   "s": 2152694,
+   "h": "9abb3842a704fb0b64271538dc51952fe4218c129db9fbe890c3f6d4cf7b92d7",
+   "t": 1765407324,
+   "meta": {
+    "professor": "Dr. Sajjad Arif",
+    "author": "Syed Mohammad Talha",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Books-and-Resources/Manufacturing-Science_Book.pdf",
+   "s": 50810355,
+   "h": "d03e68f8754097026ded2fa0acdaa8bbbadbc75dcf64a75916a24c838940210e",
+   "t": 1753574076,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/PYQs-and-Assignments/Mid-Sem-1_2024-25.pdf",
+   "s": 695650,
+   "h": "049ae2a789ca9cc873882db9be3d1b9f2d9312075f0416b4dcb4679fd0d46e23",
+   "t": 1753573670,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/PYQs-and-Assignments/Mid-Sem-2_2024-25.pdf",
+   "s": 609787,
+   "h": "824a5f111a84b446eaac55c9bb06728db4db0a36a8c49197fe7f7d4d5d646cf5",
+   "t": 1753573674,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Syllabus/MEC2432_Syllabus_Course-Outline.pdf",
+   "s": 65223,
+   "h": "f148a04685aa86505842c7a91bbfcc3753308d6eae7f7fb9ade791ac9d0de7e3",
+   "t": 1753575760,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-1/Class-Notes_Crystal-Structure.pdf",
+   "s": 8475002,
+   "h": "f07e4a2e1c221fa705be4ca581c8af98d4de0451d8d2f4a119ceee2bb851d2e3",
+   "t": 1793530334,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-1/Class-Notes_Defects-In-Crystals-Midsem.pdf",
+   "s": 4706717,
+   "h": "df6c1a285822a5fdcc5317729fbe664a91f60610a4ce95f9eaea3d6556a2b65c",
+   "t": 1793530335,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-1/Lecture-Slides_Defects-In-Crystals-Updated.pdf",
+   "s": 3255753,
+   "h": "1fe457ecf7b27eead32ebcdb605ed96445013ac4a45ef094ef1952819822a6cc",
+   "t": 1793530335,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-1/Lecture-Slides_1.pdf",
+   "s": 3657703,
+   "h": "579c9a6e9ac2a099f632679b6c34e78c88465b103bd2f2edc7e319fd9251fbb1",
+   "t": 1793530335,
+   "meta": {
+    "professor": "Dr. Sajjad Arif",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-1/Lecture-Slides_Planer-And-Volume-Defect.pdf",
+   "s": 435945,
+   "h": "ce7b8602ee0a0ae35ef34db97a13dcc6320d3e7752bc4c01f3959021908f5bea",
+   "t": 1793530336,
+   "meta": {
+    "professor": "Dr. Sajjad Arif",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-2/Lecture-Slides_Heat-Treatment-of-Steel.pdf",
+   "s": 2192699,
+   "h": "2454f00a573d7b2b83bccfdeba09999a27b44ea018167c43941dc104d953ae83",
+   "t": 1793530336,
+   "meta": {
+    "author": "Khusro Qasim",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-2/Lecture-Slides_Unit-II.pdf",
+   "s": 224443,
+   "h": "4377e45114dafa4e435a7060207c03da47e6c6c3228984abb8e52cf6b6f8c786",
+   "t": 1793530336,
+   "meta": {
+    "professor": "Dr. Sajjad Arif",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-3/Lecture-Slides_Diffusion.pdf",
+   "s": 2311432,
+   "h": "03c977dbadd1c856d624f83f65206c5da567ea80e21925a2c7346dd1c5cccb4e",
+   "t": 1765407254,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-3/Lecture-Slides_Crashworthiness.pdf",
+   "s": 168012,
+   "h": "2a9312689da7afe4f45592f7b8d02222b89b0e9c7a4aa541ba73893e7b0384af",
+   "t": 1753573634,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-3/Lecture-Slides_Unit-III-Diffusion-In-Solids.pdf",
+   "s": 196567,
+   "h": "ce1a923221098b235e30a6f9a47b3eeb56588f7d7900e8c4a3f8767865707934",
+   "t": 1793530336,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-3/Lecture-Slides_Processing-of-Metals-and-Non-Metals.pdf",
+   "s": 2992627,
+   "h": "004e13675055a8ad406969ae09532dd80a05cf9609dc5075c20fd54cf8c5c7a1",
+   "t": 1753573634,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-3/Lecture-Slides_Non-Metals.pdf",
+   "s": 1621602,
+   "h": "c24a7a1624f13aeeeee43e4123a6582f9d2c2ebb2d2e67acbe6bcc6dbdf3b4cb",
+   "t": 1765407254,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-4/Class-Notes_Unit-4.pdf",
+   "s": 639315,
+   "h": "9d32d1087de7c8bfc888c52f40e4e82fcff71e2ab4310ab239aee48ca11372d7",
+   "t": 1753574080,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-4/Lecture-Slides_Fatigue-Creep-Test.pdf",
+   "s": 1311217,
+   "h": "2724e27a362699bb67f6fa036314b573f98802363ea57f8ec08cdd84d6beb2e7",
+   "t": 1793530336,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-4/Class-Notes.pdf",
+   "s": 4154101,
+   "h": "d99043a3fcec550564eeeac04213321cbba0e42db3a137c3c559276894275d52",
+   "t": 1753574076,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-4/Lecture-Slides_Unit-4.pdf",
+   "s": 2505216,
+   "h": "63219b21857d347e7dc723a04660c1f1ce5dfe99d9bebcf39e675d0d00231d16",
+   "t": 1793530337,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Complete-Notes/Class-Notes_2024-10-28.pdf",
+   "s": 1627170,
+   "h": "e011ca0d7b9232cd74500151d4b069f8f5c52e75c9b8bd76ddf8e2b2e4438b39",
+   "t": 1753572666,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Complete-Notes/Class-Notes_2024-10-29.pdf",
+   "s": 935119,
+   "h": "def89c4d231e27bc715c1f0147c11ac5a9e648f96c25032ed00104f74b8ea11d",
+   "t": 1753572666,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Z_Assignment.pdf",
+   "s": 1074091,
+   "h": "481109f9bb27000eaad38f9723c899ff806871d3afa957351a802e49f79da96a",
+   "t": 1793530337,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2021-22_MEC2110.pdf",
+   "s": 342124,
+   "h": "b3c6252f564234418e4c6cabde64b89079f34f060ed32a1055f89bb6520b088c",
+   "t": 1793530337,
+   "meta": {
+    "year": "2021-22",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Lecture-Slides_Measurement-of-Strains.pdf",
+   "s": 485935,
+   "h": "a1dcd7ca3d189f0ff6ad3c291243fd0bf683de1ed69ace5e7badbe6f154f281b",
+   "t": 1793530337,
+   "meta": {
+    "professor": "Rashid Zafar",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Mid-Sem_2021-22_MEC2110.pdf",
+   "s": 281925,
+   "h": "a458ad9ea9af8ad38d1de13afc4887d26be0a08ddb840c3b2af1811c90fc760b",
+   "t": 1753572612,
+   "meta": {
+    "year": "2021-22",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Mid-Sem-2_2024-25.pdf",
+   "s": 693967,
+   "h": "758bfb972b29530fea4952445f817deb1902c774a7d0a89c16c38d172eed889d",
+   "t": 1753572620,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Complete-Notes/Class-Notes_Rashid-2.pdf",
+   "s": 20868531,
+   "h": "973d1019b803db92475db7a5db71fa83df759bb61f94ce2a14a764b37fb39f1c",
+   "t": 1793530338,
+   "meta": {
+    "professor": "Rashid Zafar",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Complete-Notes/Class-Notes_Danish-Iqubal.pdf",
+   "s": 8674037,
+   "h": "79e88674f1cfd359d893f63ad030bb17174a1a89514ec0fbb0a4c1042d79420f",
+   "t": 1753574022,
+   "meta": {
+    "professor": "Danish Iqbal",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Complete-Notes/Study-Material-1.pdf",
+   "s": 112321,
+   "h": "930f54bcfe8620338919952f7402dfbe40f795c85a205c78a9a0f11f7e84ea7e",
+   "t": 1793530338,
+   "meta": {
+    "professor": "Rashid Zafar",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Syllabus/MEC2112_Syllabus_Course-Outline.pdf",
+   "s": 349438,
+   "h": "d8be7f10d7b1ae812cdf0513626e8f44ad4fe2f1b2c0f2ca0c6b407716c28271",
+   "t": 1753572608,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Z_Tutorial-1_MEC2110.pdf",
+   "s": 212163,
+   "h": "bc6f3c6ff687a5b280d3370ed7d77e73699a8150b4464f37490812bd2691c7c3",
+   "t": 1753572794,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Z_Tutorial_T-1.pdf",
+   "s": 1912517,
+   "h": "898346a1084aa3fb210fda3fad7391e811b2fb77dfc0b10cba34570f3cf402ba",
+   "t": 1762052128,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Z_Tutorial_Mechanics-Of-Solids-MEC2112-Tutorial1.pdf",
+   "s": 133823,
+   "h": "52fa657ea7d114c3c08db658242aa7f2037d35256f55f2cb31ce8d0a36c80ba4",
+   "t": 1753572612,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Z_Tutorial_Mechanics-Of-Solids-MEC2112-Tutorial2.pdf",
+   "s": 81810,
+   "h": "149b7ce752b838937e55f24fbdce8da6dd3c87145b51be342cd0dea0208a5135",
+   "t": 1753572612,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Z_Tutorial_Mechanics-Of-Solids-MEC2112-Tutorial3.pdf",
+   "s": 26631,
+   "h": "77f796c61c03ab92b0a8572556af0c09971ac978c243763f4be7e2d71c3b62dd",
+   "t": 1753572628,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Z_Tutorial_Mechanics-Of-Solids-MEC2112-Tutorial4-2024-25.pdf",
+   "s": 111345,
+   "h": "c57e5d1e3398b227fbd55e59b499c5090ff984ef54fb5586d1e32a4c2f08f13e",
+   "t": 1753572628,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Z_Tutorial_Problems-Bending-Stress.pdf",
+   "s": 183976,
+   "h": "6947c98351e43c9e3e0c7bbabada6f1787510828e02c639ead208ae4913e765c",
+   "t": 1793530338,
+   "meta": {
+    "professor": "Danish Iqbal",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Z_Tutorial_Problems-Shear-Stress.pdf",
+   "s": 198213,
+   "h": "dfcba39ddd56d4e3ef1deca232f326f7d3579f9de1259f5ccd3327adf23ba213",
+   "t": 1793530338,
+   "meta": {
+    "professor": "Danish Iqbal",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Z_Tutorial_Problems-SFD-BMD.pdf",
+   "s": 112296,
+   "h": "47908afaf1d9694f5f304bf27b00b2d39668bce4b1c82bc3723fd0b62adfa6d8",
+   "t": 1793530338,
+   "meta": {
+    "professor": "Danish Iqbal",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Books-and-Resources/IIT-Delhi-Notes_Unit-1_Stress.pdf",
+   "s": 8109175,
+   "h": "c2b17084a423df7175832564f38a229f3547ba1ee92cfc03902764c5eecf0d54",
+   "t": 1762052128,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Z_Tutorial_Unit-2-1-Solutions.pdf",
+   "s": 6805231,
+   "h": "7952bf5cf8d367990adc6d02e0fe338ddce03129491b08507e12dca3976cee0d",
+   "t": 1765407088,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Z_Tutorial_Unit-2-2-Solutions.pdf",
+   "s": 2995198,
+   "h": "25c91424d3796e87209fbe4ee1bc291f39964bc9a443bd9fe06c05c8e5935454",
+   "t": 1765407088,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Books-and-Resources/IIT-Delhi-Notes_Unit-3_Bending.pdf",
+   "s": 10083896,
+   "h": "75dd55537a0ef1c10b97f997868ed1892453b0709ea1b89d01d417c184f5982b",
+   "t": 1762052128,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Z_Tutorial_Unit-4-Solutions.pdf",
+   "s": 3760446,
+   "h": "bac39cf49b3f38e01f7f087f8909f2127d80fb6bd67ed730760ce3116f486240",
+   "t": 1765407088,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Books-and-Resources/Advanced-Mechanics-of-Solids_Tutorial-Sheet-1.pdf",
+   "s": 421376,
+   "h": "99894c5759d0f33d60c0669ec5fa60ee0ffe342ac0f570114982b65fd3a627b2",
+   "t": 1793530338,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Books-and-Resources/Advanced-Mechanics-of-Solids_Tutorial-Sheet-2.pdf",
+   "s": 239732,
+   "h": "c43abb68e7ed698608d3782aa884989d5218da1f8b8cb666f754939da089f6db",
+   "t": 1793530338,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Class-Notes_Rashid.pdf",
+   "s": 50809305,
+   "h": "c9738215613307883ce58f0708c9c1dd97863d0278b2c181b718536bc3254d48",
+   "t": 1793530341,
+   "meta": {
+    "professor": "Rashid Zafar",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Class-Notes_Rashid-Zafar.pdf",
+   "s": 15271195,
+   "h": "4fc88335fe403a38552fe0923422f1ea497c324cc3a6692616d5ec4849b3a4ac",
+   "t": 1765406918,
+   "meta": {
+    "professor": "Rashid Zafar",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Class-Notes_Rashid-2.pdf",
+   "s": 18285223,
+   "h": "e4b837765ac2b6ebc1448a7884c290ccad75ed73af693f78efb6f6a209e1df10",
+   "t": 1765406918,
+   "meta": {
+    "professor": "Rashid Zafar",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Class-Notes_Rashidsir-notes3.pdf",
+   "s": 28855581,
+   "h": "0cc846f9e338ae0a7f752454b785b28db2c4c44bbbdb0491d8b091ffabe38f9a",
+   "t": 1765406918,
+   "meta": {
+    "professor": "Rashid Zafar",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-2/Class-Notes_Unit-2_Part-2.pdf",
+   "s": 1067574,
+   "h": "c2e8af635e08d93a1102deaa44bc71625c8595666d1b33b968740ec4e8aec407",
+   "t": 1793530341,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-2/Class-Notes_Unit-2.pdf",
+   "s": 6075039,
+   "h": "93205b53490d133065e563fd25c01b71ffe2e4d4615cceaf6fae49a4fdf21495",
+   "t": 1753574024,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-3/Class-Notes_Danish.pdf",
+   "s": 70917683,
+   "h": "c7e38fc20d5fa365c9fe129bb0b5febc61da522a90696aa7ec035e56e61c8688",
+   "t": 1793530345,
+   "meta": {
+    "professor": "Danish Iqbal",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-3/Class-Notes_Unit-3-Suhel.pdf",
+   "s": 18878748,
+   "h": "4af2668e371b5faea8201daf6543b9d2bd68b01662b637737237af3f8ff53d6b",
+   "t": 1765405992,
+   "meta": {
+    "author": "Suhel",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-3/Class-Notes_Column-Danish-Iqbaal.pdf",
+   "s": 24269683,
+   "h": "5cea0499c5ba8bb7b34392e201f2dcc10136f246fc970c0da2d9507acd7f3560",
+   "t": 1765406936,
+   "meta": {
+    "professor": "Danish Iqbal",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-3/Class-Notes.pdf",
+   "s": 1428388,
+   "h": "269ae160d6d5392cca06f48e155a820ec0a3433bc7bc86bace891de1e7a27758",
+   "t": 1753572612,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-3/Class-Notes_Unit-3.pdf",
+   "s": 6217382,
+   "h": "a6ea671611a43e7ca05e0ea3715b9cc91e01d6d1d83b96ad86f591273dcd2198",
+   "t": 1793530345,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-4/Class-Notes_Unit-4-Suhel.pdf",
+   "s": 8757063,
+   "h": "7c859dc7ceadd36efe9a3a8a696b39e1d164df48c9986427966b021e0141fe81",
+   "t": 1765405926,
+   "meta": {
+    "author": "Suhel",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-4/Class-Notes_Unit-4.pdf",
+   "s": 3142020,
+   "h": "5d74b3db1529c8cf54d4c2916bdf0b64756f9a418572ca4fe6ddc50d364f7481",
+   "t": 1753573564,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Syllabus/MEC2112_Syllabus_Teaching-Schedule.pdf",
+   "s": 561968,
+   "h": "d26535c408f25552c44fc364b3e53218acadf16f1ddf6e409b9a190c012a9ede",
+   "t": 1753572608,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Complete-Notes/Class-Notes_1.pdf",
+   "s": 4532196,
+   "h": "bde1a02644ae3355dd66db147a830ac1b97c8187c09f1f66e6a1dcefe954ac61",
+   "t": 1793530346,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Complete-Notes/Class-Notes_1_2.pdf",
+   "s": 11662064,
+   "h": "2bbd6b4c7d28175783d5ee038f98d1a75936b1fa080aad6aa70166d64835a725",
+   "t": 1753574022,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Complete-Notes/Class-Notes_3.pdf",
+   "s": 3495982,
+   "h": "f23de37e3aaadd63b425950b0630d286f10392b492b1bb5740642a9a560ef322",
+   "t": 1753574022,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Books-and-Resources/Beer_Mechanics-of-Materials_5th-Edition_Solutions-Manual.pdf",
+   "s": 37238580,
+   "h": "b636ebbdeda237649d7ecf16fe8c16fd8e5db66a07be5cdb204ac6574dab1956",
+   "t": 1793530348,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_General-PYQs/Sem-End_2022-23_Sem3-All-Courses.pdf",
+   "s": 11024848,
+   "h": "8c2c3b0bfe588fc6e3b9778ab78b4943b148a5c8d739cbf606522e45ff5ca587",
+   "t": 1793530349,
+   "meta": {
+    "year": "2022-23",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_General-PYQs/Sem-End_2023-24_Sem3-All-Courses.pdf",
+   "s": 8020746,
+   "h": "466845964a66a3a5aa3b893000b6da8059c61ecaf8f1920a8bacc096349c086b",
+   "t": 1793530349,
+   "meta": {
+    "year": "2023-24",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_General-PYQs/Sem-End_2024-25_Sem3-All-Courses.pdf",
+   "s": 7911740,
+   "h": "ab7aded4323f222c010955b1e7028e9becfecb0ae424f18bcf9a4d2cb8c4f364",
+   "t": 1793530350,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_General-PYQs/Mid-Sem_Sem3-Papers-Collection.pdf",
+   "s": 11058115,
+   "h": "85fbc27691e2cb2541e35f1fb032c0cbe9e953f549db942308706a9fb8d2581a",
+   "t": 1793530350,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Mid-Sem_2023-24_First-Year_Part-B.pdf",
+   "s": 4369716,
+   "h": "a1c23036706c8cf2e0e6abeee1822e8a1d3a48b847552938eb2ee9e40a5ec5ed",
+   "t": 1764176134,
+   "meta": {
+    "year": "2023-24",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Mid-Sem-1-and-2_2024-25_First-Year.pdf",
+   "s": 5952121,
+   "h": "ba1ece2e283e90d8c15475dc65c818c94ec37640632fae84947eb4dedac7396b",
+   "t": 1793530351,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Mid-Sem_2023-24_First-Year_Part-A.pdf",
+   "s": 1750774,
+   "h": "372ee1455b3dc852f469f9f66a7168505bf2acdef0f518cab1a6eee856c724bd",
+   "t": 1764176134,
+   "meta": {
+    "year": "2023-24",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Mid-Sem-1_2024-25_First-Year.pdf",
+   "s": 7856781,
+   "h": "e9e34b0f765d3f0827c51aa4b89c27e4697498928644a0ddec36d2ebd319a4ba",
+   "t": 1793530351,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Mid-Sem-1-and-2_First-Year.pdf",
+   "s": 4717900,
+   "h": "905bd71474b71e78ce4003499602a69e37bfaab7f6d676649bdce91ca71cf04e",
+   "t": 1764176134,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Mid-Sem-1_First-Year_Engineering-Mechanics_Solution.pdf",
+   "s": 8273685,
+   "h": "5da5bafd76c371b8986e43bcafb530efcb66de27530b97bb6c5cfdce322b67d6",
+   "t": 1764176134,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Mid-Sem-2_First-Year_Engineering-Mechanics_Solution.pdf",
+   "s": 2205563,
+   "h": "8811c5832669fe8ac212c83bda93f5000de7d781b86fcd61c52bbdb8416285b3",
+   "t": 1764176134,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Mid-Sem_First-Year_Papers-Collection.pdf",
+   "s": 3950805,
+   "h": "3d99d0bf4439085f47c355e329294efe97ba4502849f6c97526c0c39d622d5fa",
+   "t": 1764176134,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Curriculum/BTech_Mechanical_Sem3_Syllabus.pdf",
+   "s": 154628,
+   "h": "41e3b4e6104b055a8b7fc74c5e7deba3647b718959d1d62141bc98ad62921759",
+   "t": 1753572666,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Z_Tutorial_IC-Engine-Cycles-Numericals.pdf",
+   "s": 135347,
+   "h": "c9c790823929ccc176f08e91f1e9608d77db7178df834d415f43a6b56a899794",
+   "t": 1793530351,
+   "meta": {
+    "professor": "Dr. Mohammad Asif",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Books-and-Resources/Compressors_Lecture-Notes_External.pdf",
+   "s": 238978,
+   "h": "553d4fb9bc6be11b655416fe9d35fc7d04699a5ba892fd98df1d10eb74381762",
+   "t": 1767212378,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Z_Assignment_Unit-2_Refrigeration.pdf",
+   "s": 116135,
+   "h": "08560a95a238afa2e417d9c658644ef84cb2892ad5921440d2c87b0966f00789",
+   "t": 1793530351,
+   "meta": {
+    "professor": "Dr. Mohammad Asif",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Z_Assignment.pdf",
+   "s": 1818010,
+   "h": "607f8facfd191eeb6d955fddc015bc6a04bce608e0b897ada5c0f24bfa5d6f61",
+   "t": 1793530351,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Books-and-Resources/Thermal-Engineering-1_Question-Bank.pdf",
+   "s": 19914831,
+   "h": "289cf207b12edad0e47af177c6a56d28427a529c8981667fa4f6ebc7e671aca5",
+   "t": 1767212608,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Books-and-Resources/Psychrometric-Chart.pdf",
+   "s": 415059,
+   "h": "0ecba7d7fe3b12183f75cf5b990d8171397a2dbb45ce324a4bf1b32b5570cfeb",
+   "t": 1793530351,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Z_Tutorial_2023-24_Unit-1.pdf",
+   "s": 557233,
+   "h": "7b4ac932233c2e6faa5fcd776031b87b5d62a885047fdb98f2df636c6af882dc",
+   "t": 1793530351,
+   "meta": {
+    "year": "2023-24",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-1/Class-Notes_Unit-1.pdf",
+   "s": 23028205,
+   "h": "801e664136201f88782258e854e3c442b712e2c476fea36c08a7881ceb15b293",
+   "t": 1767212546,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-1/Class-Notes.pdf",
+   "s": 7395666,
+   "h": "962cc387810050bf49958794ed0ac3ca21310accf128f239ee4a7232c3094da5",
+   "t": 1767212568,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-1/Class-Notes_Availability.pdf",
+   "s": 18557726,
+   "h": "1924d36b32e1af3219531a2faec5499de9096f2cc4a3a1cde4b6dba60cbe9dea",
+   "t": 1767212542,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-2/Class-Notes_1.pdf",
+   "s": 10106403,
+   "h": "874ab4ba87ad0afcd07b0b87e9f10996c43eb0fc501c7985b11cc98da501c5b1",
+   "t": 1767212544,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-3/Lecture-Slides_Compressors_2024-25.pdf",
+   "s": 2254740,
+   "h": "a69134f51bd72f37e36e98a9f3620f9c9dabae5ec62e83e5c3fb99d2ee9eb830",
+   "t": 1793530352,
+   "meta": {
+    "professor": "Dr. Mohammad Asif",
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Complete-Notes/Class-Notes_Teacher-2.pdf",
+   "s": 8172624,
+   "h": "c3eb7ec3eabae3bb3975147b94ae4b0b2e0ec00dd2b38aae4782a979ba2fa9c7",
+   "t": 1767212580,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Complete-Notes/Class-Notes_Teacher-1.pdf",
+   "s": 10494645,
+   "h": "2efa1769ac619daa81d47c79e77704b61651c8b0cc82e76c2a643a3b32170d7b",
+   "t": 1767212578,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Complete-Notes/Class-Notes_2026-02-16.pdf",
+   "s": 6523456,
+   "h": "d461c1a62dba6aaf6698e7829891bc8167b25b7b6748dde4fff657009438c43e",
+   "t": 1771294016,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Syllabus/AMS2322_Syllabus_Course-Outline_2025-26.pdf",
+   "s": 1358023,
+   "h": "a1a441c5a8637c07efe0d690e18301955dd38a0d9f29d549ab4261cfde086175",
+   "t": 1793530352,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/PYQs-and-Assignments/Z_Assignment_Electricle.pdf",
+   "s": 3430201,
+   "h": "8169ea9719e10eaeca0851a278a05b3bbcaeb9a3ea8f1a48c6b5c63b08d5963b",
+   "t": 1793530353,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-3/Class-Notes_Synchronous-Machines_2024-25.pdf",
+   "s": 6478105,
+   "h": "04006e56522816a2282f63154ee0d37fa87f969b4df68f84622a832d05c9b9f2",
+   "t": 1767212634,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Complete-Notes/Class-Notes_Complete.pdf",
+   "s": 37482943,
+   "h": "cdf488bf6003168b206f85ba8c7419ccf604a591643ef146b79d838d35d0b295",
+   "t": 1767212654,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Complete-Notes/Class-Notes_2.pdf",
+   "s": 4276890,
+   "h": "53af63b308cd425fc45bf7990cbab41c09aa54fbec019cb85c7e5db02e070d5e",
+   "t": 1771294008,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Complete-Notes/Class-Notes_3.pdf",
+   "s": 1743289,
+   "h": "a0d23e4a3cb076c817f8ef66661adcfb325f5cfba600a65cfbd03cd2075353a8",
+   "t": 1771293998,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Complete-Notes/Lecture-Slides_Special-Motors.pdf",
+   "s": 1468566,
+   "h": "a5a773a8feec177999fce721a5b775194c83d281988f92cbb66778cc6f11c738",
+   "t": 1767212652,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Syllabus/EEA2020_Old-Syllabus_Course-Outline.pdf",
+   "s": 140166,
+   "h": "b42aeb20dde3caf60e0a8e1c29bb27849c19d92c7da89e3fc087ba115aa40d46",
+   "t": 1767212404,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-1/Class-Notes.pdf",
+   "s": 3203774,
+   "h": "a2306ee2d3fef61ea9c921a410fb1b5209341dc4663e924affa956e090c3b734",
+   "t": 1772925848,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-1/Class-Notes_Unit-1-Part-2.pdf",
+   "s": 5761696,
+   "h": "33ec853f8669848c0049f6f22f51e94b2f15201ea347fc614e15c6187d562947",
+   "t": 1772925848,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-1/Class-Notes_1.pdf",
+   "s": 3284514,
+   "h": "6d6accdb9a5a38dcbbf57cff7107d6361ba6f4051ea02ca735bfd0aa7713ef49",
+   "t": 1767215802,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-1/Class-Notes_1_2.pdf",
+   "s": 3765999,
+   "h": "5e02b870e777bc1d0867571edba469ba8e45f2654039aaf14059c30be90d701d",
+   "t": 1793530354,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-1/Class-Notes_Work.pdf",
+   "s": 4420669,
+   "h": "8738fa7a8abed67083543a72d1a4c57a86c010495ffa0bf34f25509040032f9b",
+   "t": 1767212622,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-2/Lecture-Slides_DC-Motor-Starter-N.pdf",
+   "s": 1595229,
+   "h": "1ed6ae7f62c60adc20a6a45d08aa21b17cf86b417d6c156ed74c4c74f6ad2707",
+   "t": 1767212654,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-2/Class-Notes_Unit-2.pdf",
+   "s": 54872867,
+   "h": "da826fe81339fb11ac6cfe5d72c251e83e776d03a140542380af8e13e6708b28",
+   "t": 1767215788,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-2/Class-Notes_Unit-2_2.pdf",
+   "s": 2197254,
+   "h": "0cb41037844e30d284d3b52d2dee7fe76511db6e137d5487e79b076427dd5df5",
+   "t": 1772925766,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-3/Lecture-Slides_Synchronous-Machine-Construction.pdf",
+   "s": 660914,
+   "h": "24ba6275c62e220960da1cd197d5e9ed3d422393b197a05e7ab159419a2978e7",
+   "t": 1793530354,
+   "meta": {
+    "professor": "Dr. Mohd Faisal Jalil",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-3/Lecture-Slides_Synchronous-Motor-Starting.pdf",
+   "s": 1006529,
+   "h": "25e9e9fe6c644cd098b3ddbfee801bd1aa53807ae71a33d2aabb86389dcfa3d2",
+   "t": 1793530354,
+   "meta": {
+    "professor": "Dr. Mohd Faisal Jalil",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Complete-Notes/Lecture-Slides_Universal-Motors.pdf",
+   "s": 276288,
+   "h": "29ba836c8963c7f23777ea3aaacf706e3e22fb63c1fd685d127c998dc8219463",
+   "t": 1793530354,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Complete-Notes/Class-Notes_Control-System.pdf",
+   "s": 9285654,
+   "h": "a3089071ec4e853ecce98c8e97c59e99050cd4e847c62b37a08c10c765cc04ba",
+   "t": 1793530355,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-4/Class-Notes_Control-Systems_2025-04-04.pdf",
+   "s": 3126351,
+   "h": "5f6d0a95f52317c911e8a7aaca2da616237775a23393728b0cb40238eff9ffa9",
+   "t": 1767212662,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Manuals/Lab-Manual_2025-26.pdf",
+   "s": 6242587,
+   "h": "d6af0b48a234b2c88b78391a7c3b91f076f908744966d14472d1e1abda4c2780",
+   "t": 1777411290,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Manuals/Lab-Report-Title-Page.pdf",
+   "s": 2931,
+   "h": "49e786646c5bc32a3173b2059c7a2baa5cbcefb802f01656b1c00eeaa3fd2bd1",
+   "t": 1793530355,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-8_PID-Response_Kp-20-I-0-D-0.png",
+   "s": 30475,
+   "h": "2cd89d8c6827ff7c380991b2da829184a018922de93e89504d80c2bfbb2d36c6",
+   "t": 1769976170,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-8_PID-Response_Kp-20-I-10-D-0.png",
+   "s": 30475,
+   "h": "b2bdba1df330a0eaeb38f8b6e090e77ec54112978dfbf7304ec3b2ad49f3861f",
+   "t": 1769976186,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-8_PID-Response_Kp-20-I-0-D-0-5.png",
+   "s": 35822,
+   "h": "84ed2eba2dc2de839f6646e445c9c04ce887b7052c9cc2595265c6645a857dca",
+   "t": 1769976248,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-8_PID-Response_Kp-40-I-0-D-0.png",
+   "s": 35822,
+   "h": "0f928af38af3a9ab0a3fecaa11dc1efaa77a24fc811a0ecb4a542ed65c48b874",
+   "t": 1769976232,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-8_Screenshot-15.png",
+   "s": 113877,
+   "h": "d0f0a38ccc2b41b4f53814628df696c942ce94ff48b92d5861824405457e1124",
+   "t": 1769977730,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-8_Screenshot-16.png",
+   "s": 112828,
+   "h": "d4ab88e31c17ad90a9acc2474e0cbf280b19a2d553d44b1b7d067889e49c30a9",
+   "t": 1769977998,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-8_Screenshot-17.png",
+   "s": 112242,
+   "h": "5660101a0baf003df2c1f2c9987f35561a9d2f011be443392dd3eb9cdfaead39",
+   "t": 1769978172,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-8_PID-Response_Kp-20-I-5-D-0-01.png",
+   "s": 39160,
+   "h": "4c0749c6cc2bc823a4a5d55b37494fe59e3abf255a50774ca75cb85a36b581f8",
+   "t": 1769976900,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-8_PID-Response_Kp-60-I-0-D-0.png",
+   "s": 36510,
+   "h": "fea7b2261c59707dec105f33b8a06b1082451a5c276a4dd77c9ef5432d4edcfc",
+   "t": 1769976096,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-6.pdf",
+   "s": 19131827,
+   "h": "58556cceb916671b16794f40cd38a60815e98e8f9de094d99ae61a90ac8aaf99",
+   "t": 1777411304,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-1.pdf",
+   "s": 24892572,
+   "h": "191f2947d9aa96c4cd911f0a59a3ad5296497987b5549060fa725d19d3aaf6e9",
+   "t": 1773599482,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-2.pdf",
+   "s": 19297184,
+   "h": "d6014ce0303fc74b3499652a322e6354a3a50c0ee4e5aed4dd74f5d2b2634899",
+   "t": 1773599474,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-3.pdf",
+   "s": 22823696,
+   "h": "659abfe5c36f6726390c2a9b24f2c5865aec3af981c58bb346570e004946288d",
+   "t": 1773599466,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/PYQs-and-Assignments/Z_Assignment.pdf",
+   "s": 51550,
+   "h": "18bda3a100f9c5257880484e99b3b3472a8892891d90d8517fb972417e1ecf81",
+   "t": 1767215784,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Books-and-Resources/Design-of-Machine-Elements_Notes.pdf",
+   "s": 3493820,
+   "h": "45873cf96471159bf4512749e4263dd0bdb25d09b32546c9f8d0905eed0b2a6a",
+   "t": 1793530356,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Books-and-Resources/Kurmi_Machine-Design_Textbook.pdf",
+   "s": 23608476,
+   "h": "3a903051a58aa08fde15fd6a6b71a956a2a7622119412a05fc7bc13d0a771d96",
+   "t": 1793530359,
+   "meta": {
+    "credit": "Farhan Baig, PDF Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Syllabus/MEC2132_Syllabus_Corrected.pdf",
+   "s": 93130,
+   "h": "8e5c7e4d1adb5b55a8129c511e4d375784f05259e5f26cf9255adef0793da08b",
+   "t": 1793530359,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Syllabus/MEC2130_Old-Syllabus_Revised.pdf",
+   "s": 168618,
+   "h": "3571bba31bbec402e5f6a939a9563d60db3b4fe09685980ea309ac8b58008545",
+   "t": 1793530359,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/PYQs-and-Assignments/Z_Tutorial_Slide-Questions-Solutions.pdf",
+   "s": 10136265,
+   "h": "ac24fb65c81476abc40bc071547e55befb294b06728579b076a0623152233965",
+   "t": 1777412416,
+   "meta": {
+    "author": "Suhel",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-1/Class-Notes_Unit-1.pdf",
+   "s": 10335494,
+   "h": "f1855ca00ba18bc97b3f5daca035f518d2df7f018f0b0f27e82e6203401b51d4",
+   "t": 1767212504,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-1/Class-Notes_Farooq-Upto-Mid-Sem.pdf",
+   "s": 41755375,
+   "h": "146ec8022d6b0874d02783b0846b1af50e0a1ee26aeb54eb6efdede97f2a13d9",
+   "t": 1767215768,
+   "meta": {
+    "professor": "Farooq",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-2/Class-Notes_Unit-2.pdf",
+   "s": 8030300,
+   "h": "075317f244bd18147fbafa54f914a96d487b38f74ac1efa0f2dc5ba4051763b0",
+   "t": 1767212536,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-2/Lecture-Slides_Part-3_Fatigue-Under-Combined-Stresses.pdf",
+   "s": 811390,
+   "h": "5911d421b18dcd453756232b7873868c169af86ce2e317c5d3235da364523863",
+   "t": 1793530360,
+   "meta": {
+    "professor": "Dr. Muaz",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-2/Lecture-Slides_Part-2_Cumulative-Fatigue-Damage.pdf",
+   "s": 501957,
+   "h": "38d109ef1e384954f41ba7649d6585c13388c134cf226758d9b2e8d8a05e74c2",
+   "t": 1793530360,
+   "meta": {
+    "professor": "Dr. Muaz",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-2/Lecture-Slides_Design-Against-Fluctuating-Load.pdf",
+   "s": 1304883,
+   "h": "a3aa718b5db047bebddf11aa08a498e3c8dd64945d399fc927cc37abc584a7a4",
+   "t": 1767215784,
+   "meta": {
+    "professor": "Dr. Muaz",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-Slides_Types-of-Fasteners_2024-25.pdf",
+   "s": 2723539,
+   "h": "872161a4336750bda97f9a96ae85ee6ae117a852800d3531f2e9e3d0061fbb23",
+   "t": 1767212538,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-Slides_Part-2_Threaded-Joints.pdf",
+   "s": 3084963,
+   "h": "ede4c6c621ea30d87f3d1ad1d0c1e45f97d654023be1a15c7c783e2b12c01cfc",
+   "t": 1793530360,
+   "meta": {
+    "professor": "Dr. Muaz",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-Slides_Part-4_Rivets-and-Riveted-Joints.pdf",
+   "s": 430023,
+   "h": "e5ae85c4ffa07e5da721172e39c3ca9d4abd13c8cabe6df1826927100a9a2ab3",
+   "t": 1793530361,
+   "meta": {
+    "professor": "Dr. Muaz",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-Slides_Part-6_Power-Screws.pdf",
+   "s": 1326286,
+   "h": "c15be50be01fae049fc25377447188232e708812f09d17abcb7f9f0c7f93a33e",
+   "t": 1793530361,
+   "meta": {
+    "professor": "Dr. Muaz",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-Slides_Part-1.pdf",
+   "s": 774124,
+   "h": "8a4d269fefe5c3c88eb3e573a46ba1e02c07658de5df221cb9b618f6dea4fc9f",
+   "t": 1793530361,
+   "meta": {
+    "professor": "Dr. Muaz",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-Slides_Part-5_Failure-of-Riveted-Joints.pdf",
+   "s": 1485829,
+   "h": "18cdfa76c5d0dc6e52b3f767da97443723bf6a5b96d6297b507103ddeedc4d61",
+   "t": 1793530361,
+   "meta": {
+    "professor": "Dr. Muaz",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Class-Notes_Unit-3.pdf",
+   "s": 3016738,
+   "h": "e5681cbe9b93a4f5854ff96167c801f3c8880e5a611ed5a1c3b263c3400a96a8",
+   "t": 1793530361,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-4/Lecture-Slides_Design-of-Hollow-and-Solid-Shafts.pdf",
+   "s": 5922145,
+   "h": "aab9f6ae4ae89aeb899e29a79d13aa22fca130f08c622bf4008b442f9e217065",
+   "t": 1793530362,
+   "meta": {
+    "professor": "Dr. Muaz",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-4/Lecture-Slides_Design-of-Keys.pdf",
+   "s": 4140558,
+   "h": "656e1332adb582306e5919dbc5028a284e491cc3577b00b936d8010992bcbce4",
+   "t": 1793530362,
+   "meta": {
+    "professor": "Dr. Muaz",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-4/Class-Notes_Unit-4.pdf",
+   "s": 6423849,
+   "h": "95b48a1c55b71aba049f67ee70cd29a26881dc5eadf2a334b77b196e2965bb38",
+   "t": 1767212536,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-4/Lecture-Slides_Design-of-Keys-Contd.pdf",
+   "s": 1579479,
+   "h": "d7817956ce47f508dc9da6da8a217bd093c2428f9eeb9119e75dbf9a362917cd",
+   "t": 1793530363,
+   "meta": {
+    "professor": "Dr. Muaz",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-4/Class-Notes_Unit-4_Part-2.pdf",
+   "s": 1306352,
+   "h": "0c7f46ded57688e067e0bd870ac57eb6b735ac342292f8b9d1730925619a494d",
+   "t": 1767212522,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/PYQs-and-Assignments/Z_Assignment_2022-23_Home-Assignment_MEC2440.pdf",
+   "s": 188358,
+   "h": "0650771dd5778644c0af9a568384b86b0c5a17dcda2254624ba43232d10c8040",
+   "t": 1793530363,
+   "meta": {
+    "year": "2022-23",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/Z_Assignment_Manufacturing.pdf",
+   "s": 1539706,
+   "h": "9002c863f6e0dfb860b22a46ed1f46f78396bef2ea67c21d2708ef3a0c3dff0a",
+   "t": 1777411370,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-1/Lecture-Slides_Mechanics-of-Metal-Cutting_2021-22.pptx",
+   "s": 8938215,
+   "h": "cb1989ead680b1352da1e92412ef4b34f54f10ff187d79e88780aa294313010c",
+   "t": 1771294928,
+   "meta": {
+    "year": "2021-22",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-2/Lecture-Slides_Mechanization-of-Machine-Tools.pptx",
+   "s": 5280397,
+   "h": "0c3a8c6cb15c9ef2d889b12cd1cd9581e723ea45623f463308bcb0681d05d9a2",
+   "t": 1771294934,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-4/Class-Notes_Metrology.pdf",
+   "s": 3491976,
+   "h": "1ecb5ccc26fc89ba3f3000adc435949185de3d693740b34a90beb7cf3c42f7dc",
+   "t": 1767215764,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/Z_Tutorial-1_Units-2-and-4_Metal-Joining-and-Metrology.pdf",
+   "s": 129903,
+   "h": "22357bde433374af673f0643c11c05b3c0190515e980a668560ab25350d2bba2",
+   "t": 1793530363,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-2/Lecture-Slides_Metal-Joining_Part-A_2024-25.pdf",
+   "s": 4674453,
+   "h": "3ab4451f951bfaf3ba79155bf64188491cf7d27dcdb343c13f0a3e0203c4ddf4",
+   "t": 1793530364,
+   "meta": {
+    "professor": "Dr. Faisal Talib",
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-2/Lecture-Slides_Liquid-Phase-Welding_Part-B_2024-25.pdf",
+   "s": 2642027,
+   "h": "05cd2c906ad37db58a9b4d18d516060757feda878adfc7542b765303936bc7dc",
+   "t": 1793530364,
+   "meta": {
+    "professor": "Dr. Faisal Talib",
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-2/Lecture-Slides_Solid-Liquid-Phase-Welding_Part-C_2024-25.pdf",
+   "s": 1944059,
+   "h": "74093aa5312a968e5bee28dfb8ca682f16b87f74396f6e3b5c9cbf48a7f60716",
+   "t": 1793530364,
+   "meta": {
+    "year": "2024-25",
+    "professor": "Dr. Faisal Talib",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-4/Lecture-Slides_Metrology-and-Inspection_Part-A_2024-25.pdf",
+   "s": 2516819,
+   "h": "41eb50fd260e5e7a179baab6bed7fdbdfb3c43733f12359a21ae3dc88693194c",
+   "t": 1793530365,
+   "meta": {
+    "professor": "Dr. Faisal Talib",
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-4/Lecture-Slides_Angular-Measurement_Part-B_2024-25.pdf",
+   "s": 1747939,
+   "h": "5914c2a832f7e347016720e830d980a69b06eba7cdb6fef08fce4aac8763af2e",
+   "t": 1793530365,
+   "meta": {
+    "professor": "Dr. Faisal Talib",
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-2/Class-Notes_Numerical-Integration_2024-25.pdf",
+   "s": 43827885,
+   "h": "3ab5ba80ac59d3c9ddadce477baa497470b0486c603eab8b49c1de84d1e5f491",
+   "t": 1767212992,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-1/Class-Notes_Unit-1_2024-25.pdf",
+   "s": 11043757,
+   "h": "cbe66963ef0bd6d1be4ec95481bf3a7a5ee61f240ad57bb67326e08225e2b24d",
+   "t": 1793530366,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Z_Assignment_Numerical.pdf",
+   "s": 2686002,
+   "h": "ac025ff94309169afbbd6352be04f069f70b1f64d164736ebd25098a3927982a",
+   "t": 1777411114,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Syllabus/AMS2322_Syllabus_Lecture-Plan-Unit-1.pdf",
+   "s": 141203,
+   "h": "853b1468b2aabe7649733a58fd2df18ecfc701b5f5439b9aa6da38ebf4c39dcc",
+   "t": 1793530366,
+   "meta": {
+    "professor": "Dr. Ghazala Yasmin",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-1/Class-Notes_Week-1.pdf",
+   "s": 2717288,
+   "h": "5608c87892028115558fabd802d977ce802316446a9911c0c9d0417967da16ad",
+   "t": 1771293998,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Mid-Sem-1_2025-26.pdf",
+   "s": 502064,
+   "h": "735be2126499a6b35f02c73aeb45cf27589aba0939d281081fc8f77d4c29ed58",
+   "t": 1793530366,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-1/Class-Notes_Unit-1_2024-25_2.pdf",
+   "s": 13523726,
+   "h": "94c900d5665e339f874862e12d20a4744ec482b082a1f72a41a13280708f7d04",
+   "t": 1767212960,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-2/Class-Notes_Unit-2_2024-25.pdf",
+   "s": 21474856,
+   "h": "27db3b570207a24f0f67fdbb217b81a26bad0dbc9c15e8e415fe839e874e861d",
+   "t": 1767212980,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-2/Class-Notes_Unit-2-Ams.pdf",
+   "s": 4172731,
+   "h": "649f2e25d992a03e7145de56c6bce92a40e9a9c5e18320349e22a8a19da47f41",
+   "t": 1793530366,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-3/Class-Notes_Unit-3_2024-25.pdf",
+   "s": 2360671,
+   "h": "0df344fec3af8fa57cd658d7f418682771590e1d6e62b208735eb678c45d477a",
+   "t": 1793530366,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-3/Class-Notes_Unit-3.pdf",
+   "s": 7139932,
+   "h": "69794eb55955aebf185fcabf46728c7e76507f4592889dd63b660606fd7be467",
+   "t": 1767212792,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-3/Class-Notes_Units-3-and-4_2025-26.docx",
+   "s": 1821385,
+   "h": "7e07aefbf0491256c5d3a5949ebf855fdf09c26ed89c33d0481dbe43d0c79c49",
+   "t": 1777431134,
+   "meta": {
+    "year": "2025-26",
+    "author": "Syed Mohammad Talha",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-4/Class-Notes_Unit-4.pdf",
+   "s": 11010350,
+   "h": "c50f9324ba18fe91c562f69816fe62efafb6ef9c00b61999b49316f6bf0eec1b",
+   "t": 1767215754,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Complete-Notes/Class-Notes_Unit-2.pdf",
+   "s": 1736832,
+   "h": "2dcb0626a51331fb70b0731871c997fe771db3b326920d3f2a342f742b2ae438",
+   "t": 1771294016,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Complete-Notes/Class-Notes_2025-04-29.pdf",
+   "s": 12060645,
+   "h": "85ce12aaaaf125709db09d3145622d8e2f4b1a0bb0abbfe1bbc3595a7aa39d5e",
+   "t": 1767213006,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_General-PYQs/Mid-Sem_Sem4-Papers-Collection_2.pdf",
+   "s": 627000,
+   "h": "a75c8f767b9066331d5ba132f3c34a58f174e2b02ad8fd9f640f1dc76c6b3061",
+   "t": 1767212258,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_General-PYQs/Mid-Sem-and-Sem-End_2023-24_Sem4-All-Courses.pdf",
+   "s": 7610250,
+   "h": "cfa69b91789c62178504d4c5a8630be5509c11004554f4ef2f9f350b31beda19",
+   "t": 1767212524,
+   "meta": {
+    "year": "2023-24",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Mid-Sem-1.pdf",
+   "s": 946479,
+   "h": "2619ad081e64ddd2709b5a9b874303e8d83612bc62cef9745fe8aed0cc536dbe",
+   "t": 1793530367,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/PYQs-and-Assignments/Mid-Sem-1.pdf",
+   "s": 774304,
+   "h": "9352a83cda5cd815d4fb3f1b605b6326e6d8a7465df1613a1d07b7b28d274d74",
+   "t": 1793530367,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Mid-Sem-1.pdf",
+   "s": 666083,
+   "h": "98740daa3007ebe67b670bb6e17244f3db3932281196662194d0b94eec3e7235",
+   "t": 1793530367,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_General-PYQs/Mid-Sem-1_2023-24_Sem4-All-Courses.pdf",
+   "s": 3633708,
+   "h": "7aca6f170912c17c8225e500024aedf6e693e83ab7d5823ba7ef46fe3f16aff4",
+   "t": 1767212488,
+   "meta": {
+    "year": "2023-24",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_General-PYQs/Mid-Sem_Sem4-Papers-Collection.pdf",
+   "s": 2270711,
+   "h": "b5c7e4c4c856fa9f0d2b98ddfedc2531d0004abbd4e2e75be372e73769f3a0bc",
+   "t": 1767212502,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Manuals/Lab-Manual_MEC2940.pdf",
+   "s": 1253697,
+   "h": "32d848e4881ad4cfab67c15160a9e977e2ed7c3971c9cfe6815a868ed71660ff",
+   "t": 1793530368,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Records/Experiment-2_COP.pdf",
+   "s": 2763250,
+   "h": "6f2cb804b4116c2dc1f4ffd1eb0b549672ead79c171d3218039fb4db4b87d68c",
+   "t": 1793530368,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Records/Record_COP-Theory.pdf",
+   "s": 1745937,
+   "h": "b8fd3f3169a1b8daf506747858fc490f6381c959e2778d0d28137c6d10ef3cb5",
+   "t": 1777412036,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Records/Record_Power-Plant-Theory.pdf",
+   "s": 3893885,
+   "h": "fad4245d19b7c86ac40afef540c14792b44604a77b5ec739f2cf30df89767432",
+   "t": 1777412050,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/PYQs-and-Assignments/Mid-Sem-1_2024-25.jpg",
+   "s": 624328,
+   "h": "fd9c7a618b6d80d176b0fcc6097c4ed5533df785c965c45942fe540a0c6eb4a3",
+   "t": 1781399406,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/PYQs-and-Assignments/Z_Tutorial-2_Handwritten-Solution.pdf",
+   "s": 6677282,
+   "h": "8b2545b3c22a0e323055a3a2f4c121e4f9bd3cd9fe58d6674b624e31bf07d2a8",
+   "t": 1781391354,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/PYQs-and-Assignments/Z_Tutorial-2_ME332.pdf",
+   "s": 264598,
+   "h": "5d5823ccced2009e87ec8227d5ea5bbb39d88782fb96e6eee8d87982caa9975f",
+   "t": 1781391352,
+   "meta": {
+    "professor": "Prof. Nadeem Hasan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/PYQs-and-Assignments/Z_Tutorial-3_ME332.pdf",
+   "s": 2906209,
+   "h": "cb2c58fc3ce46ae7c672b9c973d6ed4e55139f9826852b6399a5ec5f9fd45208",
+   "t": 1781391356,
+   "meta": {
+    "professor": "Prof. Nadeem Hasan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/PYQs-and-Assignments/Z_Tutorial_1.pdf",
+   "s": 246165,
+   "h": "b3671a2cf2f623a220e8d74719e0c3fa95784d13abeb38b18de3182443968e83",
+   "t": 1781391352,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/Unit-1/Class-Notes_Strain-Rate-and-Vorticity_2025-26.pdf",
+   "s": 1543173,
+   "h": "6770dae79ebbb3977cd3c5938c1276081520b913a873c21b15e0ab29fa561c8f",
+   "t": 1781391348,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/Unit-1/Lecture-1-1_Local-Deformation.pdf",
+   "s": 549232,
+   "h": "b9603766a08f7ee0e886b9e968b5cf50073c4d97aa897091c7ddbde7d227f072",
+   "t": 1781391346,
+   "meta": {
+    "professor": "Dr. Syed Fahad Anwer",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/Unit-1/Lecture-1-4_Navier-Stokes-Equations.pdf",
+   "s": 666215,
+   "h": "b16c115b8975bd11802eb5ca22f539a1a1af1c14b51c73324d3bcf3984a5448a",
+   "t": 1781391350,
+   "meta": {
+    "professor": "Dr. Syed Fahad Anwer",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/Unit-1/Lecture-1-5_Boundary-Conditions-and-Non-Dimensionalisation.pdf",
+   "s": 1070065,
+   "h": "fa3e81db4ec21b19e725c91fef937221f17a5767a10288865ac1027d3e50dd83",
+   "t": 1781399402,
+   "meta": {
+    "professor": "Dr. Syed Fahad Anwer",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/Unit-1/Lecture-1-3_Governing-Equations.pdf",
+   "s": 4649753,
+   "h": "aa30f728a5b8f100074086970b83065e198d55f09e93445be8c22e6991e9f429",
+   "t": 1781399406,
+   "meta": {
+    "professor": "Dr. Syed Fahad Anwer",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/Unit-4/Lecture-Slides_Turbulent-Flow.pdf",
+   "s": 1070992,
+   "h": "1f8e2fe1954293b204978870e97ae194d67a36682d1225f7264903dd630678d1",
+   "t": 1793530368,
+   "meta": {
+    "professor": "Dr. Syed Fahad Anwer",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3912_Heat-and-Mass-Transfer-Lab/Manuals/Lab-Manual_MEC3912.pdf",
+   "s": 2002961,
+   "h": "234f48a2ef41bf50c016ae9c9e1253e7dd7a0376671f21e1a0a7682a77a35624",
+   "t": 1793530370,
+   "meta": {
+    "professor": "Prof. M. Altamush Siddiqui",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3912_Heat-and-Mass-Transfer-Lab/Records/Record_Extended-Surfaces.pdf",
+   "s": 14529738,
+   "h": "cc1d4a2c9f4e9d310d40b5331040886f2ca27158d910e26e51c0bbcc10f4ba76",
+   "t": 1788051846,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3912_Heat-and-Mass-Transfer-Lab/Records/Record_Extended-Surface-Exp.pdf",
+   "s": 8347356,
+   "h": "0aba3ee05535baafa8d91d0f99873d3fb6bd30db3e053fd4a320ac851d091050",
+   "t": 1788051852,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/PYQs-and-Assignments/Z_Assignment_HMT.pdf",
+   "s": 2917997,
+   "h": "3edf023af3883aea9ad029ab3adc8e71466390e97b4a56f5fc2b79f82a011c06",
+   "t": 1793530370,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/PYQs-and-Assignments/Z_Assignment_Radiation.pdf",
+   "s": 3581270,
+   "h": "1a4811a294562f2b637796b81e2674ee36b725648c273508a6863b02ec1548d3",
+   "t": 1781396474,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/PYQs-and-Assignments/Mid-Sem-1_2024-25.jpg",
+   "s": 822045,
+   "h": "aae838b8cef4c0dd0498bda9ada29e027f4c2d624d22cd777c55f6d83960d5ae",
+   "t": 1781396512,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/Syllabus/MEC3212_Syllabus_Course-Outline.pdf",
+   "s": 1223904,
+   "h": "98756a0d930299fe229137c50fa0523bf5957d561bea663d4db0b2c8e5af974a",
+   "t": 1793530370,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/Books-and-Resources/Heisler-Charts.pdf",
+   "s": 880672,
+   "h": "d3e665aae540646bde1b02cc3225a2dd0711293030893a56dd466e7e24532861",
+   "t": 1793530370,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/PYQs-and-Assignments/Z_Tutorial_Handwritten-Solutions.pdf",
+   "s": 2093837,
+   "h": "23e483c9242ae991d5597d286ec9ca645aa9aeae02344bf37d8ad9ebfe855201",
+   "t": 1781391288,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/Books-and-Resources/Solutions-of-Unsolved-Problems_Book.pdf",
+   "s": 908304,
+   "h": "86e1ef2e30e6fba350cf74928fdb5854912695b4723b5b8bdb1dae135d3e7de0",
+   "t": 1793530371,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/Unit-1/Lecture-Slides_Unit-1-Basic-Concept.pdf",
+   "s": 384760,
+   "h": "51e3dd4034dbd1b4f06eb22d0fd06c35b7029942892a0ec5546f38023a002e53",
+   "t": 1793530371,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/Unit-1/Lecture-Slides_Unit-1-Conduction-Heat-Transfer.pdf",
+   "s": 1039418,
+   "h": "2a5a506c5d049b542c4125cee29f5068950e1feb699bdde4d7b7300ec0650f0b",
+   "t": 1793530372,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/Unit-2/Lecture-Slides_Unit-2-Conduction-Heat-Transfer-Contd.pdf",
+   "s": 552804,
+   "h": "0f34abb995935ee867517aa469617a756965f07e3a025a7e3a1f91728937ecba",
+   "t": 1793530372,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/Unit-2/Lecture-Notes_Radiation-Heat-Transfer.pdf",
+   "s": 1368304,
+   "h": "8f83898ea50ad70a62a1e9fb3ed7d645e8f036fdceae41bd8fee4dd762365a31",
+   "t": 1793530372,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Unit-1/Notes_Location-Models_2025-26.pdf",
+   "s": 2184350,
+   "h": "60ded56fabcc87ae94e25f171d3fa0d77a33512f001a527b9b332b16632155bd",
+   "t": 1781391302,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Unit-1/Lecture-Slides_FacilityLocation.pptx",
+   "s": 903690,
+   "h": "701d344a4629f9874a7601ef42b5faf82406e9d1059036882ebefc75a6b00474",
+   "t": 1788073320,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Unit-1/Lecture-Slides_IndEngg.pdf",
+   "s": 170354,
+   "h": "6b88455b1ae93999d906a398552df8e985cc934bb4194237cc0f64bbafa6f762",
+   "t": 1793530373,
+   "meta": {
+    "professor": "Prof. Mohammad Muzammil",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Unit-1/Lecture-Slides_ProductDev.pptx",
+   "s": 402449,
+   "h": "edb22c08f3ddf39622c7ea63dff9528e1abf1cbedae158f6cf619e550d15df72",
+   "t": 1788073320,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Unit-1/Lecture-Slides_Productivity.pptx",
+   "s": 886094,
+   "h": "da748be8d007ca609cf74af928f72b0ca93a17064313eba1c91cf014776cbc7a",
+   "t": 1788073320,
+   "meta": {
+    "professor": "Prof. Mohammad Muzammil",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Unit-2/Lecture-Slides_Aggregate-Planning.pptx",
+   "s": 1895672,
+   "h": "31c96948da9ba235fddb9e4b956d0e45d7356bf0f229e13e6c053cf39e9a8a5a",
+   "t": 1788073314,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Unit-2/Lecture-Slides_Dim.pptx",
+   "s": 1354954,
+   "h": "bfca525455d6edb0d4eca7ec9c5fd3b717c623c11a2ac004ba52ab6042d00de0",
+   "t": 1788073314,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Unit-2/Lecture-Slides_Material-Requirement-Planning.pptx",
+   "s": 877310,
+   "h": "9d15f4ef3c56878e614b15c3feda659e6b7400c4be6ddf42369f954bbf87d9fe",
+   "t": 1788073314,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Unit-2/Class-Notes_Unit-2.pdf",
+   "s": 15513510,
+   "h": "0682301a558da9895652a7ad3324845634be32a86a71f85d054513595ab250fc",
+   "t": 1781399662,
+   "meta": {
+    "professor": "Saman",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Unit-3/Lecture-Slides_IntroQuality.pptx",
+   "s": 992642,
+   "h": "55429b75f6f02cc72f37269668733bd19645e09d6bbe2029773447fa0a4d9a7a",
+   "t": 1788073452,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Unit-3/Lecture-Slides_L1-Intro1Optimization.pptx",
+   "s": 1076094,
+   "h": "fe9e34dbad69eba9964f89726b657027a025a123193bf088c4046fb1059a22f9",
+   "t": 1788073458,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Unit-3/Lecture-Slides_L2-Intro2OR-Applications.pptx",
+   "s": 6519838,
+   "h": "c72b0aef47486d8c72ea485b37b16a69f5ada981360fb12a3604242b49e354ba",
+   "t": 1788073466,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Syllabus/MEC3411_Old-Syllabus_Course-Outline.pdf",
+   "s": 74300,
+   "h": "679060248543de4f9b8452140d6444ef3cd45ae6e4d16db5375e2761c64e2728",
+   "t": 1781391294,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Unit-4/Lecture-Slides_Project-Management.pptx",
+   "s": 2205822,
+   "h": "442ccdf49ca150315a1fb8e9dceb4b2a388cf302330811cd5d21d6b263acbaf9",
+   "t": 1788073440,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Unit-2/Lecture-Slides_Line-Balancing.pptx",
+   "s": 390138,
+   "h": "930d990f222e96c71e650792e8e23ae24fd0b1cf754ebfce8f8e2baf9bae5f51",
+   "t": 1788073308,
+   "meta": {
+    "professor": "Prof. Mohammad Muzammil",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/PYQs-and-Assignments/Mid-Sem-2_2023-24_MEC3110.pdf",
+   "s": 948489,
+   "h": "cc65ed70ab6ac648a5ac72058d3bcabeb89bd62b0f53dff2c1f4a08b619e488c",
+   "t": 1781391340,
+   "meta": {
+    "year": "2023-24",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-1/Lecture-01_Introduction.pdf",
+   "s": 1138056,
+   "h": "c4ca8afce665c1594af542645c06bee2445ad37e60b628b333ca0375105583d7",
+   "t": 1781396900,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-1/Lecture-02_Welded-Joints.pdf",
+   "s": 680742,
+   "h": "364a6120ed5bd5d5e2a733031c9394321547de476b1c7c728471dc088aa01045",
+   "t": 1781396900,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-1/Lecture-02a_Fillet-Welded-Joints.pdf",
+   "s": 1055404,
+   "h": "2260dd56599c1b9dbe7d8ded39f896f23cc11ce828a6bd8bffd43e27c2544882",
+   "t": 1781396898,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-1/Lecture-03_Unsymmetrical-Welded-Joints.pdf",
+   "s": 1362873,
+   "h": "67dd7257fa15dd47f68bc874d2730041dbe5eab1523246f2ad10c78049f06a6b",
+   "t": 1781396896,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-1/Lecture-04_Disc-Brakes.pdf",
+   "s": 1386471,
+   "h": "387aa8007f8a60bf1644479718f5a4b70fbf97523756b1b5fe85b123bb8634ef",
+   "t": 1793530375,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-1/Lecture-05_Drum-and-Band-Brakes.pdf",
+   "s": 2673108,
+   "h": "cb1206e98176e85d36dc36b1ebf53ab748acc49d5de407598969cf7202375f23",
+   "t": 1793530375,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-1/Lecture-07_Clutch.pdf",
+   "s": 1985379,
+   "h": "ddfab430e74d70817319920dc0f8930543efff16da8c886fcb9cb6c056b06852",
+   "t": 1793530375,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-2/Lecture-01_Introduction-and-Friction.pdf",
+   "s": 1043270,
+   "h": "e3635af788df1e9628f8eb560e46b79f5ef03f6f51b4550bcb84159fccf89d5a",
+   "t": 1793530376,
+   "meta": {
+    "professor": "Prof. M. Naushad Alam",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-2/Lecture-03_Petroffs-Equation.pptx",
+   "s": 500386,
+   "h": "532e0f3b211f45c49d9a400cdd90c9c00c6c35183fd1d14fe5115eefa8c7f298",
+   "t": 1788073310,
+   "meta": {
+    "professor": "Prof. M. Naushad Alam",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-2/Class-Notes_Unit-2-All-Combined.pdf",
+   "s": 52667507,
+   "h": "af09efee9df89328e13344ed5253cec1ed768c712da4330ed99326974e8f33ed",
+   "t": 1793530379,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-3/Class-Notes_Unit-3-All-Combined.pdf",
+   "s": 11901230,
+   "h": "a61c7da848c75782a557a1b28c2ad13647557dd58b0d6af2f237396616669884",
+   "t": 1793530380,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice/Books-and-Resources/Achchagam_Design-Data-Book.pdf",
+   "s": 8536551,
+   "h": "b1f8e09a128ca74031cb02ed94f261583b5d43d6351e5d65bfd2335487190033",
+   "t": 1786247424,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice/Books-and-Resources/Bhandari_Machine-Design-Data-Book.pdf",
+   "s": 11639911,
+   "h": "b7d717381a45f57be800f83c28f1b2442e98aef1db49324990b2fa555ee112c1",
+   "t": 1786247430,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice/Records/Design-Sheet_Cotter-Joint.pdf",
+   "s": 1516320,
+   "h": "765a5aaf422cd4b1e8e722a2e4b7e2af1f5650df6e904c5b0f7bd4b7541bb77e",
+   "t": 1793530381,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice/Records/Design-Sheet_Knuckle-Joint.pdf",
+   "s": 338061,
+   "h": "7a175d0f2aa6230b181daa006fed8e45fe0e8e216214bc7609659cef5158ec9f",
+   "t": 1788051860,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Complete-Notes/Notes_Machine-Tool-Figures_2025-26.pdf",
+   "s": 571554,
+   "h": "dbd10898debd1b30d01c29099900de455959ed40364dff6b845cb5ec84f12b2c",
+   "t": 1793530381,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-1/Lecture-Slides_Part-2a_Chip-Formation-and-Forces.pptx",
+   "s": 422207,
+   "h": "59211d526c245d9bd609bfa8ed2baa3f3fc268c0e1e6270b7c4184ce03dcb9b5",
+   "t": 1788073312,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-1/Lecture-Slides_Part-2b_Chip-Formation-and-Forces.pptx",
+   "s": 439948,
+   "h": "96be67c1601167b1aeafb2792a6402a1a802c225c83273df318dc0b68ae9bac2",
+   "t": 1788073314,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-1/Lecture-Slides_Part-3_Tool-Material-Wear-and-Life.pdf",
+   "s": 2451148,
+   "h": "12eb93f028b7ebb0c26357cc8bcd283c664cf68c8233ad9221f10e559e76ceed",
+   "t": 1781391322,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-1/Lecture-Slides_Part-2_Chip-Formation-and-Forces.docx",
+   "s": 33796,
+   "h": "4ec9803aa31f00c0fca1653a38695d122edd8148d8199136efa036773d7a3749",
+   "t": 1789240628,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-1/Lecture-Slides_Part-2_Chip-Formation-and-Forces.pdf",
+   "s": 446470,
+   "h": "c5b444b023b4114af8a04ba3a00df0218d8794c69e7fa0758c04e1dfe8272f19",
+   "t": 1793530381,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-1/Lecture-Slides_Part-1_Metal-Cutting-Introduction.pdf",
+   "s": 6092606,
+   "h": "daee205b893cbda19f73c3e3e997fd145dbbbf79a08538db6a75d3e86b2051f8",
+   "t": 1793530382,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-1/Lecture-01_Introduction-to-Manufacturing.pdf",
+   "s": 2061612,
+   "h": "6a9904444644271fb68a5219d249e22b08225330be485e4f6b736bdfa2269343",
+   "t": 1793530382,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-1/Lecture-Slides_Tool-Mateial.pdf",
+   "s": 2116231,
+   "h": "094538094cc379f8f31cff7d1e4595d4b057f1b6f33576609be710d0a393e01e",
+   "t": 1781391320,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-1/Lecture-Slides_Tool-Wear-And-Failure.pdf",
+   "s": 2192848,
+   "h": "611ff95972ba8333c6f0c24c5c0e525d9386fb6f5acc6dfad1b316ded11c4f75",
+   "t": 1793530383,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-3/Lecture-Slides_Abrasive-Jet-Machining.pdf",
+   "s": 987175,
+   "h": "58eb82d4c782bdc0e2bf09a1c5a99c5e18572238d238301ba691b62430bc29f5",
+   "t": 1793530383,
+   "meta": {
+    "professor": "Dr. Sajjad Arif",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-3/Lecture-Slides_Electrochemical-Machining.pdf",
+   "s": 769249,
+   "h": "2f99781a67e79710f16d5bdfcc28760d6e6333e5e1648b127a5c5c96b34ec137",
+   "t": 1793530383,
+   "meta": {
+    "professor": "Dr. Sajjad Arif",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-3/Lecture-Slides_Electric-Discharge-Machining.pdf",
+   "s": 2118554,
+   "h": "9c5186afea05f1d35851b8109cd940a4a96d72d108a2a82e77b1eab41400f504",
+   "t": 1793530384,
+   "meta": {
+    "professor": "Dr. Sajjad Arif",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-3/Lecture-01_Non-Traditional-Machining-Introduction.pdf",
+   "s": 1974819,
+   "h": "3a996645be8b445cfa286157c4f2a7010165fc7a7b8039e31c4e0a13023a81b8",
+   "t": 1793530384,
+   "meta": {
+    "professor": "Dr. Sajjad Arif",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-4/Lecture-Slides_Part-1_NC-CNC-Machines.pdf",
+   "s": 2569529,
+   "h": "22df735c97ded297ac231e5d8743809fc64342f5ef9afbf6e58c6a6543f9792b",
+   "t": 1781391326,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-4/Lecture-Slides_Part-2_CNC-Programming.pdf",
+   "s": 652556,
+   "h": "de5506fea95a2991a430718e1e6d336a6e2cea7b639b37cc4221e525cc9659c5",
+   "t": 1781391330,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-2/Lecture-Slides_Machine-Tools.pdf",
+   "s": 917225,
+   "h": "d7c6a3bf553704179cf919d5ff008474f22188c5de3d95231bd198be178d8098",
+   "t": 1793530384,
+   "meta": {
+    "professor": "Dr. Sajjad Arif",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-3/Lecture-Slides_Ultrasonic-Machining.pdf",
+   "s": 1019045,
+   "h": "735593e482cd4993771b26d54109eef2ef03307d2fcf827e3ca308dcce2bf080",
+   "t": 1793530385,
+   "meta": {
+    "professor": "Dr. Sajjad Arif",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-3/Lecture-Slides_Abrasive-Jet-Machining_Short.pdf",
+   "s": 811993,
+   "h": "eb424cea3a4845887a8b500ff1245f49ea49a4592750a59b87545eb03d4f3f9e",
+   "t": 1793530385,
+   "meta": {
+    "professor": "Dr. Sajjad Arif",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-3/Lecture-Slides_AJM-1.pdf",
+   "s": 594414,
+   "h": "5b34d0c8871e5d9ce7a17190ca64ee9acde652b12acbcb0de8b56dd96ec5919b",
+   "t": 1793530385,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-3/Lecture-Slides_Electric-Discharge-Machining_Short.pdf",
+   "s": 1356178,
+   "h": "01b22a2a8ea125df7ca71a8fce2d4ba802f27308d9df7e264f47af038809067d",
+   "t": 1789171238,
+   "meta": {
+    "professor": "Dr. Sajjad Arif",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-3/Lecture-01_Non-Traditional-Machining-Introduction_v2.pdf",
+   "s": 1817449,
+   "h": "cf9d0b38593318b4fda725713db748afa70c735befe5a5b0f59edb0677eea265",
+   "t": 1793530385,
+   "meta": {
+    "professor": "Dr. Sajjad Arif",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-3/Class-Notes_2025-09-01.pdf",
+   "s": 4942400,
+   "h": "899f4b36f383955aa93c58dc746c8b0ea1fc03b4956ff9998f947c53a976f914",
+   "t": 1789171238,
+   "meta": {
+    "professor": "Dr. Sajjad Arif",
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-3/Lecture-Slides_USM-1.pdf",
+   "s": 527485,
+   "h": "a3d502b51d7249db45324fc39725c802cb4b60326ad74b3fc79cd84664662208",
+   "t": 1789171238,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-4/Lecture-Slides_Part-4_CAD-CAM.pdf",
+   "s": 675220,
+   "h": "f7bcc72bf30f660aca12ac4998dae3e47579c53146650a7cd3d08836b491f479",
+   "t": 1781391334,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_General-PYQs/Sem-End_2024-25_Sem5-All-Courses.pdf",
+   "s": 6805869,
+   "h": "21ed4c38d186b183df9d1ca83507c196d574b8fde0fc1b69e23dc12179f154bc",
+   "t": 1793530386,
+   "meta": {
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Curriculum/BTech_Mechanical_Sem5_Syllabus.pdf",
+   "s": 844426,
+   "h": "028142999c50c059f54319db81fe8cbd1ca8620edafee6655bb809571e111f2d",
+   "t": 1793530386,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Curriculum/Reference-Book_Fundamentals-of-Mechanical-Engineering.pdf",
+   "s": 8985561,
+   "h": "5842ed083b5fcd2d0063000a23c7d1d1c252da39ddb7b4757230ab8faa7902c7",
+   "t": 1777412078,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Curriculum/Industrial-Training-NOC-Request-Form.pdf",
+   "s": 844258,
+   "h": "736668859d8999d6a369bbcb4205b824b1d23c215b259b7a18a7dc36aa811eda",
+   "t": 1793530386,
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Casting-Process.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-3/Lecture-Slides_Rolling.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-3/Lecture-Slides_Sheet-Metal-Operations.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Sem-End_2024-25_MEA2420.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/PYQs-and-Assignments/Sem-End_2023-24_MEC2120.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/PYQs-and-Assignments/Sem-End_2022-23_MEC2430.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/PYQs-and-Assignments/Sem-End_2023-24_MEC2430.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/PYQs-and-Assignments/Sem-End_2024-25_MEC2430.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2024-25_MEC2112.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Sem-End_2022-23_MEC2210.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Sem-End_2023-24_MEC2210.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Z_Tutorial-2_2025-26_Unit-3_Compressors.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Books-and-Resources/Refrigeration-Tables.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Z_Tutorial_2025-26_Unit-4_Refrigeration.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Z_Tutorial-1_2025-26_Unit-3_Cycles.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Z_Tutorial_2025-26_Unit-1.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Z_Tutorial_2025-26_Unit-2.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-1/Class-Notes_Unit-1_Lectures-1-2_2025-26.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-2/Class-Notes_Unit-2_2025-26.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-3/Lecture-01_Thermodynamic-Cycles_2025-26.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-3/Lecture-02_Thermodynamic-Cycles_2025-26.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-3/Lecture-03-04_Cycles-and-Compressors_2025-26.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-3/Lecture-05_Cycles-and-Compressors_2025-26.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-4/Lecture-Slides_Refrigeration_2025-26.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Complete-Notes/Notes_Three-Phase-IM-2-Year_2022-23.pdf",
+   "meta": {
+    "credit": "gk7093, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-1/Class-Notes_Unit-1_2025-26.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-2/Class-Notes_Unit-2_2025-26.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-3/Class-Notes_Unit-3_2025-26.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-4/Class-Notes_Unit-4_2025-26.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/PYQs-and-Assignments/Sem-End_2022-23_MEC2130.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/PYQs-and-Assignments/Sem-End_2023-24_MEC2130.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/PYQs-and-Assignments/Sem-End_2024-25_MEC2130.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-04_Riveted-Joint-Numericals.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-06_Riveted-Joint-Numericals.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-07_Riveted-Joint-Numericals.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-02_Welded-Joint-Introduction.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-1/Class-Notes_Unit-1_2025-26.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-2/Class-Notes_Unit-2_2025-26.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-Slides_Unit-3_2025-26.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-4/Lecture-Slides_Unit-4_2025-26.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/Sem-End_2022-23_MEC2410.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/Sem-End_2023-24_MEC2410.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Solidification-of-Metals.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Pattern.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Moulding-Materials.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Cores.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Gating-System.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Riser.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Casting-Defects.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-3/Lecture-Slides_Drawing.pptx",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-3/Lecture-Slides_Forging.pptx",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-3/Lecture-Slides_Forming-Introduction.pptx",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-3/Lecture-Slides_Powder-Metallurgy.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Z_Assignment_2025-26_Home-Assignment.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Sem-End_2022-23_AMS2320.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Sem-End_2023-24_AMS2320.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Sem-End_2024-25_AMS2320.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-1/Class-Notes_Unit-1_2025-26.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-3/Class-Notes_Units-3-and-4_2025-26.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/PYQs-and-Assignments/Sem-End_2024-25_MEC3110.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Curriculum/Official/BTech_Mechanical-Engineering_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official), Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Curriculum/Official/BTech_Mechanical-Engineering_Curriculum.pdf",
+   "meta": {
+    "credit": "AMU website (official), Farhan Baig"
+   }
+  }
+ ]
+}

@@ -1,0 +1,1839 @@
+{
+ "id": "20261031-150423-split",
+ "created": "2026-10-31T15:04:23+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "split Chemical Technology back out of Chemical Engineering"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2012-13_AM241.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2012-13_AM241.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2013-14_AM241.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2013-14_AM241.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2014-15_AM241.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2014-15_AM241.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2015-16_AM241.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2015-16_AM241.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2016-17_AM241.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2016-17_AM241.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2018-19_AM241.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2018-19_AM241.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2018-19_AMS2410.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2018-19_AMS2410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2018-19_AMS2410_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2018-19_AMS2410_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2019-20_AM241.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2019-20_AM241.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2019-20_AMS2410.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2019-20_AMS2410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2019-20_AMS2410_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2019-20_AMS2410_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2022-23_AMS2410.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2022-23_AMS2410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2022-23_AMS2410_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2022-23_AMS2410_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2023-24_AMS2410.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2023-24_AMS2410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2023-24_AMS2410_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2023-24_AMS2410_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2024-25_AMS2410.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2024-25_AMS2410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2024-25_AMS2410_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2024-25_AMS2410_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2025-26_AMS2410.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2025-26_AMS2410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/Syllabus/AMS2412_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/Syllabus/AMS2412_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/MEA2942_Machine-Drawing-and-Computer-Graphics/Syllabus/MEA2942_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/MEA2942_Machine-Drawing-and-Computer-Graphics/Syllabus/MEA2942_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2132_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2012-13_PK231.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2132_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2012-13_PK231.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2132_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2013-14_PK231.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2132_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2013-14_PK231.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2132_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2015-16_PK231.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2132_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2015-16_PK231.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2132_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2016-17_PK231.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2132_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2016-17_PK231.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2132_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2017-18_PK231.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2132_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2017-18_PK231.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2132_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2132_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2132_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2132_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2132_Chemistry-of-Hydrocarbons/Syllabus/PKC2132_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2132_Chemistry-of-Hydrocarbons/Syllabus/PKC2132_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2012-13_PK241.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2012-13_PK241.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2012-13_PK322.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2012-13_PK322.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2014-15_PK241.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2014-15_PK241.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2014-15_PK322.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2014-15_PK322.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2015-16_PK241.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2015-16_PK241.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2016-17_PK241.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2016-17_PK241.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2017-18_PK241.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2017-18_PK241.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/Syllabus/PKC2172_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/Syllabus/PKC2172_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2012-13_CH214.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2012-13_CH214.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2013-14_PK233.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2013-14_PK233.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2014-15_PK233.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2014-15_PK233.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2015-16_PK233.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2015-16_PK233.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2016-17_PK233.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2016-17_PK233.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2017-18_PK233.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2017-18_PK233.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2025-26_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2025-26_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2025-26_3.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2025-26_3.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2192_Fluid-Particle-Operations/Syllabus/PKC2192_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2192_Fluid-Particle-Operations/Syllabus/PKC2192_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2912_Computer-Applications-Lab/Syllabus/PKC2912_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2912_Computer-Applications-Lab/Syllabus/PKC2912_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/AMS2422_Applied-Numerical-Methods/PYQs-and-Assignments/Sem-End_2012-13_AM242.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/AMS2422_Applied-Numerical-Methods/PYQs-and-Assignments/Sem-End_2012-13_AM242.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/AMS2422_Applied-Numerical-Methods/PYQs-and-Assignments/Sem-End_2017-18_AM242.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/AMS2422_Applied-Numerical-Methods/PYQs-and-Assignments/Sem-End_2017-18_AM242.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/AMS2422_Applied-Numerical-Methods/PYQs-and-Assignments/Sem-End_2021-22_AMS2420.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/AMS2422_Applied-Numerical-Methods/PYQs-and-Assignments/Sem-End_2021-22_AMS2420.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/AMS2422_Applied-Numerical-Methods/PYQs-and-Assignments/Sem-End_2022-23_AMS2420.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/AMS2422_Applied-Numerical-Methods/PYQs-and-Assignments/Sem-End_2022-23_AMS2420.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/AMS2422_Applied-Numerical-Methods/PYQs-and-Assignments/Sem-End_2023-24_AMS2420.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/AMS2422_Applied-Numerical-Methods/PYQs-and-Assignments/Sem-End_2023-24_AMS2420.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/AMS2422_Applied-Numerical-Methods/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/AMS2422_Applied-Numerical-Methods/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/AMS2422_Applied-Numerical-Methods/Syllabus/AMS2422_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/AMS2422_Applied-Numerical-Methods/Syllabus/AMS2422_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/CHA2922_Unit-Operations-Lab-I/Syllabus/CHA2922_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/CHA2922_Unit-Operations-Lab-I/Syllabus/CHA2922_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2012-13_PR221.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2012-13_PR221.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2013-14_PK221.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2013-14_PK221.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2014-15_PK221.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2014-15_PK221.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2015-16_PK221.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2015-16_PK221.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2016-17_PK221.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2016-17_PK221.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2017-18_PK221.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2017-18_PK221.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2021-22_PKC2020.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2021-22_PKC2020.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2022-23_PKC2020.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2022-23_PKC2020.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2023-24_PKC2020.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2023-24_PKC2020.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/Syllabus/PKC2222_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/Syllabus/PKC2222_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2012-13_PK214.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2012-13_PK214.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2013-14_PK214.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2013-14_PK214.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2017-18_PK214.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2017-18_PK214.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2018-19_PKC2070.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2018-19_PKC2070.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2019-20_PKC2070.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2019-20_PKC2070.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2022-23_PKC2070.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2022-23_PKC2070.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2023-24_PKC2070.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2023-24_PKC2070.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2024-25_PKC2070.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2024-25_PKC2070.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/Syllabus/PKC2242_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/Syllabus/PKC2242_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2012-13_CH313.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2012-13_CH313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2013-14_CH313.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2013-14_CH313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2013-14_CH313_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2013-14_CH313_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2014-15_CH313.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2014-15_CH313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2015-16_CH313.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2015-16_CH313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2015-16_CH313_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2015-16_CH313_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2016-17_CH313.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2016-17_CH313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2017-18_CH313.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2017-18_CH313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2017-18_CH313_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2017-18_CH313_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2017-18_PK313.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2017-18_PK313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2018-19_CH313.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2018-19_CH313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2019-20_CHC3080.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2019-20_CHC3080.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2022-23_CHC3080.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2022-23_CHC3080.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2023-24_CHC3080.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2023-24_CHC3080.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2024-25_CHC3080.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2024-25_CHC3080.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2025-26_PKC3050.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2025-26_PKC3050.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2262_Mass-Transfer-Operations/Syllabus/PKC2262_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/Syllabus/PKC2262_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2282_Introduction-to-Petroleum-Engineering/PYQs-and-Assignments/Sem-End_2012-13_PR224.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2282_Introduction-to-Petroleum-Engineering/PYQs-and-Assignments/Sem-End_2012-13_PR224.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2282_Introduction-to-Petroleum-Engineering/PYQs-and-Assignments/Sem-End_2021-22_PKE2510.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2282_Introduction-to-Petroleum-Engineering/PYQs-and-Assignments/Sem-End_2021-22_PKE2510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2282_Introduction-to-Petroleum-Engineering/PYQs-and-Assignments/Sem-End_2022-23_PKE2510.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2282_Introduction-to-Petroleum-Engineering/PYQs-and-Assignments/Sem-End_2022-23_PKE2510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2282_Introduction-to-Petroleum-Engineering/PYQs-and-Assignments/Sem-End_2023-24_PKE2510.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2282_Introduction-to-Petroleum-Engineering/PYQs-and-Assignments/Sem-End_2023-24_PKE2510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2282_Introduction-to-Petroleum-Engineering/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2282_Introduction-to-Petroleum-Engineering/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2282_Introduction-to-Petroleum-Engineering/PYQs-and-Assignments/Sem-End_2024-25_PKE2510.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2282_Introduction-to-Petroleum-Engineering/PYQs-and-Assignments/Sem-End_2024-25_PKE2510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2282_Introduction-to-Petroleum-Engineering/Syllabus/PKC2282_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2282_Introduction-to-Petroleum-Engineering/Syllabus/PKC2282_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2902_Petroleum-Testing-Lab/Syllabus/PKC2902_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2902_Petroleum-Testing-Lab/Syllabus/PKC2902_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKH2202_Health-Safety-and-Environment-Management/PYQs-and-Assignments/Sem-End_2021-22_PKH2060.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKH2202_Health-Safety-and-Environment-Management/PYQs-and-Assignments/Sem-End_2021-22_PKH2060.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKH2202_Health-Safety-and-Environment-Management/PYQs-and-Assignments/Sem-End_2022-23_PKH2060.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKH2202_Health-Safety-and-Environment-Management/PYQs-and-Assignments/Sem-End_2022-23_PKH2060.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKH2202_Health-Safety-and-Environment-Management/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKH2202_Health-Safety-and-Environment-Management/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKH2202_Health-Safety-and-Environment-Management/Syllabus/PKH2202_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKH2202_Health-Safety-and-Environment-Management/Syllabus/PKH2202_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2013-14_PK311.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2013-14_PK311.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2014-15_PK311.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2014-15_PK311.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2015-16_PK311.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2015-16_PK311.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2016-17_PK311.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2016-17_PK311.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2017-18_PK311.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2017-18_PK311.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2018-19_PK311.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2018-19_PK311.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2019-20_PKC3010.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2019-20_PKC3010.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2022-23_PKC3010.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2022-23_PKC3010.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2023-24_PKC3010.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2023-24_PKC3010.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2024-25_PKC3010.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2024-25_PKC3010.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3112_Petroleum-Refining-Processes/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3112_Petroleum-Refining-Processes/Syllabus/PKC3112_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3112_Petroleum-Refining-Processes/Syllabus/PKC3112_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2013-14_PK312.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2013-14_PK312.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2016-17_PK312.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2016-17_PK312.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2017-18_PK312.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2017-18_PK312.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2018-19_PK312.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2018-19_PK312.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2019-20_PKC3030.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2019-20_PKC3030.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2022-23_PKC3030.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2022-23_PKC3030.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2024-25_PKC3030.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2024-25_PKC3030.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2024-25_PKC3030_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2024-25_PKC3030_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3132_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3132_Heat-Transfer-Operations/Syllabus/PKC3132_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3132_Heat-Transfer-Operations/Syllabus/PKC3132_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3152_Process-Engineering-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2022-23_PKC3060.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3152_Process-Engineering-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2022-23_PKC3060.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3152_Process-Engineering-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2024-25_PKC3060.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3152_Process-Engineering-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2024-25_PKC3060.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3152_Process-Engineering-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3152_Process-Engineering-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3152_Process-Engineering-and-Equipment-Design/Syllabus/PKC3152_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3152_Process-Engineering-and-Equipment-Design/Syllabus/PKC3152_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2012-13_PK324.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2012-13_PK324.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2015-16_PK341.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2015-16_PK341.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2016-17_PK341.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2016-17_PK341.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2017-18_PK341.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2017-18_PK341.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2022-23_PKE3510.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2022-23_PKE3510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2023-24_PKE3510.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2023-24_PKE3510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2024-25_PKE3510.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2024-25_PKE3510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2025-26.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/Syllabus/PKC3172_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/Syllabus/PKC3172_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3932_Reaction-Engineering-Lab/Syllabus/PKC3932_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3932_Reaction-Engineering-Lab/Syllabus/PKC3932_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKC3952_Process-Equipment-Design/Syllabus/PKC3952_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKC3952_Process-Equipment-Design/Syllabus/PKC3952_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/PKP3812_Seminar/Syllabus/PKP3812_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem5/PKP3812_Seminar/Syllabus/PKP3812_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2012-13_PK413.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2012-13_PK413.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2013-14_PK331.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2013-14_PK331.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2014-15_PK331.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2014-15_PK331.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2014-15_PK413.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2014-15_PK413.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2015-16_PK331.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2015-16_PK331.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2015-16_PK413.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2015-16_PK413.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2015-16_PK413_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2015-16_PK413_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2016-17_PK331.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2016-17_PK331.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2017-18_PK331.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2017-18_PK331.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2018-19_PK331.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2018-19_PK331.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2019-20_PKC3070.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2019-20_PKC3070.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2022-23_PKC3070.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2022-23_PKC3070.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2023-24_PKC3070.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2023-24_PKC3070.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2024-25_PKC3070.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2024-25_PKC3070.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2025-26_PKC3070.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/PYQs-and-Assignments/Sem-End_2025-26_PKC3070.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3202_Refinery-Engineering-Calculations/Syllabus/PKC3202_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/Syllabus/PKC3202_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3222_Petrochemical-Technology-I/PYQs-and-Assignments/Sem-End_2013-14_PK342.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3222_Petrochemical-Technology-I/PYQs-and-Assignments/Sem-End_2013-14_PK342.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3222_Petrochemical-Technology-I/PYQs-and-Assignments/Sem-End_2015-16_PK342.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3222_Petrochemical-Technology-I/PYQs-and-Assignments/Sem-End_2015-16_PK342.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3222_Petrochemical-Technology-I/PYQs-and-Assignments/Sem-End_2016-17_PK342.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3222_Petrochemical-Technology-I/PYQs-and-Assignments/Sem-End_2016-17_PK342.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3222_Petrochemical-Technology-I/PYQs-and-Assignments/Sem-End_2018-19_PRK432.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3222_Petrochemical-Technology-I/PYQs-and-Assignments/Sem-End_2018-19_PRK432.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3222_Petrochemical-Technology-I/PYQs-and-Assignments/Sem-End_2019-20_PK432.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3222_Petrochemical-Technology-I/PYQs-and-Assignments/Sem-End_2019-20_PK432.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3222_Petrochemical-Technology-I/PYQs-and-Assignments/Sem-End_2022-23_PKC3020.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3222_Petrochemical-Technology-I/PYQs-and-Assignments/Sem-End_2022-23_PKC3020.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3222_Petrochemical-Technology-I/PYQs-and-Assignments/Sem-End_2023-24_PKC3020.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3222_Petrochemical-Technology-I/PYQs-and-Assignments/Sem-End_2023-24_PKC3020.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3222_Petrochemical-Technology-I/PYQs-and-Assignments/Sem-End_2024-25_PKC3020.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3222_Petrochemical-Technology-I/PYQs-and-Assignments/Sem-End_2024-25_PKC3020.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3222_Petrochemical-Technology-I/Syllabus/PKC3222_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3222_Petrochemical-Technology-I/Syllabus/PKC3222_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2014-15_PK314.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2014-15_PK314.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2015-16_PK433.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2015-16_PK433.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2016-17_PK433.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2016-17_PK433.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2017-18_PK433.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2017-18_PK433.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2018-19_PK433.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2018-19_PK433.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2019-20_PK433.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2019-20_PK433.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2022-23_PKC4070.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2022-23_PKC4070.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2023-24_PKC4070.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2023-24_PKC4070.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2024-25_PKC4070.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2024-25_PKC4070.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2025-26_PKC4070.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3242_Polymer-Science-and-Technology/PYQs-and-Assignments/Sem-End_2025-26_PKC4070.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3242_Polymer-Science-and-Technology/Syllabus/PKC3242_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3242_Polymer-Science-and-Technology/Syllabus/PKC3242_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3262_Natural-Gas-Processing/PYQs-and-Assignments/Sem-End_2013-14_PK315.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3262_Natural-Gas-Processing/PYQs-and-Assignments/Sem-End_2013-14_PK315.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3262_Natural-Gas-Processing/PYQs-and-Assignments/Sem-End_2014-15_PK315.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3262_Natural-Gas-Processing/PYQs-and-Assignments/Sem-End_2014-15_PK315.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3262_Natural-Gas-Processing/PYQs-and-Assignments/Sem-End_2015-16_PK315.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3262_Natural-Gas-Processing/PYQs-and-Assignments/Sem-End_2015-16_PK315.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3262_Natural-Gas-Processing/PYQs-and-Assignments/Sem-End_2016-17_PK315.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3262_Natural-Gas-Processing/PYQs-and-Assignments/Sem-End_2016-17_PK315.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3262_Natural-Gas-Processing/PYQs-and-Assignments/Sem-End_2017-18_PK315.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3262_Natural-Gas-Processing/PYQs-and-Assignments/Sem-End_2017-18_PK315.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3262_Natural-Gas-Processing/PYQs-and-Assignments/Sem-End_2022-23_PKC3080.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3262_Natural-Gas-Processing/PYQs-and-Assignments/Sem-End_2022-23_PKC3080.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3262_Natural-Gas-Processing/PYQs-and-Assignments/Sem-End_2023-24_PKC3080.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3262_Natural-Gas-Processing/PYQs-and-Assignments/Sem-End_2023-24_PKC3080.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3262_Natural-Gas-Processing/PYQs-and-Assignments/Sem-End_2024-25_PKC3080.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3262_Natural-Gas-Processing/PYQs-and-Assignments/Sem-End_2024-25_PKC3080.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3262_Natural-Gas-Processing/Syllabus/PKC3262_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3262_Natural-Gas-Processing/Syllabus/PKC3262_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKC3902_Process-Simulation-Lab/Syllabus/PKC3902_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKC3902_Process-Simulation-Lab/Syllabus/PKC3902_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/PKP3922_Project-Phase-I/Syllabus/PKP3922_Syllabus_Official.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem6/PKP3922_Project-Phase-I/Syllabus/PKP3922_Syllabus_Official.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2012-13_PK411.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2012-13_PK411.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2013-14_PK411.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2013-14_PK411.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2015-16_PK411.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2015-16_PK411.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2016-17_PK411.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2016-17_PK411.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2018-19_PK411.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2018-19_PK411.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2019-20_PK411.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2019-20_PK411.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2024-25_PKC4010.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2024-25_PKC4010.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2024-25_PKC4010_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2024-25_PKC4010_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2025-26_PKC4010.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2025-26_PKC4010.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2015-16_PK431.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2015-16_PK431.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2016-17_PK431.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2016-17_PK431.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2017-18_PK431.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2017-18_PK431.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2018-19_PK431.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2018-19_PK431.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2019-20_PK431.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2019-20_PK431.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2022-23_PKC4030.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2022-23_PKC4030.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2023-24_PKC4030.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2023-24_PKC4030.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2024-25_PKC4030.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2024-25_PKC4030.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2025-26_PKC4030.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4132_Plant-Design-and-Economics/PYQs-and-Assignments/Sem-End_2025-26_PKC4030.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4152_Petrochemical-Technology-II/PYQs-and-Assignments/Sem-End_2014-15_PK432.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4152_Petrochemical-Technology-II/PYQs-and-Assignments/Sem-End_2014-15_PK432.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4152_Petrochemical-Technology-II/PYQs-and-Assignments/Sem-End_2017-18_PK432.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4152_Petrochemical-Technology-II/PYQs-and-Assignments/Sem-End_2017-18_PK432.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4152_Petrochemical-Technology-II/PYQs-and-Assignments/Sem-End_2022-23_PKC4050.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4152_Petrochemical-Technology-II/PYQs-and-Assignments/Sem-End_2022-23_PKC4050.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4152_Petrochemical-Technology-II/PYQs-and-Assignments/Sem-End_2023-24_PKC4050.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4152_Petrochemical-Technology-II/PYQs-and-Assignments/Sem-End_2023-24_PKC4050.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4152_Petrochemical-Technology-II/PYQs-and-Assignments/Sem-End_2024-25_PKC4050.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4152_Petrochemical-Technology-II/PYQs-and-Assignments/Sem-End_2024-25_PKC4050.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem7/PKC4152_Petrochemical-Technology-II/PYQs-and-Assignments/Sem-End_2025-26_PKC4050.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4152_Petrochemical-Technology-II/PYQs-and-Assignments/Sem-End_2025-26_PKC4050.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Curriculum/Official/BTech_Petrochemical-Chemical-Technology_Curriculum.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Curriculum/Official/BTech_Petrochemical-Chemical-Technology_Curriculum.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Curriculum/Official/BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Curriculum/Official/BTech_Petrochemical-Chemical-Technology_Syllabus.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S3_2014-15_PK214_p11-13.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S3_2014-15_PK214_p11-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S3_2014-15_XN2014_p14-15.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S3_2014-15_XN2014_p14-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S3_2017-18_AM241_p1-2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S3_2017-18_AM241_p1-2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S3_2019-20_PK241_p12-14.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S3_2019-20_PK241_p12-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S3_2022-23_OAL2022_p9-10.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S3_2022-23_OAL2022_p9-10.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S4_2012-13_PK243_p19-20.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S4_2012-13_PK243_p19-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S4_2014-15_unread_p1-4.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S4_2014-15_unread_p1-4.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S4_2015-16_PK214_p13-15.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S4_2015-16_PK214_p13-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S4_2015-16_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S4_2015-16_unread_p1-2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S4_2016-17_AM242_p1-2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S4_2016-17_AM242_p1-2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S4_2021-22_PKC2080_p18-18.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S4_2021-22_PKC2080_p18-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S4_2022-23_PKC2040_p18-20.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S4_2022-23_PKC2040_p18-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S4_2023-24_PKC2040_p8-10.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S4_2023-24_PKC2040_p8-10.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S4_2024-25_PKC2040_p6-8.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S4_2024-25_PKC2040_p6-8.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S5_2012-13_AC317_p1-1.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S5_2012-13_AC317_p1-1.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S5_2012-13_PK312_p9-11.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S5_2012-13_PK312_p9-11.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S5_2013-14_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S5_2013-14_unread_p1-2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S5_2014-15_CH312_p3-8.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S5_2014-15_CH312_p3-8.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S5_2015-16_CH312_p3-6.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S5_2015-16_CH312_p3-6.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S5_2023-24_PKC3030_p14-18.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S5_2023-24_PKC3030_p14-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S6_2012-13_PK321_p4-5.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S6_2012-13_PK321_p4-5.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S6_2012-13_PK328_p15-17.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S6_2012-13_PK328_p15-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S7_2012-13_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S7_2012-13_unread_p1-2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S7_2017-18_OG2017_p1-3.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S7_2017-18_OG2017_p1-3.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S8_2015-16_PK442_p7-8.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S8_2015-16_PK442_p7-8.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S8_2016-17_LL3786_p1-3.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S8_2016-17_LL3786_p1-3.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S8_2016-17_PK442_p7-7.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S8_2016-17_PK442_p7-7.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S8_2023-24_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S8_2023-24_unread_p1-2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Library-Papers-Unsorted/BT_PK_S8_2024-25_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Library-Papers-Unsorted/BT_PK_S8_2024-25_unread_p1-2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AC211-AC311_Engineering-Chemistry-and-Material-Science/PYQs-and-Assignments/Sem-End_2014-15_AC311.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/AC311_Engineering-Chemistry-Material-Science/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AC211-AC311_Engineering-Chemistry-and-Material-Science/PYQs-and-Assignments/Sem-End_2015-16_AC311.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/AC311_Engineering-Chemistry-Material-Science/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AC211-AC311_Engineering-Chemistry-and-Material-Science/PYQs-and-Assignments/Sem-End_2016-17_AC311.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/AC311_Engineering-Chemistry-Material-Science/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AC317_Engineering-Polymeric-Materials/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/AC317_Engineering-Polymeric-Materials/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3182_Transport-Phenomena/PYQs-and-Assignments/Sem-End_2012-13_CH323_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/CH323-PK323_Transport-Phenomena/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3182_Transport-Phenomena/PYQs-and-Assignments/Sem-End_2013-14_CH323.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/CH323-PK323_Transport-Phenomena/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3182_Transport-Phenomena/PYQs-and-Assignments/Sem-End_2015-16_CH323_3.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/CH323-PK323_Transport-Phenomena/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3182_Transport-Phenomena/PYQs-and-Assignments/Sem-End_2016-17_CH323_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/CH323-PK323_Transport-Phenomena/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3182_Transport-Phenomena/PYQs-and-Assignments/Sem-End_2017-18_CH323_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/CH323-PK323_Transport-Phenomena/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3182_Transport-Phenomena/PYQs-and-Assignments/Sem-End_2019-20_PK323_CH323.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/CH323-PK323_Transport-Phenomena/PYQs-and-Assignments/Sem-End_2019-20_PK323.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/EL202_Electronics-and-Instrumentation/PYQs-and-Assignments/Sem-End_2013-14_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/EL202_Electronics-and-Instrumentation/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/HU202_Communication-Skills/PYQs-and-Assignments/Sem-End_2012-13_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/HU202_Communication-Skills/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2012-13_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2013-14_3.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2013-14_4.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2013-14_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2014-15_3.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2014-15_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2016-17_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2017-18_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2019-20_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK213_Fluid-Mechanics-and-Mechanical-Operations/PYQs-and-Assignments/Sem-End_2013-14_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK213_Fluid-Mechanics-and-Mechanical-Operations/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK214_Graduating-Course/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK214_Graduating-Course/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK222_Crude-Oil-and-Petroleum-Products/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK222_Crude-Oil-and-Petroleum-Products/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK222_Crude-Oil-and-Petroleum-Products/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK222_Crude-Oil-and-Petroleum-Products/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK223_Technology-Ov-Intermediate-Petrochemicals/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK223_Technology-Ov-Intermediate-Petrochemicals/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK241_Separation-Processes-in-Elc-Industries/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK241_Separation-Processes-in-Elc-Industries/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK322_Separation-Processes-in-H-C-Indus-Iries/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK322_Separation-Processes-in-H-C-Indus-Iries/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK325_Technology-of-Value-Added-Petrochemicals/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK325_Technology-of-Value-Added-Petrochemicals/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK325_Technology-of-Value-Added-Petrochemicals/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK325_Technology-of-Value-Added-Petrochemicals/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK341_Elective-Ii-Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK341_Elective-Ii-Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK342_Petrochemical-Technology/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK342_Petrochemical-Technology/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK343_Health-Safety-and-Environment-in-Hydrocarbon-Industry/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK343_Health-Safety-and-Environment-in-Hydrocarbon-Industry/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK343_Health-Safety-and-Environment-in-Hydrocarbon-Industry/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK343_Health-Safety-and-Environment-in-Hydrocarbon-Industry/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK343_Health-Safety-and-Environment-in-Hydrocarbon-Industry/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK343_Health-Safety-and-Environment-in-Hydrocarbon-Industry/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK343_Health-Safety-and-Environment-in-Hydrocarbon-Industry/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK343_Health-Safety-and-Environment-in-Hydrocarbon-Industry/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK343_Health-Safety-and-Environment-in-Hydrocarbon-Industry/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK343_Health-Safety-and-Environment-in-Hydrocarbon-Industry/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC4190-PK412_Process-Engineering-and-Plant-Design/PYQs-and-Assignments/Sem-End_2012-13_PK412.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK412_Bei-Process-Engineering-Plant-Design/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC4190-PK412_Process-Engineering-and-Plant-Design/PYQs-and-Assignments/Sem-End_2013-14_PK412.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK412_Bei-Process-Engineering-Plant-Design/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK417_Gas-Utilization-Conversion-Technology/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK417_Gas-Utilization-Conversion-Technology/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK417_Gas-Utilization-Conversion-Technology/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK417_Gas-Utilization-Conversion-Technology/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK421_Plant-Safety-and-Pollution-Control/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK421_Plant-Safety-and-Pollution-Control/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK421_Plant-Safety-and-Pollution-Control/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK421_Plant-Safety-and-Pollution-Control/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK421_Plant-Safety-and-Pollution-Control/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK421_Plant-Safety-and-Pollution-Control/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK427_Industrial-Instrumentation/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK427_Industrial-Instrumentation/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK427_Industrial-Instrumentation/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK427_Industrial-Instrumentation/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK427_Industrial-Instrumentation/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK427_Industrial-Instrumentation/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK432_Petrochemical-Technology/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK432_Petrochemical-Technology/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK432_Petrochemical-Technology/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK432_Petrochemical-Technology/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK442_Fertilizer-Technology/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK442_Fertilizer-Technology/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PK442_Fertilizer-Technology/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK442_Fertilizer-Technology/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC2030_Course-Code/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC2030_Course-Code/PYQs-and-Assignments/Sem-End_2018-19.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC2030_Course-Code/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC2030_Course-Code/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC2030_Course-Code/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC2030_Course-Code/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC2080_Alternative-Fuels-and-Energy-Resources/PYQs-and-Assignments/Sem-End_2013-14_PK243.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC2080_Alternative-Fuels-and-Energy-Resources/PYQs-and-Assignments/Sem-End_2013-14_PK243.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC2080_Alternative-Fuels-and-Energy-Resources/PYQs-and-Assignments/Sem-End_2015-16_PK243.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC2080_Alternative-Fuels-and-Energy-Resources/PYQs-and-Assignments/Sem-End_2015-16_PK243.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC2080_Alternative-Fuels-and-Energy-Resources/PYQs-and-Assignments/Sem-End_2016-17_PK243.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC2080_Alternative-Fuels-and-Energy-Resources/PYQs-and-Assignments/Sem-End_2016-17_PK243.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC2080_Alternative-Fuels-and-Energy-Resources/PYQs-and-Assignments/Sem-End_2017-18_PK243.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC2080_Alternative-Fuels-and-Energy-Resources/PYQs-and-Assignments/Sem-End_2017-18_PK243.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC2080_Alternative-Fuels-and-Energy-Resources/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC2080_Alternative-Fuels-and-Energy-Resources/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC2080_Alternative-Fuels-and-Energy-Resources/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC2080_Alternative-Fuels-and-Energy-Resources/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC2080_Alternative-Fuels-and-Energy-Resources/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC2080_Alternative-Fuels-and-Energy-Resources/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC3060_Process-Development-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2012-13_PK242.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC3060_Process-Development-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2012-13_PK242.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC3060_Process-Development-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2013-14_PK242.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC3060_Process-Development-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2013-14_PK242.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC3060_Process-Development-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2014-15_PK242.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC3060_Process-Development-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2014-15_PK242.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC3060_Process-Development-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2015-16_PK242.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC3060_Process-Development-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2015-16_PK242.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC3060_Process-Development-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2016-17_PK242.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC3060_Process-Development-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2016-17_PK242.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC3060_Process-Development-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2017-18_PK242.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC3060_Process-Development-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2017-18_PK242.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC3060_Process-Development-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC3060_Process-Development-and-Equipment-Design/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC4010_Course-Code/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC4010_Course-Code/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC4010_Course-Code/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC4010_Course-Code/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC4020_Process-Utilities-and-Energy-Management/PYQs-and-Assignments/Sem-End_2012-13_PK422.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC4020_Process-Utilities-and-Energy-Management/PYQs-and-Assignments/Sem-End_2012-13_PK422.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC4020_Process-Utilities-and-Energy-Management/PYQs-and-Assignments/Sem-End_2013-14_PK422.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC4020_Process-Utilities-and-Energy-Management/PYQs-and-Assignments/Sem-End_2013-14_PK422.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC4020_Process-Utilities-and-Energy-Management/PYQs-and-Assignments/Sem-End_2014-15_PK422.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC4020_Process-Utilities-and-Energy-Management/PYQs-and-Assignments/Sem-End_2014-15_PK422.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC4020_Process-Utilities-and-Energy-Management/PYQs-and-Assignments/Sem-End_2015-16_PK422.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC4020_Process-Utilities-and-Energy-Management/PYQs-and-Assignments/Sem-End_2015-16_PK422.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC4020_Process-Utilities-and-Energy-Management/PYQs-and-Assignments/Sem-End_2017-18_PK422.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC4020_Process-Utilities-and-Energy-Management/PYQs-and-Assignments/Sem-End_2017-18_PK422.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKC4020_Process-Utilities-and-Energy-Management/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKC4020_Process-Utilities-and-Energy-Management/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKE4510_Process-Instrumentation/PYQs-and-Assignments/Sem-End_2014-15_PK441.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKE4510_Process-Instrumentation/PYQs-and-Assignments/Sem-End_2014-15_PK441.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKE4510_Process-Instrumentation/PYQs-and-Assignments/Sem-End_2015-16_PK441.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKE4510_Process-Instrumentation/PYQs-and-Assignments/Sem-End_2015-16_PK441.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKE4510_Process-Instrumentation/PYQs-and-Assignments/Sem-End_2016-17_PK441.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKE4510_Process-Instrumentation/PYQs-and-Assignments/Sem-End_2016-17_PK441.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKE4510_Process-Instrumentation/PYQs-and-Assignments/Sem-End_2017-18_PK441.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKE4510_Process-Instrumentation/PYQs-and-Assignments/Sem-End_2017-18_PK441.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKE4510_Process-Instrumentation/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKE4510_Process-Instrumentation/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKE4510_Process-Instrumentation/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKE4510_Process-Instrumentation/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKE4510_Process-Instrumentation/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKE4510_Process-Instrumentation/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKE4540_Fertilizer-Technology-De-Iv/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKE4540_Fertilizer-Technology-De-Iv/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKE4540_Fertilizer-Technology-De-Iv/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKE4540_Fertilizer-Technology-De-Iv/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/PKE4540_Fertilizer-Technology-De-Iv/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PKE4540_Fertilizer-Technology-De-Iv/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2012-13_AM241_2.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AM241_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2013-14_AM241_2.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AM241_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2015-16_AM241_2.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AM241_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2015-16_AM241_3.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AM241_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2015-16_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2016-17_AM241_2.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AM241_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2018-19_AM241_2.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AM241_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2018-19.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2019-20_AM241_2.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AM241_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/PKC2132_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2012-13_PK231_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2132_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2012-13_PK231_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2012-13_PK214_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2012-13_PK214_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2013-14_PK214_2.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2013-14_PK214_2.pdf"
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/EL202_Electronics-and-Instrumentation/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "s": 131394,
+   "h": "983a0503d9bbd63fd60de257ac66125c2cf9eb61b5a3d41207d9a5f127b56a72",
+   "t": 1793449664
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/EL202_Electronics-and-Instrumentation/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "s": 70525,
+   "h": "9cad437e9fb0391ba9f26df1115aa3fca633a4b7d7be139d31e9dbc6b98132e5",
+   "t": 1793449664
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/EL202_Electronics-and-Instrumentation/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "s": 364552,
+   "h": "f0f47fa6d60fa5c18ff71758740e735b7f6f95c4f3453270e969972ce041f8e7",
+   "t": 1793449664
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "s": 188232,
+   "h": "a0d261238fb024cb472eb3172122c83040eb32fb37a5e7ee33ae4307ab113a7f",
+   "t": 1793449664
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "s": 154597,
+   "h": "c54f802c78d2a07ae66ce96eaf69c7714e79263cda732820ccc17b7b1ac333d2",
+   "t": 1793449670
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK212_Introduction-Petrochemical-Technology/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "s": 332150,
+   "h": "419f8c6848b06839297ee38f8118c7da0d44a73d7e0ef6c70bed8a2a3867480b",
+   "t": 1793449664
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK213_Fluid-Mechanics-and-Mechanical-Operations/PYQs-and-Assignments/Sem-End_2013-14_2.pdf",
+   "s": 214374,
+   "h": "3beaf4a65aab8d05e3984760810471b1147a0a66bc819b94f6e3bb9f8bb78f85",
+   "t": 1793449664
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Technology/_Old-Syllabus-Subjects/PK222_Crude-Oil-and-Petroleum-Products/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "s": 109738,
+   "h": "22b2ba9210113ec88916a5c916abdd2f48f8f5f20ca67f39eef812f7696cd200",
+   "t": 1793449664
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AM241_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "s": 145481,
+   "h": "41ff3dbc4f89cb156813f6277f9f182751711351dcdb7f265fe814bcc22d0f8a",
+   "t": 1793449595
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AC211-AC311_Engineering-Chemistry-and-Material-Science/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AC211_Engineering-Chemistry-and-Material-Science/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AC211-AC311_Engineering-Chemistry-and-Material-Science/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AC211_Engineering-Chemistry-and-Material-Science/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AC211-AC311_Engineering-Chemistry-and-Material-Science/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AC211_Engineering-Chemistry-and-Material-Science/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AC211-AC311_Engineering-Chemistry-and-Material-Science/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AC211_Engineering-Chemistry-and-Material-Science/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AC211-AC311_Engineering-Chemistry-and-Material-Science/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AC211_Engineering-Chemistry-and-Material-Science/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AC211-AC311_Engineering-Chemistry-and-Material-Science/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AC211_Engineering-Chemistry-and-Material-Science/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC4190-PK412_Process-Engineering-and-Plant-Design/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC4190_Process-Engineering-and-Plant-Design/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC4190-PK412_Process-Engineering-and-Plant-Design/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC4190_Process-Engineering-and-Plant-Design/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC4190-PK412_Process-Engineering-and-Plant-Design/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC4190_Process-Engineering-and-Plant-Design/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  }
+ ]
+}

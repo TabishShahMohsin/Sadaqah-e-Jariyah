@@ -1,0 +1,767 @@
+{
+ "id": "20261101-103542-talha-mech4",
+ "created": "2026-11-01T10:35:42+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "credit": "Syed Mohammad Talha",
+  "note": "4th semester Mechanical material shared by Syed Mohammad Talha"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Syllabus/MEC2212_Syllabus_Course-Outline_2025-26.jpg",
+   "s": 1489913,
+   "h": "ee17ab330cb90ce2da385a7f0f219c222f5ce75c282d08c5bdd5ccd7d89115c6",
+   "t": 1768686754,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-1/Class-Notes_Unit-1_Lectures-1-2_2025-26.pdf",
+   "s": 27518689,
+   "h": "beedb7940765d2d8db9ebd913e61f0b0a80214fc182bb6f2d874255bee36c60c",
+   "t": 1771512142,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Z_Tutorial_2025-26_Unit-1.pdf",
+   "s": 532339,
+   "h": "d105d74ad6d1b020f62484e0967dac329f3014ce8d828705584b3a1badb5aded",
+   "t": 1793529338,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Books-and-Resources/Thermodynamic-Property-Tables-and-Charts.pdf",
+   "s": 681637,
+   "h": "2249dc2c91e97e2834f7ae2d53711537e9cf6063f8c55774ea54a890b5d9931a",
+   "t": 1793529338,
+   "meta": {
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Z_Tutorial_2025-26_Unit-2.pdf",
+   "s": 492706,
+   "h": "2d232003a4e047dbcd4c276e1d0e3a348bcecf8c616583e0fc7e63cf12a170a8",
+   "t": 1793529338,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-2/Class-Notes_Unit-2_2025-26.pdf",
+   "s": 3163308,
+   "h": "c91871dc8246432f089075c7362c9370947f1860194b5a8f81b5ede9a71eb5a9",
+   "t": 1777414292,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Z_Tutorial-1_2025-26_Unit-3_Cycles.pdf",
+   "s": 138419,
+   "h": "5530d14876a03363e428240a93e2603528d0405fef93a58b5236dcccadb250cf",
+   "t": 1793529338,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Z_Tutorial-2_2025-26_Unit-3_Compressors.pdf",
+   "s": 6641,
+   "h": "e3663d35fa4b2b8447bc17fda52dbb4dce4b252e85aaff8d887e7ed3b3c53045",
+   "t": 1793529338,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-3/Lecture-Slides_Compressors_2025-26.pdf",
+   "s": 3083435,
+   "h": "9d301ed64aefa3adf1778af52852ed40468154203156838f85fbf98ab110e0b8",
+   "t": 1793529338,
+   "meta": {
+    "year": "2025-26",
+    "professor": "Dr. Mohammad Asif",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-3/Lecture-01_Thermodynamic-Cycles_2025-26.pdf",
+   "s": 802134,
+   "h": "55256d8a0e147e6b22805b4cd34c8c390160869252403d00d01e7ffb15e08ec0",
+   "t": 1793529338,
+   "meta": {
+    "year": "2025-26",
+    "professor": "Dr. Mohammad Asif",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-3/Lecture-02_Thermodynamic-Cycles_2025-26.pdf",
+   "s": 594622,
+   "h": "524d7bd4fa36b95b009112617bd305c6645961562f1fa9051d89fee3ee5f7ba2",
+   "t": 1793529338,
+   "meta": {
+    "year": "2025-26",
+    "professor": "Dr. Mohammad Asif",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-3/Lecture-03-04_Cycles-and-Compressors_2025-26.pdf",
+   "s": 870068,
+   "h": "2e233d01876b08b8626d1e1725498e211d8fc76e41aa500ff8c2ab1e5783760e",
+   "t": 1793529338,
+   "meta": {
+    "year": "2025-26",
+    "professor": "Dr. Mohammad Asif",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-3/Lecture-05_Cycles-and-Compressors_2025-26.pdf",
+   "s": 914495,
+   "h": "f4ce4607c6bd1b69600c6ccce756a783d2fe3046ae008e2c7da2854565ab1e1f",
+   "t": 1793529338,
+   "meta": {
+    "year": "2025-26",
+    "professor": "Dr. Mohammad Asif",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Books-and-Resources/Refrigeration-Tables.pdf",
+   "s": 6139441,
+   "h": "3a3860a5066f0a5e2b658b714293559f621ec824a0c1cdbfe6e8a82a2a20a827",
+   "t": 1793529339,
+   "meta": {
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Z_Tutorial_2025-26_Unit-4_Refrigeration.pdf",
+   "s": 137757,
+   "h": "bedafbff663f6c635ccef9cd439b0a88eb3c25511bdde028570e99c091851ac4",
+   "t": 1793529339,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-4/Lecture-Slides_Refrigeration_2025-26.pdf",
+   "s": 3060017,
+   "h": "84e64d1caa2fc6d4b6e270d40c163d22cf3a4bc50f90dbb4294a998e37517e37",
+   "t": 1793529339,
+   "meta": {
+    "year": "2025-26",
+    "professor": "Dr. Mohammad Asif",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Syllabus/EEA2022_Syllabus_Course-Outline_2025-26.png",
+   "s": 4347122,
+   "h": "82d3188ec3f6e4ba1237cbb0f5cd16000a131657c582d3662573877cee5837a4",
+   "t": 1768522892,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-1/Class-Notes_Unit-1_2025-26.pdf",
+   "s": 9353586,
+   "h": "cb062f582d0dade1a3397cd89d693774b459995ae6ec14dc5fa9f8a0831bc7a8",
+   "t": 1777414670,
+   "meta": {
+    "year": "2025-26",
+    "author": "Syed Mohammad Talha",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-2/Class-Notes_Unit-2_2025-26.pdf",
+   "s": 8314602,
+   "h": "23a46d18dde3b69fda951b0eda134eb0452bcf9f0ed9c49d36993083da1ed7e1",
+   "t": 1777414752,
+   "meta": {
+    "year": "2025-26",
+    "author": "Syed Mohammad Talha",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-3/Class-Notes_Unit-3_2025-26.pdf",
+   "s": 3806215,
+   "h": "e30a0b88d454142e399a8d78da00725c8b8b2faca3c63cdb6fb932473a30304e",
+   "t": 1777414760,
+   "meta": {
+    "year": "2025-26",
+    "author": "Syed Mohammad Talha",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-4/Class-Notes_Unit-4_2025-26.pdf",
+   "s": 2222100,
+   "h": "896ca8134d55ef8d9d925630c9edbb81dcdfd550e01b5f5fe17a9ab3ccafbb05",
+   "t": 1777414230,
+   "meta": {
+    "year": "2025-26",
+    "author": "Syed Mohammad Talha",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Syllabus/MEC2132_Syllabus_Course-Outline_2025-26.jpg",
+   "s": 1158434,
+   "h": "c0f61f2173666567693725317a1b8b10b1bf127f3fb1c0dac0e0d3489d1d2688",
+   "t": 1768686754,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-1/Class-Notes_Unit-1_2025-26.pdf",
+   "s": 6522720,
+   "h": "523e45468d7eb5ba0e3e0bb0c8f2d4fce2827f3a8a75900feaa0c7485f6d516e",
+   "t": 1777415080,
+   "meta": {
+    "year": "2025-26",
+    "author": "Syed Mohammad Talha",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-2/Class-Notes_Unit-2_2025-26.pdf",
+   "s": 5914548,
+   "h": "f3fcfb10ae5fcfad89ff649852cb3735105ea46b08bf20ffcd4ade492b98014b",
+   "t": 1777415082,
+   "meta": {
+    "year": "2025-26",
+    "author": "Syed Mohammad Talha",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-04_Riveted-Joint-Numericals.pdf",
+   "s": 4458180,
+   "h": "c6b8643e24a22d3936a3738fc2cced2dffeeb93067430a896c5ccdc4becfbf65",
+   "t": 1776061766,
+   "meta": {
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-06_Riveted-Joint-Numericals.pdf",
+   "s": 5517250,
+   "h": "b17156b83a7986f8e73923cdd2ac772c28424783e8b19bf6fb971956e0c069b5",
+   "t": 1776061780,
+   "meta": {
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-07_Riveted-Joint-Numericals.pdf",
+   "s": 8725579,
+   "h": "e7030d1448600a75e44353833502342b2ac8f79cda4b5e6830a1729ce805ea5d",
+   "t": 1776061804,
+   "meta": {
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-02_Welded-Joint-Introduction.pdf",
+   "s": 3486439,
+   "h": "b40a1bc211cf381f8ed80d4f6f3520a3371625d6c59aa3597bb805df6fb4e89f",
+   "t": 1776063080,
+   "meta": {
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-Slides_Unit-3_2025-26.pdf",
+   "s": 4354888,
+   "h": "a48832772fd9095c01364284f70f6ec9a48911b637d2c38d211c37fe6a4cfd6f",
+   "t": 1793529339,
+   "meta": {
+    "year": "2025-26",
+    "professor": "Dr. Ateeb Ahmad Khan",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-4/Lecture-Slides_Unit-4_2025-26.pdf",
+   "s": 2271907,
+   "h": "2a9604955f50ea6a6b359508419df96baeceb02308334ec04c4790f1a3de9ccb",
+   "t": 1793529339,
+   "meta": {
+    "year": "2025-26",
+    "professor": "Dr. Ateeb Ahmad Khan",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/Z_Tutorial-1_2025-26_Units-2-and-4_Metal-Joining-and-Metrology.pdf",
+   "s": 120850,
+   "h": "72530f6867906e53c263ed10c47c23c06ce348e6ce59117ae063165d90057586",
+   "t": 1793529340,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/Z_Assignment_2025-26_Unit-3_Metal-Forming.pdf",
+   "s": 230934,
+   "h": "4a647b6d819996df99a5e05eb3f63836cbbd0b5a7b758c67eae3b78bb06b0e3f",
+   "t": 1793529340,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Syllabus/MEC2412_Syllabus_Course-Outline_2025-26.jpg",
+   "s": 1827110,
+   "h": "9fcf8b4ac507b6919527e8c3419a3a4e31e5e3ff5aa53e9628f1b1550d38d39f",
+   "t": 1768686754,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Casting-Process.pdf",
+   "s": 912905,
+   "h": "4ea3bbdfeab007342f50ffa36009d92f0868ef53d784a733df3016970d5f09c1",
+   "t": 1793529340,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Casting-Defects.pdf",
+   "s": 668081,
+   "h": "df413786fff4f75d00f2bb2c2b3dfe2cf6157545eb7ad44943b72b5994f3eeff",
+   "t": 1793529340,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Cores.pdf",
+   "s": 384857,
+   "h": "4fc480e2fcc9189807e8225c4125d333943022f7ad92d6f5ab49ad4354ff5ab3",
+   "t": 1793529340,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Gating-System.pdf",
+   "s": 782522,
+   "h": "a69bec61381ce3820487a12ec3f5ea346aeb46c317ca1a72f9a7565ae391b99a",
+   "t": 1793529340,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Moulding-Materials.pdf",
+   "s": 213728,
+   "h": "f2ccc412406d5f0d7f3f15bcd97bf2cbbf2c71b819f1d3bba55ac035d8b42df7",
+   "t": 1793529340,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Pattern.pdf",
+   "s": 505372,
+   "h": "24cbc23f817677dc4c213a633be4c1f412987f85f6b739961c6260e41f2cbc18",
+   "t": 1793529340,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Riser.pdf",
+   "s": 849861,
+   "h": "f730c1bef6f7ccce33433bab7c06b7508423e6254ac79e67a15bbdde01a72bb3",
+   "t": 1793529340,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Solidification-of-Metals.pdf",
+   "s": 553506,
+   "h": "651bc23349d23b3328ef2c24d76882194786016f60563829145c127ffbec2827",
+   "t": 1793529340,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-2/Lecture-Slides_Metal-Joining_Part-A.pdf",
+   "s": 5059553,
+   "h": "7b8334241cd34f160d7e573829d8410647cf241eb2aab65df6fd24a38ac35383",
+   "t": 1793529340,
+   "meta": {
+    "year": "2025-26",
+    "professor": "Dr. Faisal Talib",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-2/Lecture-Slides_Liquid-Phase-Welding_Part-B.pdf",
+   "s": 2822171,
+   "h": "139cc72536fd79fd6cfe6e309dafcf539da7a3137810c7f45cb1d6db9c8ca4b6",
+   "t": 1793529340,
+   "meta": {
+    "year": "2025-26",
+    "professor": "Dr. Faisal Talib",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-2/Lecture-Slides_Solid-Liquid-Phase-Welding_Part-C.pdf",
+   "s": 2400292,
+   "h": "c27e16690f0d671591086255be76570585188b976ac45d3710f4b9a51bd13898",
+   "t": 1793529341,
+   "meta": {
+    "year": "2025-26",
+    "professor": "Dr. Faisal Talib",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-3/Lecture-Slides_Drawing.pptx",
+   "s": 7059945,
+   "h": "5bfc9dd573208678619db23335fb1bfb0dc432cab436ce01c3169dc691a93ff6",
+   "t": 1793529341,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-3/Lecture-Slides_Forging.pptx",
+   "s": 4684574,
+   "h": "257b4f77d5f2851077bcfc1b677e7743cb31404e79bfc434f8b444a12e10345e",
+   "t": 1793529341,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-3/Lecture-Slides_Forming-Introduction.pptx",
+   "s": 8990833,
+   "h": "3c97dcfa46cbea9ec4659bc0fd1a5c10f89f6db306abd37ea32330e1259782a3",
+   "t": 1793529342,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-3/Lecture-Slides_Powder-Metallurgy.pdf",
+   "s": 909657,
+   "h": "dbda9d95dc65545e8e09bf20ca0286c1abb78de031c2cff8bfff190c34c14bf9",
+   "t": 1793529342,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-3/Lecture-Slides_Rolling.pdf",
+   "s": 3555515,
+   "h": "20a8c079fdc20975b2e6d45f557644c1d5497325d651f1aef5f96f0d4c9fc0e1",
+   "t": 1793529342,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-3/Lecture-Slides_Sheet-Metal-Operations.pdf",
+   "s": 3080724,
+   "h": "e5fc66d61dc953d5ba4b66b3b95e162fca7aa7ce9b2891e74bc9c7aadfe66e83",
+   "t": 1793529342,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-4/Lecture-Slides_Metrology-and-Inspection_Part-A.pdf",
+   "s": 2719004,
+   "h": "35c0cd55f4bfba93e6ea638616983f60e3ac00828d70f594a7ceef266e89902f",
+   "t": 1793529342,
+   "meta": {
+    "year": "2025-26",
+    "professor": "Dr. Faisal Talib",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-4/Lecture-Slides_Angular-Measurement_Part-B.pdf",
+   "s": 2174492,
+   "h": "b7638b1731951dba8e0160c3bc8245fa856fae45f697c389605f614b35a6b569",
+   "t": 1793529342,
+   "meta": {
+    "year": "2025-26",
+    "professor": "Dr. Faisal Talib",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Z_Assignment_2025-26_Home-Assignment.pdf",
+   "s": 460761,
+   "h": "9a5959d9f918d189c3ea0152abdf0624d9197d3779b64bfc14d48b9b6641add2",
+   "t": 1793529342,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Syllabus/AMS2322_Syllabus_Course-Outline_2025-26.png",
+   "s": 12781163,
+   "h": "d82b67ccd228b9250fa1d89166cffcc5f9d0d77467be339229615a04b1db049e",
+   "t": 1768687042,
+   "meta": {
+    "year": "2025-26",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-1/Class-Notes_Unit-1_2025-26.pdf",
+   "s": 10578884,
+   "h": "b3f69ce6b75a8551477c5ae3d27bebbaf9eab3ba2945da72085788c07f7c8a27",
+   "t": 1777414470,
+   "meta": {
+    "year": "2025-26",
+    "author": "Syed Mohammad Talha",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-2/Class-Notes_Unit-2_Interpolation-Differentiation-Integration_2025-26.pdf",
+   "s": 7369769,
+   "h": "8b7747700d1a61f13fb74689b61203373f53d5adb8e5345ed83d2bc7c066678d",
+   "t": 1777414140,
+   "meta": {
+    "year": "2025-26",
+    "author": "Syed Mohammad Talha",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-3/Class-Notes_Units-3-and-4_2025-26.pdf",
+   "s": 8978848,
+   "h": "6888ffe1d7a2930beb036bbcef90c8379c2d0426765781639f993b3f3f4bf2bd",
+   "t": 1777414134,
+   "meta": {
+    "year": "2025-26",
+    "author": "Syed Mohammad Talha",
+    "credit": "Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Sem-End_2022-23_MEC2210.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Sem-End_2023-24_MEC2210.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/PYQs-and-Assignments/Sem-End_2022-23_EEA2020.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/PYQs-and-Assignments/Sem-End_2023-24_EEA2020.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/PYQs-and-Assignments/Sem-End_2022-23_MEC2130.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/PYQs-and-Assignments/Sem-End_2023-24_MEC2130.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/PYQs-and-Assignments/Sem-End_2024-25_MEC2130.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/Sem-End_2022-23_MEC2410.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/Sem-End_2023-24_MEC2410.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Sem-End_2022-23_AMS2320.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Sem-End_2023-24_AMS2320.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Sem-End_2024-25_AMS2320.pdf",
+   "meta": {
+    "credit": "Engineering College Library, Syed Mohammad Talha"
+   }
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "id": "20261031-140556-merge",
+ "created": "2026-10-31T14:05:56+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "merge duplicate course folders"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/ERKEE4230_Solar-Pv-System-Wa/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/PYQs-and-Assignments/Sem-End_2022-23_EEEE4230.pdf"
+  }
+ ]
+}

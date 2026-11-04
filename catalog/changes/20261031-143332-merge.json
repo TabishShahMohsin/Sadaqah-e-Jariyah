@@ -1,0 +1,46 @@
+{
+ "id": "20261031-143332-merge",
+ "created": "2026-10-31T14:33:32+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "merge duplicate course folders"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_Rf-System-Design/PYQs-and-Assignments/Sem-End_2012-13_EL416.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_RF-System-Design/PYQs-and-Assignments/Sem-End_2012-13_EL416.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_Rf-System-Design/PYQs-and-Assignments/Sem-End_2013-14_EL410.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_RF-System-Design/PYQs-and-Assignments/Sem-End_2013-14_EL410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_Rf-System-Design/PYQs-and-Assignments/Sem-End_2014-15_EL410.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_RF-System-Design/PYQs-and-Assignments/Sem-End_2014-15_EL410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_Rf-System-Design/PYQs-and-Assignments/Sem-End_2015-16_EL410.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_RF-System-Design/PYQs-and-Assignments/Sem-End_2015-16_EL410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_Rf-System-Design/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_RF-System-Design/PYQs-and-Assignments/Sem-End_2022-23.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_Rf-System-Design/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_RF-System-Design/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_Rf-System-Design/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_RF-System-Design/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  }
+ ]
+}

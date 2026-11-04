@@ -1,0 +1,341 @@
+{
+ "id": "20261031-140522-dedupe",
+ "created": "2026-10-31T14:05:22+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "record library duplicates set aside"
+ },
+ "ops": [
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012_Basic-Principles-of-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2019-20_CHC2010_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012_Basic-Principles-of-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2024-25_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032_Fluid-Mechanics/PYQs-and-Assignments/Sem-End_2018-19_CHC2030_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032_Fluid-Mechanics/PYQs-and-Assignments/Sem-End_2024-25_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2015-16_PK233_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2052_Chemical-Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2023-24_CHC2050_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2024-25_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3182_Transport-Phenomena/PYQs-and-Assignments/Sem-End_2023-24_CHC3180_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2025-26_AMS2410_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Chemical-Technology/Sem3/PKC2192_Fluid-Particle-Operations/PYQs-and-Assignments/Sem-End_2024-25_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/AMS2122_Applied-Mathematics-IV/PYQs-and-Assignments/Sem-End_2024-25_EAMS2122_3.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COE4570-AIE4570_Internet-of-Things/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "reason": "duplicate of BTech-and-BE/Computer-Engineering/Electives/COE4570-AIE4570_Internet-of-Things/PYQs-and-Assignments/Sem-End_2024-25_AIE4570.pdf"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2025-26_ELA2110_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "reason": "duplicate of BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/PYQs-and-Assignments/Sem-End_2024-25_AIC2042.pdf"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/PYQs-and-Assignments/Sem-End_2022-23_COC2140_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3092-AIC3092_Microprocessor-Theory-and-Applications/PYQs-and-Assignments/Sem-End_2023-24_COC3090_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3092-AIC3092_Microprocessor-Theory-and-Applications/PYQs-and-Assignments/Sem-End_2024-25_COC3090_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/PYQs-and-Assignments/Sem-End_2023-24_COC3100_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/PYQs-and-Assignments/Sem-End_2024-25_COC3100_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem6/COC3132-AIC3132_Computer-Networks/PYQs-and-Assignments/Sem-End_2023-24_COC3130_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem6/COC3132-AIC3132_Computer-Networks/PYQs-and-Assignments/Sem-End_2024-25_AIC3130_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AP308_Engineering-Materials-and-Material-Science/PYQs-and-Assignments/Sem-End_2012-13_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AP308_Engineering-Materials-and-Material-Science/PYQs-and-Assignments/Sem-End_2012-13_3.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AP308_Engineering-Materials-and-Material-Science/PYQs-and-Assignments/Sem-End_2012-13_4.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AP308_Engineering-Materials-and-Material-Science/PYQs-and-Assignments/Sem-End_2012-13_5.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AP308_Engineering-Materials-and-Material-Science/PYQs-and-Assignments/Sem-End_2012-13_6.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AP308_Engineering-Materials-and-Material-Science/PYQs-and-Assignments/Sem-End_2012-13_8.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/ELA2410_Signals-and-Systems/PYQs-and-Assignments/Sem-End_2024-25_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/PYQs-and-Assignments/Sem-End_2019-20_EEC3210_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/PYQs-and-Assignments/Sem-End_2025-26_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/PYQs-and-Assignments/Sem-End_2025-26_ELC2310_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Food-Technology/_Library-Papers-Unsorted/BT_FT_S3_unknown_MICR0810_p14-15.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/ACS2010_Food-Chemistry-and-Nutrients/PYQs-and-Assignments/Sem-End_unknown.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/AMS2430_Advanced-Engineering-Mathematics/PYQs-and-Assignments/Sem-End_unknown.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC2012_Couese-Code/PYQs-and-Assignments/Sem-End_unknown.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC2122_Food-Technology/PYQs-and-Assignments/Sem-End_unknown.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/MEE4231_Refrigeration-Cold-Chain/PYQs-and-Assignments/Sem-End_2024-25_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2018-19_AMS2310.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Sem-End_2018-19_MEA2420.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Sem-End_2023-24_MEA2420_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Sem-End_2024-25_MEA2420_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2018-19_MEC2110.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2023-24_MEC2110_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "reason": "duplicate of BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2024-25_MEC2112.pdf"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2024-25_2.pdf",
+   "reason": "duplicate of BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2024-25_MEC2112_2.pdf"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2025-26.pdf",
+   "reason": "duplicate of BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2025-26_MEC2112.pdf"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2025-26_2.pdf",
+   "reason": "duplicate of BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2025-26_MEC2112_2.pdf"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/PYQs-and-Assignments/Sem-End_2018-19_MEC2120.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/PYQs-and-Assignments/Sem-End_2018-19_MEC2310.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/PYQs-and-Assignments/Sem-End_2023-24_MEC2430_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/PYQs-and-Assignments/Sem-End_2023-24_EMEC3120_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/PYQs-and-Assignments/Sem-End_2023-24_EMEC3220_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/PYQs-and-Assignments/Sem-End_2024-25_MEC3220_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3232_Energy-Conversion-Systems/PYQs-and-Assignments/Sem-End_2023-24_EMEC3230_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3322_Fluid-Machinery/PYQs-and-Assignments/Sem-End_2023-24_EMEC3320_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4231_Refrigeration-Cold-Chain/PYQs-and-Assignments/Sem-End_2025-26_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/ACA3112_Engineering-Materials/PYQs-and-Assignments/Sem-End_2025-26_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2019-20_MEH3450_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2021-22_MEH2450_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2022-23_MEH3450_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_EMEH3450_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2023-24_MEH2450_3.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_MEH3450_2.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_MEH3450_3.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_MEH3450_5.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452_Engineering-Economy-and-Management/PYQs-and-Assignments/Sem-End_2024-25_MEH3450_7.pdf",
+   "reason": "set aside as a duplicate scan (.sej-cache/library-duplicates)"
+  }
+ ]
+}

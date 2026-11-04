@@ -1,0 +1,1547 @@
+{
+ "id": "20261101-094727-credits",
+ "created": "2026-11-01T09:47:27+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "source tags in file names → credits"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Electives/COE4570-AIE4570_Internet-of-Things/Syllabus/COE4570_Syllabus_2021-22_AMU-Drive.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Electives/COE4570-AIE4570_Internet-of-Things/Syllabus/COE4570_Syllabus_2021-22.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COE4570-AIE4570_Internet-of-Things/Syllabus/COE4570_Syllabus_2021-22.pdf",
+   "meta": {
+    "credit": "AMU Drive"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Electives/COO4460_Selected-Topics-in-Computer-Engineering-I/Syllabus/COO4460_Syllabus_2017-18_AMU-Drive.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Electives/COO4460_Selected-Topics-in-Computer-Engineering-I/Syllabus/COO4460_Syllabus_2017-18.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COO4460_Selected-Topics-in-Computer-Engineering-I/Syllabus/COO4460_Syllabus_2017-18.pdf",
+   "meta": {
+    "credit": "AMU Drive"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Books-and-Resources/Lafore_Teach-Yourself-Data-Structures-and-Algorithms-in-24-Hours_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Books-and-Resources/Lafore_Teach-Yourself-Data-Structures-and-Algorithms-in-24-Hours.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Books-and-Resources/Lafore_Teach-Yourself-Data-Structures-and-Algorithms-in-24-Hours.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Books-and-Resources/Narasimha_Data-Structures-and-Algorithms_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Books-and-Resources/Narasimha_Data-Structures-and-Algorithms.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Books-and-Resources/Narasimha_Data-Structures-and-Algorithms.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Books-and-Resources/Razavi_Fundamentals-of-Microelectronics_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Books-and-Resources/Razavi_Fundamentals-of-Microelectronics.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Books-and-Resources/Razavi_Fundamentals-of-Microelectronics.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Books-and-Resources/Razavi_Fundamentals-of-Microelectronics_Solutions-Manual_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Books-and-Resources/Razavi_Fundamentals-of-Microelectronics_Solutions-Manual.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Books-and-Resources/Razavi_Fundamentals-of-Microelectronics_Solutions-Manual.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Z_Assignment_Practice-Sheet_Bipolar-Amplifiers_2023-08-24_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Z_Assignment_Practice-Sheet_Bipolar-Amplifiers_2023-08-24.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Z_Assignment_Practice-Sheet_Bipolar-Amplifiers_2023-08-24.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Z_Assignment_Practice-Sheet_Handwritten-Solutions_2023-08-24_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Z_Assignment_Practice-Sheet_Handwritten-Solutions_2023-08-24.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Z_Assignment_Practice-Sheet_Handwritten-Solutions_2023-08-24.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Syllabus/ELC2110_Syllabus_2020-21_WhatsApp-Image_FROM_AMU_Cloud.jpeg",
+   "to": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Syllabus/ELC2110_Syllabus_2020-21_WhatsApp-Image.jpeg"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Syllabus/ELC2110_Syllabus_2020-21_WhatsApp-Image.jpeg",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Books-and-Resources/Introduction to machine learning ( PDFDrive ).pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Books-and-Resources/Introduction to machine learning.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Books-and-Resources/Introduction to machine learning.pdf",
+   "meta": {
+    "credit": "PDF Drive"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/AIC2152_AI-Tools-and-Techniques/Syllabus/AIC2152_Syllabus_2021-22_AMU-Drive.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/AIC2152_AI-Tools-and-Techniques/Syllabus/AIC2152_Syllabus_2021-22.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2152_AI-Tools-and-Techniques/Syllabus/AIC2152_Syllabus_2021-22.pdf",
+   "meta": {
+    "credit": "AMU Drive"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/AMS2622_Numerical-Analysis-Transforms-Probability/Unit-1/Notes_Unit-1_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/AMS2622_Numerical-Analysis-Transforms-Probability/Unit-1/Notes_Unit-1.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AMS2622_Numerical-Analysis-Transforms-Probability/Unit-1/Notes_Unit-1.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/AMS2622_Numerical-Analysis-Transforms-Probability/Unit-2/Notes_Unit-2_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/AMS2622_Numerical-Analysis-Transforms-Probability/Unit-2/Notes_Unit-2.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AMS2622_Numerical-Analysis-Transforms-Probability/Unit-2/Notes_Unit-2.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/AMS2622_Numerical-Analysis-Transforms-Probability/Unit-3/Notes_Unit-3_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/AMS2622_Numerical-Analysis-Transforms-Probability/Unit-3/Notes_Unit-3.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AMS2622_Numerical-Analysis-Transforms-Probability/Unit-3/Notes_Unit-3.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/AMS2622_Numerical-Analysis-Transforms-Probability/Unit-4/Notes_Unit-4_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/AMS2622_Numerical-Analysis-Transforms-Probability/Unit-4/Notes_Unit-4.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AMS2622_Numerical-Analysis-Transforms-Probability/Unit-4/Notes_Unit-4.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/AMS2632_Discrete-Structures/Unit-1/Notes_Unit-1_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/AMS2632_Discrete-Structures/Unit-1/Notes_Unit-1.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AMS2632_Discrete-Structures/Unit-1/Notes_Unit-1.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/AMS2632_Discrete-Structures/Unit-2/Notes_Unit-2_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/AMS2632_Discrete-Structures/Unit-2/Notes_Unit-2.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AMS2632_Discrete-Structures/Unit-2/Notes_Unit-2.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/AMS2632_Discrete-Structures/Unit-3/Notes_Unit-3_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/AMS2632_Discrete-Structures/Unit-3/Notes_Unit-3.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AMS2632_Discrete-Structures/Unit-3/Notes_Unit-3.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/AMS2632_Discrete-Structures/Unit-4/Notes_Unit-4_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/AMS2632_Discrete-Structures/Unit-4/Notes_Unit-4.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AMS2632_Discrete-Structures/Unit-4/Notes_Unit-4.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/Books-and-Resources/Morris-Mano_Computer-System-Architecture_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/Books-and-Resources/Morris-Mano_Computer-System-Architecture.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/Books-and-Resources/Morris-Mano_Computer-System-Architecture.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/Books-and-Resources/Rafiquzzaman-and-Chandra_Modern-Computer-Architecture_archive-org-link_FROM_AMU_Cloud.docx",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/Books-and-Resources/Rafiquzzaman-and-Chandra_Modern-Computer-Architecture_archive-org-link.docx"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/Books-and-Resources/Rafiquzzaman-and-Chandra_Modern-Computer-Architecture_archive-org-link.docx",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/Complete-Notes/Handwritten-Notes_COA_2024-02-18_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/Complete-Notes/Handwritten-Notes_COA_2024-02-18.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/Complete-Notes/Handwritten-Notes_COA_2024-02-18.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/Complete-Notes/Notes_Computer-Architecture_After-Mid-1_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/Complete-Notes/Notes_Computer-Architecture_After-Mid-1.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/Complete-Notes/Notes_Computer-Architecture_After-Mid-1.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/Books-and-Resources/Kleinberg-Tardos_Algorithm-Design_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/Books-and-Resources/Kleinberg-Tardos_Algorithm-Design.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/Books-and-Resources/Kleinberg-Tardos_Algorithm-Design.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/Books-and-Resources/Levitin_Introduction-to-the-Design-and-Analysis-of-Algorithms_3rd-Ed_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/Books-and-Resources/Levitin_Introduction-to-the-Design-and-Analysis-of-Algorithms_3rd-Ed.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/Books-and-Resources/Levitin_Introduction-to-the-Design-and-Analysis-of-Algorithms_3rd-Ed.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/Unit-1/Notes_Unit-1_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/Unit-1/Notes_Unit-1.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/Unit-1/Notes_Unit-1.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/Unit-2/Notes_Unit-2_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/Unit-2/Notes_Unit-2.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/Unit-2/Notes_Unit-2.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/Unit-3/Notes_Unit-3_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/Unit-3/Notes_Unit-3.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/Unit-3/Notes_Unit-3.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Books-and-Resources/Hsu_Schaums-Outline_Signals-and-Systems_2nd-Ed_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Books-and-Resources/Hsu_Schaums-Outline_Signals-and-Systems_2nd-Ed.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Books-and-Resources/Hsu_Schaums-Outline_Signals-and-Systems_2nd-Ed.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Books-and-Resources/Oppenheim-Willsky-Hamid_Signals-and-Systems_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Books-and-Resources/Oppenheim-Willsky-Hamid_Signals-and-Systems.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Books-and-Resources/Oppenheim-Willsky-Hamid_Signals-and-Systems.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Books-and-Resources/Oppenheim_Signals-and-Systems_Solutions_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Books-and-Resources/Oppenheim_Signals-and-Systems_Solutions.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Books-and-Resources/Oppenheim_Signals-and-Systems_Solutions.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Complete-Notes/Notes_Signals-and-Systems_Complete_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Complete-Notes/Notes_Signals-and-Systems_Complete.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Complete-Notes/Notes_Signals-and-Systems_Complete.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-1/Problem-Sheet_I_Introduction-to-Signals-and-Systems_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-1/Problem-Sheet_I_Introduction-to-Signals-and-Systems.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-1/Problem-Sheet_I_Introduction-to-Signals-and-Systems.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-2/Problem-Sheet_II_Continuous-Time-Transform-Techniques_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-2/Problem-Sheet_II_Continuous-Time-Transform-Techniques.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-2/Problem-Sheet_II_Continuous-Time-Transform-Techniques.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-3/Notes_3.1-Sampling_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-3/Notes_3.1-Sampling.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-3/Notes_3.1-Sampling.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-3/Notes_3.2-DTFT_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-3/Notes_3.2-DTFT.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-3/Notes_3.2-DTFT.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-3/Problem-Sheet_III_Discrete-Time-Transform-Techniques_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-3/Problem-Sheet_III_Discrete-Time-Transform-Techniques.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-3/Problem-Sheet_III_Discrete-Time-Transform-Techniques.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-4/Notes_Discrete-Fourier-Transform_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-4/Notes_Discrete-Fourier-Transform.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-4/Notes_Discrete-Fourier-Transform.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-4/Notes_Discrete-Fourier-Transform_cont-3_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-4/Notes_Discrete-Fourier-Transform_cont-3.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-4/Notes_Discrete-Fourier-Transform_cont-3.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-4/Notes_Fast-Fourier-Transform_cont-2_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-4/Notes_Fast-Fourier-Transform_cont-2.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-4/Notes_Fast-Fourier-Transform_cont-2.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-4/Notes_Introduction-to-DSP_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-4/Notes_Introduction-to-DSP.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-4/Notes_Introduction-to-DSP.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-4/Problem-Sheet_IV_Introduction-to-DSP_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-4/Problem-Sheet_IV_Introduction-to-DSP.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Unit-4/Problem-Sheet_IV_Introduction-to-DSP.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/AIC3072_AI-System-Design/Syllabus/AIC3072_Syllabus_2021-22_AMU-Drive.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/AIC3072_AI-System-Design/Syllabus/AIC3072_Syllabus_2021-22.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/AIC3072_AI-System-Design/Syllabus/AIC3072_Syllabus_2021-22.pdf",
+   "meta": {
+    "credit": "AMU Drive"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/COC3092-AIC3092_Microprocessor-Theory-and-Applications/Syllabus/COC3092_Syllabus_2017-18_AMU-Drive.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/COC3092-AIC3092_Microprocessor-Theory-and-Applications/Syllabus/COC3092_Syllabus_2017-18.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3092-AIC3092_Microprocessor-Theory-and-Applications/Syllabus/COC3092_Syllabus_2017-18.pdf",
+   "meta": {
+    "credit": "AMU Drive"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Syllabus/ELA3402_Syllabus_2021-22_AMU-Drive.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Syllabus/ELA3402_Syllabus_2021-22.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Syllabus/ELA3402_Syllabus_2021-22.pdf",
+   "meta": {
+    "credit": "AMU Drive"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem7/AIE4280_Big-Data-Tools-and-Techniques/Syllabus/AIE4280_Syllabus_2021-22_AMU-Drive.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem7/AIE4280_Big-Data-Tools-and-Techniques/Syllabus/AIE4280_Syllabus_2021-22.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/AIE4280_Big-Data-Tools-and-Techniques/Syllabus/AIE4280_Syllabus_2021-22.pdf",
+   "meta": {
+    "credit": "AMU Drive"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem7/AIE4320_Image-and-Video-Processing/Syllabus/AIE4320_Syllabus_2021-22_AMU-Drive.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem7/AIE4320_Image-and-Video-Processing/Syllabus/AIE4320_Syllabus_2021-22.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/AIE4320_Image-and-Video-Processing/Syllabus/AIE4320_Syllabus_2021-22.pdf",
+   "meta": {
+    "credit": "AMU Drive"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem7/AIE4330_Recommender-Systems/Syllabus/AIE4330_Syllabus_2021-22_AMU-Drive.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem7/AIE4330_Recommender-Systems/Syllabus/AIE4330_Syllabus_2021-22.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/AIE4330_Recommender-Systems/Syllabus/AIE4330_Syllabus_2021-22.pdf",
+   "meta": {
+    "credit": "AMU Drive"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Curriculum/CS-Syllabus_2017-18_64pp_AMU-Drive.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/_Curriculum/CS-Syllabus_2017-18_64pp.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/_Curriculum/CS-Syllabus_2017-18_64pp.pdf",
+   "meta": {
+    "credit": "AMU Drive"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC2130_Statistical-Learning/Syllabus/AIC2130_Syllabus_2021-22_AMU-Drive.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC2130_Statistical-Learning/Syllabus/AIC2130_Syllabus_2021-22.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC2130_Statistical-Learning/Syllabus/AIC2130_Syllabus_2021-22.pdf",
+   "meta": {
+    "credit": "AMU Drive"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC3060_Artificial-Neural-Networks/Syllabus/AIC3060_Syllabus_2021-22_AMU-Drive.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC3060_Artificial-Neural-Networks/Syllabus/AIC3060_Syllabus_2021-22.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC3060_Artificial-Neural-Networks/Syllabus/AIC3060_Syllabus_2021-22.pdf",
+   "meta": {
+    "credit": "AMU Drive"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/ELA2410_Signals-and-Systems/Syllabus/ELA2410_Syllabus_2021-22_AMU-Drive.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/ELA2410_Signals-and-Systems/Syllabus/ELA2410_Syllabus_2021-22.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/ELA2410_Signals-and-Systems/Syllabus/ELA2410_Syllabus_2021-22.pdf",
+   "meta": {
+    "credit": "AMU Drive"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Syllabus/Applied-Chemistry_Syllabus_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Syllabus/Applied-Chemistry_Syllabus.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Syllabus/Applied-Chemistry_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-1/Notes_Water-Treatment_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-1/Notes_Water-Treatment.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-1/Notes_Water-Treatment.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-2/Handwritten-Notes_Fuels-and-Combustion_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-2/Handwritten-Notes_Fuels-and-Combustion.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-2/Handwritten-Notes_Fuels-and-Combustion.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-2/PPT_Fuels-and-Lubricants_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-2/PPT_Fuels-and-Lubricants.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-2/PPT_Fuels-and-Lubricants.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-3/Handwritten-Notes_Corrosion_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-3/Handwritten-Notes_Corrosion.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-3/Handwritten-Notes_Corrosion.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-3/PPT_Corrosion_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-3/PPT_Corrosion.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-3/PPT_Corrosion.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-4/Notes_Polymers_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-4/Notes_Polymers.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-4/Notes_Polymers.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Aniline-Point_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Aniline-Point.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Aniline-Point.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Aqueous-Corrosion_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Aqueous-Corrosion.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Aqueous-Corrosion.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Available-Chlorine_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Available-Chlorine.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Available-Chlorine.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Cloud-Point_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Cloud-Point.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Cloud-Point.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Coal-Analysis_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Coal-Analysis.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Coal-Analysis.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Dissolved-Oxygen_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Dissolved-Oxygen.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Dissolved-Oxygen.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Drop-Point_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Drop-Point.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Drop-Point.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Flash-Point_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Flash-Point.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Flash-Point.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Hardness-of-Water_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Hardness-of-Water.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Hardness-of-Water.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Ion-Exchange_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Ion-Exchange.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Ion-Exchange.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Relative-Viscosity_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Relative-Viscosity.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Relative-Viscosity.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Saponification-Value_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Saponification-Value.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Saponification-Value.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Viva-Questions_Set-1_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Viva-Questions_Set-1.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Viva-Questions_Set-1.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Viva-Questions_Set-2_FROM_AMU_Cloud.docx",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Viva-Questions_Set-2.docx"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Viva-Questions_Set-2.docx",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Viva-Questions_Set-3_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Viva-Questions_Set-3.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Viva-Questions_Set-3.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Records/Chemistry-Practical_Observations-Only_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Records/Chemistry-Practical_Observations-Only.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Records/Chemistry-Practical_Observations-Only.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-2/Class-Notes_Components-of-Environment_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-2/Class-Notes_Components-of-Environment.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-2/Class-Notes_Components-of-Environment.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-3/Class-Notes_Biodiversity_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-3/Class-Notes_Biodiversity.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-3/Class-Notes_Biodiversity.pdf",
+   "meta": {
+    "credit": "gk7093, AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-3/Class-Notes_Disaster-Management_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-3/Class-Notes_Disaster-Management.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-3/Class-Notes_Disaster-Management.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-3/Class-Notes_Solid-Waste-Management_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-3/Class-Notes_Solid-Waste-Management.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-3/Class-Notes_Solid-Waste-Management.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-5/Class-Notes_Human-Population-and-Environment_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-5/Class-Notes_Human-Population-and-Environment.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-5/Class-Notes_Human-Population-and-Environment.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_C_Arrays_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_C_Arrays.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_C_Arrays.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_C_Decision-Making_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_C_Decision-Making.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_C_Decision-Making.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_C_File-Handling_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_C_File-Handling.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_C_File-Handling.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_C_Functions_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_C_Functions.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_C_Functions.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_C_Iteration-Controls-Loops_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_C_Iteration-Controls-Loops.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_C_Iteration-Controls-Loops.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_Lecture-1_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_Lecture-1.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_Lecture-1.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_Lecture-3_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_Lecture-3.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_Lecture-3.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_Lecture-4_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_Lecture-4.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Lecture-Slides_Lecture-4.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Syllabus/Syllabus_FROM_AMU_Cloud.docx",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Syllabus/Syllabus.docx"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Syllabus/Syllabus.docx",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Syllabus/Electrical-Engineering_Syllabus_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Syllabus/Electrical-Engineering_Syllabus.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Syllabus/Electrical-Engineering_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Handwritten-Notes_Electrical-2.0_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Handwritten-Notes_Electrical-2.0.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Handwritten-Notes_Electrical-2.0.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Handwritten-Notes_Unit-1_watermark_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Handwritten-Notes_Unit-1_watermark.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Handwritten-Notes_Unit-1_watermark.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Network-Theorems_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Network-Theorems.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Network-Theorems.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/RLC-Circuit-in-AC_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/RLC-Circuit-in-AC.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/RLC-Circuit-in-AC.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/RLC-Derivation_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/RLC-Derivation.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/RLC-Derivation.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Single-Phase-AC_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Single-Phase-AC.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Single-Phase-AC.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Three-Phase-AC_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Three-Phase-AC.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Three-Phase-AC.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Handwritten-Notes_Unit-2_watermark_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Handwritten-Notes_Unit-2_watermark.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Handwritten-Notes_Unit-2_watermark.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Notes_Magnetic-Circuits_Unit-2_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Notes_Magnetic-Circuits_Unit-2.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Notes_Magnetic-Circuits_Unit-2.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Slides_ELL100_Transformers_Lecture-34_full_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Slides_ELL100_Transformers_Lecture-34_full.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Slides_ELL100_Transformers_Lecture-34_full.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Slides_Transformer-Equivalent-Circuit_Unit-2-slides-2_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Slides_Transformer-Equivalent-Circuit_Unit-2-slides-2.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Slides_Transformer-Equivalent-Circuit_Unit-2-slides-2.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Handwritten-Notes_Unit-3-and-4_watermark_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Handwritten-Notes_Unit-3-and-4_watermark.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Handwritten-Notes_Unit-3-and-4_watermark.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Notes_Power-Systems_Unit-4-part-1_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Notes_Power-Systems_Unit-4-part-1.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Notes_Power-Systems_Unit-4-part-1.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Rotating-Magnetic-Field_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Rotating-Magnetic-Field.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Rotating-Magnetic-Field.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Slides_Power-Systems_el-2_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Slides_Power-Systems_el-2.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Slides_Power-Systems_el-2.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Syllabus/MEA1130_Thermal-Sciences_Syllabus_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Syllabus/MEA1130_Thermal-Sciences_Syllabus.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Syllabus/MEA1130_Thermal-Sciences_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-1/Handwritten-Notes_Unit-1_watermark_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-1/Handwritten-Notes_Unit-1_watermark.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-1/Handwritten-Notes_Unit-1_watermark.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-1/PPT_Unit-1_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-1/PPT_Unit-1.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-1/PPT_Unit-1.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-2/Handwritten-Notes_Unit-2_watermark_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-2/Handwritten-Notes_Unit-2_watermark.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-2/Handwritten-Notes_Unit-2_watermark.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-2/PPT_Unit-2_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-2/PPT_Unit-2.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-2/PPT_Unit-2.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-3/PPT_Properties-of-Pure-Substances_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-3/PPT_Properties-of-Pure-Substances.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-3/PPT_Properties-of-Pure-Substances.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-4/PPT_Unit-4_Part-1_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-4/PPT_Unit-4_Part-1.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-4/PPT_Unit-4_Part-1.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-4/PPT_Unit-4_Part-2_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-4/PPT_Unit-4_Part-2.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-4/PPT_Unit-4_Part-2.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Development-of-Surfaces_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Development-of-Surfaces.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Development-of-Surfaces.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Problem-Sheet_Intersection-of-Surfaces_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Problem-Sheet_Intersection-of-Surfaces.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Problem-Sheet_Intersection-of-Surfaces.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Problem-Sheet_Isometric-Projection_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Problem-Sheet_Isometric-Projection.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Problem-Sheet_Isometric-Projection.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Problem-Sheet_Projection-of-Planes_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Problem-Sheet_Projection-of-Planes.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Problem-Sheet_Projection-of-Planes.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Problem-Sheet_Projection-of-Straight-Lines_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Problem-Sheet_Projection-of-Straight-Lines.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Problem-Sheet_Projection-of-Straight-Lines.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Sectional-Views_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Sectional-Views.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Sectional-Views.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Viva-Questions_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Viva-Questions.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Viva-Questions.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Sheet-1_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Sheet-1.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Sheet-1.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Handwritten-Student-Notes_Semiconductors_AMU-Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Handwritten-Student-Notes_Semiconductors.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Handwritten-Student-Notes_Semiconductors.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Teacher-Notes_Semiconductors_AMU-Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Teacher-Notes_Semiconductors.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Teacher-Notes_Semiconductors.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-3/Handwritten-Notes_Particles-and-Waves_watermark_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-3/Handwritten-Notes_Particles-and-Waves_watermark.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-3/Handwritten-Notes_Particles-and-Waves_watermark.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-1/AMU-Cloud_Diode.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-1/Diode.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-1/Diode.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-1/AMU-Cloud_Zener-Diode.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-1/Zener-Diode.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-1/Zener-Diode.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-2/PPT_Bipolar-Junction-Transistor_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-2/PPT_Bipolar-Junction-Transistor.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-2/PPT_Bipolar-Junction-Transistor.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-2/The-Time-Machine_HG-Wells_Book_FROM_AMU_Cloud.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-2/The-Time-Machine_HG-Wells_Book.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-2/The-Time-Machine_HG-Wells_Book.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  }
+ ]
+}

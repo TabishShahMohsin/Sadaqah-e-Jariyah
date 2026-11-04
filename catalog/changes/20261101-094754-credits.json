@@ -1,0 +1,2412 @@
+{
+ "id": "20261101-094754-credits",
+ "created": "2026-11-01T09:47:54+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "credit: AMU website (official)"
+ },
+ "ops": [
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Syllabus/CHC2042_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2052_Chemical-Engineering-Thermodynamics/Syllabus/CHC2052_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/Syllabus/CHC2062_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering/Syllabus/CHC2072_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Syllabus/CHC2902_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem4/ACS2022_Engineering-Chemistry/Syllabus/ACS2022_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2002_Process-Instrumentation/Syllabus/CHC2002_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2022_Chemical-Reaction-Engineering/Syllabus/CHC2022_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2092_Equilibrium-Stage-Processes/Syllabus/CHC2092_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2922_Fluid-Mechanics-Lab/Syllabus/CHC2922_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2932_Mechanical-Operations-Lab/Syllabus/CHC2932_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem5/CHA3012_Biology-for-Engineers/Syllabus/CHA3012_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3122_Process-Equipment-Design/Syllabus/CHC3122_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3912_Computer-Programming-Lab/Syllabus/CHC3912_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3952_Reaction-Engineering-and-Thermodynamics-Lab/Syllabus/CHC3952_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3962_Mass-Transfer-Lab/Syllabus/CHC3962_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem5/CHP3812_Seminar-and-Report-Writing/Syllabus/CHP3812_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3132_Chemical-Process-Industries/Syllabus/CHC3132_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3162_Energy-Engineering-and-Management/Syllabus/CHC3162_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3182_Transport-Phenomena/Syllabus/CHC3182_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3192_Plant-Design-and-Economics/Syllabus/CHC3192_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3922_CAD-Simulation-Lab/Syllabus/CHC3922_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem6/CHC3972_Chemical-Engineering-Design-and-Drawing/Syllabus/CHC3972_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem6/CHP3932_Plant-Design-Project-A/Syllabus/CHP3932_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem7/CHC4112_Industrial-Pollution-Control-and-Waste/Syllabus/CHC4112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem7/CHC4122_Process-Dynamics-and-Control/Syllabus/CHC4122_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem7/CHC4232_Process-Safety-and-Risk-Analysis/Syllabus/CHC4232_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem7/CHC4922_Process-Dynamics-and-Control-Lab/Syllabus/CHC4922_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem7/CHC4932_Technology-Lab/Syllabus/CHC4932_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem7/CHP4982_Plant-Design-Project-B/Syllabus/CHP4982_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem7/CHP4992_Project-Experimental-Computational/Syllabus/CHP4992_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem8/CHC4952_Industrial-Lectures/Syllabus/CHC4952_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem8/CHP4802_Industrial-Training-Internship/Syllabus/CHP4802_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem8/CHP4812_Social-Internship/Syllabus/CHP4812_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/_Curriculum/Official/BTech_Chemical-Engineering_Curriculum.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/_Curriculum/Official/BTech_Chemical-Engineering_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Syllabus/CEA2142_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp/Syllabus/CEA2932_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEC2912_Civil-Engineering-Material-Lab/Syllabus/CEC2912_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2192_Hydrology/Syllabus/CEC2192_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2942_Structural-Mechanics-Lab/Syllabus/CEC2942_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2952_Surveying-Lab/Syllabus/CEC2952_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2962_Fluid-Mechanics-Lab/Syllabus/CEC2962_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem5/CEC3112_Design-of-Concrete-Structures-I/Syllabus/CEC3112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem5/CEC3152_Structural-Analysis-I/Syllabus/CEC3152_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/Syllabus/CEC3242_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem5/CEC3922_Environmental-Engineering-Lab/Syllabus/CEC3922_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem5/CEC3942_Structure-Lab/Syllabus/CEC3942_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3162_Design-of-Concrete-Structure-II/Syllabus/CEC3162_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Syllabus/CEC3182_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering/Syllabus/CEC4132_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem7/CEC4222_Elements-of-Earthquake-and-Wind-Engineering/Syllabus/CEC4222_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem7/CEH4112_Construction-Planning-and-Management/Syllabus/CEH4112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Curriculum/Official/BTech_Civil-Engineering_Curriculum.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Curriculum/Official/BTech_Civil-Engineering_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4210_Bayesian-Data-Analysis/Syllabus/AIE4210_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4220_Numerical-Linear-Algebra/Syllabus/AIE4220_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4240_Optimization-Techniques/Syllabus/AIE4240_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4310_Graph-Analytics/Syllabus/AIE4310_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4340_Computer-Vision/Syllabus/AIE4340_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4350_Time-Series-Analysis/Syllabus/AIE4350_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4360_Speech-Synthesis/Syllabus/AIE4360_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4380_Text-Mining/Syllabus/AIE4380_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4390_Information-Retrieval/Syllabus/AIE4390_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4430_Cryptography/Syllabus/AIE4430_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4450_Randomized-Algorithm/Syllabus/AIE4450_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4460_Blockchain-Technology/Syllabus/AIE4460_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4470_AI-Applications-in-Healthcare/Syllabus/AIE4470_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4480_AI-Applications-in-Forensics/Syllabus/AIE4480_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4490_Quantum-Computing/Syllabus/AIE4490_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/AIE4500_Cognitive-Sciences/Syllabus/AIE4500_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COA3600_Data-Structures-and-Programming-Electronics-Dept/Syllabus/COA3600_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COE4310_Internet-Tools/Syllabus/COE4310_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COE4420_VLSI-Design-Tools-and-Techniques/Syllabus/COE4420_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COE4510_Computer-Network-Design/Syllabus/COE4510_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COE4520_Mobile-Computing/Syllabus/COE4520_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COE4570-AIE4570_Internet-of-Things/Syllabus/AIE4570_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COE4580_Cloud-Computing/Syllabus/COE4580_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COE4590_Distributed-and-Parallel-Systems/Syllabus/COE4590_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COE4600-AIE4600_Principles-of-Cyber-Physical-Systems/Syllabus/AIE4600_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COE4600-AIE4600_Principles-of-Cyber-Physical-Systems/Syllabus/COE4600_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COE4640_Applied-Machine-Learning/Syllabus/COE4640_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COO4460_Selected-Topics-in-Computer-Engineering-I/Syllabus/COO4460_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COO4470_Selected-Topics-in-Computer-Engineering-II/Syllabus/COO4470_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Syllabus/AIE2020_Old-Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Syllabus/COC2032_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Syllabus/COC2062_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Syllabus/COC2072_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2122-AIC2122_Database-Management-System/Syllabus/COC2122_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2932_C-and-Cpp-Programming-Lab/Syllabus/COC2932_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Syllabus/ELA2112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Syllabus/AIC2040_Old-Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2152_AI-Tools-and-Techniques/Syllabus/AIC2150_Old-Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/Syllabus/COC2082_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2142-AIC2142_Design-and-Analysis-of-Algorithm/Syllabus/COC2142_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2922_Digital-Design-and-Simulation-Lab/Syllabus/COC2922_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2942-AIC2912_Data-Structure-Lab/Syllabus/COC2942_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/ELA2412_Fundamentals-of-DSP/Syllabus/ELA2412_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/AIC3072_AI-System-Design/Syllabus/AIC3070_Old-Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/AIC3942_Machine-Learning-Lab/Syllabus/AIC3940_Old-Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3092-AIC3092_Microprocessor-Theory-and-Applications/Syllabus/COC3092_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Syllabus/COC3102_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Syllabus/COC3162_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3932_Algorithms-and-OS-Lab/Syllabus/COC3932_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Syllabus/ELA3402_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem6/AIC3142_Deep-Learning/Syllabus/AIC3140_Old-Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem6/AIC3172-COE4620_Natural-Language-Processing/Syllabus/AIE4370_Old-Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem6/AIC3972_Deep-Learning-Lab/Syllabus/AIC3970_Old-Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem6/COC3082_Digital-Electronics/Syllabus/COC3082_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem6/COC3112_Theory-of-Computation/Syllabus/COC3112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem6/COC3132-AIC3132_Computer-Networks/Syllabus/COC3132_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem6/COC3152_Computer-Graphics/Syllabus/COC3152_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem6/COC3962_Advanced-Computing-Lab/Syllabus/COC3962_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem6/COC3972-AIC3982_Microprocessor-and-Embedded-Systems-Lab/Syllabus/COC3972_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem6/COP3952-AIP3952_Minor-Project/Syllabus/COP3952_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/AIC4252_Advanced-Machine-Learning/Syllabus/AIE4250_Old-Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/AIC4972_Advanced-AI-Lab/Syllabus/AIC4970_Old-Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/AIE4230_Reinforcement-Learning-and-Game-Theory/Syllabus/AIE4230_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/AIE4280_Big-Data-Tools-and-Techniques/Syllabus/AIE4280_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/AIE4290_Data-Visualization-Tools-and-Techniques/Syllabus/AIE4290_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/AIE4320_Image-and-Video-Processing/Syllabus/AIE4320_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/AIE4330_Recommender-Systems/Syllabus/AIE4330_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/COC4010-AIE4010_Information-Security/Syllabus/AIE4010_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/COC4010-AIE4010_Information-Security/Syllabus/COC4010_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/COC4060_Compiler-Design/Syllabus/COC4060_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/COC4950_Network-and-Embedded-System-Lab/Syllabus/COC4950_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem7/COC4980-AIP4982_BTech-Project-Part-I/Syllabus/COC4980_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem8/AIE4260_Computational-Intelligence/Syllabus/AIE4260_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem8/COC4990-AIP4992_BTech-Project-Part-II/Syllabus/COC4990_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/_Curriculum/Official/BTech_Artificial-Intelligence_Curriculum.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/_Curriculum/Official/BTech_Artificial-Intelligence_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/_Curriculum/Official/BTech_Computer-Engineering_Curriculum.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/_Curriculum/Official/BTech_Computer-Engineering_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC2130_Statistical-Learning/Syllabus/AIC2130_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC2940_Python-Programming-Laboratory/Syllabus/AIC2940_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC3060_Artificial-Neural-Networks/Syllabus/AIC3060_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Syllabus/EEC2112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Syllabus/EEC2712_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2722_Electromagnetic-Field-Theory/Syllabus/EEC2722_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Syllabus/EEC2732_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Syllabus/EEC2912_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2312_Power-System-Engineering/Syllabus/EEC2312_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Syllabus/EEC2512_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2922_Electrical-Machines-Lab-II/Syllabus/EEC2922_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Syllabus/EEC2932_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/Syllabus/ELA2012_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/Syllabus/EEC3212_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3312_Power-System-Analysis/Syllabus/EEC3312_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Syllabus/EEC3512_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/Syllabus/EEC3612_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Syllabus/EEC3912_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3932_Instrumentation-Lab/Syllabus/EEC3932_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3022_Fundamentals-of-Communication-Engineering/Syllabus/ELA3022_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3112_Electrical-Drives/Syllabus/EEC3112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3322_Electrical-Power-Generation-and-Utilization/Syllabus/EEC3322_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Syllabus/EEC3332_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/Syllabus/EEC3412_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Syllabus/EEC3712_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Syllabus/EEC3922_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Official/BTech_Electrical-Engineering_Curriculum.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Official/BTech_Electrical-Engineering_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits/Syllabus/ELC2112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/Syllabus/ELC2122_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/Syllabus/ELC2312_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Syllabus/ELC2412_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/COA2602_Data-Structures-and-Programming/Syllabus/COA2602_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Syllabus/ELA2432_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/Syllabus/ELC2132_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/Syllabus/ELC2152_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/Syllabus/ELC2512_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3212_Control-Systems/Syllabus/ELC3212_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3332_Embedded-System/Syllabus/ELC3332_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3422_Digital-Communications/Syllabus/ELC3422_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3442_Principle-of-Communication-Systems/Syllabus/ELC3442_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3512_Microwaves-and-Antennas/Syllabus/ELC3512_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/Syllabus/ELC3612_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3622_Digital-System-Design/Syllabus/ELC3622_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3122_Analog-Signal-Processing/Syllabus/ELC3122_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3432_Digital-Signal-Processing/Syllabus/ELC3432_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/_Curriculum/Official/BTech_Electronics-and-Communication_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/_Curriculum/Official/BTech_VLSI-Design-and-Technology_Curriculum.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Syllabus/ACS1112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Syllabus/EACS1112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Syllabus/ACS1912_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Syllabus/EACS1912_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Syllabus/EEA1112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Syllabus/EMEA1112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Syllabus/MEA1112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Syllabus/EMEA1912_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Syllabus/MEA1912_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Syllabus/EMEA1122_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Syllabus/MEA1122_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Syllabus/EMEA1922_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Syllabus/MEA1922_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Curriculum/Official/BE-I_Applied-Chemistry-Lab_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Curriculum/Official/BE-I_Applied-Chemistry_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Curriculum/Official/BTech-I_Applied-Chemistry-Lab_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Curriculum/Official/BTech-I_Applied-Chemistry_Curriculum.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Curriculum/Official/BTech-I_Applied-Chemistry_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Curriculum/Official/BTech-I_Applied-Physics_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/Syllabus/CEA1110_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/Syllabus/CEA1120_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2322_Fluid-Mechanics/Syllabus/AEC2322_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2432_Automotive-Materials/Syllabus/AEC2432_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2752_Lean-Methods-for-Automobile-Engineers/Syllabus/AEC2752_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Syllabus/AEA2422_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Syllabus/EMEA2422_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Syllabus/MEA2422_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Syllabus/AEC2112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Syllabus/EMEC2112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Syllabus/MEC2112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Syllabus/EMEC2122_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Syllabus/MEC2122_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Syllabus/EMEC2432_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Syllabus/MEC2432_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Syllabus/AEC2952_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Syllabus/EMEC2922_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab/Syllabus/MEC2922_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Syllabus/AEC2932_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Syllabus/EMEC2932_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Syllabus/MEC2932_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2222_Applied-Thermodynamics-and-Heat-Transfer/Syllabus/AEC2222_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2412_Manufacturing-Technology/Syllabus/AEC2412_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2452_Vehicle-Body-Design/Syllabus/AEC2452_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2762_Additive-Manufacturing/Syllabus/AEC2762_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2962_Thermal-System-Lab-I/Syllabus/AEC2962_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Syllabus/EEA2972_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Syllabus/EMEC2132_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Syllabus/MEC2132_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Syllabus/EMEC2212_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Syllabus/MEC2212_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Syllabus/EMEC2412_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Syllabus/MEC2412_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Syllabus/EMEC2942_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Syllabus/MEC2942_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3112_Design-of-Vehicle-Components/Syllabus/AEC3112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3132_Automotive-Drives-and-Transmission/Syllabus/AEC3132_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3242_Fuels-Lubricants-and-Coolants/Syllabus/AEC3242_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3292_Electric-and-Hybrid-Vehicles/Syllabus/AEC3292_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3962_Modeling-and-Simulation-of-Thermofluid-System/Syllabus/AEC3962_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Syllabus/EMEC3112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Syllabus/MEC3112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/Syllabus/EMEC3212_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/Syllabus/MEC3212_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/Syllabus/EMEC3312_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/Syllabus/MEC3312_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Syllabus/EMEC3412_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Syllabus/MEC3412_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Syllabus/EMEC3442_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Syllabus/MEC3442_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3912_Heat-and-Mass-Transfer-Lab/Syllabus/EMEC3912_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3912_Heat-and-Mass-Transfer-Lab/Syllabus/MEC3912_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice/Syllabus/EMEC3922_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice/Syllabus/MEC3922_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/AEC3252_Automotive-Emission-and-Control/Syllabus/AEC3252_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/AEC3342_Automotive-Hydraulic-and-Pneumatic-Systems/Syllabus/AEC3342_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/AEC3972_Fuel-Testing-Lab/Syllabus/AEC3972_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/Syllabus/AEC3122_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/Syllabus/EMEC3122_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/Syllabus/MEC3122_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/Syllabus/AEC3222_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/Syllabus/EMEC3222_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/Syllabus/MEC3222_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3232_Energy-Conversion-Systems/Syllabus/EMEC3232_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3232_Energy-Conversion-Systems/Syllabus/MEC3232_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3322_Fluid-Machinery/Syllabus/EMEC3322_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3322_Fluid-Machinery/Syllabus/MEC3322_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Syllabus/AEC3952_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Syllabus/EMEC3952_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Syllabus/MEC3952_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3962_Fluid-Mechanics-and-Machinery-Lab/Syllabus/EMEC3962_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3962_Fluid-Mechanics-and-Machinery-Lab/Syllabus/MEC3962_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem7/AEC4962_Thermal-System-Lab-II/Syllabus/AEC4962_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4112_Mechanical-Vibrations/Syllabus/EMEC4112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4112_Mechanical-Vibrations/Syllabus/MEC4112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4932_Manufacturing-Technology-Lab-III/Syllabus/EMEC4932_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4932_Manufacturing-Technology-Lab-III/Syllabus/MEC4932_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4942_Vibrations-Lab/Syllabus/EMEC4942_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4942_Vibrations-Lab/Syllabus/MEC4942_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4952-AEC4952_Energy-Conversion-Systems-Lab/Syllabus/AEC4952_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4952-AEC4952_Energy-Conversion-Systems-Lab/Syllabus/EMEC4952_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4952-AEC4952_Energy-Conversion-Systems-Lab/Syllabus/MEC4952_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Curriculum/Official/BE_Mechanical-Evening_Curriculum.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Curriculum/Official/BE_Mechanical-Evening_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Curriculum/Official/BTech_Automobile-Engineering-EHV_Curriculum.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Curriculum/Official/BTech_Automobile-Engineering-EHV_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Curriculum/Official/BTech_Mechanical-Engineering_Curriculum.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Curriculum/Official/BTech_Mechanical-Engineering_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/ACA3112_Engineering-Materials/Syllabus/ACA3112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/_Curriculum/Official/BTech-III_Engineering-Materials_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/_Curriculum/Official/BTech-II_Engineering-Chemistry_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/_Curriculum/Official/BTech-OE_Atmospheric-Chemistry_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4132_Generalized-Theory-of-Electrical-Machines/Syllabus/EEE4130_Old-Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4432_Nonlinear-Control-Systems/Syllabus/EEE4430_Old-Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Syllabus/EMEC2912_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Syllabus/MEC2912_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2912-AEC2912_Machine-Drawing-Lab/Syllabus/AEC2912_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3942-AEC3942_Solid-Modelling-and-Analysis-Lab/Syllabus/EMEC3942_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3942-AEC3942_Solid-Modelling-and-Analysis-Lab/Syllabus/MEC3942_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3942-AEC3942_Solid-Modelling-and-Analysis-Lab/Syllabus/AEC3942_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Syllabus/EMEC3932_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Syllabus/MEC3932_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Syllabus/AEC3932_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Syllabus/EMEH3452_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Syllabus/MEH3452_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Syllabus/COE4610_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COE4630-AIE4270_Data-Mining/Syllabus/COE4630_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COE4630-AIE4270_Data-Mining/Syllabus/AIE4270_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COP3802-AIP2922_Colloquium/Syllabus/COP3802_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem6/AIC3172-COE4620_Natural-Language-Processing/Syllabus/COE4620_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/Syllabus/CHC2012_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/Syllabus/PKC2112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032-PKC2152_Fluid-Mechanics/Syllabus/CHC2032_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032-PKC2152_Fluid-Mechanics/Syllabus/PKC2152_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem3/AMS2412_Higher-Mathematics/Syllabus/AMS2412_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem3/MEA2942_Machine-Drawing-and-Computer-Graphics/Syllabus/MEA2942_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem3/PKC2132_Chemistry-of-Hydrocarbons/Syllabus/PKC2132_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem3/PKC2172_Separation-Processes-in-Hydrocarbon-Industries/Syllabus/PKC2172_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem3/PKC2192_Fluid-Particle-Operations/Syllabus/PKC2192_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem3/PKC2912_Computer-Applications-Lab/Syllabus/PKC2912_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem4/AMS2422_Applied-Numerical-Methods/Syllabus/AMS2422_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem4/CHA2922_Unit-Operations-Lab-I/Syllabus/CHA2922_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem4/PKC2222_Chemical-Engineering-Thermodynamics/Syllabus/PKC2222_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/Syllabus/PKC2242_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem4/PKC2262_Mass-Transfer-Operations/Syllabus/PKC2262_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem4/PKC2282_Introduction-to-Petroleum-Engineering/Syllabus/PKC2282_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem4/PKC2902_Petroleum-Testing-Lab/Syllabus/PKC2902_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem4/PKH2202_Health-Safety-and-Environment-Management/Syllabus/PKH2202_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem5/PKC3112_Petroleum-Refining-Processes/Syllabus/PKC3112_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem5/PKC3132_Heat-Transfer-Operations/Syllabus/PKC3132_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem5/PKC3152_Process-Engineering-and-Equipment-Design/Syllabus/PKC3152_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem5/PKC3172_Heterogeneous-Reaction-Engineering/Syllabus/PKC3172_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem5/PKC3932_Reaction-Engineering-Lab/Syllabus/PKC3932_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem5/PKC3952_Process-Equipment-Design/Syllabus/PKC3952_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem5/PKP3812_Seminar/Syllabus/PKP3812_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem6/PKC3202_Refinery-Engineering-Calculations/Syllabus/PKC3202_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem6/PKC3222_Petrochemical-Technology-I/Syllabus/PKC3222_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem6/PKC3242_Polymer-Science-and-Technology/Syllabus/PKC3242_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem6/PKC3262_Natural-Gas-Processing/Syllabus/PKC3262_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem6/PKC3902_Process-Simulation-Lab/Syllabus/PKC3902_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/Sem6/PKP3922_Project-Phase-I/Syllabus/PKP3922_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/_Curriculum/Official/BTech_Petrochemical-Chemical-Technology_Curriculum.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Technology/_Curriculum/Official/BTech_Petrochemical-Chemical-Technology_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU website (official)"
+   }
+  }
+ ]
+}

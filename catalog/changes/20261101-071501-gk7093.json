@@ -1,0 +1,3643 @@
+{
+ "id": "20261101-071501-gk7093",
+ "created": "2026-11-01T07:15:01+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "credit": "gk7093",
+  "note": "Electrical material collected by gk7093 (_Inbox/BTech_Electrical, BTech_Electrical 2)"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Complete-Notes/Notes_BJT-Transistor_2021-22.pdf",
+   "s": 14102449,
+   "h": "ead9a4e9775c1a2c9b029a60022e175861697eb5de20cf1f07d6ab7a82c94853",
+   "t": 1793517266,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_Assignment_2021-22.pdf",
+   "s": 4821106,
+   "h": "6c6bb10d4e9bc705ffc3dcbfda3ff36c95a0ec70740d6b3a810e7334922a0b2b",
+   "t": 1793517267,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Complete-Notes/Notes_Dynamics_2021-22.pdf",
+   "s": 10209157,
+   "h": "1b6c276bec30e3771ee7dd3afbe6cfed7f527a8e855978ffdd10dfed396ce055",
+   "t": 1673233086,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Z_Assignment_2021-22.pdf",
+   "s": 523845,
+   "h": "ecb72cf52543af84c48d463e711dbdfa27fd58e2698e37a425b794a5a1dc7d7d",
+   "t": 1793517267,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Mid-Sem_2021-22.pdf",
+   "s": 1695458,
+   "h": "4ba82ec62d7568d049dff9c002e6124ed09172135529c86cbb3b32a29d5509f3",
+   "t": 1754014090,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/Complete-Notes/Slides_CEA-Biodiversity_2021-22.pptx",
+   "s": 14017513,
+   "h": "ea328b2b612e39be325871ff0178c5f155de5ae42fbade733a0ac351a08108e0",
+   "t": 1793517267,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Shahid",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/Complete-Notes/Notes_PPT-2-Cea1110_2021-22.pdf",
+   "s": 1047845,
+   "h": "04d37813895869b158425eee2106d9769d7814840c45ba88e2878c199ec5dec0",
+   "t": 1793517267,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Dr. Salim",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/Unit-4/Notes_Unit-4_2021-22.pdf",
+   "s": 399075,
+   "h": "7008470b9901e5289d484f5c1adbd4281459733e3e434eb0cb4991dbac36127e",
+   "t": 1793517267,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Dr. Salim",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/Complete-Notes/Notes_MSWM_2021-22.pdf",
+   "s": 4830648,
+   "h": "55072b9bdeb006a392505bde01223df9c66dc719e2baaebecfa5a3f7a13a588f",
+   "t": 1793517267,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Dr. Salim",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/Complete-Notes/Notes_PPT-1-Cea1110_2021-22.pdf",
+   "s": 1363886,
+   "h": "c404b262d68c1e4bd13787893de33e0e1fa0dc5bd5d16e6ebd055cc06d415223",
+   "t": 1793517268,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Dr. Salim",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/Complete-Notes/Notes_Cea1110-Ecosystem_2021-22.pdf",
+   "s": 3731857,
+   "h": "44879add11c70ec9ea9543b038bc882b53e3846616b53c3d90e2fc0f91d41894",
+   "t": 1793517268,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Parvez",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/Complete-Notes/Notes_Land-Resources_2021-22.pdf",
+   "s": 694990,
+   "h": "0016062e4a4e46e2715343221c1b46ae4ab05a61b752d51d2138ab5b90d1726f",
+   "t": 1793517268,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Parvez",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Complete-Notes/Class-Notes_Water-Treatment_2021-22.pdf",
+   "s": 2995419,
+   "h": "e28fdf3546bb166c117d2c3efe4037665170147ba6fb5bd8f6304ba8589b2163",
+   "t": 1793517268,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Yasser Azim",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Complete-Notes/Class-Notes_Polymers-Zhcet_2021-22.pdf",
+   "s": 1759471,
+   "h": "e26c4bc60aea95555e9ce5e41fd5638c1c46310e9ba9b4bbc2a1ecd1f69dc181",
+   "t": 1793517268,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Yasser Azim",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment-4_Coal_2021-22.pdf",
+   "s": 273775,
+   "h": "6ec4394e8509acf7323404f73cf38f92bf1f415ead776583925391d4b706226e",
+   "t": 1793517268,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Yasser Azim",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment-1_Versenate_2021-22.pdf",
+   "s": 68701,
+   "h": "ccb4fa989897927115a204815dbcb1f4f673c32ddf0b19506a3d90e4c43ec05d",
+   "t": 1793517268,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Yasser Azim",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment-5_Saponification-Value_2021-22.pdf",
+   "s": 1154564,
+   "h": "869dd8c2998689b39af589e5055c998ce253b497a7b5a7d3fc39e3715750592f",
+   "t": 1643825252,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Yasser Azim",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment-3_Electr-Corro_2021-22.pdf",
+   "s": 384708,
+   "h": "f6cf58502135d17c284d3d13c8395d2f1203f81e0d23675cc8625cd135db6196",
+   "t": 1793517268,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Yasser Azim",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment-2_ION-EXCH_2021-22.pdf",
+   "s": 173681,
+   "h": "a1ad0edb200e167d81df33605493a754323aa5ec097b773b2e5ded2d989ad338",
+   "t": 1793517268,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Yasser Azim",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment-6_Cloud-Point_2021-22.pdf",
+   "s": 1519625,
+   "h": "2b07d3f39326bfff66bd41e8e4fa4fb07977383ca2855daa32d2c6e7bebe4daf",
+   "t": 1643825272,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Yasser Azim",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Notes_Engineering-Graphics-I-Sheet_2021-22.pdf",
+   "s": 700547,
+   "h": "410d856dbb31640a2ce66ce546581d87d11dea4ebb95547d6ceb23a01d5ba708",
+   "t": 1793517268,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/Unit-4/Notes_Unit-IV-2-1_2021-22.pdf",
+   "s": 12220199,
+   "h": "a45d3ca2fbe8fa1002fe8bb912d1881f336689dfd80c03ce3b1e8d3d043b4d90",
+   "t": 1647530666,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Abdullah",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Complete-Notes/Class-Notes_Corrosion_2021-22.pdf",
+   "s": 4037369,
+   "h": "5829fd0f4b867de6c0c5b431ab01b2fb576c2a3e8d251854261126037b4f9877",
+   "t": 1793517269,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Dr. Farman Ali",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Complete-Notes/Class-Notes_Fuels-and-Lubricants_2021-22.pdf",
+   "s": 3528066,
+   "h": "348468d427872c74cc0eef707071699f8b36ec88cc52bc4224b084498b27558d",
+   "t": 1793517269,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Dr. Farman Ali",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Lecture-08_2021-22.pdf",
+   "s": 1557595,
+   "h": "a8ba127ed862e4bbdd141c139c8c16a3e3b98c092d3b978c9b54aa36cd5b51bb",
+   "t": 1644510376,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Kamrujjaman",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Complete-Notes/Slides_Electromechanical-Type-Instruments_2022-23.ppt",
+   "s": 5281792,
+   "h": "e1e6a2ff094456aa3ec26c4dc1aae1a355881e1add1aa9d3271ca9f674f012dd",
+   "t": 1678575840,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Complete-Notes/Slides_AC-Bridges_2022-23.pptx",
+   "s": 3035352,
+   "h": "2ca4c7ed579131b533dbbeebcbd17585659cda7a847a8fc75354f666861a0c8a",
+   "t": 1793517269,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Complete-Notes/Notes_Measurement-of-Three-Phase-Power_2022-23.pdf",
+   "s": 726594,
+   "h": "0f98446e3aa660e03c2376865d7393e3468a4d862eae8cea65a1efbd5c103f13",
+   "t": 1793517269,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Complete-Notes/Notes_Deflecting-Type-Instruments_2022-23.pdf",
+   "s": 1022853,
+   "h": "b82883c5004718bf40189d6dd6dd4f65c761761c3ca6b04450e14c0984ed9d7b",
+   "t": 1793517269,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Unit-4/Class-Notes_Opam-Prob-1_2022-23.jpg",
+   "s": 176242,
+   "h": "f5efe7b4e068bf560f5a76214f55f0a649bb489ac28af5e3e3c3548c69bfad49",
+   "t": 1682446990,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Unit-4/Class-Notes_Opam-Prob-3_2022-23.jpg",
+   "s": 43874,
+   "h": "e5110804a71938c6a29da567ae7ac5cf1d1831523be5c67837e882f4a0f5d78a",
+   "t": 1682447052,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Unit-4/Slides_Opamp-Inst-Amp_2022-23.pptx",
+   "s": 5557825,
+   "h": "f95a175d4b9e87c5247d2e50776d95d994b0332ae9c4015c43d862bcb06a4cca",
+   "t": 1793517269,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Unit-4/Class-Notes_Opam-Prob-2_2022-23.jpg",
+   "s": 90846,
+   "h": "6239e4f80a117eb2f263de91bed32b91402e160cf71eeaa66de5bb108a69bb47",
+   "t": 1682447052,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Unit-4/Notes_Harmonics-Analyser-1_2022-23.pdf",
+   "s": 207136,
+   "h": "41ec088c9d6a91c8291200bf777ed09d41ba1695f05a3ff0780b7d6f59e53c2f",
+   "t": 1682437630,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Unit-4/Class-Notes_IMG-20230426-Wa0003_2022-23.jpg",
+   "s": 88191,
+   "h": "5cce2ef01c36628c61bdf1bfe5a127cc464b56244a4e1b51d921242b78ae2be3",
+   "t": 1682437558,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Unit-4/Notes_Unit-4-Avg-RMS-True-RMS-Voltmeter_2022-23.pdf",
+   "s": 586398,
+   "h": "3fcd2b49dd33f5729fd19572e5bbda04b3a12dbda0bf0dbb9a5f512faf92f09c",
+   "t": 1793517269,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Unit-4/Notes_Oscilloscopes-Unit-4_2022-23.pdf",
+   "s": 705172,
+   "h": "565dfb2e77014ada089d8e19eb1c338d0aaccc36fa181168fe8b3d31c8da0cab",
+   "t": 1683041288,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Unit-4/Notes_Synchroscope-2_2022-23.pdf",
+   "s": 239378,
+   "h": "1af611221faac42754279c29320e57d1fd3520c31adaa79ddcaa8839df5311d2",
+   "t": 1793517269,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Unit-3/Slides_Lec-Hysterisis_2022-23.pptx",
+   "s": 1922240,
+   "h": "435c1d263680baf4a0f853d9e9d2d987b259723ae8b85b4e95941087f399fa14",
+   "t": 1793517269,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Unit-3/Slides_CT-PT_2022-23.pptx",
+   "s": 2992529,
+   "h": "b32f60d4c9eada5ece2afdfac6d2a0b9daf5ecae096bb5c349feade834d06457",
+   "t": 1793517270,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/PYQs-and-Assignments/PYQ-Collection_Electrical-Measurements.pdf",
+   "s": 5782212,
+   "h": "294d346d51c1b35aaede1a60a901abe5077b88800291c1b9aa1c5051046cd74b",
+   "t": 1678645288,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2312_Power-System-Engineering/Complete-Notes/Class-Notes_Img20230502090925-2_2022-23.jpg",
+   "s": 800705,
+   "h": "0861ecf6814d2b74b76bd463ebf411abd8042168e32e3bae6f567d24cbe6a0c6",
+   "t": 1793517270,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2312_Power-System-Engineering/Complete-Notes/Class-Notes_Img20230413101609_2022-23.jpg",
+   "s": 893799,
+   "h": "d8ddcac3d2e1109b5a2b837450ea2802b8ca088003b1018bf6585d469fe18d21",
+   "t": 1793517270,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2312_Power-System-Engineering/Complete-Notes/Class-Notes_Img20230418091929-2_2022-23.jpg",
+   "s": 1520539,
+   "h": "692b57c8d18fc9c9ffbc2e9526ee454dc72fd3d9236614ed0f174ed30f745882",
+   "t": 1793517270,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2312_Power-System-Engineering/Complete-Notes/Class-Notes_Img20230419083746-2_2022-23.jpg",
+   "s": 994224,
+   "h": "886389f442d0251d546b9d43db502e17aaee159855107457e83ddcd4aab4ecd5",
+   "t": 1793517270,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2312_Power-System-Engineering/Complete-Notes/Class-Notes_Img20230417100908-2_2022-23.jpg",
+   "s": 717964,
+   "h": "771a3b6dfc99b5c56e8640001888e1b8434ea7a6957d0e0326941be6a2d9f621",
+   "t": 1793517270,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2312_Power-System-Engineering/PYQs-and-Assignments/PYQ-Collection_Power-System.pdf",
+   "s": 8101157,
+   "h": "024a50bae8f713a1557d66ab838121fb55d8848b1b2314a623a35394bd339ab1",
+   "t": 1678645454,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/Class-Notes_Motivational-Theories-2_2022-23.jpg",
+   "s": 64226,
+   "h": "2df2868b38aa8e889833721be0f08d50227ecffccc58854cdcb83d5bc79a93cb",
+   "t": 1683010208,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/Notes_Financial-Management_2022-23.pdf",
+   "s": 1401600,
+   "h": "f78535954de8677d704ea8e23482e036afeb5ac7106bee706f0bf11eee7d6fc0",
+   "t": 1683039752,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/Notes_Inflation_2022-23.pdf",
+   "s": 265967,
+   "h": "e77f9f8f88fc8bdaa32154a925ea12191b11f98c47f8c981fa1a39be9e18760c",
+   "t": 1793517270,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/Class-Notes_Motivational-Theories_2022-23.jpg",
+   "s": 101642,
+   "h": "ebfff1986e40fa91f4222b7dd805dc02f3504a82d053e72f9e489408a1df9055",
+   "t": 1683010208,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Complete-Notes/Class-Notes_Marketing_2022-23.jpg",
+   "s": 118937,
+   "h": "e7fbc1a3778705238fe3aa9ec2cb1dd3b774ca66d9264a8ffe6e278f3ffb8fd7",
+   "t": 1683010208,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/Complete-Notes/Class-Notes_IMG-20230412-110659_2022-23.jpg",
+   "s": 110406,
+   "h": "b7221ecd44d4915ccb07d3e15f06df86500aab1eb4075046fccae427be71418f",
+   "t": 1793517270,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/Complete-Notes/Notes_L-11-Operation-on-Infinite-Bus_2022-23.pdf",
+   "s": 1735811,
+   "h": "d3bb5c54b1ef0f682aeec7efcccbfec37702d143ca9a53dbc7c59ee401e2b4a6",
+   "t": 1793517270,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/PYQs-and-Assignments/PYQ-Collection_Machines-II.pdf",
+   "s": 7346381,
+   "h": "adfe25146fa45ddf6f477aa15cf2f1ca1ec822c878842436e67270f0b619bc2b",
+   "t": 1742448596,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/Complete-Notes/Notes_Armature-Reaction-Syn-Machine_2022-23.pdf",
+   "s": 663976,
+   "h": "78c765be2cfd31e88bcf90e48f56c9edfbf37b078cd5e3fcb1c4cea1d2795e58",
+   "t": 1793517270,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/PYQs-and-Assignments/Z_Tutorial_2022-23_DC-Motors.jpg",
+   "s": 163779,
+   "h": "fbfb5ccc71641b038f3c3bfffbcfa757c1ff468495a10eed97ef5b69b808b745",
+   "t": 1683010284,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/Complete-Notes/Notes_Potier-Method-Zpfc_2022-23.pdf",
+   "s": 1181751,
+   "h": "c4f78b594e83789c5a737e43c5693cabc912edb54a15a634a3761b0bb4a5dbc2",
+   "t": 1793517270,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/Complete-Notes/Notes_DC-Motor-Numericals_2022-23.pdf",
+   "s": 464459,
+   "h": "e4285c95737f3ad43b0e049e6faf66c6840a1d16e0072ac2430df9b0a61b9fde",
+   "t": 1683120986,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/Complete-Notes/Notes_MMF-Method_2022-23.pdf",
+   "s": 1058319,
+   "h": "ed92f52460c02ddc2f72fa96ee3f934c4c737a5b9a4a159c710673ab476bc04a",
+   "t": 1793517270,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/Complete-Notes/Class-Notes_IMG-20230412-110435_2022-23.jpg",
+   "s": 85332,
+   "h": "4a5454410ce173cf3354d8abc344d83aa580807823c1eb3e64f53fcff0149332",
+   "t": 1793517270,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/Unit-2/Notes_Unit-2-Synchronous-Machines-II_2022-23.pdf",
+   "s": 11014280,
+   "h": "40e55b3392c3a9151bec4107eaef36ee063cf7f1ba366f33443ceed636bafb12",
+   "t": 1742448656,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/PYQs-and-Assignments/Z_Tutorial_2022-23_DC-Generators.jpg",
+   "s": 158654,
+   "h": "35de5b7cb8a5fda6bec9d5a0ecbc14eed29ed65231bc1ce85e22ae8705be11e6",
+   "t": 1683010284,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/Complete-Notes/Notes_Syn-Machine-Construction_2022-23.pdf",
+   "s": 819818,
+   "h": "fcdae97e74ac7f7cda92858e0d11f6b7c14607124b3674657353ce078968a9d0",
+   "t": 1793517270,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2212_Power-Electronics-I/PYQs-and-Assignments/Z_Assignment_2022-23.pdf",
+   "s": 437562,
+   "h": "f2caff0c566128beda1036f00a9aa58ffbb9f4a4b331dc5b0d13e348fdf98952",
+   "t": 1793517270,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2212_Power-Electronics-I/Unit-2/Notes_Unit-2_2022-23.docx",
+   "s": 13653,
+   "h": "202b6bfff93a8f4745bb46e569901279ad8f8aba0e05cc352cb39d56cbbc970b",
+   "t": 1793517270,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2212_Power-Electronics-I/PYQs-and-Assignments/PYQ-Collection_Power-Electronics-I.pdf",
+   "s": 1146880,
+   "h": "4da2ac5edfc95389c119024920f52ddc2e974e834a13826cabb6eab20a818090",
+   "t": 1678645244,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2212_Power-Electronics-I/PYQs-and-Assignments/Z_Tutorial-1_2022-23.pdf",
+   "s": 145783,
+   "h": "5b09a0035d67f75c1cb4767e6c85d6f307c00ae16a02f23cd28a5fef5b9c7690",
+   "t": 1793517270,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2212_Power-Electronics-I/Complete-Notes/Class-Notes_IMG-20230503-Wa0002_2022-23.jpg",
+   "s": 96445,
+   "h": "59bf637133c903bc52aa3a3b3586e3f937decee3446708671ba17d8d0ce0a718",
+   "t": 1683091028,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2212_Power-Electronics-I/Complete-Notes/Class-Notes_IMG-20230503-Wa0003_2022-23.jpg",
+   "s": 90272,
+   "h": "53e5dd8eeb123f285c1ec3d8982bb30c327cc8164e4b0550f98a1d84f859891d",
+   "t": 1683091028,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/PYQs-and-Assignments/PYQ-Collection_Digital-Logic.pdf",
+   "s": 6463326,
+   "h": "ffb208a11fa386f7b84401cd23177d9c683d44c6c1cedad67e7215209b5453ad",
+   "t": 1678645276,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/PYQs-and-Assignments/Z_Assignment-1_2022-23.pdf",
+   "s": 333667,
+   "h": "d8d6b8ca67e55efae1769a9e0b5ea4826a25feccc6ac776a28e406448da5d9c0",
+   "t": 1793517271,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/Unit-3/Notes_Unit-III-Design-and-Combinational-Circuits_2022-23.pdf",
+   "s": 10868820,
+   "h": "d8c55f50f3334f6346c6123a6ca0a8afa2f1b10b17f11afae7a069ec1364caa4",
+   "t": 1793517271,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/Unit-1/Notes_Unit-I-Logic-and-Digital-Circuits_2022-23.pdf",
+   "s": 9661162,
+   "h": "fd3a3f44f9b465657816aa999c849daadb66485dc71f157a780fda31cb45ce0d",
+   "t": 1793517272,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/Complete-Notes/Notes_Converter_2022-23.pdf",
+   "s": 1241641,
+   "h": "cfe37c586905aa5a507f0953848074042572c54da99128f2ebc454af911891e3",
+   "t": 1793517272,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/Complete-Notes/Notes_Shift-Register_2022-23.pdf",
+   "s": 593537,
+   "h": "7f70090c973a148604245d83ede46f033a060ce8c18e6feeba4b3c722521110a",
+   "t": 1793517272,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/Unit-2/Notes_Unit2_2022-23.pdf",
+   "s": 4451982,
+   "h": "4e5669bef55c2987060e8d28d8db688e709f455122356b88c1461be2f1671b2f",
+   "t": 1793517272,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/Unit-4/Notes_Unit4_2022-23.pdf",
+   "s": 4151839,
+   "h": "aa1de4c39ce748c6df8ffb9dda63975cbbebcf891e7e94a7c92e731a131930e6",
+   "t": 1793517273,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/Unit-5/Notes_Unit5_2022-23.pdf",
+   "s": 2098841,
+   "h": "5a0a236aef1b31c6622b44ed4e5892f4802477a042eb69144ba7565364524d46",
+   "t": 1793517273,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/Unit-4/Notes_Unit-IV-Sequential-Circuits-1_2022-23.pdf",
+   "s": 591753,
+   "h": "5e813c6de46dc13f738e17b7cd4c714598e5b8699375d75ba982fe4b592f5fde",
+   "t": 1793517273,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/Complete-Notes/Class-Notes_IMG-20230306-Wa0003_2022-23.jpg",
+   "s": 29575,
+   "h": "9cd014395b97f802c2b640609ca9c01cf96b90f4188ad3589147e41bbc7988b2",
+   "t": 1678075908,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Manuals/Lab-Manual_2022-23.docx",
+   "s": 955673,
+   "h": "9dd3f49a1ab931e5f5a59703388e669b8d02191b8d6f0f1e385bfd48aea9b48b",
+   "t": 1793517273,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-1/Lecture-06_2022-23.pptx",
+   "s": 5085473,
+   "h": "75b054a6ff03bb0072126c19747a0a59a172ab1f130f4970989403129884892b",
+   "t": 1793517274,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-1/Lecture-02_2022-23.pdf",
+   "s": 209061,
+   "h": "b40a18c3b47bee89b08466dd7531355c3d29ea23f0d5d83c0e5158078ce7205f",
+   "t": 1793517274,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-1/Lecture-05_2022-23.pdf",
+   "s": 400556,
+   "h": "ed2aa437aeafadc0256bbaa7d2b8e2f7ff35e31184bc517fc2c6d7da63fada60",
+   "t": 1793517274,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-1/Lecture-03_2022-23.pptx",
+   "s": 2496984,
+   "h": "27ede6f49aca5b52a0643cbc03e11b0ad71b6dc26d4f84d50078d0f408d26b47",
+   "t": 1793517274,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-1/Lecture-08_2022-23.pptx",
+   "s": 10269392,
+   "h": "2f0f564bea6e247fe02e0697002537fd1364a76f68ee87dca8794090355024c7",
+   "t": 1793517275,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-1/Lecture-09_2022-23.pptx",
+   "s": 11345984,
+   "h": "2f60e7a92ec509ddbb085d09f6ed9eaebdb9a5b6a887c609f66470fdeee196b0",
+   "t": 1793517276,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-1/Lecture-04_2022-23.pptx",
+   "s": 3960322,
+   "h": "a9d727d46afc39edb96234d7a73318275515f46b8603d6b9e97f9cac3171a8b4",
+   "t": 1793517276,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Syllabus/EEC2710_Old-Syllabus_2022-23.docx",
+   "s": 14889,
+   "h": "4146e454dd0fac46591127bccc62c367b71dd3c1e1430964c71fd70ce9722011",
+   "t": 1793517276,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Complete-Notes/Notes_Circuit-Theory_2022-23.pdf",
+   "s": 4075806,
+   "h": "03a5644f83085d5813cbaa821ed143b37597af05f54eae56187bd61f2078bb77",
+   "t": 1648281922,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Books-and-Resources/Physical-Constants_2022-23.png",
+   "s": 555543,
+   "h": "7e0564ad2a675c8c176bae4e0c2aaaab0bde82b5d0ca3f0cd7a6c74a850f37ae",
+   "t": 1793517277,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Syllabus/APS2050_Old-Syllabus_2022-23.pdf",
+   "s": 400383,
+   "h": "075e1b0830ba625d592c8fad13955df02c322fcbbbdc1c7fa787ce51a0ea8f1e",
+   "t": 1793517277,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Complete-Notes/Notes_Magnetic-Properties-of-Materials_2022-23.pdf",
+   "s": 2984624,
+   "h": "4d00f1d7d3f5e089de5ead342213c9e426b43b2fa5866550f9a714f4f377d7c7",
+   "t": 1636849616,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/PYQs-and-Assignments/Z_Question-Bank_2022-23.docx",
+   "s": 42912,
+   "h": "9d1b3c056ad10f55d2001128e28ef255dfc716c99da068c1f516b1083f2be54f",
+   "t": 1793517277,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Unit-1/Class-Notes_Unit-1-Part-1-Lecture-Notes_2022-23.pdf",
+   "s": 7421284,
+   "h": "8519a955ad1fe38fc12ab11c50c7b96ec937d1117035580aa7681b05bd71e440",
+   "t": 1638593898,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/PYQs-and-Assignments/Z_Assignment_2022-23.pdf",
+   "s": 303269,
+   "h": "bb3a3fb54e395d33efca1d816d32496d0f691430dc2bdb20d1dea3c56d65ea38",
+   "t": 1793517277,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Syllabus_Sem3_2021-Scheme.pdf",
+   "s": 398142,
+   "h": "71168675ee8ca4bcd0ef2a51f2bea5d23ef7786b68db4b8ee19ab7ead57f8d87",
+   "t": 1793517277,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_General-PYQs/Sem-End_2018-19_Sem3-All-Courses.pdf",
+   "s": 15049670,
+   "h": "97847c77b3bab749970a5c6b87dfa38a6f25451b27513d7bd799b0bf90c75a96",
+   "t": 1793517277,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/PYQs-and-Assignments/Z_Tutorial_2022-23.pdf",
+   "s": 4001443,
+   "h": "8d138d8d6ee3400eb73fee9fac48cfd77235cd3ef2667dda6204d7c2487857bf",
+   "t": 1671551788,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/PYQs-and-Assignments/Z_Tutorial_2022-23_2.pdf",
+   "s": 699635,
+   "h": "cff932f6b81d27e9ba4d8cbcc02bd1d9247b58b1616426f0e927a6efe4687c5c",
+   "t": 1754015752,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Syllabus/EEC2730_Old-Syllabus_2022-23.pdf",
+   "s": 142416,
+   "h": "6524a7596eac964c99c9d3d3aba7e22cbc9d02fece3c8f0c2a2206d6cf833e9a",
+   "t": 1638544448,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/PYQs-and-Assignments/Z_Tutorial-1_2022-23.pdf",
+   "s": 310985,
+   "h": "6d8cbfdff2f4b5537d9448af9da20d9cd12a5c540b405d911b3c1d3171c2ae28",
+   "t": 1793517278,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_General-PYQs/Sem-End_Sem3-Papers-Collection.pdf",
+   "s": 12069616,
+   "h": "35cd3a810698b9d2437feadcf7b6d40505e6f1498823681a20a3ca3503fbf21a",
+   "t": 1793517278,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2722_Electromagnetic-Field-Theory/PYQs-and-Assignments/Z_Assignment_2022-23_Vector-Calculus-and-Fields.pdf",
+   "s": 903644,
+   "h": "3c01c234186aec71b008e74f3f18265af5b9ff78ff9196b1ebba180750ba5c60",
+   "t": 1793517278,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Complete-Notes/Notes_Ideal-Transformer_2022-23.pdf",
+   "s": 412743,
+   "h": "95c6598c44d30929811ed0edaa8815ffed2b0c4b238bdb830561ca296b0c1599",
+   "t": 1793517278,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Syllabus/EEC2110_Old-Syllabus_2022-23.pdf",
+   "s": 189182,
+   "h": "211c2e462f2121f784d1a305c8103cf0c457ee1e0cada7addf6a9c901e886da3",
+   "t": 1793517278,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Complete-Notes/Class-Notes_Parallel-Operation-of-Transformers_2022-23.jpeg",
+   "s": 102770,
+   "h": "b7b0a9e8f5ea43ebe47d5ccdf6038049e1defdca515bac91fdc683d250790957",
+   "t": 1644970532,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Complete-Notes/Class-Notes_Electrical-Machines-I_2022-23.pdf",
+   "s": 13379491,
+   "h": "cc3f8fbc4ab3b65f4872a788fb719b7e79dd8335019bd6bcb7f0056871427d26",
+   "t": 1647557126,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Complete-Notes/Class-Notes_Condition-for-Max-Efficiency_2022-23.jpeg",
+   "s": 102369,
+   "h": "350e987c1f91ebbad1c0857a5f0472407c93131f923de00270add7beddf1b0bd",
+   "t": 1644970536,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Unit-1/Notes_Unit-1_2022-23.pdf",
+   "s": 5639054,
+   "h": "108b3cf5eee88280b3a8694d65de8ef78cafad13ac7977928c60dd350668974e",
+   "t": 1793517279,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Complete-Notes/Notes_Operation-and-Types-of-Transformer_2022-23.pdf",
+   "s": 695199,
+   "h": "d4747b34cd967aa459dc65866df548fe36ccf990eb042c73c770e0b6e37d7ca5",
+   "t": 1793517279,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Unit-1/Notes_EM-1-Unit-1_2022-23.pdf",
+   "s": 189584,
+   "h": "b5b4953e3aae789212ffeca4773f53cf10247e62b3870c44074b9d30af06dd06",
+   "t": 1793517279,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Unit-2/Notes_EM-1-Unit-2_2022-23.pdf",
+   "s": 14044,
+   "h": "1a2f560077473815f9410223949869740e5bcf188aeb96f0839a84162ac2226e",
+   "t": 1793517279,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Complete-Notes/Notes_EM-1-Unit-3-and-4_2022-23.pdf",
+   "s": 132202,
+   "h": "e1f0b82c7713adf2e039583bb36661ce845ac46e6eb2a086557ded25537fc7dc",
+   "t": 1793517279,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Complete-Notes/Class-Notes_Machines-Classroom-Notes_2022-23.pdf",
+   "s": 1293266,
+   "h": "c6cd54d035695c67c2c2f69425fe78d02442e8ac52021d0713f92e3abdb2b666",
+   "t": 1663460392,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Complete-Notes/Notes_Three-Phase-IM-2-Year_2022-23.pdf",
+   "s": 4170016,
+   "h": "0e0a7a4d653c97e53ca38c0047f702d5c70e7287d301e7bc414c09e1fb9cb80d",
+   "t": 1729646162,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Complete-Notes/Notes_Winding-Factors-and-EMF-Equation_2022-23.pdf",
+   "s": 1244735,
+   "h": "a51c9186e97354b2a9cf789aacb51e6b06bd7641066bd0ee2d5eb640327b0dfb",
+   "t": 1793517279,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Unit-5/Notes_Unit-5_2022-23.pdf",
+   "s": 3196621,
+   "h": "7e99d0de35eaf70c76f0eac3b22b49fc231a55cf55520a77f4bc5dbead4297a8",
+   "t": 1793517279,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Enclosure-Letter-Writing_2022-23.png",
+   "s": 335514,
+   "h": "4d4816c474554c2432b718b2c8be8a1a060196c75ece8b78ba19f3d5e3b039ac",
+   "t": 1638251820,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Semi-Block-Format-Letter-Writing_2022-23.png",
+   "s": 340940,
+   "h": "6e37c21828ad5b73ae5e9da4a02f773cbdcf6300bc9455a7f32af7ba3bcd8005",
+   "t": 1638252010,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Parts-of-An-Academic-Paper_2022-23.png",
+   "s": 202976,
+   "h": "4d6d65b8f5c902b8a2a56e78e71220c64e874ec150c42ebcc617a200c29e7bb0",
+   "t": 1643694770,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Rules-of-Email-Etiquette_2022-23.jpg",
+   "s": 98155,
+   "h": "ebfcff335a446a10a8c85661fc0cf1336bc12eeac617de04735d371d24515f4b",
+   "t": 1640671258,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Simplified-Format-Gender-Orstatus-Not-Mentined_2022-23.png",
+   "s": 378947,
+   "h": "2be98dd10c330192d1dd027578c86e4c9d8850df926293ec59e344357e68aac9",
+   "t": 1638252098,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Order-Response-1_2022-23.jpg",
+   "s": 50002,
+   "h": "63dcee07b3765f63dee8f66b836fb763516ca4b7bb011ee75d2713739ebf2809",
+   "t": 1639461192,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Identification-Marks-Letter-Writing_2022-23.png",
+   "s": 347979,
+   "h": "ab3e0dd763598081ea72502e4dbbd6c72ea538fcfc33bc0f76ef64b53bed6e54",
+   "t": 1638251770,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Complaint-Apology-Letter-1_2022-23.jpg",
+   "s": 47806,
+   "h": "bdb30de1bde592902fc5e1857daea0942906cf8705c92abb9d0dbabb4f82ada6",
+   "t": 1639461642,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Complaint-Apology-Letter-2_2022-23.jpg",
+   "s": 82891,
+   "h": "9c6a226857188cb16f8521327c732fcb195879d05084a3737f46003cca9c4403",
+   "t": 1639461664,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Body-Letter_2022-23.png",
+   "s": 481317,
+   "h": "97c3782e36eb62d167dc55f94de7d564570f3fb8dbc06ca29d20463eb6465c2b",
+   "t": 1638251596,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Features-of-An-Application-Lettee_2022-23.png",
+   "s": 391794,
+   "h": "515fd6b5c31f031518d0783c480bd08f1d8acae0ead83b32c36cad012eff7cf1",
+   "t": 1638252812,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Complaint-Letter-3_2022-23.jpg",
+   "s": 42968,
+   "h": "2418662610e6667c4a0fd7b805f86f7fc360606ac155e1b815bb2f36df63b1c4",
+   "t": 1639461534,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Copy-Notation-Letter-Writing_2022-23.png",
+   "s": 359988,
+   "h": "5e8eec5afb5687cc6c02faaece207e1d9a4e8b3e5a0f894e4de30a6b91ce3895",
+   "t": 1638251914,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Greeting-Letter-Writing_2022-23.png",
+   "s": 416138,
+   "h": "46e0ae306b8c887242a5ef1cec38d652a51c44f66873552dba2c3b9e81b6cd49",
+   "t": 1638251474,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Complaint-Letter-2_2022-23.jpg",
+   "s": 107805,
+   "h": "0a58bb29f84d9c46d23c92051bea016872b4068a27e8703d26051f38f805a3f9",
+   "t": 1639461512,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Order-Response-1-2_2022-23.jpg",
+   "s": 32713,
+   "h": "707e159342a5bc9dad6ae4f7bfe134529321f102b92147e23b016687eb6f864a",
+   "t": 1639461218,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Email-Etiquette_2022-23.jpg",
+   "s": 118364,
+   "h": "efe59b68ee81fd6db6284c8e67bfc68c9de175f033970d0a49a06a1b01fa4a01",
+   "t": 1640671608,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Placing-Order-1_2022-23.jpg",
+   "s": 64824,
+   "h": "5b09fd838bb057316ec452cb8d1c744d1dd629a115a94d7f2cdfad03c9b122fc",
+   "t": 1639460968,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Complimentary-Close-Letter-Writing_2022-23.png",
+   "s": 351305,
+   "h": "8b9a9839117660ed4624ef13883b1e5f22866d1dbafc9a0a765b190624cc6405",
+   "t": 1638251686,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Manuals/Notes_Complaint-Letter_2022-23.jpg",
+   "s": 59123,
+   "h": "4568ad8f8a1b2e63a05cd7ffd48568b787a893954dab92ced8d9a9fd81f680ec",
+   "t": 1639461348,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Books-and-Resources/NPTEL-Lecture-28_Transformer-Tests.pdf",
+   "s": 356337,
+   "h": "9cbfe06b6a571343ee944a0777bd34780e36b20f6d09cecd1aea84d092940611",
+   "t": 1793517279,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Records/Sample-Report_2022-23.pdf",
+   "s": 3124784,
+   "h": "06e1e96543631dc617483fc22dc106f8c5dec50870039d6026e4e15cb90f21b1",
+   "t": 1639016544,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Manuals/Lab-Manual_2022-23.pdf",
+   "s": 2625877,
+   "h": "290edc62b3986c2463f6e4f488dd8cf26e9e53b3eb43407fedd71b036085e326",
+   "t": 1793517279,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Manuals/Notes_Obs-Sc-Test_2022-23.jpg",
+   "s": 55972,
+   "h": "1f0f0b60bac6079e91218f51ba1d573cf56057dd4e20ce828daa7dc176577e57",
+   "t": 1639063310,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Manuals/Notes_Unit-1_2022-23.pdf",
+   "s": 5639548,
+   "h": "ed846c6db082881babee3577048d2ed794f5cdc5b9893632ef3f53771305b918",
+   "t": 1793517280,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Manuals/Sample-Question_2022-23.jpg",
+   "s": 87180,
+   "h": "29ff57b53ee40fc3ab74537b9885d0ded1bc26e804b6f8b28f991275cb313675",
+   "t": 1665425562,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/BTech_Electrical-Engineering_Curriculum_2021-Scheme.pdf",
+   "s": 1212412,
+   "h": "30906fb1bf99d787b795d3b83dec827530f576352ee0977f8b827495bfc07065",
+   "t": 1793517280,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Notes_Gini-ML_2024-25.pdf",
+   "s": 1349495,
+   "h": "f47b3fb47e18fc201d9d3787634ec3c16245fe7375cc182d6e33e0758cb70fe5",
+   "t": 1793517280,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Notes_Lec06_2024-25.pdf",
+   "s": 1014670,
+   "h": "91d8dc6de83f8cdd7d04f823ef2bdfad017e36542a95c498283e3ee46ce365e5",
+   "t": 1793517280,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Notes_LDA-2_2024-25.pdf",
+   "s": 326367,
+   "h": "762141326085d00fe782452c60988e969a9547c27151f35c3f4886f1e30fcc41",
+   "t": 1745855392,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Notes_LDA-1_2024-25.pdf",
+   "s": 697491,
+   "h": "d07904f8db63256ff3f3cd56605b2692685af2419a12eab5d608909cb6ef7f0b",
+   "t": 1745855454,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Notes_Linear-Discriminant-Analysis_2024-25.pdf",
+   "s": 229420,
+   "h": "6d8eba6fa07c988964746f7e45933d80e9c4943f33ccefe2d45acc3a79310ee9",
+   "t": 1793517280,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Slides_Evolutionery-Strategies_2024-25.pptx",
+   "s": 465384,
+   "h": "161acb534fc0bb8a3cf222bb6e64e376951c0980ed44419645a0a70527667274",
+   "t": 1793517280,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Slides_07-Neural-Networks-Mod_2024-25.ppt",
+   "s": 848896,
+   "h": "50588afe74fc55d2a08101e4778e19ebf929f2b8f9b5e8019128e818f1b183b0",
+   "t": 1520429852,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Notes_7-Decision-Trees_2024-25.pdf",
+   "s": 1400364,
+   "h": "1dee57510875899ccfdb01b7d78f6d87f16c60c5212a2a04d376d7f075ae5e51",
+   "t": 1793517281,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Slides_01-Introduction-Orignal_2024-25.ppt",
+   "s": 1400320,
+   "h": "10d5cf147ab2bbe873e124a4f2658f1c954e123e780484bbb00810d59da4ddbd",
+   "t": 1676469146,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Slides_Machine-Learning_2024-25.ppt",
+   "s": 1716736,
+   "h": "f104b9694dc9eb6f7d24d630a7dba03f1af0cfff42f0231f9197bf39518604e7",
+   "t": 1729782796,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Notes_Supervised-Learning_2024-25.pdf",
+   "s": 341492,
+   "h": "a978468919e681301cc787a56812f54f6ef1ea4bf1b12117b2c9ff3bd65138cf",
+   "t": 1730818216,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Slides_ML-MIT_2024-25.ppt",
+   "s": 523776,
+   "h": "b25c0f1babce9fe45e7deb88fc7e9847290273c52ea1d5725fa9816383dd1546",
+   "t": 1729782838,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Notes_ML-Intro-2_2024-25.pdf",
+   "s": 324207,
+   "h": "f4dab7654a65c23f711a685e8d7eb7d73d20353b03b8d2ccab617eeed008734a",
+   "t": 1729782502,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Notes_Forward-Chaining-Example_2024-25.pdf",
+   "s": 85362,
+   "h": "b651b77ab22850ed5bfb583397c08b7df01c84a9f44b5c05934dd6d992d43670",
+   "t": 1793517281,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Slides_02b-Forward-and-Backward-Chaining_2024-25.pptx",
+   "s": 232055,
+   "h": "16b9e2625967c49d9b70edfc9b8ddebc668db98646dc99623352fec8dd4d60ef",
+   "t": 1793517281,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Notes_ML-Intro-1_2024-25.pdf",
+   "s": 779974,
+   "h": "4b074811b42f0d9f66653af587cc9900cf5f305a8414b3518faf4fb0907dc449",
+   "t": 1729782588,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Slides_03-Uncertainty-Mod_2024-25.ppt",
+   "s": 1614336,
+   "h": "1dc9442d400b98e0a0c56daacf10d07d1e6ec115b21b6b04f8b64432458f5cd8",
+   "t": 1626708422,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Slides_CS583-Unsupervised-Learning_2024-25.ppt",
+   "s": 1096192,
+   "h": "263df722ae48513488cbe4c89cf8e486e1e840e7346fb68c275fdd76574b5058",
+   "t": 1730818262,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4322_Power-Quality/Unit-1/Notes_Intro-Power-Quality_2024-25.pdf",
+   "s": 2480466,
+   "h": "56cc46397ebd46460b95f8a3ba2ac33a47e7fe4f7d77f80b96c5fccb397636fe",
+   "t": 1793517281,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4322_Power-Quality/Unit-1/Notes_UNIT-1_2024-25.pdf",
+   "s": 14102351,
+   "h": "f4bde4c948f3d8ce863218956af7390c4f254853832852f01c7512ef7727bbe3",
+   "t": 1738009014,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4322_Power-Quality/Unit-4/Notes_Unit-4_2024-25.pdf",
+   "s": 1729005,
+   "h": "19c337464ca4cd9927d98980229b8373564f4672f927b74be2d109cdef6fbdab",
+   "t": 1793517281,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4322_Power-Quality/Unit-3/Notes_Part-2_2024-25.pdf",
+   "s": 953858,
+   "h": "ef61ad36b7a189ec7a64f7d08bd5c3a28b45a2295a97c612d649aca79b20a61a",
+   "t": 1793517281,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4322_Power-Quality/Unit-3/Notes_Part-1_2024-25.pdf",
+   "s": 2111079,
+   "h": "43308b06c52bbc0e58fedf7e7b57f41302dccc941a8e11d303ede5fa70248aad",
+   "t": 1793517281,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4322_Power-Quality/Unit-3/Notes_U3-Power-Quality_2024-25.pdf",
+   "s": 1652810,
+   "h": "38405e96851722ebab463695be56fbf2e224cb36a4d42aa0fdbaebad8cedecdd",
+   "t": 1745373692,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4322_Power-Quality/Unit-2/Notes_U2-Power-Quality_2024-25.pdf",
+   "s": 1389938,
+   "h": "0c9b65f2f4818d0444808aca1c205c55e3936fc11c0dc89d45e13267edd9d73c",
+   "t": 1746598040,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/Complete-Notes/Notes_Reading-Material-Env-Microbiology_2024-25.pdf",
+   "s": 165470,
+   "h": "cd9d9408b44f4e2794dd485b44e22235575fba87144aa7f002faee9605ffed70",
+   "t": 1793517282,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/Books-and-Resources/Air-Pollution-Lab-Manual_IIT-Guwahati.pdf",
+   "s": 2880163,
+   "h": "bbab698abbeb8970927d86a4515c3b2008669e966a6d73190a0ed6eddb711f18",
+   "t": 1793517282,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/Complete-Notes/Class-Notes_B-Tech-Class-Notes-As-Per-Lecture-Schedule-Un_2024-25.docx",
+   "s": 823498,
+   "h": "08cc2dbea95863cd460739b0c8431fbde9ea89bd3590a373a24156fe16701406",
+   "t": 1793517282,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/Complete-Notes/Notes_Air-Pollution_2024-25.pdf",
+   "s": 8114086,
+   "h": "aaa08b860eba010dc86ba67e794f939f6dc1809d063dd4a152dc68c4776ab27b",
+   "t": 1744136482,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/Complete-Notes/Slides_Final-SOLID-WASTE-Management-Lecture_2024-25.ppt",
+   "s": 9138176,
+   "h": "7b0206f517e67dffba0f4ad5ea5d09132a6b439223abfe43519ab37c23a4726c",
+   "t": 1744136482,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/Books-and-Resources/Formulas-Air-Pollution_2024-25.pdf",
+   "s": 793672,
+   "h": "f55723441b3144e42bc61a3e05fce247d044208c25e79bc4b5c3d1c69c3d5952",
+   "t": 1793517282,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/Complete-Notes/Notes_Water-Quality-Parameters_2024-25.pdf",
+   "s": 57098,
+   "h": "fc562bbf272d8babeb331c42da1876742618570cd4d847dd28ac7290f46851a5",
+   "t": 1793517282,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/Complete-Notes/Notes_UASB-Process_2024-25.pdf",
+   "s": 66703,
+   "h": "0e7fa378a66595fe96265bcb5f57d0702266e9b1e91f97cc5c15ffc0ce10ab9b",
+   "t": 1793517282,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/Books-and-Resources/Formulas-BoD_2024-25.jpg",
+   "s": 232073,
+   "h": "1dd772b6c5fc845a8f214c4e07c2de5c1a1f4259e1f5c05d400f06baaba21837",
+   "t": 1741366968,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/Complete-Notes/Class-Notes_BOD-Example_2024-25.jpg",
+   "s": 225836,
+   "h": "0cc57a21170fefdc5c225887cef73ec593b3e58b120ce8a04f43d12cecd810eb",
+   "t": 1741366912,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4122_Electric-Vehicles-and-Traction/Complete-Notes/Notes_EV3_2024-25.pdf",
+   "s": 1204681,
+   "h": "51d86bccf2c770c701746dcf1802d7d1f74c2b9ef7c4e21648d3868bc8cbb188",
+   "t": 1793517282,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4122_Electric-Vehicles-and-Traction/Complete-Notes/Notes_EV4_2024-25.pdf",
+   "s": 961063,
+   "h": "c0c4cec73afdfc0a85d979586412e8b5e6c2d8b117e2db836832eb5605536be7",
+   "t": 1793517282,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4352_HVDC-and-FACTS-Technology/Complete-Notes/Notes_HVDC-and-FACTS_2024-25.pdf",
+   "s": 5115904,
+   "h": "6ad7d4fa12543557b4507838902fd3a567070bf39c5bfaa10e3745766b119d4f",
+   "t": 1746760530,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Unit-1/Notes_Part-2-Electromaneic-Relays_2024-25.pdf",
+   "s": 6748613,
+   "h": "c4c9c6efea48450b6539e7ead59339e683a3536c78ca2d462d5f23c934ce5dca",
+   "t": 1724120362,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Unit-1/Notes_Protection-Schemes_2024-25.pdf",
+   "s": 2060530,
+   "h": "613cf9755f3507c48d04c8095fde5748ffac5b0fbfc17ce51f36be0a35895a74",
+   "t": 1793517282,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Unit-1/Notes_Busbars-Protection_2024-25.pdf",
+   "s": 584667,
+   "h": "2bae87fe1c08b536718c04774e47dc1f118127516156112def5fe698f3b612b9",
+   "t": 1793517282,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Unit-1/Notes_Lines-Protection-Transmission_2024-25.pdf",
+   "s": 8404098,
+   "h": "3464746246d822be6fedae00de11892ac0d56b6434ded12beec5eeb7ffa98d9e",
+   "t": 1793517283,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Unit-1/Notes_Part-1-Electromaneic-Relays_2024-25.pdf",
+   "s": 6880197,
+   "h": "686f8096a5e50cb8d87facf93250721b0929701f65b53ac1ab7bb66f1f4ce29a",
+   "t": 1724120380,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Unit-1/Notes_Protection-Transformer_2024-25.pdf",
+   "s": 3895948,
+   "h": "ae8e78cdd10380467f52a154b4016bf0ac0a13ec2fc1c098dbc3cee21e0a635e",
+   "t": 1793517283,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Unit-1/Notes_Relays-in-PS-Protection_2024-25.pdf",
+   "s": 1177250,
+   "h": "e09008b23d813ad863254b66b02c7446a4f7b1f3bf2df87d82a1eeb837fc0605",
+   "t": 1728421664,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/PYQs-and-Assignments/Z_Assignment_2024-25.jpg",
+   "s": 1160788,
+   "h": "6ce93d1ca2217f8b03868620552d72d12f80a0437eb3585e8dcb7d7ffc0e09d9",
+   "t": 1793517283,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Complete-Notes/Notes_Circuit-Breakers_2024-25.pdf",
+   "s": 8217923,
+   "h": "fe305a236e4cf0e33afff445a0ddb7b89b16b29a93edaee8ecfd7c343246219c",
+   "t": 1723483332,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Complete-Notes/Notes_Mcapacity-Numerical-and-Chopping_2024-25.pdf",
+   "s": 386016,
+   "h": "44ed1af8e3b4d284dfad7a119b2c19d3f72f38dead8a0c06285ec1179cc4fa81",
+   "t": 1728494870,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Complete-Notes/Notes_Protection-of-Generators_2024-25.pdf",
+   "s": 473631,
+   "h": "f0fbfb8a52e7aaf46bb1bd54f18bd8d50e6a40bedb9fb6cf038c083f6a50ff21",
+   "t": 1732083368,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Complete-Notes/Notes_Alternators-Protection_2024-25.pdf",
+   "s": 4780094,
+   "h": "7ecb90b375423aebad2af5aaa67d0ea59f0247be10daf370950b0848b8f646dc",
+   "t": 1793517283,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/Manuals/Lab-Manual_2024-25.pdf",
+   "s": 3113821,
+   "h": "56f83a1d9c6b480f2790992150e2c7d03df068e6e30f83c3a394b3acd40a10f1",
+   "t": 1793517283,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/Manuals/List-of-Experiments_2024-25.jpg",
+   "s": 157176,
+   "h": "1b14a81695255e74f340632040ac878cba6212aeda31ea24f288ba461a41b2b0",
+   "t": 1727850130,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4942_Power-System-Design/Manuals/Instruction_2024-25.pdf",
+   "s": 253945,
+   "h": "641ed36198666beb7b8da772865d7dbf1e577ceeb4eb0a83874ba79512c2d803",
+   "t": 1793517283,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4942_Power-System-Design/Books-and-Resources/Extended-Conductor-1_2024-25.pdf",
+   "s": 150039,
+   "h": "3be11e901f45a3bf4a522bf935d368832a11ad64b8ee5599fd6831f04e9eb613",
+   "t": 1793517283,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4942_Power-System-Design/Books-and-Resources/ACSR-Conductor-Table_2024-25.jpg",
+   "s": 351348,
+   "h": "1d5eb2c61fd628b807c6112f67e9908ff8c3cf8998b59259c73f25d3b8d1e6e4",
+   "t": 1728070070,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4942_Power-System-Design/Books-and-Resources/M-C-Design-Date-Sheet_2024-25.pdf",
+   "s": 257535,
+   "h": "2278d2cb362c3eb973366564dec69374abc7505ab0a951c0b567aa77534f8f77",
+   "t": 1732683412,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4942_Power-System-Design/Books-and-Resources/Selection-of-Condutor-and-Calculation-for-Sag-and_2024-25.pdf",
+   "s": 295775,
+   "h": "6fe5c90f7d31b925265fddb1f85ba57a005129ab4578dd1f2764b8ff9fff7cad",
+   "t": 1793517284,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4912_Power-System-Protection-Lab/Manuals/Lab-Manual_2024-25.pdf",
+   "s": 981298,
+   "h": "db975b3e1037c135ced72d8f40d19f4261af25cc0dc9ec5435f32fc3d3ee379d",
+   "t": 1793517284,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4312_Power-Station-Practice/Syllabus/EEE4310_Old-Syllabus_2024-25.jpg",
+   "s": 154101,
+   "h": "c659473b779a89b4d5e78c55c5d331953d4a1b6f28e4b1947e43ee350d356103",
+   "t": 1723272596,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4312_Power-Station-Practice/Complete-Notes/Class-Notes_Starting-Lecture_2024-25.jpg",
+   "s": 133729,
+   "h": "573cf422a1d84a3be29e447ba35a12580a6e5ed2e07dff6ebe0fffb5c1df22ee",
+   "t": 1723272620,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-1/Lecture-08_Mapping-S-Plane-Z-Plane-Stability-in-Z-Plane_2024-25.pptx",
+   "s": 11214178,
+   "h": "429f3de04fb807c1afbfcd4ddedb46d42f93669c0d2a0c0381b36a94821b100b",
+   "t": 1793517284,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-1/Lecture-03_Z-Transform_2024-25.pptx",
+   "s": 7762622,
+   "h": "fa466ad2313408cc83baf5c815547eb710693608d2a92ea1e9abc6cd29f529c0",
+   "t": 1793517284,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-1/Lecture-02_Hold-Device_2024-25.pptx",
+   "s": 3510094,
+   "h": "cbf033ebe03a89a2d6f5db6b5aa7000748c1e576996038d3261deca836fd5eeb",
+   "t": 1793517284,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-1/Lecture-05_Sol-of-Difference-Equation_2024-25.pptx",
+   "s": 4720328,
+   "h": "5373978410eb75e3172e03a236af479ad94274bea6bb7b369ffd1ca414c37059",
+   "t": 1793517284,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-1/Lecture-07_Realization-of-Pulse-Transfer-Function_2024-25.pptx",
+   "s": 5819206,
+   "h": "5fac87eec89375d17558b6e3c52a3895a632a85aeaf9193f71cc79776d7c3e3a",
+   "t": 1793517285,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-1/Lecture-06_Pulse-Transfer-Function_2024-25.pptx",
+   "s": 10276900,
+   "h": "139771d806ca8f812d67a18115d9866e92481052e39a54c437d53f5c1053ff48",
+   "t": 1793517285,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-1/Lecture-04_Inv-Z-Transform_2024-25.pptx",
+   "s": 5251848,
+   "h": "5b602ff9ce5589587424e845ee004057391ee0f64de1f608e6fced9c996918b3",
+   "t": 1793517285,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-1/Lecture-01_DigitalControlSystem_2024-25.pptx",
+   "s": 9074194,
+   "h": "e792788cdc30b4de4e8645d8a598f0724e139144b076dcf0f1cba50caa2a3fdb",
+   "t": 1793517285,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-1/Lecture-03_Z-Transform-1_2024-25.pptx",
+   "s": 10667933,
+   "h": "f0ff4e85bbc1f8545368c2f0487108769e5ff076bd53ff707245310f1601c830",
+   "t": 1793517286,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-4/Lecture-19_Stability-of-Non-Linear-System_2024-25.pptx",
+   "s": 14816452,
+   "h": "7546085b53ca4a61d2fc4b475537764499b5e32aeee173415332b720c76e5d77",
+   "t": 1793517286,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-4/Lecture-21_Definiteness-SemiDefinitness_2024-25.pptx",
+   "s": 5750408,
+   "h": "d925a1bdcfdeb07c13aa2416996960797d212cfda8327acbe789b4e65c4594c6",
+   "t": 1793517286,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-4/Lecture-22_Lyapunov-Function_2024-25.pptx",
+   "s": 17457400,
+   "h": "72248b0da9d00d17d95b9edfa7510f9dd54b94d352a2acea421b1868f6a27dfa",
+   "t": 1793517287,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-4/Lecture-20_Stability-of-Non-Linear-SystemII_2024-25.pptx",
+   "s": 10710648,
+   "h": "8e9fdb41617ac1967c6128be1f07430894e8c06e516f22e1c644ec9cbd1abcf6",
+   "t": 1793517287,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-4/Lecture-17_Phase-Plane-Analysis_2024-25.pptx",
+   "s": 19589489,
+   "h": "0e8987e43f6abb0c8864272a049d4e64d962075298828334d910ce90413f78db",
+   "t": 1793517288,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-3/Lecture-16_Describing-Function_2024-25.pptx",
+   "s": 28651201,
+   "h": "4e7849d04f6be01c414f71d46e72c0e517841d0aa7c16518f1ae67721a2212bd",
+   "t": 1793517289,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-3/Lecture-14_Qualitative-Behaviour-of-Non-Linear-Systems_2024-25.pptx",
+   "s": 14706141,
+   "h": "bc0764295030293b4458e012da299a10296ad749edc31b96c9e1f7c6132cdb05",
+   "t": 1793517289,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-3/Lecture-15_Linearization-of-Non-Linear-Systems_2024-25.pptx",
+   "s": 9564848,
+   "h": "868839cd249f98402b2fd19afb552cd849ce4cc5320e9365609b85f4d8dc244f",
+   "t": 1793517289,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-3/Lecture-13_Non-Linear-Systems_2024-25.pptx",
+   "s": 14041972,
+   "h": "57d0cdd2e68b7745884a340d817dbf53ed581c0cc2734907b358c0a6659be154",
+   "t": 1793517290,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-2/Lecture-10_State-Reg-Pole-Placement-State-Feedback_2024-25.pptx",
+   "s": 10200080,
+   "h": "8b8cb17cfc99dfc77e69389cba9f6e34680b5563a89d19223391a9f3781acbe4",
+   "t": 1793517290,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-2/Lecture-12_Stabilizability-Detectability-1_2024-25.pptx",
+   "s": 18321127,
+   "h": "20bf1137fec6347aadc3a1be9cdac6893c2c3d949bf535fc1bc621088d72946d",
+   "t": 1793517291,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-2/Lecture-12_Stabilizability-Detectability_2024-25.pptx",
+   "s": 14247556,
+   "h": "62264fd33d141aa51266eaf62d6e4ec2b184a5c64ffe83b325a6f94cbf52c171",
+   "t": 1793517291,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-2/Lecture-11_State-Observer_2024-25.pptx",
+   "s": 10922012,
+   "h": "cacbb317fce95e7e837441917448b73e3dd178576d764389e5b02ffd01359d70",
+   "t": 1793517291,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-2/Lecture-09_Controllability-Observability_2024-25.pptx",
+   "s": 19166691,
+   "h": "2bc5d98ec15636cae8eb353a2c84eaf4a527dd6d60042778c770bf81d90008ec",
+   "t": 1793517292,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Syllabus/EEC4410_Old-Syllabus_2024-25.pdf",
+   "s": 119065,
+   "h": "2d34f905b74b29460b8221170ff1272c32347de20a470069e5ee7f5d16a66767",
+   "t": 1793517292,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Unit-1/Notes_Life-Cycle-Performance-of-A-Solar-Photovoltaic_2024-25.pdf",
+   "s": 320427,
+   "h": "c35a9992c988fb6266c89c32fb722466908abae1409f435640189cf263f65f22",
+   "t": 1793517292,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Unit-1/Notes_Comparison-of-Various-Solar-PV-Technology-Docx_2024-25.pdf",
+   "s": 126181,
+   "h": "2b00d0f3eae3d251c619d1ad1d33b295cdda4cfbf69982bc3eaa953c346c2252",
+   "t": 1793517292,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Unit-1/Notes_1-Technologysolar-PV_2024-25.pdf",
+   "s": 146602,
+   "h": "15bb709eade7250eb1ce52c368b9f9f25dfbf257ef73bdd9082f8ac5ad9f0092",
+   "t": 1793517292,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Unit-1/Notes_The-Manufacturing-Process-of-Silicon-Base-Solar_2024-25.pdf",
+   "s": 177188,
+   "h": "1d2a654f90ef23e4008d7d26f47e0ddd57cea0f9585e4bc3059b833044f74d0b",
+   "t": 1793517292,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Unit-1/Notes_2-Technologies-Solar-PV_2024-25.pdf",
+   "s": 211122,
+   "h": "e627827725a158218ad05b98e463fe2cdc74777c923a43ced23a6628cb643ef3",
+   "t": 1793517292,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Complete-Notes/Notes_Operation-of-A-Grid_2024-25.pdf",
+   "s": 538393,
+   "h": "2fdc7ee1e80564da7ab01aa348842755d534e68342dc6604093b8fe2d8b1f2db",
+   "t": 1793517292,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Unit-3/Notes_Charge-Controller-for-Li_2024-25.pdf",
+   "s": 199963,
+   "h": "16b04090abb26089fda329989594cb11e787fc614c5827552d3f2761008f6e96",
+   "t": 1793517292,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Unit-3/Notes_Charge-Controller_2024-25.pdf",
+   "s": 521263,
+   "h": "fca8261b7f1367df9d4da66e9d82ee6bbdade62367657db86a66f2ac0793733c",
+   "t": 1793517292,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Unit-3/Notes_Batteries-Study_2024-25.pdf",
+   "s": 1085973,
+   "h": "ba89b02cc90d79335e9898147cb31b0975d535885a94dd1c8612d65728c0da51",
+   "t": 1793517292,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Unit-3/Notes_Design-Example-Solar-PV_2024-25.pdf",
+   "s": 146531,
+   "h": "bed00832dab239b0913e88dea444ecc5d57b27121b9c4ebdbf3968e22304da8c",
+   "t": 1793517292,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Unit-3/Notes_A-Battery-Management-System_2024-25.pdf",
+   "s": 137478,
+   "h": "57dd9aaea3a4b4f0eda707b28a7f96e9c7f596a87796e4ecf90e8be4308d7fd3",
+   "t": 1793517292,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Unit-3/Notes_BMS_2024-25.pdf",
+   "s": 3324166,
+   "h": "be24b3d46e8f7b82cc897f00fdffbc6fd1fdec98b0c8d89d236493d494b7dc37",
+   "t": 1728279762,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Books-and-Resources/Summary-Battery-Specifications_2024-25.pdf",
+   "s": 74404,
+   "h": "551e3b94161a265fb593529e7c354388af24627e51dc9a23001ca69b4a375452",
+   "t": 1793517292,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Complete-Notes/Class-Notes_White-Board-Pic_2024-25.jpg",
+   "s": 1341965,
+   "h": "1a33c2cf0c1a819b81154e9657c7bce822c494dc896b34a0ec23a8ae6ae6ee0f",
+   "t": 1793517293,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Books-and-Resources/SOC-Formula_2024-25.pdf",
+   "s": 185138,
+   "h": "b20fffd3ffa972a604708ae8f41b46c2a433dabacc26dfc5f43d01764d95fd33",
+   "t": 1793517293,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Unit-2/Notes_Psoppt_2024-25.pdf",
+   "s": 2733393,
+   "h": "b56b070545c25927f8a239e1ea9e28b485edf8baadabcc5f81e2f211ea4fb3a7",
+   "t": 1793517293,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Unit-2/Class-Notes_Incremental-Conductance_2024-25.jpg",
+   "s": 1869065,
+   "h": "90a3730508040e2b052392f06198d595eb4f2cb74d1001e79b6c90964be62fa2",
+   "t": 1793517293,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Unit-2/Notes_Various-Types-of-Stand-Alone-Solar-PV-Configura_2024-25.pdf",
+   "s": 182187,
+   "h": "ab9c291f8deb11cadf1e96c0fa6bf33d62b292f29ded58453c73c3a42a33a418",
+   "t": 1793517293,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Departmental-Electives_Sem7_2021-Scheme_Syllabus.pdf",
+   "s": 553346,
+   "h": "2862828bbba6601ebc12e004358f4e6fab09fc641e9cc0494df29bc802e80bc4",
+   "t": 1793517293,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4222_New-and-Renewable-Energy-Sources/Unit-2/Notes_RES-Unit-2_2023-24.pdf",
+   "s": 4978825,
+   "h": "03e60e09120ef3c75df306f9056edcf8e004b4a1275ca06177ce39f8d7a3155e",
+   "t": 1793517293,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4222_New-and-Renewable-Energy-Sources/Unit-3/Notes_RES-Unit-3_2023-24.pdf",
+   "s": 1772182,
+   "h": "8a92b063c6309b570a84fa8a3dcaaa45c1913ec654879f2b2ba9650518eef0ab",
+   "t": 1793517293,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4222_New-and-Renewable-Energy-Sources/Unit-1/Notes_RES-Unit-1_2023-24.pdf",
+   "s": 6156541,
+   "h": "a567fc09ea7bd97abf2dcada0861fbbd81e614307c3b7ef2d7c7c053fc39c993",
+   "t": 1793517293,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4222_New-and-Renewable-Energy-Sources/Unit-4/Notes_RES-Unit-4_2023-24.pdf",
+   "s": 1512093,
+   "h": "a6c74808ffa6b05964597f538518b886a0fa31fa071234f5d14c7c7d10e1fd01",
+   "t": 1793517294,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4222_New-and-Renewable-Energy-Sources/Complete-Notes/Class-Notes_Renewable-Energy-Resources_2023-24.pdf",
+   "s": 11922528,
+   "h": "bae74b18806b73dce75fc69e6f4db0dee72a80353504152a879243e34f1aafb3",
+   "t": 1707145892,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Books-and-Resources/8051-Instruction-Datasheet_2023-24.pdf",
+   "s": 374169,
+   "h": "40446a9bc527dbb58dfc34aa9964b2690d753668897ed43aabe477bb22a9af3e",
+   "t": 1707242664,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Complete-Notes/Notes_Ram-Structure_2023-24.pdf",
+   "s": 731200,
+   "h": "7ab66cd6a5b6edbee90900687327a2a85d095da4fc2ddb16cf24a6f3be5be316",
+   "t": 1707242824,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Unit-3/Notes_UNIT-III-Introduction-to-Microcontroller-1-92_2023-24.pdf",
+   "s": 2961500,
+   "h": "78d55b701ca78db38325c86fa9de058b828ff00c4abe8daf8de0ebe804be4372",
+   "t": 1706540296,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Books-and-Resources/Instruction-OPcodes_2023-24.pdf",
+   "s": 896362,
+   "h": "eda0ae66223d41f3084eed81da1b24ebaa3280ac4a2b264e15db39349599155b",
+   "t": 1707934738,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Complete-Notes/Class-Notes_Complete-Notessss_2023-24.pdf",
+   "s": 24936376,
+   "h": "0aa00c54150440891d2cc0e4cb9958a4bd372e7d983f684c5530c015af06a77b",
+   "t": 1716361118,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Complete-Notes/Notes_Machine-Cycles_2023-24.pdf",
+   "s": 432000,
+   "h": "1d97513041221b13e1a48b5e5159d9eaf91eee697f8f5f374485b421076657ac",
+   "t": 1708105782,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Unit-4/Notes_Unit-4-Diagrams_2023-24.pdf",
+   "s": 944924,
+   "h": "42fe9f44e303a7f91581dee6eb535e06091d9c013c1c785e62441cf0c4b1520c",
+   "t": 1716339548,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3322_Electrical-Power-Generation-and-Utilization/Complete-Notes/Notes_Reactors_2023-24.pdf",
+   "s": 3875472,
+   "h": "74c3a40bfb8016461443280d1126a669b41be72ea4cf3c3ea7fb28241104daee",
+   "t": 1716087086,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3322_Electrical-Power-Generation-and-Utilization/Complete-Notes/Class-Notes_PS1-Lecture-Notes_2023-24.pdf",
+   "s": 541923,
+   "h": "6aaa83aaaad3f9c0490bd916953152db13b0bf9560f205f948aba3638ea086ce",
+   "t": 1716087086,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_General-PYQs/Mid-Sem_2023-24_Sem6-All-Courses.pdf",
+   "s": 18727257,
+   "h": "6f78f5112d72688da11b27076eec0abdf77c547f90608336054c5c847f71edef",
+   "t": 1708015654,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020-EEZH3020_Intellectual-Property-Rights-for-Engineers/PYQs-and-Assignments/PYQ-Collection_IPR-Solution.pdf",
+   "s": 389540,
+   "h": "825dfd63c48caee711f6693effd02769afb538972a8ae6483f2261b55eba2e58",
+   "t": 1793517294,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Manuals/Experiment-3_HV_2023-24.pdf",
+   "s": 1169423,
+   "h": "3e19c55fa6e2dd83817ab110d92a3e9d8f831227d614ae954384d4d3e4c7dcca",
+   "t": 1714333752,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Manuals/Lab-Manual_2023-24.pdf",
+   "s": 2629108,
+   "h": "14bb0072f94ddf1a3191ead3a8a31a55ba51e5f26c14c3919b94c3ca4ba10ab6",
+   "t": 1793517294,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3112_Electrical-Drives/Unit-3/Notes_Unit-III-IV-Electric-Drives_2023-24.pdf",
+   "s": 28460,
+   "h": "2c9becdb1f8dbffbe486cf48429c88b3ee4062192fc13cebdedae2e1dd03d788",
+   "t": 1793517294,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3112_Electrical-Drives/Complete-Notes/Notes_Rotor-Resistance-Control_2023-24.pdf",
+   "s": 1844704,
+   "h": "db5e83f43950a1ae2c3f455d19a37b3076632ccb5410252024a7f10e0b8e8307",
+   "t": 1714339698,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3112_Electrical-Drives/Complete-Notes/Notes_Slip-Power-Recovery-Scheme-Electrical_2023-24.pdf",
+   "s": 8721072,
+   "h": "5b4f7f2520a0d191b29c8fe6c2af97ca9bb63fc0c96f4b2f84677b85966a37de",
+   "t": 1714591490,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3112_Electrical-Drives/Complete-Notes/Notes_Pole-Changing_2023-24.pdf",
+   "s": 4213973,
+   "h": "34c986bf7e5805804929eabe7e465f224f5efcba39775a803c67ff97edc249f5",
+   "t": 1793517294,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3112_Electrical-Drives/Complete-Notes/Notes_Kramers-Drive_2023-24.pdf",
+   "s": 3101642,
+   "h": "79215fb90722979f521db633b737fa086c8c6fe2da992d84d874815e211e66ba",
+   "t": 1793517294,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3112_Electrical-Drives/Unit-1/Notes_Electric-Drives-Unit-I_2023-24.pdf",
+   "s": 834641,
+   "h": "1f1f225fd61364068117951d9c232eeafa040d426f0c49069bf98b3a8256629d",
+   "t": 1793517294,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3112_Electrical-Drives/Unit-2/Notes_Unit-II-Electric-Drives_2023-24.pdf",
+   "s": 548197,
+   "h": "8c3d570c3494365f76332d0e19e44d41f41c92331246f8d704582451e1606cd4",
+   "t": 1793517294,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/Complete-Notes/Notes_Stability-of-Linear-Control-System_2023-24.pdf",
+   "s": 1974375,
+   "h": "da31398fca0c3d4070d188313cfe4efae6a45be81582223536cd01db2cdcaf44",
+   "t": 1793517294,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/Unit-2/Notes_Unit-2-Servomechanism-and-DC-Motor-Control-Arm_2023-24.pdf",
+   "s": 1454967,
+   "h": "857106718948e246afffba59e9d91a14f0bcfcd28001c3992d9248c1bd42ec0a",
+   "t": 1793517294,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/PYQs-and-Assignments/Z_Assignment_2023-24.pdf",
+   "s": 170543,
+   "h": "269245b9d80b09c8dcec1b63fe5ca98bcfe50e57d425211557498a771948b55e",
+   "t": 1793517294,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/Unit-2/Notes_Unit-2-Stepper-Motor_2023-24.pdf",
+   "s": 153271,
+   "h": "2438df35f6811f411744644366b440e1cd4aa20fe26f9462ecae38b76c50b1a8",
+   "t": 1793517294,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/Unit-3/Notes_Unit-3-PID-Controller_2023-24.pdf",
+   "s": 1923708,
+   "h": "ab041b2eb0047cbf3be2b28d742d3c3cb04d8c9cdd3b6c5de1404ddfd2133672",
+   "t": 1713802564,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3932_Instrumentation-Lab/Manuals/Lab-Manual_2023-24.pdf",
+   "s": 1022572,
+   "h": "619f8236b55006968122d12c991553177e0122100c7726db2349fed432076638",
+   "t": 1793517295,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3932_Instrumentation-Lab/Syllabus/EEC3930_Old-Syllabus_2023-24.jpg",
+   "s": 190445,
+   "h": "d6be4a0546095010a0c7a56e38f833e502d9d85cafea59dce97c5dd2436cf57a",
+   "t": 1793517295,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Manuals/Experiment-9_Simulation_2023-24.pdf",
+   "s": 288043,
+   "h": "16c50d950d479ebf92f7f0726ae6822d44906ef655f097efe51c8551b0d48feb",
+   "t": 1696121236,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Manuals/Lab-Manual_2023-24.pdf",
+   "s": 6516440,
+   "h": "9c868eedce002a073be6a7e47bbd063e73e56557a356d7326212fb4ebcf64d2e",
+   "t": 1691294254,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_General-PYQs/Sem-End_Sem5-Papers-Collection.pdf",
+   "s": 2942720,
+   "h": "e0a2a9fce9696172f3a72bc7e0852d8c304be4b6f5ef8049dd38a57910da1e69",
+   "t": 1694840218,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_General-PYQs/Mid-Sem_Sem5-Papers-Collection.pdf",
+   "s": 1854845,
+   "h": "8984fea8714515daadb919f954dfda8eaad947c8e5579fe2e4490f7f14d4fb0f",
+   "t": 1694840124,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Unit-1/Notes_Lecture-Frequency-Meter-4-09_2023-24.pdf",
+   "s": 1720541,
+   "h": "4d4946e6be3776298d2dd516e0131ac49f83a0ed0755ccb6b1c01fbbf32cc1ca",
+   "t": 1793517295,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Unit-1/Notes_Digital-Voltmeter_2023-24.pdf",
+   "s": 979116,
+   "h": "03112b63e68c670f47dbf86d69e6bf1fa2fe671970f2f57a33e342456899d37e",
+   "t": 1691035822,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Unit-1/Lecture-03_2023-24.pptx",
+   "s": 1978335,
+   "h": "cc9625e1d7692f376d2dbbfaf78807526d0f7be2089269887b97048f3ffd9856",
+   "t": 1793517295,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Unit-3/Notes_Edi-Transducer_2023-24.pdf",
+   "s": 10816490,
+   "h": "a6898d4b0b3bd34c328cec0bb884994a8dc63545d57f28829190ba36dc06f311",
+   "t": 1793517296,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Unit-3/Notes_Piezoelectric-Transducer_2023-24.pdf",
+   "s": 283458,
+   "h": "333b4f3889d1f8c586eb4790a47a4cc58499fe82543e4d4aa5c7c84cb3470bec",
+   "t": 1793517296,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Unit-3/Notes_Data-Logger-Intro_2023-24.pdf",
+   "s": 204996,
+   "h": "a0bf230f915de1ae552b6bf622af812a49e3868b780c06cfd128565a96822305",
+   "t": 1698681226,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Unit-3/Notes_Hall-Effect-Sensor-3P_2023-24.pdf",
+   "s": 314829,
+   "h": "5f73813d22c6996deba106bc15b90de5f0bbe38846ba9ca9d3407f1cafa1f878",
+   "t": 1670587624,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Unit-3/Slides_Sensor-Transducer-Problems_2023-24.pptx",
+   "s": 369670,
+   "h": "be3e4b371ca8c316b3ec7bd4c259ab848b71d90ea7a4111f6e33fd10d79cf864",
+   "t": 1793517296,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Unit-3/Notes_Capacitive-Transducer_2023-24.pdf",
+   "s": 245691,
+   "h": "4e699f8b1f5460d556ba743c8090b4c0909222861da152f33fd5d326b9dba422",
+   "t": 1793517296,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Unit-3/Slides_Transducer-Kalsi_2023-24.ppt",
+   "s": 5874176,
+   "h": "a5c83c14eaef7598e61ac4ea87a6e0dd9efce30ca0429003643ff5f976ad55ea",
+   "t": 1732887068,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Unit-2/Notes_Data-Transmission-and-Telemetry_2023-24.pdf",
+   "s": 1934055,
+   "h": "cd517184122eaeb2e431ab927c43b43e369256a00e09fe494a4a6c6e19e8edf8",
+   "t": 1732901490,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Unit-2/Notes_Telemetry_2023-24.pdf",
+   "s": 1736987,
+   "h": "2bf790dc27e9555fd3fb1b564583909864caf4390c024602421a410b7a767ebd",
+   "t": 1793517296,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Unit-2/Notes_Unit-II-17-09_2023-24.pdf",
+   "s": 1231922,
+   "h": "506765be7e8d10e75cd7c2be5f8d5b3b2eada099a10b9acb71399051f42003fe",
+   "t": 1793517296,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Unit-2/Slides_TDM-FDM-Ch6-1-V1_2023-24.ppt",
+   "s": 752128,
+   "h": "3c9d3b4d5646e0171209e6342aae3e4692fa5b5bca8a28bd33ac817f6cbdddce",
+   "t": 1732887086,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/Complete-Notes/Class-Notes_Single-Phase-Inverter-Notes_2023-24.pdf",
+   "s": 2690121,
+   "h": "ef3bfd861835f34bb203cabe041cab661c3e0987818f0fd38c57c04a1bb559e8",
+   "t": 1793517296,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/Unit-2/Notes_Unit-2-Regulators_2023-24.pdf",
+   "s": 9058882,
+   "h": "8f6dc65eba53e1c78c365ecc7f72c267f6a86fab87bec627c052e62e770d07ec",
+   "t": 1701385146,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/Complete-Notes/Class-Notes_Non-Isolated-Converters_2023-24.jpg",
+   "s": 109050,
+   "h": "52bc57cb7a249bd8caed133d377d159ef7ac5e9194d9c503a76f03f1b1f33156",
+   "t": 1695955472,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/Unit-3/Notes_Unit-3-3-Phase-Inveter_2023-24.pdf",
+   "s": 2994528,
+   "h": "ec6cd56c6c143260034b92d14edcf7c94bb8563c982333d1fe376253c42ded04",
+   "t": 1793517296,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/Complete-Notes/Notes_Fourier-Series-for-Output-Voltages-of-in_2023-24.pdf",
+   "s": 83710,
+   "h": "1345003b351fe620569939de701f1ae0139c483e9d879abb124bd4521398ce8b",
+   "t": 1793517296,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/Unit-3/Notes_Unit-3-1-Phase-Inverters_2023-24.pdf",
+   "s": 1745271,
+   "h": "be841c0dfdfd0875126a84eb239e20d4d7b0c0998517d7b797dbd61f0bc5bc3d",
+   "t": 1701386000,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/Unit-1/Class-Notes_PE-Unit-1_2023-24.pdf",
+   "s": 13998964,
+   "h": "9cc44418048c0ac4d634b39be98d419d8a045b0c5acee7fe1bcc96bc3790acf3",
+   "t": 1694640834,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/Complete-Notes/Class-Notes_Isolated-Converters_2023-24.jpg",
+   "s": 114147,
+   "h": "0bf49cd6a4c491b9b3e0fba1cf22e7b6ba797940b3f4563b32c8caed8d8de572",
+   "t": 1695955472,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/PYQs-and-Assignments/Mid-Sem_2022-23.pdf",
+   "s": 230361,
+   "h": "2f32545c2be29c2a5ce6e4ef0a44fece1d5c5fd44c0d6779131dee85a0560091",
+   "t": 1695274456,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/Complete-Notes/Notes_Streamer-Theory_2023-24.pdf",
+   "s": 2478848,
+   "h": "38755cff47a8194907bf76d2a1d41779141b64085e4a81f7a923b1ff1099b1bf",
+   "t": 1793517297,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/Complete-Notes/Notes_Van-De-Graff-and-Marks-Circuit_2023-24.pdf",
+   "s": 215484,
+   "h": "25fe7a5392a769a5c00c190593e42e87e694eebd9f87b7c005596ce0f76661dc",
+   "t": 1699071786,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/Complete-Notes/Class-Notes_IMG-20231117-Wa0000_2023-24.jpg",
+   "s": 137814,
+   "h": "aff5c169ae8b0b4e3cba318a5d302285c4f171526e13e7dac0b86d4ba2cd500e",
+   "t": 1702166958,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/Syllabus/ACO3080_Old-Syllabus_2023-24.jpg",
+   "s": 723314,
+   "h": "587aa853403c433498023e5998502298c4bb6101c501be9bcf4da1222245408a",
+   "t": 1793517297,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/Complete-Notes/Notes_2-Air-Pollutants_2023-24.pdf",
+   "s": 2693866,
+   "h": "120de00cd23fc4c1918e755142f028130304ba102775a4c11bdf7bd60cf25625",
+   "t": 1793517297,
+   "meta": {
+    "year": "2023-24",
+    "professor": "Yasser",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3312_Power-System-Analysis/Unit-1/Notes_PSA-Unit-1_2023-24.pdf",
+   "s": 28229616,
+   "h": "e9e385722eca5e37feb7b9eaf5c02639b43d2ca729885b98a7f033c3566b39bf",
+   "t": 1692481162,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3912_Electronics-Engineering-Lab/Manuals/Lab-Manual_2023-24.pdf",
+   "s": 7804312,
+   "h": "b3f186959072055825a5a35f9d11b94a560086add88e9b68328f4f5badf8dfb9",
+   "t": 1690161070,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3022_Fundamentals-of-Communication-Engineering/Complete-Notes/Notes_OpticalFibre_2023-24.pdf",
+   "s": 1726081,
+   "h": "1771a6d87328be14d517f70ace543e6bf490151637dbb27222628796e1dab8be",
+   "t": 1793517297,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3022_Fundamentals-of-Communication-Engineering/Complete-Notes/Notes_Analog-Modulation_2023-24.pdf",
+   "s": 381340,
+   "h": "2724fcf83f44180a5f09ca3daeb500e0fc350665a036f75d3d8450e14a7f72a5",
+   "t": 1692899580,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3022_Fundamentals-of-Communication-Engineering/Complete-Notes/Notes_DPCM_2023-24.pdf",
+   "s": 191003,
+   "h": "0a24f9a023714d9ef74d9dd6eefde28bbd59def8a793b5578536e2c7a8bdcd35",
+   "t": 1793517297,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3022_Fundamentals-of-Communication-Engineering/Complete-Notes/Notes_Information-Theory1_2023-24.pdf",
+   "s": 1482642,
+   "h": "c9d55b5ffaefaab27c7471bb1cf946724787ecbac0858b53c3cd4eaf83ae6823",
+   "t": 1793517297,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3022_Fundamentals-of-Communication-Engineering/Complete-Notes/Notes_Mobile-Comm-Foc_2023-24.pdf",
+   "s": 868395,
+   "h": "622d4b2e5aa71ac88a1545e105363ae583532c2c915a0e746fa72decaa434272",
+   "t": 1700586822,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3022_Fundamentals-of-Communication-Engineering/Complete-Notes/Notes_Time-Division-Multiplexing-TDM_2023-24.pdf",
+   "s": 224420,
+   "h": "c4407b20169d37602a56f7928743d0d02519dbf4ea554fdc8edee40efd8b76f9",
+   "t": 1793517297,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3022_Fundamentals-of-Communication-Engineering/Complete-Notes/Notes_Wireless-Mobile_2023-24.pdf",
+   "s": 775840,
+   "h": "21e31ec263010840bfb17f5d0024ec2d2c9002b04bb74fba4c8ea09f841afb06",
+   "t": 1793517298,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3022_Fundamentals-of-Communication-Engineering/Complete-Notes/Notes_Pulse-Modulation_2023-24.pdf",
+   "s": 6045878,
+   "h": "daf562302f3cc2cf086775e39540166f9b8031995b458da847bdacf90305bde3",
+   "t": 1793517298,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3022_Fundamentals-of-Communication-Engineering/Complete-Notes/Notes_MultipleAcessTech_2023-24.pdf",
+   "s": 2256188,
+   "h": "2f493370cf6d3480e84e75716df3988ac9f8ac31b7013fcd785a34c3e324bede",
+   "t": 1701186580,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3022_Fundamentals-of-Communication-Engineering/Complete-Notes/Notes_Line-C-R_2023-24.pdf",
+   "s": 4686502,
+   "h": "dc9e4d77518ae6f19c513db483ea418e3a8a1e7ce5db5beef339bba145da6276",
+   "t": 1701186580,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-1/Lecture-07_2022-23.pptx",
+   "s": 7586166,
+   "h": "0fee960189beabf51db29694d9a16791f921d35b830d9aacbf87acdf83725388",
+   "t": 1793517299,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Complete-Notes/Notes_Genetic-Algorithm_2024-25.pdf",
+   "s": 4782852,
+   "h": "1f8642f5e2f7e11664216aa4890908846bd2ca3317234ad3eb4b649f0df5dfee",
+   "t": 1746252324,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Unit-4/Lecture-18_Phase-Portrait_2024-25.pptx",
+   "s": 36032554,
+   "h": "688c92217be193981d621be1756f1630c335c823a13623a82fbfdb1874c4ed11",
+   "t": 1793517300,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Unit-1/Slides_Phase-Meter-Etc-2023_2023-24.pptx",
+   "s": 34062050,
+   "h": "916985f85eed50de85005c5efb3b9116c02bee25191a261f64ddc4c9c69b3aa2",
+   "t": 1793517301,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  }
+ ]
+}

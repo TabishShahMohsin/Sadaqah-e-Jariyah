@@ -1,0 +1,1539 @@
+{
+ "id": "20261101-094051-gk7093-rest",
+ "created": "2026-11-01T09:40:51+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "credit": "gk7093",
+  "note": "rest of the Electrical material collected by gk7093"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Lab-Record_2021-22_Fareha.pdf",
+   "s": 21368133,
+   "h": "d9f23a392eb8891cbf45aad8c5c0f172335048c809dd7292e7cb7733ac7ea713",
+   "t": 1793526011,
+   "meta": {
+    "author": "Fareha",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment-2_2021-22_Solution.pdf",
+   "s": 78449553,
+   "h": "3fc0870ee447b9dca96b8fb79b51769e20abe2a6212415cbe3fb0e64879f2287",
+   "t": 1658976594,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Mid-Sem_2021-22_Notice.pdf",
+   "s": 207052,
+   "h": "7a37b2c400fe9cf14e9f55484adbc768062dce59e20cb41a2be8ccd7871360cb",
+   "t": 1793526011,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-3/Class-Notes_Biodiversity_FROM_AMU_Cloud.pdf",
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/Books-and-Resources/Environmental-Science_Full-Semester-Notes.pdf",
+   "s": 1922182,
+   "h": "9e864d50081df0a2466e43c4364e9ccc27a45103c9385626afcadb07bdbf0d52",
+   "t": 1793526012,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Program-3_Output_2021-22.txt",
+   "s": 517,
+   "h": "8b5a35bb73925c569a54f293d9d4e154d5a55a2e9dfc867004d2c38ae152dacf",
+   "t": 1649218508,
+   "meta": {
+    "author": "Prajjawal Deep Yadav",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Program-3_2021-22.c",
+   "s": 1360,
+   "h": "7b8e9b7ea278eb69429939b5772f6c5effa4629ef943ef6965f71950d9e7b7f9",
+   "t": 1649217998,
+   "meta": {
+    "author": "Prajjawal Deep Yadav",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_Exercise_Curve-Tracing_2021-22.md",
+   "s": 361,
+   "h": "839f867b8e9849d345581946550115d4e59d8924bad6f3ccbb9cbaf53d104fef",
+   "t": 1793526012,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Books-and-Resources/Mid-Sem-Form-Notice_2021-22.md",
+   "s": 366,
+   "h": "5b111a1852b9759e95665e2e7e519905add8862c8a429ce25e625ecfbe70fb96",
+   "t": 1793526012,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_Exercise_Unit-3_2021-22.md",
+   "s": 351,
+   "h": "e4448057663237050057a018995cbafe3e744fc80ad7bf564834cbee15aef7e1",
+   "t": 1793526012,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Books-and-Resources/CP-Book_Unit-2.md",
+   "s": 340,
+   "h": "4b8199cfe84feaa83da698435e3352358f89690658ce0e499650cc9afb44cb89",
+   "t": 1793526012,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_Exercise_2021-22_Answers.md",
+   "s": 358,
+   "h": "4f97d87a8aad617d59258c285a12f384c7ef30593951c65e514fc9344a3284fe",
+   "t": 1793526012,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_Exercise_Infinite-Series_2021-22.md",
+   "s": 370,
+   "h": "c7e845c4f1a2f05a1e0a989eb253192918dfe575ac7bfb6920732324912845f0",
+   "t": 1793526012,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Syllabus/AMS1110_Old-Syllabus_2021-22.md",
+   "s": 357,
+   "h": "a153fb3561dc5404c55989412c30785f790118e5c480a386c959884fdbf40178",
+   "t": 1793526012,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Lecture-01_Curve-Tracing_2021-22.md",
+   "s": 359,
+   "h": "e710677ec15a8fc992e4d0ba9ae5886283848ef108c0aefaa3872fb51d9a3a5e",
+   "t": 1793526012,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Lecture-05-06_Successive-Differentiation_2021-22.md",
+   "s": 377,
+   "h": "4532ea586fb401eeec674c3d75b2ae786d32ffe8e82f418cfb98559887d5c30d",
+   "t": 1793526012,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Lecture-02_Curve-Tracing_2021-22.md",
+   "s": 359,
+   "h": "77b693e5ed1509b8da9a08b680d71b4dfa92b38eac6280eed956eafa4d617abd",
+   "t": 1793526012,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Lecture-03-04_Curve-Tracing_2021-22.md",
+   "s": 365,
+   "h": "6a7013efbf620c46bbb7d1951de7328999b944e3cc811f1b9f68cad870d1e1ec",
+   "t": 1793526012,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Lecture-07_Successive-Differentiation_2021-22.md",
+   "s": 371,
+   "h": "981c96379dc68ed704e400ba475ceee3583aae2b795f2f5fab59db384baecd7c",
+   "t": 1793526012,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/Notes_Volume_2021-22.md",
+   "s": 337,
+   "h": "b22d8c0847054aad4da9581ac4c6d5956047050b3b6efa288f39a7be2cde5f75",
+   "t": 1793526012,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/Notes_Rectification_2021-22.md",
+   "s": 351,
+   "h": "675d59f39178f1f19d902e4ce50f0fdd29c106e07f2d779e26229a1ff7a35455",
+   "t": 1793526012,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/Notes_Surface-Area_2021-22.md",
+   "s": 344,
+   "h": "f1f9eaf5acec86e17443b77f2b258a1719b934725c44089bd6a2daf8d8be83c7",
+   "t": 1793526012,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/Notes_Gamma-Function_2021-22.md",
+   "s": 354,
+   "h": "130b0fd61db13dfd8b9ad243c10cf6598a09ae84ccf2614d83c2f3f5a70f2939",
+   "t": 1793526012,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Books-and-Resources/Contributor-Note_Teacher-Removed-Access_2021-22.docx",
+   "s": 7125,
+   "h": "0801bd4a6583f88490ae198264c97b10b65924689deaa0391ac054c53c33ba50",
+   "t": 1758326156,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Books-and-Resources/Contributor-Note_Teacher-Removed-Access_2021-22_2.docx",
+   "s": 7138,
+   "h": "06d259060eeed3c8c82807bd44959345b58b02ab5c1a7348c08a60cc46c8bd07",
+   "t": 1758326414,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Lecture-05-06_Ordinary-Differential-Equations_2021-22.md",
+   "s": 380,
+   "h": "84acc86bca9c2f40c2f93d80efe37f3de64701b55bb24392e25e509bb41912dd",
+   "t": 1793526012,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Kamrujjaman",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Lecture-02_Ordinary-Differential-Equations_2021-22.md",
+   "s": 375,
+   "h": "b803ac49c5064c52f47b24adbd100d77c64d964065c8f246587bb89e1f150ea4",
+   "t": 1793526012,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Kamrujjaman",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Lecture-01_Ordinary-Differential-Equations_2021-22.md",
+   "s": 375,
+   "h": "7d64e02786d3d7ed468208b7a50501e23efb43f8fe2e25837818c82d290cd1b4",
+   "t": 1793526012,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Kamrujjaman",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Lecture-08_Ordinary-Differential-Equations_2021-22.md",
+   "s": 375,
+   "h": "b7cbbb1a0aa8201811074f8346f1d95a33a360652d51986101c4dd4a49d57171",
+   "t": 1793526012,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Kamrujjaman",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Lecture-03-04_Ordinary-Differential-Equations_2021-22.md",
+   "s": 381,
+   "h": "66e4a47308731cfeb712737bd831d4f6f15f5e6027cce61c54833a85c8ed073c",
+   "t": 1793526012,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Kamrujjaman",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Lecture-07_Ordinary-Differential-Equations_2021-22.md",
+   "s": 375,
+   "h": "d781558c7c92aa1681ce40bdb67144a98aa9f40b01e9c400119c762a4a0108d8",
+   "t": 1793526012,
+   "meta": {
+    "year": "2021-22",
+    "professor": "Kamrujjaman",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2512_Electrical-Measurement/Books-and-Resources/Iron-Loss-Measurement_Book-Extract.pdf",
+   "s": 1288055,
+   "h": "08e2a0a4da8509d9cbf1b285244a94b169f3bda883148ac93ccbcd399de282c3",
+   "t": 1793526012,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Hasan-Sir_2024-25_Present worth 2.ppt",
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Hasan-Sir_2024-25_Time value Money.ppt",
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/2022-23_Economic Indicators.pptx",
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Hasan-Sir_2024-25_Annual Worth.ppt",
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-4/Depreciation_2025.pptx",
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-4/2022-23_Replacement Analysis.pptx",
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/2022-23_Present worth analysis with unequal lives_F.ppt",
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/Unit-3/Class-Notes_Synchronous-Machines_2021-22.pdf",
+   "s": 15914219,
+   "h": "faa991460f26bba4641f98a2f761c34afdefceddccbd0a54db8437662cd4da06",
+   "t": 1793526012,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/Books-and-Resources/DC-Motor-Numericals_Book-Chapter.pdf",
+   "s": 464459,
+   "h": "e4285c95737f3ad43b0e049e6faf66c6840a1d16e0072ac2430df9b0a61b9fde",
+   "t": 1683120986,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Records/Experiment-1_2022-23_Kshitij.pdf",
+   "s": 1630686,
+   "h": "c4ee866f68dc4d093a31ebda9fa320a6a83f65f69e41811a71cc5af974446ccc",
+   "t": 1682714552,
+   "meta": {
+    "author": "Kshitij Maheshwari",
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Records/Experiment-8_2022-23_Kshitij.pdf",
+   "s": 966358,
+   "h": "cb1239173f61e29aeba1d100e26d2170e0b1909e883b6672c4a5a0c5abbd8177",
+   "t": 1680884904,
+   "meta": {
+    "author": "Kshitij Maheshwari",
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Records/Experiment-3_2022-23_Anuj.pdf",
+   "s": 4242769,
+   "h": "a20216271c67c71b8662e8d9c3c34240a1e97f4690d12e99be70b823277454e0",
+   "t": 1680885016,
+   "meta": {
+    "author": "Anuj",
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Records/Experiment-2_2022-23_Kshitij.pdf",
+   "s": 1357943,
+   "h": "503b61ed6b9118720bc97e1c028a016dc7cb2403a7363318cdf4f7de9a2e8e2d",
+   "t": 1683305582,
+   "meta": {
+    "author": "Kshitij Maheshwari",
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2922_Electrical-Machines-Lab-II/Manuals/Grand-Viva-Notice_2022-23.docx",
+   "s": 12299,
+   "h": "a5457aad192c5cb828de80879593dc9a8095e7355af2ca821354e05308d17480",
+   "t": 1793526012,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2922_Electrical-Machines-Lab-II/Records/Experiment-8_2022-23_Kshitij.pdf",
+   "s": 4358945,
+   "h": "6bc0bd15f345bb2e2794a2824194536664bd16c6b9b618e6098778b76bb30554",
+   "t": 1680117514,
+   "meta": {
+    "author": "Kshitij Maheshwari",
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-2/Class-Notes_Two-Port-Networks_2022-23_Chaitanya.pdf",
+   "s": 15521469,
+   "h": "bc254e5035b08a103ef07493b4c401d870fa09ba634208e5f78f837a99bb6d05",
+   "t": 1672248620,
+   "meta": {
+    "author": "Chaitanya Upadhyay",
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/PYQs-and-Assignments/Z_Assignment_2022-23_Solution_Chaitanya.pdf",
+   "s": 22343554,
+   "h": "eeadff49a6ec453daf658cf653568b4ccc077acfb5d0cd9287227918b21961cb",
+   "t": 1672248634,
+   "meta": {
+    "author": "Chaitanya Upadhyay",
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Books-and-Resources/Dekker_Electrical-Engineering-Materials.pdf",
+   "s": 22431485,
+   "h": "3a91bdb88fb837da66e5e3e13bf249ac75beadc86a386a2fc441137befab45f0",
+   "t": 1793526014,
+   "meta": {
+    "author": "A. J. Dekker",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Books-and-Resources/Solymar-Walsh_Electrical-Properties-of-Materials.pdf",
+   "s": 3620899,
+   "h": "39662a8424d0cded83e03677d5086960fdb64c92cdadaf7bd9d6efbc1c70a765",
+   "t": 1793526015,
+   "meta": {
+    "author": "L. Solymar, D. Walsh",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Books-and-Resources/Jain-Iyengar_Complex-Variables-Extract.pdf",
+   "s": 44236196,
+   "h": "469fd32bb12d1e5e67224d4e6ae534f5c19a3c3211e2de3953d1b000e0756f62",
+   "t": 1793526016,
+   "meta": {
+    "author": "R. K. Jain, S. R. K. Iyengar",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Books-and-Resources/Chandrika-Prasad_Unit-1-Extract.pdf",
+   "s": 4699426,
+   "h": "97a5f58d4f5aa656a65c0f9673cc8827d4dd59d86de6a16cf35fe656d3e7dbb2",
+   "t": 1638593874,
+   "meta": {
+    "author": "Chandrika Prasad",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Books-and-Resources/Essential-Engineering-Mathematics.pdf",
+   "s": 8883184,
+   "h": "1b02a533683617d723c796cb6d86b565edb919b8ea3fb95ffc77211fdb850563",
+   "t": 1645992544,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Books-and-Resources/Jain-Iyengar_Unit-1-Extract.pdf",
+   "s": 5114796,
+   "h": "9a1cb77edd79fe68f532cc05ce0a0d14f2cd4a68671b9ed7e4b2a306e3a5f056",
+   "t": 1638593888,
+   "meta": {
+    "author": "R. K. Jain, S. R. K. Iyengar",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Drive-Links_Sem3-Notes_2022-23.docx",
+   "s": 8382,
+   "h": "52193fcdb249bfd2693aa2d9420acfad0a461a751370db7a9da009b17a480186",
+   "t": 1780186326,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Books-and-Resources/Haykin_Signals-and-Systems_Unit-2-Extract.pdf",
+   "s": 17842232,
+   "h": "75308b7546f9fc1738e8500f6ba364ef1046c8da69e301d38589431cb56ed5c6",
+   "t": 1640663032,
+   "meta": {
+    "author": "Simon Haykin",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Books-and-Resources/Oppenheim-Willsky_Signals-and-Systems_Unit-1-Extract.pdf",
+   "s": 1443149,
+   "h": "98f0a8dd044709776b9087d3c4ed2b267b3507499208957ebe94034a1e5c7d24",
+   "t": 1640662984,
+   "meta": {
+    "author": "Alan V. Oppenheim, Alan S. Willsky",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Books-and-Resources/Oppenheim-Willsky_Signals-and-Systems_Unit-2-Extract.pdf",
+   "s": 1784427,
+   "h": "759eff73f27f8cc9032353cba1c1c6abdd58b8427a38a0fd6eb00cd7fdda4d68",
+   "t": 1640662988,
+   "meta": {
+    "author": "Alan V. Oppenheim, Alan S. Willsky",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2722_Electromagnetic-Field-Theory/Books-and-Resources/Hayt-Buck_Engineering-Electromagnetics.pdf",
+   "s": 13006892,
+   "h": "296bc2e4f6a11db6c0bc1ef7782401a0d8a00de8d9d43b80213d1fa31a05f7b6",
+   "t": 1793526017,
+   "meta": {
+    "author": "W. H. Hayt, J. A. Buck",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2722_Electromagnetic-Field-Theory/PYQs-and-Assignments/Z_Assignment_2022-23_Solution_Ashraf.pdf",
+   "s": 13696826,
+   "h": "05015cad8ad73fefddde9da9caf5a74e843e9692e603a1428fcc195c0c25ff48",
+   "t": 1671164064,
+   "meta": {
+    "author": "Md Ashraf Ali Khan",
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Books-and-Resources/Book-Extract_Unit-2_Transformers.pdf",
+   "s": 16860501,
+   "h": "eac8e3dbc3a885f7020bbfb341ba68c6ffe4899bc265b5558bdb36a3f9d2d82d",
+   "t": 1793526018,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Books-and-Resources/Short-Answer-Questions_Transformers_Book-Appendix.pdf",
+   "s": 4561458,
+   "h": "29f223b2861e6b04cb00b2f92f235c4ade96b9139752ee2f84a325750f831f1a",
+   "t": 1647712946,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Complete-Notes/Class-Notes_Electrical-Machines-I_2021-22.pdf",
+   "s": 5775148,
+   "h": "4d068bea0154a21fbbda8af6ca0e0626ed1b973d40e4642a7fa109f1e6bc819a",
+   "t": 1793526018,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Books-and-Resources/Objective-Questions_Transformers_Book-Appendix.pdf",
+   "s": 16669889,
+   "h": "7e3ecee95e6468b21cfc1dbd390d6adc3a3b49f653cc25760ed73d4d730b1080",
+   "t": 1649013190,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Books-and-Resources/Book-Extract_Unit-4_Single-Phase-Motors.pdf",
+   "s": 25226913,
+   "h": "c921412e201a4eac1a5d0bc1b092d2e05e274f93597d712a776a7f4b889083ea",
+   "t": 1793526019,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Books-and-Resources/Book-Extract_Unit-3_Three-Phase-Induction-Motors.pdf",
+   "s": 50576236,
+   "h": "36c7b77a0dce2f01152581ba13770ca0f88286ad42fe3e040a9a52e62ccb68ac",
+   "t": 1793526021,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Books-and-Resources/Android-Jams-Session-2-Instructions.txt",
+   "s": 755,
+   "h": "664152abfdb8b3b5c3227f3876f82651d0d9e008c045477c8af13ad792a29c7f",
+   "t": 1640601728,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/PYQs-and-Assignments/Z_Presentation_2022-23_Cyber-Security_Roles.png",
+   "s": 86332,
+   "h": "8a88501798a62c06f875d5acaba7fb6aa154e8b78781da80b3499a539ae84907",
+   "t": 1645160228,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/PYQs-and-Assignments/Z_Presentation_2022-23_Cyber-Security_Image-1.jpg",
+   "s": 135891,
+   "h": "513b6aa7a3be03af9d1e19381943b46566d9bf673ac66ae7a91fecf98a7e14b1",
+   "t": 1793526021,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/PYQs-and-Assignments/Z_Presentation_2022-23_Cyber-Security.pptx",
+   "s": 5245103,
+   "h": "64510232e76d6a1a9881a9ba2adca627a7b935090a17cc8de6b99f663e465a77",
+   "t": 1793526021,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/PYQs-and-Assignments/Z_Presentation_2022-23_Cyber-Security_Image-2.png",
+   "s": 487782,
+   "h": "3dc2e9ca64686d54373e753254d337da7d08df5f547bb4c255b9e27a6f499ce0",
+   "t": 1645356368,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Records/Experiment-2_2022-23_Irfan-Ahmad.pdf",
+   "s": 3350093,
+   "h": "68a1aba3a6982bee51070a0942c3acadb9f8e0cabdaa3cd3a6ba71b9370f53aa",
+   "t": 1793526021,
+   "meta": {
+    "author": "Irfan Ahmad",
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Manuals/Lab-Image_2021-12-14.jpeg",
+   "s": 31722,
+   "h": "fa16647b9b82ae258dc93f4003a1f5e3541c07d87e74986e353439e88d17c967",
+   "t": 1639395396,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2912_Electrical-Machines-Lab-I/Records/Lab-Record_2022-23_Saad.pdf",
+   "s": 4068486,
+   "h": "3c0fd1d375958e1e440a0d7584da2e2fe7a6efe6ad0c182ac15cab4e952c7362",
+   "t": 1639395392,
+   "meta": {
+    "author": "Saad",
+    "year": "2022-23",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Books-and-Resources/PCA_Step-by-Step-Article.pdf",
+   "s": 250113,
+   "h": "91a3c2ec2bd04702b3c175af47f408bcfcbf0527399e6cbec233e44b77646248",
+   "t": 1745506714,
+   "meta": {
+    "author": "web article",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Books-and-Resources/PCA_Complete-Guide-Article.pdf",
+   "s": 742320,
+   "h": "85e1d8d4e4442fd8acbf5babb57d3fa92e1c48cd0e460185e01539efebde3115",
+   "t": 1745506912,
+   "meta": {
+    "author": "web article",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Books-and-Resources/PCA_How-It-Works-Video.mp4",
+   "s": 1845070,
+   "h": "6f21a4f4cfe542a12ca8b03808af5b67842cbb74f2494b4c01c30c669c8b4e44",
+   "t": 1745168306,
+   "meta": {
+    "author": "web video",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Books-and-Resources/PCA_GeeksforGeeks.pdf",
+   "s": 473745,
+   "h": "7830cfb7566d7b45233ec95f6d54d17347679d80f963803d90e95fc6d8aa0317",
+   "t": 1745506782,
+   "meta": {
+    "author": "GeeksforGeeks",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Books-and-Resources/PCA_Understanding-Article.pdf",
+   "s": 520819,
+   "h": "e847271e5176277a4c20471a14d687cc1f75dbdff21ec38f3463d2cbb0704226",
+   "t": 1745507032,
+   "meta": {
+    "author": "web article",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Books-and-Resources/Decision-Tree-Classification_Javatpoint.pdf",
+   "s": 385854,
+   "h": "70b92376b7fcd05f4cbb8e22972c2331ce1a54a2ef7d8abfa0e106fed70ad69b",
+   "t": 1744296782,
+   "meta": {
+    "author": "Javatpoint",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/PYQs-and-Assignments/Z_Assignment_2024-25_Solution-2.md",
+   "s": 350,
+   "h": "5225311af0292ca9a9ada68bf14a522d0d67740c789d3fe024cc74506183e89c",
+   "t": 1793526021,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/PYQs-and-Assignments/Z_Assignment_2024-25_Solution.md",
+   "s": 345,
+   "h": "87c1747d8d550b9ed7425df0420a6034e52be8bf031d725b11de60cf116a27cb",
+   "t": 1793526021,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Books-and-Resources/Decision-Tree_GeeksforGeeks.docx",
+   "s": 426696,
+   "h": "35719823831afe7303b5d50d8a4db823206366a14c795f457e7749ea6a22368d",
+   "t": 1793526021,
+   "meta": {
+    "author": "GeeksforGeeks",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Books-and-Resources/Decision-Tree-in-ML_GeeksforGeeks.pdf",
+   "s": 321223,
+   "h": "f68ed42da28bbde44970844cd1ca6e6f91a7f48eef70825eb96bc2719776087a",
+   "t": 1740406994,
+   "meta": {
+    "author": "GeeksforGeeks",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Books-and-Resources/Negnevitsky_Artificial-Intelligence-A-Guide-to-Intelligent-Systems.pdf",
+   "s": 12873345,
+   "h": "e2f7b3476ede9882331d5748f68beae5253cedffd2a7c6c4bc1e202df633cf0e",
+   "t": 1793526023,
+   "meta": {
+    "author": "Michael Negnevitsky",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Books-and-Resources/Decision-Tree_Javatpoint-4-Pages.pdf",
+   "s": 204157,
+   "h": "104fdf88f48889399d2ca306b3b6b2806ddd5abbcfa985fc6e51df5fb7daec34",
+   "t": 1744296394,
+   "meta": {
+    "author": "Javatpoint",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Books-and-Resources/Supervised-and-Unsupervised-Learning_GeeksforGeeks.docx",
+   "s": 444882,
+   "h": "39280cd62d39a071fba3eedbc457a753956a930946b9eb5ea0e1dded09dcc6b4",
+   "t": 1793526023,
+   "meta": {
+    "author": "GeeksforGeeks",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4322_Power-Quality/Books-and-Resources/Power-Frequency-Disturbances_Book-Chapter.pdf",
+   "s": 1884088,
+   "h": "55cb52ca21a1b273b0ffeae8c6bde3f00db6bce5aaf50d8f44932a6782b632ab",
+   "t": 1793526023,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4322_Power-Quality/Books-and-Resources/Power-Quality_Book.pdf",
+   "s": 4514666,
+   "h": "f170261476f040723876989a8aa396f28c1bc975607de52eb7fdfd4a1ed886ef",
+   "t": 1793526023,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/PYQs-and-Assignments/Z_Assignment_2024-25_Solution-2.pdf",
+   "s": 9788750,
+   "h": "129b043a6fa0a5cb4eeb84376fb165f2ed4496ac17397b0bab4fd69821259d54",
+   "t": 1747724258,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/Books-and-Resources/Water-Quality-Measurement_Book-Extract.pdf",
+   "s": 3446928,
+   "h": "4cec30b6e43019d79d3e6647944fec867f681540d8174d04aded12dfef217323",
+   "t": 1738814716,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4122_Electric-Vehicles-and-Traction/Books-and-Resources/Husain_Electric-and-Hybrid-Vehicles.pdf",
+   "s": 13487903,
+   "h": "4a6b83a371bd247b0940fba84876a619a0f287e7bff256b2e911e25cdc26bf2b",
+   "t": 1793526024,
+   "meta": {
+    "author": "Iqbal Husain",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4122_Electric-Vehicles-and-Traction/Books-and-Resources/Electric-Powertrain_Chapters-1-2-5.pdf",
+   "s": 26857836,
+   "h": "a02a4e5506d048dd2e068e06a6a1ae13e30bb9db6908b7e49cf108be831effa5",
+   "t": 1793526025,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4122_Electric-Vehicles-and-Traction/Books-and-Resources/Vehicular-Power-Management_Book-Chapter.pdf",
+   "s": 21083849,
+   "h": "0be0b836418a449da2ad31392aa8384f0ba138cac81707e9e3c57125cc56206a",
+   "t": 1793526026,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Time-Table_Sem8_2024-25.pdf",
+   "s": 151495,
+   "h": "2a2c697c11200ee145329ef6cf73c019927cbe211221e5ff834028943925c49a",
+   "t": 1793526026,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Books-and-Resources/Types-of-Circuit-Breakers_Book-Extract.pdf",
+   "s": 6344694,
+   "h": "15f8ce1d3e6e9d041fc3b17842f90ddf5b579c37d6ab6a100d7d7e2ca5f475fe",
+   "t": 1728493438,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/Records/Lab-Record_Previous-Year.pdf",
+   "s": 10793073,
+   "h": "b2257d4a0deb981414938c5a4395c18e8ea87b2e28bbf5dff902ea419d05d1c0",
+   "t": 1793526027,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4942_Power-System-Design/Records/Power-System-Design-Report_Previous-Year.pdf",
+   "s": 12981575,
+   "h": "c4924a1c71ef88aeb09f89a104c93ee7666d750dfebde5d526695bed761967ee",
+   "t": 1793526027,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3942_Electric-Machine-Design/Records/Transformer-Design-Report_Previous-Year.pdf",
+   "s": 11962317,
+   "h": "ae0fd3fbf27f9a836fd4fc87a00d30b3697f12dbfd50e3e1cce353d6f3dcf078",
+   "t": 1793526027,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4912_Power-System-Protection-Lab/Records/Lab-Record_Previous-Year.pdf",
+   "s": 16090370,
+   "h": "70d361dd642ef9a1a7f8db67de26b28e988bcdd93985f28265bd4223915dd145",
+   "t": 1793526028,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Time-Table_Sem7_2024-25.pdf",
+   "s": 576203,
+   "h": "c2f97d31dfddf0490274f20dea3c4376ea239dac9b1243a568eb77d53d0db3f1",
+   "t": 1793526028,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Books-and-Resources/Photovoltaic-Systems_Book.pdf",
+   "s": 15601808,
+   "h": "c7a422a84e303e0a41438d1d1f04baacbd9923928caabf9d5207f20dfceab720",
+   "t": 1793526028,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Academic-Calendar_2024-25.pdf",
+   "s": 345475,
+   "h": "72e0e715ff8fb0b86077f3b246501b3d44fff99f1859c288278336be9f70f683",
+   "t": 1720823864,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4222_New-and-Renewable-Energy-Sources/PYQs-and-Assignments/Z_Presentation_2023-24_Solar-PV.md",
+   "s": 352,
+   "h": "b3e50172b3a16fa855c44586b0b878922b4e0310a143fe81df8cafd6cb5dfa89",
+   "t": 1793526028,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/PYQs-and-Assignments/Z_Assignment_2023-24_Solution_Vishal.pdf",
+   "s": 621089,
+   "h": "63730d9cf20b51a08ef9e360721a7f1e5bacaf08fadf1d47928a30ac771a95a5",
+   "t": 1793526028,
+   "meta": {
+    "author": "Vishal Saraswat",
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Books-and-Resources/Mazidi_8051-Microcontroller.pdf",
+   "s": 3628034,
+   "h": "a1dff5d8288a49ca70bdfbc88f385523359774ff8ede34c5adfe84cd9777fb1b",
+   "t": 1793526029,
+   "meta": {
+    "author": "M. A. Mazidi",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3322_Electrical-Power-Generation-and-Utilization/Books-and-Resources/Illumination_Book-Chapter.pdf",
+   "s": 7061716,
+   "h": "8e82c9b53de998396567bf33d3c521976546ec3ad685a85b5aa6452fca9a8caf",
+   "t": 1793526029,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3322_Electrical-Power-Generation-and-Utilization/Books-and-Resources/Electric-Traction_Book-Chapter.pdf",
+   "s": 5014200,
+   "h": "59f6b96e025d09d768159b431569765040150cd647854c0c6993e211a28358fe",
+   "t": 1793526029,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3322_Electrical-Power-Generation-and-Utilization/PYQs-and-Assignments/Z_Assignment_2023-24_Solution_Azhar.pdf",
+   "s": 11539364,
+   "h": "bfc0a763bb2d24cabf22a2fbca7e2ac1885d0c2f94b3875ebec02689517632be",
+   "t": 1793526030,
+   "meta": {
+    "author": "Azhar",
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020-EEZH3020_Intellectual-Property-Rights-for-Engineers/PYQs-and-Assignments/PYQ-Solutions_Reader-Comments_2023-24.md",
+   "s": 1385,
+   "h": "d232a5c50cc29c177fe940a272a66f56682818402cb9021ad82e25bcabde9d71",
+   "t": 1793526030,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Records/Lab-Record_Previous-Year.pdf",
+   "s": 14512002,
+   "h": "7d9e1efb01de8eb44f9bbcf8fcf9e3cc5bf4fb0c42f477b5e14b8c4978c3a211",
+   "t": 1793526030,
+   "meta": {
+    "author": "Rashid Ahmed Khan",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Records/Record-Cover-Template.docx",
+   "s": 10348,
+   "h": "4ce6e47cfa8d132a67c7efb871be83150994ca3c48d926ba6fbe281c6d73bf8b",
+   "t": 1793526030,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Records/Experiment-8_2023-24_Classmate.pdf",
+   "s": 1618594,
+   "h": "df536c124850c5a40bf9f016c6f13fd996feeb96e8c4fafe7abe9b54193d7402",
+   "t": 1712524544,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Records/Experiment-3_2023-24_Kshitij.pdf",
+   "s": 3554702,
+   "h": "5dbf992965275fb768fb5c74b0193e8ce529b00088f1c42e73a7851b0f9f1c44",
+   "t": 1714317248,
+   "meta": {
+    "author": "Kshitij Maheshwari",
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Academic-Calendar_2023-24_Even-Semester.pdf",
+   "s": 323798,
+   "h": "39c1d46b29a2f2429b524797b9b57a9d44071a63dc442e7c023dae16aaeb6430",
+   "t": 1704764160,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/Books-and-Resources/Frequency-Response-Analysis_MRCET-Notes.pdf",
+   "s": 4358086,
+   "h": "7bb88aea80f8e634701f69dfb9ff0e9fa01808ee84f39740a4b0ed281f11ada6",
+   "t": 1793526030,
+   "meta": {
+    "author": "Malla Reddy College of Engineering and Technology",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3932_Instrumentation-Lab/Records/Experiment-2_2023-24.pdf",
+   "s": 1500341,
+   "h": "08305719053a87dd4d0561f792296a28166878db81a8af6512fe77b1a13134b8",
+   "t": 1711472566,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Classroom-Allocation_2023-24.pdf",
+   "s": 1008665,
+   "h": "d8d39a011abc7e4fa12310fe2cb17075c2504105f435b7105b4bb6ae145a26fe",
+   "t": 1692245772,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Records/Experiment-6_2023-24_Haider.pdf",
+   "s": 3436344,
+   "h": "868cba80a26c89d1fed581773ce942ad1e22696875e0a52be7ce1d02a5e47141",
+   "t": 1692852672,
+   "meta": {
+    "author": "Haider",
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Records/Record-Cover-Template.pdf",
+   "s": 53662,
+   "h": "24e0ee9fd2c88992fcba459a2da0c932aae861f42a61a1117ada31d052f362e9",
+   "t": 1793526030,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3912_Power-Electronics-Lab/Records/Experiment-6_2023-24_Classmate.pdf",
+   "s": 2310674,
+   "h": "4a6d54823c5f88f79c0c28b470affd766131667a71123fdb3b5dcb98b431052b",
+   "t": 1694498772,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/Books-and-Resources/GATE-Solved-Questions_Power-Electronics.pdf",
+   "s": 1889322,
+   "h": "d21f1a40c4830d69a91959fe659cc6ce385831981fb2ae5da219f30971981542",
+   "t": 1693593554,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/Books-and-Resources/Power-Electronics-Equations-Handbook.pdf",
+   "s": 6186945,
+   "h": "3ce8458419b40f5b4a818348347f1d1f79ee54047959711d7f4ed67c581f762e",
+   "t": 1793526031,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/Books-and-Resources/Book-Page_Voltage-Wave-with-Harmonics.jpg",
+   "s": 158428,
+   "h": "b20e0cc1148412cc4dcd78c3a68b337573e202b9d3b2a3cd45fdab26b086c78c",
+   "t": 1702166958,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Academic-Calendar_2023-24_Odd-Semester.pdf",
+   "s": 243590,
+   "h": "e2059dc2f8cade18e0aa0df9faab2d1e21beaaffea90c1d0c339db52653d4364",
+   "t": 1692245740,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/OE-1_Atmospheric-Chemistry-Open-Elective-1/Unit-4/Atmospheric Chemistry_Unit 4.pdf",
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/OE-1_Atmospheric-Chemistry-Open-Elective-1/Unit-1/Atmospheric Chemistry_Unit 1.pdf",
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/OE-1_Atmospheric-Chemistry-Open-Elective-1/Unit-3/Atmospheric Chemistry_Unit 3.pdf",
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3312_Power-System-Analysis/Books-and-Resources/Saadat_Power-System-Analysis.pdf",
+   "s": 30039495,
+   "h": "a10141e7f01c3628ebe160cbd109761b743925e9a4992a659befc497584e0ba5",
+   "t": 1793526032,
+   "meta": {
+    "author": "Hadi Saadat",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3912_Electronics-Engineering-Lab/Records/Record-Cover-Template.pdf",
+   "s": 54670,
+   "h": "b0bf64f41cb0b471c2f618d018ba5e05e7cdbe4460ef937add7c2f86aa363f72",
+   "t": 1793526032,
+   "meta": {
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3022_Fundamentals-of-Communication-Engineering/Books-and-Resources/Haykin_Communication-Systems.pdf",
+   "s": 7403040,
+   "h": "2e6b2b11ea39f4002a30fe07ee53c379cc32be4a919c0cfca1c3fb9b98b24fcc",
+   "t": 1793526033,
+   "meta": {
+    "author": "Simon Haykin",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Commencement-of-Classes_2023-24.pdf",
+   "s": 353591,
+   "h": "20b63435ad1bd7cada000a510c7f1cf6026e4f0e3c9b17e23b83bcd742ccc33f",
+   "t": 1793526033,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Books-and-Resources/Hayt-Kemmerly-Durbin_Engineering-Circuit-Analysis.pdf",
+   "s": 54885088,
+   "h": "18073dc7f4daee91ce6f4e9f1d2acb2307f1f450caf7e08130baa7bc64830017",
+   "t": 1793526036,
+   "meta": {
+    "author": "W. Hayt, J. Kemmerly, S. Durbin",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Books-and-Resources/Alexander-Sadiku_Fundamentals-of-Electric-Circuits_Units-2-and-4.pdf",
+   "s": 16125228,
+   "h": "323e7a958bb197c6a9c7f8410cc73166061c6d9d2795794d8389b7c7d6aab667",
+   "t": 1793526037,
+   "meta": {
+    "author": "C. K. Alexander, M. N. O. Sadiku",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Books-and-Resources/Alexander-Sadiku_Fundamentals-of-Electric-Circuits_Solutions-Manual-4e.pdf",
+   "s": 17413519,
+   "h": "55e2f696ab47c643049665fb38fe77c1bad5723a7cff69b4e4d4ff22656b8dcd",
+   "t": 1639042234,
+   "meta": {
+    "author": "C. K. Alexander, M. N. O. Sadiku",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Books-and-Resources/Alexander-Sadiku_Fundamentals-of-Electric-Circuits.pdf",
+   "s": 22231589,
+   "h": "9c03f3ac2059b76026ae4936b7e21887f81144e6447402c395c4c2398d673a0c",
+   "t": 1793526044,
+   "meta": {
+    "author": "C. K. Alexander, M. N. O. Sadiku",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Books-and-Resources/Haykin-Van-Veen_Signals-and-Systems.pdf",
+   "s": 145739811,
+   "h": "685d7233af2c8cd9d6f84b2d977f32ef976b2a4e9913c9a22b0872ec8f84ec2e",
+   "t": 1793526048,
+   "meta": {
+    "author": "Simon Haykin, Barry Van Veen",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Books-and-Resources/Haykin_Signals-and-Systems_Unit-1-Extract.pdf",
+   "s": 20581798,
+   "h": "efd72227660f129614f4b85ebe5d4799acc069c09c8da17c27f217688b13477e",
+   "t": 1640663008,
+   "meta": {
+    "author": "Simon Haykin",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Books-and-Resources/Kashif-Tahir_ARM-Microprocessor-Systems.pdf",
+   "s": 23695968,
+   "h": "75f89cfccab57108764654eb84b1e7723c724813962d7089d56d65a53023c499",
+   "t": 1793526050,
+   "meta": {
+    "author": "Muhammad Tahir, Kashif Javed",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/Books-and-Resources/Manke_Linear-Control-Systems.pdf",
+   "s": 71384475,
+   "h": "44d581f62e30cc189ade477aea22889f540344b6270e9d3865b5c20ad3c5e14f",
+   "t": 1740936800,
+   "meta": {
+    "author": "B. S. Manke",
+    "credit": "gk7093"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3312_Power-System-Analysis/Books-and-Resources/Kothari-Nagrath_Modern-Power-System-Analysis.pdf",
+   "s": 71718376,
+   "h": "4a20062e32e069f93afd4caea249e46ffd1929453a6767cab31208e37b6567c0",
+   "t": 1698422124,
+   "meta": {
+    "author": "D. P. Kothari, I. J. Nagrath",
+    "credit": "gk7093"
+   }
+  }
+ ]
+}
