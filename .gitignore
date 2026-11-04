@@ -21,6 +21,7 @@
 
 # Archive tooling (content files stay out of git; the catalog describes them)
 !CONVENTIONS.md
+!DEPLOY-HUGGINGFACE.md
 !CLAUDE.md
 !DEPLOY.md
 !catalog/
