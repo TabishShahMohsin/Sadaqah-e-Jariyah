@@ -46,3 +46,28 @@ anything no longer published is deleted. Deleted files stay in the dataset's git
 ```
 
 `HF_REPO` / `HF_TOKEN` environment variables override it.
+
+## Versions
+
+* **The catalog is the archive's history.** `catalog/base.jsonl` plus one file per change in `catalog/changes/`
+  (who added what, moves, credits, conversions) are committed to git with every change: `git log catalog/` shows
+  every version of the archive. The study files themselves stay out of git.
+* **Every publish is tagged** on Hugging Face (`v2026-11-04`, `v2026-11-04.2` …), so any published state can be
+  fetched again: `huggingface-cli download TabishShahMohsin/sej-files --repo-type dataset --revision v2026-11-04`.
+* **Nothing is overwritten or deleted on this Mac.** Files that are replaced (e.g. slides converted to PDF) move to
+  `_Originals/` at the same path; the change set records their sha256, and every such change can be undone.
+* **Back up the originals** (`BTech-and-BE/`, `_Originals/`, `_Sources/`) somewhere other than this Mac, e.g. an
+  external drive with Time Machine: Hugging Face has only the published copies, not the originals.
+
+## Slides → PDF
+
+```bash
+python3 tools/sorter/install_fonts.py             # once per machine (Linux): free stand-ins for Office fonts
+python3 tools/convert_slides.py convert            # converts decks not done yet; re-run until "all done"
+python3 tools/convert_slides.py report --sheets    # what the checks found + contact sheets of flagged decks
+python3 tools/convert_slides.py apply [--accept PATH]
+python3 tools/convert_slides.py undo <change-id>  # if needed
+```
+
+Checks per deck: one PDF page per visible slide, no character printed as an empty box, fonts without a close
+stand-in, audio/video (published next to the PDF as `… (video 1).mp4`). Then `hf_publish.py scan / push / site`.

@@ -39,7 +39,7 @@ jobs:
           cache: pip
           cache-dependency-path: tools/requirements.txt
       - run: sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends poppler-utils tesseract-ocr libreoffice-impress libreoffice-writer libreoffice-calc ffmpeg fonts-crosextra-carlito fonts-crosextra-caladea fonts-liberation fonts-wine fonts-adf-gillius fonts-roboto-slab fonts-urw-base35 fonts-texgyre fonts-open-sans fonts-noto-core fonts-noto-cjk
-      - run: pip install -r tools/requirements.txt
+      - run: pip install -r tools/requirements.txt && python3 tools/sorter/install_fonts.py   # stand-ins for Windows fonts + a working Symbol
       - name: Sort
         env:
           ISSUE: ${{ github.event.issue.number || inputs.issue }}
