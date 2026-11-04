@@ -53,7 +53,7 @@ const prettyFile = n => stem(n).replace(/^Z_/, '').replace(/_/g, ' · ').replace
 
 const KIND = { pdf: 'pdf', png: 'img', jpg: 'img', jpeg: 'img', gif: 'img', webp: 'img', svg: 'img', bmp: 'img',
   mp4: 'video', webm: 'video', mov: 'video', m4v: 'video', mkv: 'video', mp3: 'audio', wav: 'audio', m4a: 'audio', ogg: 'audio',
-  ipynb: 'nb', md: 'md', ppt: 'office', pptx: 'office', doc: 'office', docx: 'office', xls: 'office', xlsx: 'office' };
+  link: 'link', ipynb: 'nb', md: 'md', ppt: 'office', pptx: 'office', doc: 'office', docx: 'office', xls: 'office', xlsx: 'office' };
 const TEXT = new Set('txt c cpp cc h hpp java py js ts csv tsv json sql sh m r log xml yaml yml html css asm v vhd ino tex s'.split(' '));
 const kind = n => KIND[ext(n)] || (TEXT.has(ext(n)) ? 'text' : 'other');
 
@@ -181,15 +181,20 @@ function crumbs(node) {
 /* ── pieces ─────────────────────────────────────────── */
 const extBadge = f => `<span class="ext k-${f.k}">${esc(ext(f.n).slice(0, 5) || '—')}</span>`;
 
+const linkUrl = f => (f.k === 'link' && /^https:\/\/[^\s"<>]+$/.test(f.meta?.url || '')) ? f.meta.url : null;
+const hostOf = u => { try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return 'link'; } };
 function fileRows(files, { ctx = false, limit = 0 } = {}) {
   const shown = limit ? files.slice(0, limit) : files;
-  const rows = shown.map(f => `
-    <a class="file" href="${href(f.p)}" data-p="${esc(f.p)}" title="${esc(f.n)}">
+  const rows = shown.map(f => {
+    const url = linkUrl(f);  // link entries open the page they point to
+    return `
+    <a class="file" href="${url ? esc(url) : href(f.p)}"${url ? ' target="_blank" rel="noopener nofollow"' : ` data-p="${esc(f.p)}"`} title="${esc(url || f.n)}">
       ${extBadge(f)}
-      <span class="fname">${esc(prettyFile(f.n))}${ctx ? `<small>${esc(context(f))}</small>` : ''}</span>
-      <span class="fsize">${fmtSize(f.s)}</span>
+      <span class="fname">${esc(f.meta?.title || prettyFile(f.n))}${ctx ? `<small>${esc(context(f))}</small>` : ''}</span>
+      <span class="fsize">${url ? esc(hostOf(url)) + ' ↗' : fmtSize(f.s)}</span>
       <span class="fdate">${fmtDate(f.m)}</span>
-    </a>`).join('');
+    </a>`;
+  }).join('');
   const more = limit && files.length > limit
     ? `<div class="more">${fmtNum(files.length - limit)} more · <button type="button" data-more>show all</button></div>` : '';
   return `<div class="files">${rows}</div>${more}`;
@@ -483,13 +488,14 @@ function bindView(v) {
 /* ── preview drawer ─────────────────────────────────── */
 let previewToken = 0;
 function openPreview(f) {
+  if (f.k === 'link') { const u = linkUrl(f); if (u) window.open(u, '_blank', 'noopener'); history.back(); return; }
   S.preview = f;
   const sib = f.parent.f, i = sib.indexOf(f);
   $('#drExt').className = 'ext k-' + f.k;
   $('#drExt').textContent = ext(f.n).slice(0, 5) || '—';
   $('#drName').textContent = prettyFile(f.n);
   $('#drName').title = f.n;
-  const by = f.meta ? [f.meta.author && 'notes by ' + f.meta.author, f.meta.professor && 'taught by ' + f.meta.professor, f.meta.credit && f.meta.credit !== f.meta.author && 'shared by ' + f.meta.credit].filter(Boolean).join(' · ') : '';
+  const by = f.meta ? [f.meta.author && 'notes by ' + f.meta.author, f.meta.professor && 'taught by ' + f.meta.professor, f.meta.source && 'from ' + f.meta.source, f.meta.credit && f.meta.credit !== f.meta.author && 'shared by ' + f.meta.credit].filter(Boolean).join(' · ') : '';
   $('#drPath').textContent = `${context(f)}  ·  ${fmtSize(f.s)}`;
   $('#drBy').textContent = by ? by[0].toUpperCase() + by.slice(1) : '';
   $('#drBy').hidden = !by;
@@ -777,8 +783,11 @@ function closePalette() { $('#palette').hidden = true; }
 
 /* ── contribute & status ────────────────────────────── */
 const C = {
-  ALLOWED: new Set(['pdf', 'png', 'jpg', 'jpeg', 'webp', 'pptx', 'ppt', 'docx', 'doc', 'xlsx', 'xls', 'mp4', 'mov', 'webm', 'txt', 'md', 'c', 'cpp', 'h', 'hpp', 'java', 'py', 'ipynb', 'csv']),
-  MAX_FILE: 500 * 1024 * 1024, MAX_FILES: 20,
+  ALLOWED: new Set(['pdf', 'png', 'jpg', 'jpeg', 'webp', 'heic', 'heif', 'gif', 'ppt', 'doc', 'xls', 'rtf', 'mp4', 'mov', 'webm', 'mkv',
+    'pptx', 'docx', 'xlsx', 'odt', 'odp', 'ods', 'pages', 'key', 'numbers', 'zip',
+    'txt', 'md', 'c', 'cpp', 'h', 'hpp', 'java', 'py', 'ipynb', 'csv', 'asm', 's', 'v', 'sv', 'vhd', 'vhdl', 'circ', 'm', 'sql',
+    'js', 'ts', 'json', 'xml', 'tex', 'r', 'cs', 'go', 'rs', 'kt', 'sh', 'pl', 'lab']),
+  MAX_FILE: 500 * 1024 * 1024, MAX_FILES: 1000,
   files: [], tsToken: '', tsWidget: null, busy: false, pollTimer: null,
 };
 const STAGES = [
@@ -824,11 +833,13 @@ function contributeView() {
         <h2>Files</h2>
         <label class="drop hud" id="drop" for="fileInput">
           <input type="file" id="fileInput" multiple hidden>
-          <span class="drop-main">Drop files here or <u>choose files</u></span>
-          <span class="drop-sub">PDF, images, slides, Word, videos, code · up to 500 MB each · ${C.MAX_FILES} files at a time</span>
+          <input type="file" id="folderInput" webkitdirectory multiple hidden>
+          <span class="drop-main">Drop files or whole folders here, or <u>choose files</u></span>
+          <span class="drop-sub">Anything: PDFs, photos, slides, Word, zips, videos, code · messy names are fine · up to 500 MB each</span>
         </label>
+        <button type="button" class="pill-btn folder-btn" id="folderBtn">Choose a folder</button>
         <div class="flist" id="flist"></div>
-        <label class="field"><span>Or Google Drive links <em>one per line · sharing set to “Anyone with the link”</em></span>
+        <label class="field"><span>Or links <em>one per line · Google Drive folders and files (set to “Anyone with the link”), YouTube, websites</em></span>
           <textarea id="links" rows="2" placeholder="https://drive.google.com/drive/folders/…"></textarea></label>
       </div>
     </section>
@@ -839,7 +850,7 @@ function contributeView() {
         <label class="field"><span>Course <em>optional, helps sorting</em></span>
           <input id="course" list="courseList" autocomplete="off" placeholder="Type a name or code: DBMS, COC2122, Applied Maths…">
           <datalist id="courseList">${courseOptions}</datalist></label>
-        <label class="field"><span>Describe the files</span>
+        <label class="field"><span>Describe the files <em>optional · course, year, teacher, where they came from (e.g. AMU Cloud)</em></span>
           <textarea id="context" rows="4" maxlength="4000" placeholder="Mid-sem 1 paper 2024-25 with solutions, taught by Prof. X. The second file is Unit 3 class notes."></textarea></label>
         <div class="quick" id="quick">${['Past paper', 'Solutions', 'Assignment', 'Class notes', 'Slides', 'Syllabus', 'Lab record', 'Lecture video'].map(q => `<button type="button" class="chip">${q}</button>`).join('')}</div>
       </div>
@@ -851,7 +862,16 @@ function contributeView() {
         <label class="field"><span>Credit me as <em>optional · leave blank to stay anonymous</em></span>
           <input id="credit" maxlength="80" placeholder="Your name"></label>
         <label class="check"><input type="checkbox" id="consent">
-          <span>These are class notes, slides, papers or my own work, and I'm allowed to share them. No textbooks and no one's personal details.</span></label>
+          <span>I’m allowed to share these: my own notes and solutions, class handouts, slides, papers, syllabi or lab work.
+            No books or paid material, nothing with other people’s personal details, and no answers to work that’s still due.</span></label>
+        <details class="rules"><summary>Contribution rules</summary><ul>
+          <li><b>Piracy is haram:</b> no textbooks, chapters, solution manuals or paid course material.</li>
+          <li><b>No one else’s personal details:</b> enrolment or faculty numbers, phone numbers, marks, ID cards, filled-in forms.</li>
+          <li><b>No answers to work that’s still due.</b> Solutions only after the deadline.</li>
+          <li><b>From AMU Cloud, AMU Pedia or a library site?</b> Say so above; the source is credited, and permission is yours to get.</li>
+          <li><b>Don’t tidy anything.</b> Names, folders and formats are sorted for you; slides and documents are turned into PDFs.</li>
+          <li>Your own work is shared under CC BY 4.0 with the credit you choose. Anything can be taken down on request.</li>
+        </ul></details>
         <div id="ts" class="ts"></div>
         <div class="err" id="cerr" role="alert" hidden></div>
         <button class="submit" id="csubmit" type="submit" ${live ? '' : 'disabled'}>Send contribution <span>→</span></button>
@@ -871,15 +891,17 @@ function renderFileList() {
   $('#flist').innerHTML = C.files.map((f, i) => `
     <div class="frow${f.err ? ' bad' : ''}">
       <span class="ext k-${kind(f.name)}">${esc(ext(f.name).slice(0, 5) || '—')}</span>
-      <span class="fname">${esc(f.name)}${f.err ? `<small>${esc(f.err)}</small>` : ''}</span>
+      <span class="fname">${esc(fname(f))}${f.err ? `<small>${esc(f.err)}</small>` : ''}</span>
       <span class="fsize">${fmtSize(f.size)}</span>
       <button type="button" class="icon-btn sm" data-rm="${i}" title="Remove">✕</button>
     </div>`).join('') + (C.files.length ? `<div class="fsum">${plural(C.files.length, 'file')} · ${fmtSize(total)}</div>` : '');
   $$('[data-rm]', $('#flist')).forEach(b => b.addEventListener('click', () => { C.files.splice(+b.dataset.rm, 1); renderFileList(); }));
 }
+const fname = f => f.sejPath || f.webkitRelativePath || f.name;
 function addFiles(list) {
   for (const f of list) {
-    if (C.files.some(x => x.name === f.name && x.size === f.size)) continue;
+    if (/(^|\/)(\.|__MACOSX\/|Thumbs\.db$|desktop\.ini$)/.test(fname(f))) continue;  // system files
+    if (C.files.some(x => fname(x) === fname(f) && x.size === f.size)) continue;
     let err = '';
     if (!C.ALLOWED.has(ext(f.name))) err = `.${ext(f.name) || '?'} files aren't accepted`;
     else if (f.size > C.MAX_FILE) err = 'Larger than 500 MB. Share it as a Drive link instead.';
@@ -889,6 +911,37 @@ function addFiles(list) {
   }
   if (C.files.length > C.MAX_FILES) showErr(`Up to ${C.MAX_FILES} files at a time. Send the rest as a second contribution.`);
   renderFileList();
+}
+// walk dropped folders (Chrome, Edge, Firefox, Safari all support webkitGetAsEntry)
+async function droppedFiles(dt) {
+  const items = [...(dt?.items || [])].map(i => i.webkitGetAsEntry && i.webkitGetAsEntry()).filter(Boolean);
+  if (!items.length) return [...(dt?.files || [])];
+  const out = [];
+  const walk = async (entry, path) => {
+    if (entry.isFile) {
+      const f = await new Promise((res, rej) => entry.file(res, rej));
+      if (path) f.sejPath = path + f.name;
+      out.push(f);
+    } else if (entry.isDirectory) {
+      const reader = entry.createReader();
+      for (;;) {
+        const batch = await new Promise((res, rej) => reader.readEntries(res, rej));
+        if (!batch.length) break;
+        for (const e of batch) await walk(e, path + entry.name + '/');
+      }
+    }
+  };
+  for (const e of items) await walk(e, '');
+  return out;
+}
+// Visit count from the Pages Function (functions/api/visitors.js). Asked for as soon as the script runs, so it
+// arrives with the index; the last known count shows at once meanwhile. Not there on the local server: nothing shown.
+const VISITS = fetch('api/visitors', { cache: 'no-store' }).then(r => r.ok ? r.json() : {}).then(j => j.count).catch(() => null);
+function showVisitors() {
+  const el = $('#footStatus'), base = el.textContent;
+  const put = n => { if (Number.isFinite(n) && n > 0) el.textContent = `${base} · ${plural(n, 'visit')}`; };
+  try { put(+localStorage.getItem('sej.visits')); } catch { /* storage blocked */ }
+  VISITS.then(n => { put(n); try { if (n > 0) localStorage.setItem('sej.visits', n); } catch { /* storage blocked */ } });
 }
 function showErr(msg) { const e = $('#cerr'); if (!e) return; e.textContent = msg; e.hidden = !msg; if (msg) e.scrollIntoView({ block: 'center', behavior: 'smooth' }); }
 
@@ -917,7 +970,10 @@ function bindContribute(live) {
   input.addEventListener('change', () => { addFiles([...input.files]); input.value = ''; });
   ['dragenter', 'dragover'].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.add('over'); }));
   ['dragleave', 'drop'].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.remove('over'); }));
-  drop.addEventListener('drop', e => addFiles([...(e.dataTransfer?.files || [])]));
+  drop.addEventListener('drop', async e => addFiles(await droppedFiles(e.dataTransfer)));
+  const folder = $('#folderInput');
+  $('#folderBtn').addEventListener('click', () => folder.click());
+  folder.addEventListener('change', () => { addFiles([...folder.files]); folder.value = ''; });
   $$('#quick .chip').forEach(b => b.addEventListener('click', () => {
     const t = $('#context'); t.value = (t.value.trim() ? t.value.trim() + ', ' : '') + b.textContent.toLowerCase(); t.focus();
   }));
@@ -957,11 +1013,10 @@ async function submitContribution() {
   const links = $('#links').value.split(/\s+/).map(s => s.trim()).filter(Boolean);
   const context = $('#context').value.trim();
   if (C.files.some(f => f.err)) return showErr('Remove the files marked in red first.');
-  if (!files.length && !links.length) return showErr('Add at least one file or a Google Drive link.');
+  if (!files.length && !links.length) return showErr('Add at least one file, folder or link.');
   if (files.length > C.MAX_FILES) return showErr(`Up to ${C.MAX_FILES} files at a time.`);
-  const badLink = links.find(l => !/^https:\/\/(drive|docs)\.google\.com\//.test(l));
-  if (badLink) return showErr('Only Google Drive links work here. For other sites, download the file and drop it above.');
-  if (context.length < 8) return showErr('Tell us a little about the files: which course, what they are, which year.');
+  const badLink = links.find(l => !/^https:\/\/[^/\s]+\.[^/\s]+/.test(l));
+  if (badLink) return showErr(`“${badLink.slice(0, 60)}” isn’t a full https:// link.`);
   if (!$('#consent').checked) return showErr('Please tick the box confirming you can share these files.');
   if (S.turnstile && !C.tsToken) return showErr('Please wait for the human check to finish (just above the button).');
 
@@ -974,7 +1029,7 @@ async function submitContribution() {
       method: 'POST', headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         context, links, credit: $('#credit').value.trim(), course_hint: $('#course').value.trim(),
-        consent: true, turnstile: C.tsToken, files: files.map(f => ({ name: f.name, size: f.size })),
+        consent: true, turnstile: C.tsToken, files: files.map(f => ({ name: fname(f), size: f.size })),
       }),
     });
     remember(sub.id);
@@ -984,7 +1039,7 @@ async function submitContribution() {
     let doneBytes = 0;
     prog.innerHTML = `<div class="cp-head"><div class="eyebrow">Uploading · code <b>${esc(sub.id)}</b></div><div class="cp-pct" id="cpPct">0%</div></div>
       <div class="bar-track"><div class="bar-fill" id="cpBar"></div></div>
-      <div class="files">${files.map((f, i) => `<div class="frow" id="cpf${i}"><span class="ext k-${kind(f.name)}">${esc(ext(f.name).slice(0, 5))}</span><span class="fname">${esc(f.name)}<small id="cps${i}">waiting</small></span><span class="fsize">${fmtSize(f.size)}</span><span></span></div>`).join('')}</div>
+      <div class="files">${files.map((f, i) => `<div class="frow" id="cpf${i}"><span class="ext k-${kind(f.name)}">${esc(ext(f.name).slice(0, 5))}</span><span class="fname">${esc(fname(f))}<small id="cps${i}">waiting</small></span><span class="fsize">${fmtSize(f.size)}</span><span></span></div>`).join('')}</div>
       <p class="fine">Keep this page open until the upload finishes.</p>`;
     const paint = extra => { const pct = Math.min(100, Math.floor((doneBytes + extra) / total * 100)); const b = $('#cpBar'), t = $('#cpPct'); if (b) b.style.width = pct + '%'; if (t) t.textContent = pct + '%'; };
 
@@ -1054,7 +1109,7 @@ async function statusView(id) {
       ${s.note ? `<div class="stnote"><span class="eyebrow">Note</span><p>${esc(s.note)}</p></div>` : ''}
       ${s.published?.length ? `<h2 class="label">Live now</h2><div class="files">${s.published.map(p => { const f = S.files.get(p); return `<a class="file" href="${href(p)}"><span class="ext k-${kind(p)}">${esc(ext(p))}</span><span class="fname">${esc(prettyFile(p.split('/').pop()))}<small>${esc(p.split('/').slice(0, -1).map(label).slice(-2).join(' › '))}</small></span><span class="fsize">${f ? fmtSize(f.s) : ''}</span><span class="fdate">open →</span></a>`; }).join('')}</div>` : ''}
       <h2 class="label">Sent</h2>
-      <div class="files">${s.files.map(f => `<div class="frow"><span class="ext k-${kind(f.name)}">${esc(ext(f.name).slice(0, 5))}</span><span class="fname">${esc(f.name)}</span><span class="fsize">${fmtSize(f.size)}</span><span></span></div>`).join('')}${s.links ? `<div class="frow"><span class="ext k-dir">LINK</span><span class="fname">${plural(s.links, 'Drive link')}</span><span></span><span></span></div>` : ''}</div>
+      <div class="files">${s.files.map(f => `<div class="frow"><span class="ext k-${kind(f.name)}">${esc(ext(f.name).slice(0, 5))}</span><span class="fname">${esc(f.name)}</span><span class="fsize">${fmtSize(f.size)}</span><span></span></div>`).join('')}${s.links ? `<div class="frow"><span class="ext k-dir">LINK</span><span class="fname">${plural(s.links, 'link')}</span><span></span><span></span></div>` : ''}</div>
       <div class="meta stmeta"><span>sent ${new Date(s.created).toLocaleString('en-GB')}</span>${s.issue_url ? `<a href="${esc(s.issue_url)}" target="_blank" rel="noopener">discussion ↗</a>` : ''}${s.pr_url ? `<a href="${esc(s.pr_url)}" target="_blank" rel="noopener">review ↗</a>` : ''}</div>
       <p class="fine">Bookmark this page or keep the code <b>${esc(id)}</b> to check back later.</p>`;
     if (['published', 'rejected', 'abandoned'].includes(s.status)) clearInterval(C.pollTimer);
@@ -1135,6 +1190,7 @@ async function boot() {
     return;
   }
   $('#footStatus').textContent = `${fmtNum(S.root.count)} files · indexed ${new Date(S.generated).toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' })}`;
+  showVisitors();
   route();
 }
 boot();

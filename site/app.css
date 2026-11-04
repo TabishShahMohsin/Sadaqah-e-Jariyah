@@ -188,6 +188,10 @@ main { width: 100%; max-width: var(--w); margin: 0 auto; padding-block: 0 120px;
 .dr-text { min-width: 0; }
 .dr-name { font-size: 16px; font-weight: 600; letter-spacing: -.015em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .dr-path { font-size: 13px; color: var(--mute); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 1px; }
+.folder-btn { margin-top: 10px; }
+.rules { margin-top: 12px; font-size: 14px; color: var(--ink2); }
+.rules summary { cursor: pointer; color: var(--accent); }
+.rules ul { margin: 8px 0 0; padding-left: 18px; line-height: 1.5; }
 .dr-by { font-size: 13px; color: var(--ink); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 1px; }
 .dr-actions { display: flex; align-items: center; gap: 6px; flex: none; }
 .dr-pos { font-size: 13px; color: var(--mute); min-width: 48px; text-align: center; }

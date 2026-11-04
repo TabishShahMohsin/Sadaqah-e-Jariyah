@@ -16,6 +16,8 @@
 # Website (local browser + future hosted site)
 !site/
 !site/**
+!functions/
+!functions/**
 
 # Archive tooling (content files stay out of git; the catalog describes them)
 !CONVENTIONS.md
@@ -35,3 +37,6 @@ __pycache__/
 site/index.json
 !setup/
 !setup/**
+
+# Hugging Face write token (never commit)
+catalog/hf-config.json
