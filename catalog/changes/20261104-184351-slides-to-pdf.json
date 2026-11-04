@@ -1,0 +1,1607 @@
+{
+ "id": "20261104-184351-slides-to-pdf",
+ "created": "2026-11-04T18:43:51+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "tool": "convert_slides"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_1PPT-1A.pdf",
+   "s": 914688,
+   "h": "d26dcc3555e4cd18a2f68c16aa19739f409fe60c97d03918d2431ecd3f0ea307",
+   "t": 1793817499,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_1PPT-1A.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_1PPT-1A.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_1PPT-1A.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_1PPT-1A.pptx",
+   "was": {
+    "s": 784190,
+    "h": "d4afb82682c4b08153715d3cb6ba5d2c70f633da46760f4a73dc22a7474f06b4",
+    "t": 1793817499,
+    "meta": {
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3a.pdf",
+   "s": 1063725,
+   "h": "dd2213ec702abac40028aeb72a5a74f6e12306cc6fca35134ba21a18efb7b918",
+   "t": 1650067780,
+   "meta": {
+    "professor": "Arshad Umar",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3a.ppt"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3a.ppt",
+   "why": "converted to BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3a.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3a.ppt",
+   "was": {
+    "s": 2355712,
+    "h": "cfeba5b8445c26eb6c0f80326cdd3bd4765cb76740837e96fec813a3ac2438e1",
+    "t": 1650067780,
+    "meta": {
+     "professor": "Arshad Umar",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3b.pdf",
+   "s": 517322,
+   "h": "2875c48a9b5343749b6c24977c2ca69770f3829e87271f59c8c3d4717fd5f5c1",
+   "t": 1650067812,
+   "meta": {
+    "professor": "Arshad Umar",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3b.ppt"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3b.ppt",
+   "why": "converted to BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3b.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3b.ppt",
+   "was": {
+    "s": 1007104,
+    "h": "18c677d1820f130f6960d5d5fce508e28e0b372d5906eadfd1ddd9316ee38c7a",
+    "t": 1650067812,
+    "meta": {
+     "professor": "Arshad Umar",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3c.pdf",
+   "s": 810956,
+   "h": "88020e48c7abdc4cb688443bfde419686c26dfe6d67e5e25f975fffc605d2e32",
+   "t": 1650067816,
+   "meta": {
+    "professor": "Arshad Umar",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3c.ppt"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3c.ppt",
+   "why": "converted to BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3c.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3c.ppt",
+   "was": {
+    "s": 1817088,
+    "h": "3ab37d5ac5781f6d476ed484f81572e8f6c50e48738248af4013356dcb95ed6d",
+    "t": 1650067816,
+    "meta": {
+     "professor": "Arshad Umar",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3d.pdf",
+   "s": 1205658,
+   "h": "9128e2c97a94794c388681cdcf0a461b2d752263f414816b22d4414c9f314eb5",
+   "t": 1650067854,
+   "meta": {
+    "professor": "Arshad Umar",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3d.ppt"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3d.ppt",
+   "why": "converted to BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3d.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/Complete-Notes/Lecture-Slides_Unit-3d.ppt",
+   "was": {
+    "s": 3302408,
+    "h": "ec76c1f86f76f4c621e663e9de93dce3fcab86fa88c57aca74d23eb1419e4a67",
+    "t": 1650067854,
+    "meta": {
+     "professor": "Arshad Umar",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_1-Compression-Member.pdf",
+   "s": 7128862,
+   "h": "6923fb0e0740aaee744b715f930632774b8e30915217d5890b138aef06091f9c",
+   "t": 1793817512,
+   "meta": {
+    "professor": "Amjad",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_1-Compression-Member.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_1-Compression-Member.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_1-Compression-Member.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_1-Compression-Member.pptx",
+   "was": {
+    "s": 12262281,
+    "h": "e677e92107fc6364c0a97484cedeee2cd3c89eb8a8c56d10573917c140237eab",
+    "t": 1793817512,
+    "meta": {
+     "professor": "Amjad",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_1-Plate-Girder.pdf",
+   "s": 4578866,
+   "h": "d627cd71643d149f1a582576b7471d4d5c64f7192a0f39dc5d7da93069d7df1a",
+   "t": 1683580634,
+   "meta": {
+    "professor": "Amjad",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_1-Plate-Girder.ppt"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_1-Plate-Girder.ppt",
+   "why": "converted to BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_1-Plate-Girder.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_1-Plate-Girder.ppt",
+   "was": {
+    "s": 21118976,
+    "h": "b0a886bf643cceac545490e84919b9c852f4ce7961f54859ee522af6c40b6fab",
+    "t": 1683580634,
+    "meta": {
+     "professor": "Amjad",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Connections-and-Bolts.pdf",
+   "s": 6862206,
+   "h": "1fd7742da7ac22d68b7b5ced8c877d8621c1e92ca4cec14d3131c0fc24687e75",
+   "t": 1793817512,
+   "meta": {
+    "professor": "Amjad",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Connections-and-Bolts.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Connections-and-Bolts.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Connections-and-Bolts.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Connections-and-Bolts.pptx",
+   "was": {
+    "s": 19362847,
+    "h": "50474f6239cd1326f795b3b1e089bc7d011cec0e9c72cde9d56d32c5646948af",
+    "t": 1793817512,
+    "meta": {
+     "professor": "Amjad",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-1-Plastic-Analysis.pdf",
+   "s": 1013299,
+   "h": "42e735f37fd0c724d101e3a20350c7214f55d95f0afc79183fe41ddc8409fed9",
+   "t": 1793817515,
+   "meta": {
+    "professor": "Tabassum",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-1-Plastic-Analysis.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-1-Plastic-Analysis.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-1-Plastic-Analysis.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-1-Plastic-Analysis.pptx",
+   "was": {
+    "s": 1793444,
+    "h": "cda1bfed7ece3df0fe0f89ea3bceb87c1f3346e5fa41b2728019e194324f45bc",
+    "t": 1793817515,
+    "meta": {
+     "professor": "Tabassum",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-1-Steel.pdf",
+   "s": 556463,
+   "h": "1d2415b8a4a768ee86903d74d82241c0746fc327958a5745d87e40abcceda0f4",
+   "t": 1793817474,
+   "meta": {
+    "professor": "Tabassum",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-1-Steel.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-1-Steel.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-1-Steel.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-1-Steel.pptx",
+   "was": {
+    "s": 662222,
+    "h": "e1f1b31a23f1b67135452569d11324409b01903ddec9bb050f02958a348de944",
+    "t": 1793817474,
+    "meta": {
+     "professor": "Tabassum",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-2-Plastic-Analysis.pdf",
+   "s": 2100756,
+   "h": "1353a08488771e0838da19706358138c103f27cca585bbe65c04baffe8eb3d4f",
+   "t": 1793817515,
+   "meta": {
+    "professor": "Tabassum",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-2-Plastic-Analysis.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-2-Plastic-Analysis.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-2-Plastic-Analysis.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-2-Plastic-Analysis.pptx",
+   "was": {
+    "s": 2768623,
+    "h": "1bd5641ea862fcb9466c029d15ae3c5401d56abca7bfb26f54088b998e4534a7",
+    "t": 1793817515,
+    "meta": {
+     "professor": "Tabassum",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-2-Steel.pdf",
+   "s": 4186908,
+   "h": "e8641373fcd96e0397dfe406a5f2fbd378ae293f72330f20635b9c95f81147c4",
+   "t": 1793817516,
+   "meta": {
+    "professor": "Tabassum",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-2-Steel.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-2-Steel.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-2-Steel.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-2-Steel.pptx",
+   "was": {
+    "s": 6014508,
+    "h": "b1791a7f6aa96f325bc5faacdcdc965e4190107de31f503a6030a4240a3fde6b",
+    "t": 1793817516,
+    "meta": {
+     "professor": "Tabassum",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-4-Steel.pdf",
+   "s": 6729762,
+   "h": "b9f6bb89afe52da2f300e35aedc32070d5e4d1a90917744d4e406c38c862b4dd",
+   "t": 1793817473,
+   "meta": {
+    "professor": "Tabassum",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-4-Steel.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-4-Steel.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-4-Steel.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-4-Steel.pptx",
+   "was": {
+    "s": 5289848,
+    "h": "136068f27b13421d5e3d4b5d127780c92c9591b98675ba6f02454c6a4ded06a0",
+    "t": 1793817473,
+    "meta": {
+     "professor": "Tabassum",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-5-Steel.pdf",
+   "s": 1013868,
+   "h": "556d61e45a63310c5908a4bf1554b12c2e40d1fd040ba5aeaa16709b68b22239",
+   "t": 1793817516,
+   "meta": {
+    "professor": "Tabassum",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-5-Steel.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-5-Steel.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-5-Steel.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Lecture-5-Steel.pptx",
+   "was": {
+    "s": 1421880,
+    "h": "3d5042bf64196244d14c26c8db2bba5a7befab988e30b883c9d666a3e20c39ce",
+    "t": 1793817516,
+    "meta": {
+     "professor": "Tabassum",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Tension-Member.pdf",
+   "s": 6373995,
+   "h": "2f8607aa43955ece4111a70f4bead6b0245deb06c317f9a0173150d4517b9af0",
+   "t": 1793817514,
+   "meta": {
+    "professor": "Amjad",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Tension-Member.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Tension-Member.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Tension-Member.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/Complete-Notes/Lecture-Slides_Tension-Member.pptx",
+   "was": {
+    "s": 10369801,
+    "h": "865f6fffc05eb0a3129a2fbb7d3aa9583685f6ed1a9cdd07be17cb0c5befd4e9",
+    "t": 1793817514,
+    "meta": {
+     "professor": "Amjad",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_1-Plan.pdf",
+   "s": 85456,
+   "h": "3d782ae5459296630ea2a1bc7d370ce24d1c9ac580a2e1c580d5bdb70f620414",
+   "t": 1793817459,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_1-Plan.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_1-Plan.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_1-Plan.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_1-Plan.pptx",
+   "was": {
+    "s": 65263,
+    "h": "e042f68f8b37aab1cdbbcf9c633f8d63edbef7be79678bc8d5dfbe9bd8c0cbdd",
+    "t": 1793817459,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_10-Contracts.pdf",
+   "s": 106291,
+   "h": "cede20b334888de5d6864af009c110cd73c6ca1a6c5d5df3cafd2cda4c7f0309",
+   "t": 1793817500,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_10-Contracts.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_10-Contracts.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_10-Contracts.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_10-Contracts.pptx",
+   "was": {
+    "s": 90578,
+    "h": "705232fd78a489c3970d05833edc25681c8ca2061126fdea18bfde95e33ace49",
+    "t": 1793817500,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_2-Quantity-Survey-And-Its-Requirements.pdf",
+   "s": 61527,
+   "h": "62c17850542d912facf595956177e1cf9983ce58cd7b530e4f3bda59cc01bf2b",
+   "t": 1793817459,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_2-Quantity-Survey-And-Its-Requirements.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_2-Quantity-Survey-And-Its-Requirements.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_2-Quantity-Survey-And-Its-Requirements.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_2-Quantity-Survey-And-Its-Requirements.pptx",
+   "was": {
+    "s": 52627,
+    "h": "6ba538b807971a2b17d2949bead9276d9de61ce5083d97fa18cac99d1f2f4201",
+    "t": 1793817459,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_3-Capital-Cost-of-Project.pdf",
+   "s": 36337,
+   "h": "4d2c38b5b0333773af1e820f519771f9019af6c96adef79217d52382187ca2df",
+   "t": 1793817500,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_3-Capital-Cost-of-Project.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_3-Capital-Cost-of-Project.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_3-Capital-Cost-of-Project.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_3-Capital-Cost-of-Project.pptx",
+   "was": {
+    "s": 47641,
+    "h": "6c0555d0d7b807282353b2e405ae53b890717f265274fa9c8a73f95a000811be",
+    "t": 1793817500,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_4-Different-Areas-in-a-Building.pdf",
+   "s": 64113,
+   "h": "1cfca141deb3ea68ee886f94eadd259dcb5d36a1357780403e5ff0f31e025182",
+   "t": 1793817459,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_4-Different-Areas-in-a-Building.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_4-Different-Areas-in-a-Building.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_4-Different-Areas-in-a-Building.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_4-Different-Areas-in-a-Building.pptx",
+   "was": {
+    "s": 83702,
+    "h": "62a044c1bbe9be3dbb0a9f4a67949019fb48e563927d549890f0021c929714fa",
+    "t": 1793817459,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_6-Analysis-of-Rates.pdf",
+   "s": 206444,
+   "h": "852d289988fc0c4e69ab935721ef06137e6659ad260808e154e5a4da8c722419",
+   "t": 1793817459,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_6-Analysis-of-Rates.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_6-Analysis-of-Rates.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_6-Analysis-of-Rates.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_6-Analysis-of-Rates.pptx",
+   "was": {
+    "s": 116617,
+    "h": "99928d3088840fa0349a9eaca44e15606238d6b642bb9def474cc3d076f6f4e6",
+    "t": 1793817459,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_7-Specifications.pdf",
+   "s": 84325,
+   "h": "4341d4d3a0f6f5be08496a191eafc139eb0521cd752cf3e798eb16ea21c4671e",
+   "t": 1793817500,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_7-Specifications.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_7-Specifications.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_7-Specifications.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_7-Specifications.pptx",
+   "was": {
+    "s": 76877,
+    "h": "838c806c40696eced726713e43e90295dbfbe6a4105a86e0db734f31bd0ad8e6",
+    "t": 1793817500,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_8-Approval-Works.pdf",
+   "s": 43820,
+   "h": "a8f9a025763bdcdef3ef6624e6748157e62684d5a21f1b016f9ca02d55a447a9",
+   "t": 1793817459,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_8-Approval-Works.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_8-Approval-Works.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_8-Approval-Works.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_8-Approval-Works.pptx",
+   "was": {
+    "s": 49592,
+    "h": "8f0edcb072fb84efaa6764b12708196341d5910c1183cea9b69e7e618a23998b",
+    "t": 1793817459,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_9-Earnest-Money-and-Security-Deposit.pdf",
+   "s": 30305,
+   "h": "8f307bd6ec8bde8a3a336c12c0df432e92f27d9e183521ab984cdd96bc4fd264",
+   "t": 1793817459,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_9-Earnest-Money-and-Security-Deposit.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_9-Earnest-Money-and-Security-Deposit.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_9-Earnest-Money-and-Security-Deposit.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_9-Earnest-Money-and-Security-Deposit.pptx",
+   "was": {
+    "s": 50593,
+    "h": "fa28325288d1aa401faf12907478f3afc09b2b5636522b6b7c2c69fee9257c08",
+    "t": 1793817459,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2170-ECEC2170_Environmental-Engineering-I/Complete-Notes/Lecture-Slides_Design-of-Water-Distribution-Systems-Hardy-Cross-Method.pdf",
+   "s": 395265,
+   "h": "affb004eab00bc5fc2ffbc19d8f980d611ac6c493e27a26b3e0a44ed36816e10",
+   "t": 1793817502,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2170-ECEC2170_Environmental-Engineering-I/Complete-Notes/Lecture-Slides_Design-of-Water-Distribution-Systems-Hardy-Cross-Method.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2170-ECEC2170_Environmental-Engineering-I/Complete-Notes/Lecture-Slides_Design-of-Water-Distribution-Systems-Hardy-Cross-Method.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2170-ECEC2170_Environmental-Engineering-I/Complete-Notes/Lecture-Slides_Design-of-Water-Distribution-Systems-Hardy-Cross-Method.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2170-ECEC2170_Environmental-Engineering-I/Complete-Notes/Lecture-Slides_Design-of-Water-Distribution-Systems-Hardy-Cross-Method.pptx",
+   "was": {
+    "s": 178173,
+    "h": "dc437b2c93a6fa089a5ae92405fa880867bee5ae7222bf09c8f25275b98a977b",
+    "t": 1793817502,
+    "meta": {
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC4810_Colloquium/Records/Record_Colloquium-Presentation_Blue-Green-Infrastructure.pdf",
+   "s": 7123774,
+   "h": "63d99f41b1b97494bd015aebb0d058212a9d71aa637612d3303e7f577142e14b",
+   "t": 1793817522,
+   "meta": {
+    "author": "Sabahat Ahmad Khan",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC4810_Colloquium/Records/Record_Colloquium-Presentation_Blue-Green-Infrastructure.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC4810_Colloquium/Records/Record_Colloquium-Presentation_Blue-Green-Infrastructure.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC4810_Colloquium/Records/Record_Colloquium-Presentation_Blue-Green-Infrastructure.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC4810_Colloquium/Records/Record_Colloquium-Presentation_Blue-Green-Infrastructure.pptx",
+   "was": {
+    "s": 22229681,
+    "h": "6e82a5e9ed1120fd556017448f85882799216fcd4d4c1db371f0711ff2fe8b25",
+    "t": 1793817522,
+    "meta": {
+     "author": "Sabahat Ahmad Khan",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-1-Cement.pdf",
+   "s": 1595229,
+   "h": "3cd661924ecd83e7ace957b4dbb8dba3fb6cb69df44300fd4ab006ca016b5a65",
+   "t": 1680270536,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-1-Cement.ppt"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-1-Cement.ppt",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-1-Cement.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-1-Cement.ppt",
+   "was": {
+    "s": 1533440,
+    "h": "50e99232401dbbd5e15be4bb9bcd284b5adbe5425f126ac000cce62979f18068",
+    "t": 1680270536,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-2-Admixtures.pdf",
+   "s": 362182,
+   "h": "eedf3bc702ff9eae54806cadd36789e0c3145452d255213fd6f747c8449a9d79",
+   "t": 1793817477,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-2-Admixtures.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-2-Admixtures.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-2-Admixtures.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-2-Admixtures.pptx",
+   "was": {
+    "s": 387580,
+    "h": "45794e4a6d6345ae065bedf9a5d790f32e9f3e001bcfc9679d716fccf39e9fa4",
+    "t": 1793817477,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-3-Aggregates.pdf",
+   "s": 974939,
+   "h": "ddccd358d4bda0adf52c9fcad4c5209cf5d6789a5e7732d58a16de0960781a40",
+   "t": 1680232336,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-3-Aggregates.ppt"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-3-Aggregates.ppt",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-3-Aggregates.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-3-Aggregates.ppt",
+   "was": {
+    "s": 700416,
+    "h": "5d6707c8f0529244995858b194efa4a7af32671144430e5b651d911666d49479",
+    "t": 1680232336,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-4-Mixing-of-Concrete.pdf",
+   "s": 956838,
+   "h": "5fbdf0f10831d4c7f17b14e71ed0008a0a3534615cd0f5aecdce052994511817",
+   "t": 1793817518,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-4-Mixing-of-Concrete.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-4-Mixing-of-Concrete.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-4-Mixing-of-Concrete.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-4-Mixing-of-Concrete.pptx",
+   "was": {
+    "s": 2002350,
+    "h": "b6b3c30f5bc189fd331fa667fde3f974387bf9cd6b902cc5e76b0f3695319ba3",
+    "t": 1793817518,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-5-Effect-of-Grading-on-the-Properties-of-Concrete-Mix.pdf",
+   "s": 59908,
+   "h": "e714f3e251ee9d4020c8a2b2025d80459dd6e464d9c1c8b82c502ab2d5f4fd57",
+   "t": 1793817477,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-5-Effect-of-Grading-on-the-Properties-of-Concrete-Mix.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-5-Effect-of-Grading-on-the-Properties-of-Concrete-Mix.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-5-Effect-of-Grading-on-the-Properties-of-Concrete-Mix.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_2-5-Effect-of-Grading-on-the-Properties-of-Concrete-Mix.pptx",
+   "was": {
+    "s": 90420,
+    "h": "9535398b43e45e71a9bad476efc51309cc40558f18eb2efa4b6d00ebe2fe0128",
+    "t": 1793817477,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Acid-Attack.pdf",
+   "s": 262739,
+   "h": "58773f3d84fe212d5696315586f0eff15bf79d55b61d0e3f3d6e71b878597b26",
+   "t": 1684819888,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Acid-Attack.ppt"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Acid-Attack.ppt",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Acid-Attack.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Acid-Attack.ppt",
+   "was": {
+    "s": 6740480,
+    "h": "f02899a4c0ab6f16375f4f665a5000287c5be0dbf4939ab12db52e9d625a534f",
+    "t": 1684819888,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Bond-Strength.pdf",
+   "s": 165659,
+   "h": "f74856c2bd75385606f33156cbaebe5dcac7cafe0403aad999868a04bb0c688b",
+   "t": 1793817477,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Bond-Strength.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Bond-Strength.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Bond-Strength.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Bond-Strength.pptx",
+   "was": {
+    "s": 219856,
+    "h": "1c946756ba69c3fd795330910fb069da7fdf3ffb6bd364248c1280db94c972c5",
+    "t": 1793817477,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Effect-of-Age-on-Strength-of-Concrete.pdf",
+   "s": 81516,
+   "h": "0552c81a58fcea57b55e8d7bc9dea7b58e20b0ecf798175f42d1ae8b54f1f8c1",
+   "t": 1793817477,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Effect-of-Age-on-Strength-of-Concrete.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Effect-of-Age-on-Strength-of-Concrete.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Effect-of-Age-on-Strength-of-Concrete.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Effect-of-Age-on-Strength-of-Concrete.pptx",
+   "was": {
+    "s": 106140,
+    "h": "0d331ee8de2beb87a35ffba99c43f099775202d4323de5c98d2ae2f9f3a4771a",
+    "t": 1793817477,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Fatigue-Strength.pdf",
+   "s": 529001,
+   "h": "08625efe940025f5ae6e4171b80b68d42b3e4bc90d63b79bb8ccf661baba43f3",
+   "t": 1793817477,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Fatigue-Strength.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Fatigue-Strength.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Fatigue-Strength.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Fatigue-Strength.pptx",
+   "was": {
+    "s": 692556,
+    "h": "2e4d2c402cfc37a5413cbbf4b14466205cf90f2c500af4c98c09536704f3781b",
+    "t": 1793817477,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Ferrocement.pdf",
+   "s": 48066,
+   "h": "48fd15a509f363d386b145a5f6f474cfc1457bfa4486b545f1fa10ad9ed525fb",
+   "t": 1684819950,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Ferrocement.ppt"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Ferrocement.ppt",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Ferrocement.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Ferrocement.ppt",
+   "was": {
+    "s": 30720,
+    "h": "341468c8f2aabe33949c41dbc17f6af6ce6dc9b7da10eae9102d01291e1b78d9",
+    "t": 1684819950,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Influence-of-Coarse-Aggregate-on-Strength.pdf",
+   "s": 37340,
+   "h": "f77b6c5ad2fbacc13eafb677fe4ac095fdc88479984f904b9a8d1a2fb154aa8a",
+   "t": 1793817518,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Influence-of-Coarse-Aggregate-on-Strength.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Influence-of-Coarse-Aggregate-on-Strength.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Influence-of-Coarse-Aggregate-on-Strength.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Influence-of-Coarse-Aggregate-on-Strength.pptx",
+   "was": {
+    "s": 98241,
+    "h": "e0813ddc159b0dfb19fc6d508506ec3e0b2942ee2024f21623731ffd668b3a01",
+    "t": 1793817518,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Influence-of-Temperature-on-Strength-of-Concrete.pdf",
+   "s": 196614,
+   "h": "230b486ef9aa10255676722e24c8a64cc008c951b37e93f9ef517196e430f694",
+   "t": 1793817477,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Influence-of-Temperature-on-Strength-of-Concrete.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Influence-of-Temperature-on-Strength-of-Concrete.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Influence-of-Temperature-on-Strength-of-Concrete.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Influence-of-Temperature-on-Strength-of-Concrete.pptx",
+   "was": {
+    "s": 342629,
+    "h": "b2ce9259c8ff59c902c2c5b7d02f9cd34d1a5a59ebbac9f7461984e1f58518bc",
+    "t": 1793817477,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Micro-Cracking-and-Stress-Strain-Relation.pdf",
+   "s": 307450,
+   "h": "fb4720c95518f89b4071f3afd4ad46e1f1442b2933c340349cac84080489391a",
+   "t": 1793817518,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Micro-Cracking-and-Stress-Strain-Relation.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Micro-Cracking-and-Stress-Strain-Relation.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Micro-Cracking-and-Stress-Strain-Relation.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Micro-Cracking-and-Stress-Strain-Relation.pptx",
+   "was": {
+    "s": 367085,
+    "h": "d4b07137d0ba8922224bae92558489e991dbeacab6a471f74d09c3ce0ff8e8f8",
+    "t": 1793817518,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Mix-Design.pdf",
+   "s": 308102,
+   "h": "7d70ac1290708f3264d4993e8be31fbf8e5c440bbbe665eed3f87a5717935a20",
+   "t": 1684820094,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Mix-Design.ppt"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Mix-Design.ppt",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Mix-Design.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Mix-Design.ppt",
+   "was": {
+    "s": 644608,
+    "h": "e2ce3006ae5cc3cf82c224094081de60d8965b66c97219bfcbc1d5665cbfe25c",
+    "t": 1684820094,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Relation-Between-Tensile-and-Compressive-Strength.pdf",
+   "s": 92739,
+   "h": "f62ef89c66fd13813362dde4e87c14e47e21f949e6deb1c8c8dce10b7a33fbcb",
+   "t": 1793817478,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Relation-Between-Tensile-and-Compressive-Strength.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Relation-Between-Tensile-and-Compressive-Strength.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Relation-Between-Tensile-and-Compressive-Strength.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Relation-Between-Tensile-and-Compressive-Strength.pptx",
+   "was": {
+    "s": 100355,
+    "h": "071cb49b1f0241ce64ffe020cdc76d37ab2ebb5c39b446f79fa5c5a3a9923814",
+    "t": 1793817478,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Self-Compacting-Concrete-scc.pdf",
+   "s": 317493,
+   "h": "b953aa5b8ff8a219b354917a04ba67669ff7007abebbeff2e720cfb7234e635a",
+   "t": 1684892304,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Self-Compacting-Concrete-scc.ppt"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Self-Compacting-Concrete-scc.ppt",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Self-Compacting-Concrete-scc.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Self-Compacting-Concrete-scc.ppt",
+   "was": {
+    "s": 14170624,
+    "h": "c587343e2084179d7f1401d9da0e8f51fd4ccc2792f5d226c48cda92ebcb2047",
+    "t": 1684892304,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Shrinkage.pdf",
+   "s": 573588,
+   "h": "ef069c72b8544bb74c7aede816e69efb4df7cc7b5844fe26cdd8b50bd81eebc1",
+   "t": 1793817477,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Shrinkage.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Shrinkage.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Shrinkage.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology/Complete-Notes/Lecture-Slides_Shrinkage.pptx",
+   "was": {
+    "s": 777723,
+    "h": "8e965814ba574d0526c6f58ba18a9fa22e3519f9b0211cf46be1692d2578fec7",
+    "t": 1793817477,
+    "meta": {
+     "professor": "Fareed Mahdi",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/PYQs-and-Assignments/Z_Presentation_Rock-Engineering.pdf",
+   "s": 540122,
+   "h": "5836e86a78f6db2eb95b9e5c958df37685ca3ac6f0a87a1bb409f98685c0be90",
+   "t": 1793817527,
+   "meta": {
+    "author": "Sabahat Ahmad Khan",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/PYQs-and-Assignments/Z_Presentation_Rock-Engineering.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/PYQs-and-Assignments/Z_Presentation_Rock-Engineering.pptx",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/PYQs-and-Assignments/Z_Presentation_Rock-Engineering.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/PYQs-and-Assignments/Z_Presentation_Rock-Engineering.pptx",
+   "was": {
+    "s": 298123,
+    "h": "43f71ad66cba4fcf8f6744c250158235452f489132e0ee01d837f0a0e1071741",
+    "t": 1793817527,
+    "meta": {
+     "author": "Sabahat Ahmad Khan",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control/Complete-Notes/Lecture-Slides_Air-Pollution.pdf",
+   "s": 5512459,
+   "h": "dd7e2da0f34c442eb5cb1f70dd69e12156485bb6b792dca05ae58f951170516d",
+   "t": 1670202508,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control/Complete-Notes/Lecture-Slides_Air-Pollution.ppt"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control/Complete-Notes/Lecture-Slides_Air-Pollution.ppt",
+   "why": "converted to BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control/Complete-Notes/Lecture-Slides_Air-Pollution.pdf",
+   "original_kept": "_Originals/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control/Complete-Notes/Lecture-Slides_Air-Pollution.ppt",
+   "was": {
+    "s": 27162624,
+    "h": "6efe7df46414cdcbc6b2214788cc4ebe29d8d25d7ed032a498462bfe17460d35",
+    "t": 1670202508,
+    "meta": {
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Complete-Notes/Lecture-Slides_2-Compton-Effect.pdf",
+   "s": 386332,
+   "h": "10a1debad055ac7abafce3d20aae176d22c3aaa973bb6cc97cf51e351fcc8df4",
+   "t": 1626988522,
+   "meta": {
+    "professor": "Pushpendra",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Complete-Notes/Lecture-Slides_2-Compton-Effect.ppt"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Complete-Notes/Lecture-Slides_2-Compton-Effect.ppt",
+   "why": "converted to BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Complete-Notes/Lecture-Slides_2-Compton-Effect.pdf",
+   "original_kept": "_Originals/BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Complete-Notes/Lecture-Slides_2-Compton-Effect.ppt",
+   "was": {
+    "s": 712704,
+    "h": "33429463d8f988b7b3e5c664759d0eac62557a1e2d265c2ddf15f968122aff0c",
+    "t": 1626988522,
+    "meta": {
+     "professor": "Pushpendra",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Complete-Notes/Lecture-Slides_3-Pair-Production.pdf",
+   "s": 224817,
+   "h": "9de1497d2c96fa62c6cb8ea1f7a0bf3fd79eea1d0d8f1ebf4c3bc8634f6cf5a3",
+   "t": 1626990858,
+   "meta": {
+    "professor": "Pushpendra",
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Complete-Notes/Lecture-Slides_3-Pair-Production.ppt"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Complete-Notes/Lecture-Slides_3-Pair-Production.ppt",
+   "why": "converted to BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Complete-Notes/Lecture-Slides_3-Pair-Production.pdf",
+   "original_kept": "_Originals/BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Complete-Notes/Lecture-Slides_3-Pair-Production.ppt",
+   "was": {
+    "s": 406016,
+    "h": "bd38c85d155a25bd7b97318cbea0b3abaa88949a69ca4b76546e60e9df6a7946",
+    "t": 1626990858,
+    "meta": {
+     "professor": "Pushpendra",
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Complete-Notes/Lecture-Slides_On-Notetaking-and-Notemaking.pdf",
+   "s": 235023,
+   "h": "c36f4f7b6427995afef430040034f33b3aa514022902cfe12c1c9a0aaf73fa09",
+   "t": 1632363690,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Complete-Notes/Lecture-Slides_On-Notetaking-and-Notemaking.ppt"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Complete-Notes/Lecture-Slides_On-Notetaking-and-Notemaking.ppt",
+   "why": "converted to BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Complete-Notes/Lecture-Slides_On-Notetaking-and-Notemaking.pdf",
+   "original_kept": "_Originals/BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Complete-Notes/Lecture-Slides_On-Notetaking-and-Notemaking.ppt",
+   "was": {
+    "s": 913920,
+    "h": "5cf07d45046514ff1ad6683e3d89eb16b24e5450e943dcc02ca59e4a187acdbb",
+    "t": 1632363690,
+    "meta": {
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Abstracting.pdf",
+   "s": 264015,
+   "h": "9291262f9a77219f7ae81e29a86ba32968b309dcb812b9b2e1c044c48ae84787",
+   "t": 1793817460,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Abstracting.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Abstracting.pptx",
+   "why": "converted to BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Abstracting.pdf",
+   "original_kept": "_Originals/BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Abstracting.pptx",
+   "was": {
+    "s": 236454,
+    "h": "d95ac1dc99332839b74fb51606a444a2e163ce1e64824567ce394e092a15f971",
+    "t": 1793817460,
+    "meta": {
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Email.pdf",
+   "s": 1291777,
+   "h": "9ac09aced3aad89cf0ec1b7b3ccb41ee15f9805e5732662d06a992253387c64e",
+   "t": 1793817504,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Email.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Email.pptx",
+   "why": "converted to BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Email.pdf",
+   "original_kept": "_Originals/BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Email.pptx",
+   "was": {
+    "s": 2720764,
+    "h": "e9e027647c2dd7be093460803647bbe08db05fe66d87d311acf9c368a63075c6",
+    "t": 1793817504,
+    "meta": {
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Group-Discussion.pdf",
+   "s": 1341607,
+   "h": "92c3f90c530c7547605c44bc629933905624d5d93ddca01f3ca26e2db14df68e",
+   "t": 1793817461,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Group-Discussion.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Group-Discussion.pptx",
+   "why": "converted to BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Group-Discussion.pdf",
+   "original_kept": "_Originals/BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Group-Discussion.pptx",
+   "was": {
+    "s": 3254555,
+    "h": "9bbc20353f3d73e48e67a837197c9ed6c3e521442e6b3e035fec5b8362b2d39d",
+    "t": 1793817461,
+    "meta": {
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Interview.pdf",
+   "s": 1116600,
+   "h": "4f3968a9f61a54b9c0ace181836b89cf85adea2c892609a7da9bd48efae7da1e",
+   "t": 1793817461,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Interview.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Interview.pptx",
+   "why": "converted to BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Interview.pdf",
+   "original_kept": "_Originals/BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Interview.pptx",
+   "was": {
+    "s": 275308,
+    "h": "997ed8d966a8c1e4e4c2acb3b088421dd1dce77870e796d303274f8f35f99115",
+    "t": 1793817461,
+    "meta": {
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Memorandummemo.pdf",
+   "s": 1088730,
+   "h": "730a3f7d38cfd130899d75eeddac32ab57560e72459452167c71d10fc97e028f",
+   "t": 1793817461,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Memorandummemo.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Memorandummemo.pptx",
+   "why": "converted to BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Memorandummemo.pdf",
+   "original_kept": "_Originals/BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Memorandummemo.pptx",
+   "was": {
+    "s": 1267322,
+    "h": "01b1716ac6f319db028fd5a48a3790ee2ff23a0aed5d536e2f7d0863869bde10",
+    "t": 1793817461,
+    "meta": {
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Presenting-Prepared-Papers.pdf",
+   "s": 186991,
+   "h": "d50bc353ea74e9780414fd15fdcf77cf6c808d58f2b435abf10ad5b8ee6328ca",
+   "t": 1793817504,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Presenting-Prepared-Papers.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Presenting-Prepared-Papers.pptx",
+   "why": "converted to BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Presenting-Prepared-Papers.pdf",
+   "original_kept": "_Originals/BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Presenting-Prepared-Papers.pptx",
+   "was": {
+    "s": 235691,
+    "h": "20f4bc7bf9f8285ba4eb72537141075f69d7c60769ac5b85fe30becd41b77475",
+    "t": 1793817504,
+    "meta": {
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Carpentry-Shop.pdf",
+   "s": 78285,
+   "h": "68e6fdfe1616e456d886920ebc6254361a880e93b57cf12acbf01812741b1138",
+   "t": 1793817456,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Carpentry-Shop.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Carpentry-Shop.pptx",
+   "why": "converted to BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Carpentry-Shop.pdf",
+   "original_kept": "_Originals/BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Carpentry-Shop.pptx",
+   "was": {
+    "s": 265187,
+    "h": "74329b5b3300b1ef62a6abc3159d7dc965ada25fbafb772f5297e5d356db3e84",
+    "t": 1793817456,
+    "meta": {
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Electroplating-Shop.pdf",
+   "s": 100836,
+   "h": "bef4861b740d81b26ce475aee0654ab5d037e40738b3676ce1aa14827554f220",
+   "t": 1793817497,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Electroplating-Shop.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Electroplating-Shop.pptx",
+   "why": "converted to BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Electroplating-Shop.pdf",
+   "original_kept": "_Originals/BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Electroplating-Shop.pptx",
+   "was": {
+    "s": 290944,
+    "h": "3f97d51750cc4d9300f9517a5e7fb20c862b3bb8c6dd5f6d073d145bf233c402",
+    "t": 1793817497,
+    "meta": {
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Fitting-Shop.pdf",
+   "s": 186539,
+   "h": "e737e0743095565edfd13a6a381fbea82698904f3d6251d8fead38f071be95a2",
+   "t": 1793817497,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Fitting-Shop.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Fitting-Shop.pptx",
+   "why": "converted to BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Fitting-Shop.pdf",
+   "original_kept": "_Originals/BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Fitting-Shop.pptx",
+   "was": {
+    "s": 1034080,
+    "h": "e256177bd50e081aa836a216189776f6f3bd20f5d327f09e3ab2a97f3bb52501",
+    "t": 1793817497,
+    "meta": {
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Welding-Shop.pdf",
+   "s": 63493,
+   "h": "537d096f0fb2413a73ac0f22ff98a9cddbda8333aee698f0393a339c3b5c80b3",
+   "t": 1793817456,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "note": "converted from the original slides"
+   },
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Welding-Shop.pptx"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Welding-Shop.pptx",
+   "why": "converted to BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Welding-Shop.pdf",
+   "original_kept": "_Originals/BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_I-Year-Welding-Shop.pptx",
+   "was": {
+    "s": 118088,
+    "h": "5cd4011d70dab68d47276e2b9595431b45b25e1cb5cfcb1c110a2c9b866fc6d3",
+    "t": 1793817456,
+    "meta": {
+     "credit": "Sabahat Ahmad Khan"
+    }
+   }
+  }
+ ]
+}

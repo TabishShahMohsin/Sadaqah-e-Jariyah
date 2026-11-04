@@ -125,7 +125,8 @@ SYMBOL_TO_UNICODE.update(zip(range(0xA0, 0xFF), "\u20ac\u03d2\u2032\u2264\u2044\
 WINGDINGS_TO_UNICODE = {0x6C: "\u25cf", 0x6D: "\u274d", 0x6E: "\u25a0", 0x6F: "\u25a1", 0x70: "\u25fb", 0x71: "\u2751", 0x72: "\u2752",
                         0x73: "\u2b27", 0x74: "\u29eb", 0x75: "\u25c6", 0x76: "\u2756", 0x77: "\u2b25", 0x9F: "\u2022", 0xA7: "\u25aa",
                         0xA8: "\u25fb", 0xD8: "\u27a2", 0xE0: "\u2192", 0xE8: "\u2794", 0xF0: "\u21e8", 0xFB: "\u2717", 0xFC: "\u2713",
-                        0xFD: "\u2612", 0xFE: "\u2611", 0x46: "\u261e", 0x4A: "\u263a"}
+                        0xFD: "\u2612", 0xFE: "\u2611", 0x46: "\u261e", 0x4A: "\u263a", 0xA1: "\u25cb",
+                        0xA4: "\u25c9", 0xA5: "\u25ce", 0xAB: "\u2605", 0x43: "\U0001f44d", 0x44: "\U0001f44e"}
 DINGBATS_TO_UNICODE = {0x6C: "\u25cf", 0x6E: "\u25a0", 0x6F: "\u274f", 0x75: "\u25c6", 0x76: "\u2756", 0x5B: "\u275b", 0x5D: "\u275d"}
 BULLET_FONTS = {"symbol": (SYMBOL_TO_UNICODE, "\u2022"), "wingdings": (WINGDINGS_TO_UNICODE, "\u2022"),
                 "wingdings 2": ({}, "\u25aa"), "wingdings 3": ({}, "\u25ba"), "monotype sorts": (DINGBATS_TO_UNICODE, "\u25aa"),
@@ -173,8 +174,11 @@ def _swap_symbol_runs(xml):
         latin, sym = fonts.get("latin"), fonts.get("sym")
         whole = latin in BULLET_FONTS and latin in ("symbol", "wingdings")      # every character is in the symbol font
         part = sym in ("symbol", "wingdings") and not whole                     # only private-use characters are
-        if not (whole or part):
+        orphan = not (whole or part) and any(0xF020 <= ord(ch) <= 0xF0FF for ch in text)
+        if not (whole or part or orphan):
             return m.group(0)
+        # orphan: symbol-font codes left in an ordinary font (the font was lost on copy-paste); Office shows these
+        # as Wingdings, e.g. U+F076 ❖ and U+F0A1 ○ before a line
         table = SYMBOL_TO_UNICODE if (latin if whole else sym) == "symbol" else WINGDINGS_TO_UNICODE
         out = []
         for ch in text:

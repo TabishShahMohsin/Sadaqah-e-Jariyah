@@ -1,0 +1,16 @@
+{
+ "id": "20261104-184402-rename",
+ "created": "2026-11-04T18:44:02+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "clearer name"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Memorandummemo.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Complete-Notes/Lecture-Slides_Memorandum.pdf"
+  }
+ ]
+}

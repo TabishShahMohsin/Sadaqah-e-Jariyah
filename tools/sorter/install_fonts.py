@@ -24,7 +24,7 @@ DEST = os.path.join(os.path.expanduser("~"), ".local", "share", "fonts", "sej")
 # Google Fonts (SIL Open Font License), by folder name in github.com/google/fonts/tree/main/ofl
 GOOGLE = ["gelasio", "comicneue", "librefranklin", "archivoblack", "anton", "montserrat", "nunito", "raleway", "roboto",
           "robotoserif", "karla", "amaticsc", "prompt", "dosis", "titilliumweb", "comfortaa", "merriweather", "lato",
-          "poppins", "sourcesans3", "oswald", "ebgaramond", "firasans", "playfairdisplay"]
+          "poppins", "sourcesans3", "oswald", "ebgaramond", "firasans", "playfairdisplay", "notoemoji"]
 WINE_KEEP = ("wingding.ttf", "webdings.ttf", "marlett.ttf")  # Wine's own Symbol is replaced by the one built below
 
 

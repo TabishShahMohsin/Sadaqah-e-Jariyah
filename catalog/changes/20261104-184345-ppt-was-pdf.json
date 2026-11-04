@@ -1,0 +1,21 @@
+{
+ "id": "20261104-184345-ppt-was-pdf",
+ "created": "2026-11-04T18:43:45+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "two \"slides\" that were really PDF files get their right extension"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Manuals/Manual_Recursion.ppt",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Manuals/Manual_Recursion.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Manuals/Manual_Storage-in-C.ppt",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Manuals/Manual_Storage-in-C.pdf"
+  }
+ ]
+}
