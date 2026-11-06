@@ -1,6 +1,6 @@
 {
  "about": "Every place material came from or was offered from. credit = the name shown on the site; confirm = the name is a guess from the Drive owner's email and should be checked before use. status: merged | to-review | dead (link no longer opens) | reference (site; not a file source).",
- "checked": "2026-11-05",
+ "checked": "2026-11-06",
  "sources": [
   {
    "title": "B.Tech (Civil) 20-24 Sabahat Ahmad Khan Notes",
@@ -141,6 +141,56 @@
    "covers": "Computer Engineering, semester 3 (one 'Notes' folder)",
    "status": "to-review",
    "note": "owner name unknown - ask whoever posted the ENGINEERING NOTES list"
+  },
+  {
+   "title": "4th Sem",
+   "url": "https://drive.google.com/drive/folders/1Z9BBAcjH0dfy0c8Giv5xCl2K5fyVmwOV",
+   "covers": "Automobile Engineering, semester 4",
+   "owner": "gn8042@myamu.ac.in",
+   "credit": "Md Yousuf",
+   "shared_by": "Arsalan",
+   "status": "to-review"
+  },
+  {
+   "title": "5th Sem",
+   "url": "https://drive.google.com/drive/folders/1wj3yjWEpmjMFYct9sM-GI5Penk0HYlSE",
+   "covers": "Automobile Engineering, semester 5: Hybrid & EV, Fuels and Lubricants, Drive & Transmission, Design of Vehicle Components, CNC, Economy & Management, Simulation Lab, syllabus, Machine Design PYQs 2018-24, mid-sem papers",
+   "note": "'Machine Design 2' is a shortcut to someone else's folder",
+   "owner": "gn8042@myamu.ac.in",
+   "credit": "Md Yousuf",
+   "shared_by": "Arsalan",
+   "status": "to-review"
+  },
+  {
+   "title": "6th Sem",
+   "url": "https://drive.google.com/drive/folders/15IYTZr5HvRAaVXSmJ6xuK48dji4naM-O",
+   "covers": "Automobile Engineering, semester 6: IC Engine, Machinery Dynamics, Automotive Emission & Control, Automotive Hydraulic & Pneumatic Systems, Kinematics & Stress Analysis Lab, Manufacturing Tech Lab 2, Fuel Testing Lab, papers, end-sem papers",
+   "note": "has a Books folder (stays unpublished) and blank lab cover pages",
+   "owner": "gn8042@myamu.ac.in",
+   "credit": "Md Yousuf",
+   "shared_by": "Arsalan",
+   "status": "to-review"
+  },
+  {
+   "title": "7th Sem",
+   "url": "https://drive.google.com/drive/folders/1Uh7_oPYtHDomisRKJJfCNr-AZMt5j2YA",
+   "covers": "Automobile Engineering, semester 7: Vibration, Automotive, CAD, Energy Conversion Lab, Selected Topics for Computer Engineering",
+   "note": "name and faculty no. come from his own lab cover page here (Md Yousuf, 22AEB373, batch 2022-26); folder 'YSF' and that cover page are personal - leave out",
+   "owner": "gn8042@myamu.ac.in",
+   "credit": "Md Yousuf",
+   "shared_by": "Arsalan",
+   "status": "to-review"
+  },
+  {
+   "title": "3RD & 5TH SEMESTER",
+   "url": "https://drive.google.com/drive/folders/13v37BUWP5e8fvPiG2CjLRFYcrBAmushG",
+   "owner": "hassantech6933@gmail.com",
+   "credit": "Hassan",
+   "confirm": true,
+   "covers": "Automobile Engineering, semesters 3 and 5",
+   "status": "to-review",
+   "shared_by": "Arsalan",
+   "note": "only 'Hassan' is known from the email; full name unknown"
   },
   {
    "title": "4th Semester Computer Engineering",
