@@ -26,7 +26,9 @@ SLIDE_APPS = re.compile(r"powerpoint|impress|keynote|google slides", re.I)
 
 def _run(*a, timeout=60):
     try:
-        return subprocess.run(a, capture_output=True, text=True, timeout=timeout).stdout
+        # one thread per OCR: the sorter runs several at once, and tesseract's own threads only fight over the cores
+        env = dict(os.environ, OMP_THREAD_LIMIT="1")
+        return subprocess.run(a, capture_output=True, text=True, timeout=timeout, env=env).stdout
     except (subprocess.SubprocessError, OSError):
         return ""
 
@@ -55,7 +57,7 @@ def ocr_page1(path, ext):
             if not pngs:
                 return "", None, 0
             img = pngs[0]
-        tsv = _run("tesseract", img, "-", "--psm", "3", "tsv").splitlines()[1:]
+        tsv = _run("tesseract", img, "-", "--psm", "3", "tsv", timeout=40).splitlines()[1:]
     words, confs = [], []
     for line in tsv:
         c = line.split("\t")

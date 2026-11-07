@@ -113,7 +113,7 @@ def ocr_page(path, ext, page=1):
         if not os.path.exists(img):
             return ""
         try:
-            return subprocess.run(["tesseract", img, "-", "--psm", "3"], capture_output=True, text=True, timeout=120,
+            return subprocess.run(["tesseract", img, "-", "--psm", "3"], capture_output=True, text=True, timeout=60,
                                   env={**os.environ, "OMP_THREAD_LIMIT": "1"}).stdout
         except subprocess.TimeoutExpired:
             return ""

@@ -98,6 +98,7 @@ def prepare(items, work, rules, budget, log=print, save=None):
                 it["page_texts"] = texts
         it["prep_inspected"] = True
 
+    os.environ["OMP_THREAD_LIMIT"] = "1"         # each OCR on one core, since several run side by side
     todo = [it for it in items if not it.get("prep_inspected") and not it.get("outcome")]
     workers = max(1, min(4, os.cpu_count() or 1))
     with ThreadPoolExecutor(workers) as pool:  # evidence: text, OCR, profile, fingerprints, page images
