@@ -9,9 +9,20 @@ YEAR_RE = re.compile(r"^(19|20)\d\d-\d\d$")
 BRANCH_LEVEL = ("_General-PYQs", "_Curriculum")
 
 
+_REG = None
+
+
+def registry():
+    """One registry per run; new teachers join it provisionally so later batches reuse the same spelling."""
+    global _REG
+    if _REG is None:
+        from . import people
+        _REG = people.Registry()
+    return _REG
+
+
 def describe_meta(d, it, course_path):
     """professor (canonical from the teacher registry), author, source, title, summary, kind. Returns (meta, flags)."""
-    from . import people
     meta, flags = {}, []
     for k in ("author", "source"):
         v = util.clean_text(d.get(k), 60)
@@ -21,14 +32,20 @@ def describe_meta(d, it, course_path):
     prof = util.clean_text(d.get("professor"), 60)
     if prof:
         course = "/".join(course_path.split("/")[:4])
-        hit = people.Registry().match(prof, course=course)
+        reg = registry()
+        hit = reg.match(prof, course=course)
         if hit:
             meta["professor"] = hit["name"]
+            if hit.get("provisional"):
+                flags.append(f"new teacher: {hit['name']}")
         else:
             if prof.islower() or prof.isupper():          # "sana ur rahman" → "Sana ur Rahman"
                 prof = " ".join(w if w in ("ul", "ur", "al", "ud", "bin") else w.capitalize() for w in prof.lower().split())
+            if re.match(r"(?i)^dr\s", prof):
+                prof = "Dr. " + prof[3:].strip()
             meta["professor"] = prof
             flags.append(f"new teacher: {prof}")
+            reg.add(prof, course=course)["provisional"] = True
     title = util.clean_text(d.get("title"), 90)
     if title:
         meta["title"] = title
@@ -124,6 +141,7 @@ class Context:
         name = str(d.get("name") or "").strip()
         if "." not in name:
             name = f"{name}.{it['ext']}"
+        name = re.sub(r"^(Experiment|Tutorial|Assignment|Z_Tutorial|Z_Assignment)-0+(\d)", r"\1-\2", name)   # Experiment-2, not -02
         ext = util.ext_of(name)
         target_ext = it["ext"]
         # .md/.txt outside a lab's Records are published as PDF (converted when applied)

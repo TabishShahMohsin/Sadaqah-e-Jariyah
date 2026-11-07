@@ -180,6 +180,9 @@ def cmd_decide(a):
     items = meta["items"]
     state = sej.load_state()
     archive = courses.Archive(REPO, state, sej, rules, local_root=REPO)
+    for it in items:   # a spreadsheet tab with no cells (a chart sheet) has nothing to publish
+        if not it.get("outcome") and it.get("ext") == "csv" and len(re.sub(r'[\s,;"]', "", (it.get("info") or {}).get("text", ""))) < 5:
+            it["outcome"] = {"action": "ignored", "reason": "empty sheet (no data)", "auto": True}
     dedup.exact(items, archive)
     dedup.batch_lookalikes(items)
     note = meta.get("note") or ""
