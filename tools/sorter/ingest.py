@@ -362,6 +362,14 @@ def png_is_photo(path):
 
 def video_to_mp4(it, workdir):
     out = os.path.join(workdir, f"conv-{it['id']}.mp4")
+    probe = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "stream=codec_name", "-of", "csv=p=0", it["path"]],
+                           capture_output=True, text=True, timeout=60).stdout.split()
+    if probe and set(probe) <= {"h264", "aac", "mp3"}:
+        # already MP4-ready codecs: change the container only, which takes seconds instead of a re-encode
+        subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", it["path"], "-c", "copy", "-movflags", "+faststart", out],
+                       capture_output=True, timeout=600)
+        if os.path.exists(out) and os.path.getsize(out):
+            return out
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", it["path"], "-c:v", "libx264", "-preset", "veryfast", "-crf", "26",
                     "-c:a", "aac", "-b:a", "96k", "-movflags", "+faststart", out], capture_output=True, timeout=3600)
     return out if os.path.exists(out) and os.path.getsize(out) else None
