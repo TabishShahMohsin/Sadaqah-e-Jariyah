@@ -78,6 +78,19 @@ def add_links(items, links, workdir, log):
                 it["page_title"] += " (Google Drive link; set DRIVE_API_KEY to download it instead)"
 
 
+def usage_line(call):
+    u = call.usage
+    cached = u.get("cache_read", 0)
+    if call.__class__.__name__ == "AnthropicClient":   # Anthropic counts cache reads apart from input
+        total = u["input"] + cached
+    else:                                               # OpenAI-style providers include them in prompt tokens
+        total = u["input"]
+    fresh = max(0, total - cached)
+    pct = f" ({100 * cached / total:.0f}% from cache)" if total else ""
+    return (f"AI ({getattr(call, 'model', '?')}): {u['calls']} calls · input {total:,} tokens = {fresh:,} new + "
+            f"{cached:,} cached{pct} · output {u['output']:,}")
+
+
 def load_conventions():
     with open(os.path.join(REPO, "CONVENTIONS.md"), encoding="utf-8") as fh:
         return fh.read()
@@ -118,8 +131,7 @@ def cmd_plan(a):
         json.dump(plan, fh, ensure_ascii=False, indent=1)
     md = report.markdown(items, f"{slug}: sorting plan", extra=[f"Credit: **{a.credit or '—'}**"] +
                          ([f"Permission: {a.permission}"] if a.permission else []) +
-                         [f"Claude: {call.usage['calls']} calls, {call.usage['input'] + call.usage['cache_read']:,} input / "
-                          f"{call.usage['output']:,} output tokens"])
+                         [usage_line(call)])
     with open(os.path.join(work, "report.md"), "w", encoding="utf-8") as fh:
         fh.write(md)
     c = report.counts(items)

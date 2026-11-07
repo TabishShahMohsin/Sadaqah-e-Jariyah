@@ -277,11 +277,12 @@ def batches(items):
     return out
 
 
-def run(items, archive, ctx, call, conventions, upload_text, log=print):
-    """Sort every open item. Returns notes carried between batches. Items left undecided go to review."""
+def run(items, archive, ctx, call, conventions, upload_text, log=print, on_batch=None, notes=None):
+    """Sort every open item. Returns notes carried between batches. Items left undecided go to review.
+    on_batch(notes) is called after every batch so an interrupted run can resume."""
     todo = [it for it in items if not it.get("outcome")]
     sess = Session(items, archive, ctx, log)
-    notes = []
+    notes = notes if notes is not None else []
     if getattr(call, "lean", False):   # small free tiers: only the parts of CONVENTIONS.md that decide a placement
         i, j = conventions.find("### Which section"), conventions.find("## 3.")
         conventions = conventions[i:j] if 0 <= i < j else conventions[:2500]
@@ -331,4 +332,6 @@ def run(items, archive, ctx, call, conventions, upload_text, log=print):
         for i in ids:
             if not sess.items[i].get("outcome"):
                 sess.items[i]["outcome"] = {"action": "review", "reason": "the sorter ran out of steps before deciding this file", "auto": True}
+        if on_batch:
+            on_batch(notes)
     return notes

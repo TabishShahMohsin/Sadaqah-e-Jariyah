@@ -115,7 +115,7 @@ class OpenAIClient(_Base):
             if m["role"] == "assistant":
                 calls = [{"id": b["id"], "type": "function", "function": {"name": b["name"], "arguments": json.dumps(b.get("input") or {})}}
                          for b in content if b.get("type") == "tool_use"]
-                msg = {"role": "assistant", "content": self._text(content) or None}
+                msg = {"role": "assistant", "content": self._text(content) or (None if calls else "(no reply)")}
                 if calls:
                     msg["tool_calls"] = calls
                 msgs.append(msg)

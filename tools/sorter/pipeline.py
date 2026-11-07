@@ -1,4 +1,5 @@
 """Run the sorter on a set of items and turn its outcomes into catalog operations."""
+import json
 import os
 import shutil
 import time
@@ -27,7 +28,30 @@ def sort(items, *, archive, rules, workdir, upload_text, call, conventions, perm
     notes = []
     if open_items:
         ctx = decide.Context(archive, rules, items, permission)
-        notes = agent.run(items, archive, ctx, call, conventions, upload_text, log)
+        ck_path = os.path.join(workdir, "checkpoint.json")
+        key = lambda it: f"{it.get('src')}|{it.get('sha', '')}"   # noqa: E731
+        if os.path.exists(ck_path):   # resume: decisions from an earlier, interrupted run of this plan
+            with open(ck_path, encoding="utf-8") as fh:
+                ck = json.load(fh)
+            n = 0
+            for it in open_items:
+                o = ck.get("outcomes", {}).get(key(it))
+                if o and not it.get("outcome"):
+                    it["outcome"] = o
+                    if o.get("path"):
+                        ctx.taken.add(o["path"])
+                    n += 1
+            notes = ck.get("notes", [])
+            log(f"  resumed {n} decisions from an earlier run")
+
+        def save(_notes):   # agent.run appends to `notes` itself
+            out = {key(it): it["outcome"] for it in items if (it.get("outcome") or {}).get("by_agent")}
+            tmp = ck_path + ".tmp"
+            with open(tmp, "w", encoding="utf-8") as fh:
+                json.dump({"outcomes": out, "notes": notes}, fh, ensure_ascii=False)
+            os.replace(tmp, ck_path)
+
+        agent.run(items, archive, ctx, call, conventions, upload_text, log, on_batch=save, notes=notes)
     decide.resolve_twins(items)
     for it in items:
         if not it.get("outcome"):
