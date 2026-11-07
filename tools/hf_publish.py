@@ -356,12 +356,17 @@ def cmd_push(a, root=REPO):
             return print("time is up; run again to continue")
         part = copies[i:i + 400]
         commit([CommitOperationCopy(src_path_in_repo=s, path_in_repo=d) for s, d in part], f"Rename {len(part)} files")
+    if a.skip_over:                       # very large files can't finish inside a short session; leave them for a long run
+        big = [p for p in uploads if local[p]["size"] > a.skip_over * 1e6]
+        uploads = [p for p in uploads if p not in set(big)]
+        if big:
+            print(f"  leaving {len(big)} files over {a.skip_over:g} MB for a run without --skip-over")
     batch, size = [], 0
     for p in uploads + [None]:
         if p is not None:
             batch.append(p)
             size += local[p]["size"]
-        if batch and (p is None or len(batch) >= 100 or size >= 400 << 20):
+        if batch and (p is None or len(batch) >= 100 or size >= a.batch_mb * 1e6):
             if budget():
                 return print("time is up; run again to continue")
             commit([CommitOperationAdd(path_in_repo=q, path_or_fileobj=local[q]["file"]) for q in batch],
@@ -459,6 +464,8 @@ def main():
     p.add_argument("--budget", type=float, default=0, help="stop starting new commits after N seconds")
     p.add_argument("--allow-unscanned", action="store_true")
     p.add_argument("--no-tag", action="store_true", help="don't name this state of the dataset")
+    p.add_argument("--batch-mb", type=float, default=400, help="start a new commit once a batch reaches this size")
+    p.add_argument("--skip-over", type=float, default=0, help="leave files bigger than this many MB for a later run")
     p = sub.add_parser("site"); p.add_argument("--out", default=os.path.join(REPO, "_dist"))
     a = ap.parse_args()
     {"scan": cmd_scan, "push": cmd_push, "site": cmd_site}[a.cmd](a)
