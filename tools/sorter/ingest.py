@@ -10,6 +10,11 @@ import zipfile
 from . import util
 
 JUNK = re.compile(r"(?i)(^|/)(\.ds_store|thumbs\.db|desktop\.ini|icon\r|~\$[^/]*|\._[^/]*)$|(^|/)__macosx/")
+# code projects' machinery: installed packages, environments, caches, build output (not study material)
+CODE_JUNK = re.compile(r"(?i)(^|/)(node_modules|__pycache__|site-packages|\.?venv|\.?env|\.git|\.ipynb_checkpoints|\.idea|"
+                       r"\.vscode|\.gradle|\.pytest_cache|\.mypy_cache|\.next|\.cache)/|"
+                       r"\.(pyc|pyo|pyi|so|dylib|dll|o|a|class|jar|whl|egg|lock|map)$|(^|/)pyvenv\.cfg$")
+DATASET_IMAGES = 150   # a folder holding this many images is a dataset (e.g. an ML project's training images)
 MAX_UNZIPPED_BYTES = 8 * 1024 ** 3
 MAX_UNZIPPED_FILES = 5000
 REJECT_EXT = {"exe", "msi", "dmg", "apk", "app", "bat", "cmd", "com", "scr", "out", "class", "o", "obj", "dll", "so",
@@ -41,11 +46,20 @@ def from_folder(root, items):
 
 
 def settle_junk(items):
+    per_dir = {}
+    for it in items:
+        if not it.get("outcome") and it.get("ext") in ("png", "jpg", "jpeg", "bmp", "gif", "tif", "tiff", "webp"):
+            per_dir[os.path.dirname(it["src"])] = per_dir.get(os.path.dirname(it["src"]), 0) + 1
     for it in items:
         if it.get("outcome"):
             continue
         if JUNK.search(it["src"]):
             it["outcome"] = {"action": "ignored", "reason": "system file (not part of the material)"}
+        elif CODE_JUNK.search(it["src"]):
+            it["outcome"] = {"action": "ignored", "reason": "code project machinery (packages, environment, cache or build output)"}
+        elif per_dir.get(os.path.dirname(it["src"]), 0) >= DATASET_IMAGES and it.get("ext") in (
+                "png", "jpg", "jpeg", "bmp", "gif", "tif", "tiff", "webp"):
+            it["outcome"] = {"action": "ignored", "reason": f"part of an image dataset ({per_dir[os.path.dirname(it['src'])]} images in one folder)"}
         elif it.get("size", 1) == 0 and it.get("path"):
             it["outcome"] = {"action": "reject", "category": "unreadable", "reason": "empty file"}
 

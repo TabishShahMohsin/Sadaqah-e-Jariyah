@@ -9,7 +9,9 @@ Sort material you drop into _Inbox: any folders, files, zips, Drive or web links
     python3 tools/sort_inbox.py apply <name>
         re-checks every decision against the rules and carries the plan out: files are copied into the archive
         (converted, hidden metadata stripped), credits recorded, one catalog change set written, and the inbox
-        originals moved to .sej-cache/inbox-merged-originals/<name>/ (nothing is deleted). No AI calls.
+        inbox originals whose content is now in the archive are removed (recorded with sha256 in originals.json);
+        rejected or for-review files move to .sej-cache/inbox-merged-originals/<name>/. No AI calls.
+        --keep-originals keeps every original as before.
 
 Options for plan:
     --credit NAME          who shared it (shown as "shared by NAME"); several: "A, B"
@@ -158,6 +160,78 @@ def recheck(items, state, archive, permission):
     return bad
 
 
+SETTLED = ("place", "duplicate", "credit", "twin", "ignored", "unpacked", "link")
+
+
+def settle_originals(items, plan, work, keep_all=False):
+    """After a successful apply: an inbox file whose content is now in the archive (placed, already there, a copy of a
+    kept file, or system junk) is removed, and recorded in originals.json (name, size, sha256, where it went). Files
+    that were rejected, need review, or weren't settled are moved to inbox-merged-originals/<slug>/ for a person.
+    If removing isn't allowed on this machine, everything is moved instead (the old behaviour)."""
+    inbox = os.path.join(REPO, "_Inbox")
+    kids = {}
+    for it in items:
+        if it.get("parent"):
+            kids.setdefault(it["parent"], []).append(it)
+
+    def settled(it):
+        if (it.get("outcome") or {}).get("action") not in SETTLED:
+            return False
+        return all(settled(k) for k in kids.get(it["id"], []))
+
+    record, removed, parked = [], 0, 0
+    for it in items:
+        src = it.get("orig_path")
+        if it.get("parent") or not src or not os.path.isfile(src):
+            continue
+        if os.path.commonpath([os.path.abspath(src), inbox]) != inbox:
+            continue
+        o = it.get("outcome") or {}
+        rel = os.path.relpath(src, inbox)
+        record.append({"src": rel, "size": it.get("size"), "sha256": it.get("orig_sha"), "action": o.get("action"),
+                       "to": o.get("path") or o.get("target") or o.get("of")})
+        if settled(it) and not keep_all:
+            try:
+                os.remove(src)
+                removed += 1
+                continue
+            except OSError:
+                keep_all = True   # deleting isn't permitted here: keep everything from now on
+        dest = os.path.join(KEEP, plan["slug"], rel)
+        os.makedirs(os.path.dirname(dest), exist_ok=True)
+        shutil.move(src, dest)
+        parked += 1
+    with open(os.path.join(work, "originals.json"), "w", encoding="utf-8") as fh:
+        json.dump(record, fh, ensure_ascii=False, indent=1)
+    for src in plan["inputs"]:        # drop the now-empty inbox folders
+        if os.path.isdir(src):
+            for dp, dns, fns in os.walk(src, topdown=False):
+                for f in fns:
+                    if f in (".DS_Store", "Thumbs.db", "desktop.ini"):
+                        try:
+                            os.remove(os.path.join(dp, f))
+                        except OSError:
+                            pass
+                try:
+                    os.rmdir(dp)
+                except OSError:
+                    pass
+    return removed, parked
+
+
+def clear_workdir(work):
+    """Converted and unpacked working copies are only needed until apply; keep the plan, report and records."""
+    keep = {"plan.json", "report.md", "manifest.json", "originals.json", "checkpoint.json", "applied.json"}
+    for name in os.listdir(work):
+        p = os.path.join(work, name)
+        if name in keep:
+            continue
+        try:
+            shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
+        except OSError:
+            pass
+
+
 def cmd_apply(a):
     work = os.path.join(WORK, a.slug)
     with open(os.path.join(work, "plan.json"), encoding="utf-8") as fh:
@@ -203,20 +277,15 @@ def cmd_apply(a):
             source[k] = plan[k]
     path = sej.write_change(ops, source, re.sub(r"[^a-z0-9-]", "", plan["slug"].lower())[:40] or "sort")
     report.dump(items, os.path.join(work, "manifest.json"))
-    # originals out of the inbox (kept, never deleted)
-    moved = 0
-    for src in plan["inputs"]:
-        if os.path.exists(src) and os.path.commonpath([os.path.abspath(src), os.path.join(REPO, "_Inbox")]) == os.path.join(REPO, "_Inbox"):
-            dest = os.path.join(KEEP, plan["slug"], os.path.basename(src.rstrip("/")))
-            os.makedirs(os.path.dirname(dest), exist_ok=True)
-            shutil.move(src, dest)
-            moved += 1
+    removed, parked = settle_originals(items, plan, work, keep_all=a.keep_originals)
+    clear_workdir(work)
     with open(os.path.join(work, "applied.json"), "w") as fh:
         json.dump({"change": os.path.basename(path), "ops": len(ops)}, fh)
     c = report.counts(items)
     print(f"Applied: {c.get('place', 0)} placed, {c.get('credit', 0) + c.get('duplicate', 0)} credited to existing copies, "
           f"{c.get('link', 0)} links → {os.path.relpath(path, REPO)}")
-    print(f"Inbox originals moved to {os.path.relpath(os.path.join(KEEP, plan['slug']), REPO)} ({moved} inputs)")
+    print(f"Inbox originals: {removed} removed (their content is in the archive; list in originals.json), "
+          f"{parked} kept in {os.path.relpath(os.path.join(KEEP, plan['slug']), REPO)} (rejected, for review, or not settled)")
     print("Next: python3 site/build_index.py, then check the site.")
 
 
@@ -234,6 +303,7 @@ def main():
     s = sub.add_parser("apply")
     s.add_argument("slug")
     s.add_argument("--dry-run", action="store_true")
+    s.add_argument("--keep-originals", action="store_true", help="move every inbox original aside instead of removing settled ones")
     a = ap.parse_args()
     if a.cmd == "plan":
         if not a.paths and not a.link:
