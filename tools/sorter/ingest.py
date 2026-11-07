@@ -35,6 +35,33 @@ def new_item(items, src, path, parent=None, fingerprint=True, **kw):
 
 
 IMAGE_EXT = ("png", "jpg", "jpeg", "bmp", "gif", "tif", "tiff", "webp")
+DATASET_DIR = re.compile(r"(?i)^(train|test|val|valid|validation|dataset|datasets|data|images|imgs|samples|frames|labels)$")
+
+
+def dataset_images(rels):
+    """Images that belong to a dataset: under a folder holding 300+ images that make up 80%+ of its files, or a
+    train/test/dataset-style folder holding 50+ images. Class sub-folders (train/cat, train/dog) count together."""
+    imgs, files = {}, {}
+    for rel in rels:
+        is_img = util.ext_of(os.path.basename(rel)) in IMAGE_EXT
+        d = os.path.dirname(rel)
+        while d:
+            files[d] = files.get(d, 0) + 1
+            if is_img:
+                imgs[d] = imgs.get(d, 0) + 1
+            d = os.path.dirname(d)
+    big = {d for d, n in imgs.items() if (n >= 300 and n >= 0.8 * files[d]) or
+           (n >= 50 and DATASET_DIR.match(os.path.basename(d)))}
+    out = set()
+    for rel in rels:
+        if util.ext_of(os.path.basename(rel)) in IMAGE_EXT:
+            d = os.path.dirname(rel)
+            while d:
+                if d in big:
+                    out.add(rel)
+                    break
+                d = os.path.dirname(d)
+    return out
 
 
 def from_folder(root, items):
@@ -48,22 +75,15 @@ def from_folder(root, items):
             fp = os.path.join(dp, f)
             if not os.path.islink(fp):
                 found.append((os.path.relpath(fp, base), fp))
-    per_dir = {}
-    for rel, _ in found:
-        if util.ext_of(os.path.basename(rel)) in IMAGE_EXT:
-            per_dir[os.path.dirname(rel)] = per_dir.get(os.path.dirname(rel), 0) + 1
+    data = dataset_images([rel for rel, _ in found])
     for rel, fp in found:
-        junk = bool(JUNK.search(rel) or CODE_JUNK.search(rel) or
-                    (util.ext_of(os.path.basename(rel)) in IMAGE_EXT and per_dir.get(os.path.dirname(rel), 0) >= DATASET_IMAGES))
+        junk = bool(JUNK.search(rel) or CODE_JUNK.search(rel) or rel in data)
         new_item(items, rel, fp, fingerprint=not junk)
     return items
 
 
 def settle_junk(items):
-    per_dir = {}
-    for it in items:
-        if not it.get("outcome") and it.get("ext") in ("png", "jpg", "jpeg", "bmp", "gif", "tif", "tiff", "webp"):
-            per_dir[os.path.dirname(it["src"])] = per_dir.get(os.path.dirname(it["src"]), 0) + 1
+    data = dataset_images([it["src"] for it in items])
     for it in items:
         if it.get("outcome"):
             continue
@@ -71,9 +91,8 @@ def settle_junk(items):
             it["outcome"] = {"action": "ignored", "reason": "system file (not part of the material)"}
         elif CODE_JUNK.search(it["src"]):
             it["outcome"] = {"action": "ignored", "reason": "code project machinery (packages, environment, cache or build output)"}
-        elif per_dir.get(os.path.dirname(it["src"]), 0) >= DATASET_IMAGES and it.get("ext") in (
-                "png", "jpg", "jpeg", "bmp", "gif", "tif", "tiff", "webp"):
-            it["outcome"] = {"action": "ignored", "reason": f"part of an image dataset ({per_dir[os.path.dirname(it['src'])]} images in one folder)"}
+        elif it["src"] in data:
+            it["outcome"] = {"action": "ignored", "reason": "part of an image dataset (a folder of hundreds of images)"}
         elif it.get("size", 1) == 0 and it.get("path"):
             it["outcome"] = {"action": "reject", "category": "unreadable", "reason": "empty file"}
 
