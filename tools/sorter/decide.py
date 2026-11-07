@@ -25,6 +25,8 @@ def describe_meta(d, it, course_path):
         if hit:
             meta["professor"] = hit["name"]
         else:
+            if prof.islower() or prof.isupper():          # "sana ur rahman" → "Sana ur Rahman"
+                prof = " ".join(w if w in ("ul", "ur", "al", "ud", "bin") else w.capitalize() for w in prof.lower().split())
             meta["professor"] = prof
             flags.append(f"new teacher: {prof}")
     title = util.clean_text(d.get("title"), 90)

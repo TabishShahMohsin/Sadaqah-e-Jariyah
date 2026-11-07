@@ -3,6 +3,7 @@
 
 Configure in catalog/llm-config.json (git-ignored) or environment variables:
     {"provider": "groq", "key": "gsk_...", "model": "openai/gpt-oss-120b"}
+    {"provider": "deepseek", "key": "sk-...", "model": "deepseek-flash"}
     {"provider": "xai", "key": "xai-...", "model": "grok-4-fast"}
     {"provider": "openrouter", "key": "sk-or-...", "model": "anthropic/claude-haiku-5-5"}
     {"provider": "anthropic", "key": "sk-ant-...", "model": "claude-sonnet-5-5"}
@@ -15,11 +16,11 @@ import requests
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 CONFIG = os.path.join(HERE, "..", "..", "catalog", "llm-config.json")
-BASES = {"xai": "https://api.x.ai/v1", "openrouter": "https://openrouter.ai/api/v1", "openai": "https://api.openai.com/v1", "groq": "https://api.groq.com/openai/v1",
+BASES = {"xai": "https://api.x.ai/v1", "openrouter": "https://openrouter.ai/api/v1", "openai": "https://api.openai.com/v1", "groq": "https://api.groq.com/openai/v1", "deepseek": "https://api.deepseek.com/v1",
          "gemini": "https://generativelanguage.googleapis.com/v1beta/openai"}
-KEY_ENV = {"anthropic": "ANTHROPIC_API_KEY", "xai": "XAI_API_KEY", "openrouter": "OPENROUTER_API_KEY", "openai": "OPENAI_API_KEY", "groq": "GROQ_API_KEY",
+KEY_ENV = {"anthropic": "ANTHROPIC_API_KEY", "xai": "XAI_API_KEY", "openrouter": "OPENROUTER_API_KEY", "openai": "OPENAI_API_KEY", "groq": "GROQ_API_KEY", "deepseek": "DEEPSEEK_API_KEY",
            "gemini": "GEMINI_API_KEY"}
-DEFAULT_MODEL = {"anthropic": "claude-sonnet-5-5", "xai": "grok-4-fast", "openrouter": "anthropic/claude-sonnet-5-5", "groq": "openai/gpt-oss-120b"}
+DEFAULT_MODEL = {"anthropic": "claude-sonnet-5-5", "xai": "grok-4-fast", "openrouter": "anthropic/claude-sonnet-5-5", "groq": "openai/gpt-oss-120b", "deepseek": "deepseek-flash"}
 
 
 def load_config():
@@ -48,7 +49,7 @@ def client(**over):
     if prov == "anthropic":
         return AnthropicClient(key, model)
     c = OpenAIClient(cfg.get("base_url") or BASES[prov], key, model, prov)
-    c.vision = cfg.get("vision", not (prov == "groq" and "gpt-oss" in model))
+    c.vision = cfg.get("vision", not ((prov == "groq" and "gpt-oss" in model) or (prov == "deepseek" and "flash" not in model)))
     c.lean = cfg.get("lean", prov == "groq")                     # free tiers: short prompts
     c.budget = int(cfg.get("max_request_tokens", 7000 if prov == "groq" else 0))
     return c
@@ -68,7 +69,16 @@ class _Base:
                 continue
             if r.status_code >= 400:
                 raise RuntimeError(f"{self.__class__.__name__} {r.status_code}: {r.text[:500]}")
-            return r.json()
+            try:
+                out = r.json()
+            except ValueError:
+                out = None
+            if isinstance(out, dict):
+                return out
+            if attempt < 7:          # empty or broken body (seen from DeepSeek under load): ask again
+                time.sleep(5 * (attempt + 1))
+                continue
+            raise RuntimeError(f"{self.__class__.__name__}: unreadable reply {r.status_code} {r.text[:300]!r}")
         raise RuntimeError("AI provider unavailable")
 
 
