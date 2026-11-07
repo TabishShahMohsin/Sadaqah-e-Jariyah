@@ -159,10 +159,12 @@ def check_format(dir_path, filename):
 
 
 def unique_path(path, taken):
-    if path not in taken:
+    """A free path, compared without regard to letter case (macOS and Windows treat 'A.pdf' and 'a.pdf' as one file)."""
+    low = {t.lower() for t in taken}
+    if path.lower() not in low:
         return path
     stem, ext = path.rsplit(".", 1)
     n = 2
-    while f"{stem}_{n}.{ext}" in taken:
+    while f"{stem}_{n}.{ext}".lower() in low:
         n += 1
     return f"{stem}_{n}.{ext}"
