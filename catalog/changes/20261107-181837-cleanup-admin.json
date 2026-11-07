@@ -1,0 +1,215 @@
+{
+ "id": "20261107-181837-cleanup-admin",
+ "created": "2026-11-07T18:18:37+00:00",
+ "source": {
+  "by": "maintainer",
+  "note": "Removed attendance/marks lists with students' personal data, administrative notices, date sheets, time tables, calendars, and one published book"
+ },
+ "ops": [
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2182_Surveying/Unit-1/Class-Notes_Levelling-Photo.jpg",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/_General-Exam-Info/B.TECH. ODD SEMESTER EXAMS 2021-2022.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/_General-Exam-Info/EZH2910 Date Sheet.jpg",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/PYQs-and-Assignments/Classroom_2025-26/marks-internal-1.pdf",
+   "reason": "personal data: other students' names with faculty/enrolment numbers (attendance or marks list)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/PYQs-and-Assignments/Classroom_2025-26/sessional-marks.pdf",
+   "reason": "personal data: other students' names with faculty/enrolment numbers (attendance or marks list)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3092-AIC3092_Microprocessor-Theory-and-Applications/Classroom_2026-27_Notices/AIC3092_DisplayAttendance_till30Sept.pdf",
+   "reason": "personal data: other students' names with faculty/enrolment numbers (attendance or marks list)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3092-AIC3092_Microprocessor-Theory-and-Applications/Classroom_2026-27_Notices/COC3092_DisplayAttendance_till30Sept.pdf",
+   "reason": "personal data: other students' names with faculty/enrolment numbers (attendance or marks list)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3092-AIC3092_Microprocessor-Theory-and-Applications/Classroom_2026-27_Notices/Skilldunia Webinar Brochure-1.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/PYQs-and-Assignments/Classroom_2026-27/Inamullah_2026-27_Sessional-1_Marks.pdf",
+   "reason": "personal data: other students' names with faculty/enrolment numbers (attendance or marks list)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Classroom_2026-27_Notices/COC3162_Attendance_10092026.pdf",
+   "reason": "personal data: other students' names with faculty/enrolment numbers (attendance or marks list)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Classroom_2026-27_Notices/NoticeregardingIIInternalExamandMake-uptestforOddsem2026-27.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Classroom_2026-27_Notices/Time-Table-COC3162-2026-27.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COP3802-AIP2922_Colloquium/Classroom_2026-27_Notices/LetterofDeanStudentsWelfare.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COP3802-AIP2922_Colloquium/Classroom_2026-27_Notices/NoticeregardingregistrationvalidationforB.Tech-B.Archstudents2026-27.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COU4042_Internet-Protocols-and-Models/Classroom_2026-27_Notices/COU4042 Audit Course First internal Exam Marks 2026-27.pdf",
+   "reason": "personal data: other students' names with faculty/enrolment numbers (attendance or marks list)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COU4042_Internet-Protocols-and-Models/Classroom_2026-27_Notices/CallforPapers_TW27.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COU4042_Internet-Protocols-and-Models/Classroom_2026-27_Notices/IMG-20260923-WA0023.jpg",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COU4042_Internet-Protocols-and-Models/Classroom_2026-27_Notices/SCAN_20260928_115502741.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Curriculum/AI-Sem6_Class-Schedule.jpg",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Curriculum/Academic-Calendar_2022-23.jpg",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Curriculum/Notices_2026/Add-Drop-of-Courses-Notice_2026-08-01.jpg",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Curriculum/Notices_2026/DCAP-Registration-Notice_2026-05-06.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Curriculum/Notices_2026/Summer-Training-Notice_2026-04.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Curriculum/Time-Table_BTech-V-Sem_2022-23.jpg",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2922_Electrical-Machines-Lab-II/Manuals/Grand-Viva-Notice_2022-23.docx",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4942_Power-System-Design/Books-and-Resources/M-C-Design-Date-Sheet_2024-25.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Academic-Calendar_2023-24_Even-Semester.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Academic-Calendar_2023-24_Odd-Semester.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Academic-Calendar_2024-25.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Classroom-Allocation_2023-24.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Commencement-of-Classes_2023-24.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Time-Table_Sem7_2024-25.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Time-Table_Sem8_2024-25.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Mid-Sem_2020-21_Quiz-Notice.jpg",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Mid-Sem_2021-22_Notice.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Books-and-Resources/Mid-Sem-Form-Notice_2021-22.md",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Quiz_Test-Notice.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Curriculum/Batch List.pdf",
+   "reason": "personal data: other students' names with faculty/enrolment numbers (attendance or marks list)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Curriculum/Exam-Programme_Sem-2_2020-21.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Curriculum/Notice_Branch-Change_2025-26.pdf",
+   "reason": "administrative notice, date sheet, time table or calendar - not study material"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Curriculum/Reference-Book_Fundamentals-of-Mechanical-Engineering.pdf",
+   "reason": "published book (copyright)"
+  }
+ ]
+}
