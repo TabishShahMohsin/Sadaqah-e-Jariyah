@@ -1,0 +1,79 @@
+{
+ "id": "20261107-135825-coe3",
+ "created": "2026-11-07T13:58:25+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "note": "Computer Engineering 3rd semester: notes, assignments, quizzes, syllabus and lecture videos; from a shared 'ENGINEERING NOTES' list (Drive owner unknown), downloaded in six parts."
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Mid-Sem_2023-24.pdf",
+   "s": 2520303,
+   "h": "67984c2ec63c4eaaf86d848c5d3f628ac6d2696bb4ea2ad5a9e5a3311a26b584",
+   "t": 1794059905,
+   "meta": {
+    "title": "Mid-Sem 2023-24",
+    "summary": "Scanned mid-semester paper (2023-24, odd semester) for Electronic Devices & Circuits: Schottky diode, diode circuits, CE characteristics and Early effect.",
+    "kind": "scan",
+    "year": "2023-24"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/PYQs-and-Assignments/Mid-Sem_2023-24.pdf",
+   "s": 1896379,
+   "h": "81f3849d008942c621d4f3c830131ed5890c25a36a5ac9b05dda7c9f99aeaae1",
+   "t": 1794059905,
+   "meta": {
+    "title": "Mid-Sem 2023-24",
+    "summary": "Scanned mid-semester paper (2023-24) for Data Structures & Algorithms (COC2060/AIC2060): linked-list complexity, quadratic probing, and short-answer questions across COs.",
+    "kind": "scan-printed",
+    "year": "2023-24"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-1/Video-Lectures/Lecture-05.mp4",
+   "s": 223263011,
+   "h": "10bdf3991abaa360b7c9c089e4bf9ddabcba0cbdba7480503bcd791f194ba885",
+   "t": 1794059905,
+   "meta": {
+    "source": "ENGINEERING NOTES (shared Drive)",
+    "title": "Lecture 5 (video)",
+    "summary": "Recorded C++ lecture 5 of the Object Oriented Programming course (about 48 minutes).",
+    "kind": "video"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/PYQs-and-Assignments/Mid-Sem_2023-24.pdf",
+   "s": 1582531,
+   "h": "013d4a2021e3f9a8e7fd603fbe933cad50f21951d8c1ae8877bb74d1c150ae0c",
+   "t": 1794059905,
+   "meta": {
+    "source": "ENGINEERING NOTES (shared Drive)",
+    "title": "Mid-Sem 2023-24",
+    "summary": "Mid-semester paper 2023-24 for Digital Logic and System Design (COC-2070/AIC2070/CO207): r's complement subtraction, Boolean simplification, 25 marks.",
+    "kind": "scan-printed",
+    "year": "2023-24"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/PYQs-and-Assignments/Mid-Sem_2023-24.pdf",
+   "s": 1699775,
+   "h": "eeb4953ab41901e3d053c77163c76f81480e709b073512ff800ddb0c2c50c0f6",
+   "t": 1794059905,
+   "meta": {
+    "source": "ENGINEERING NOTES (shared Drive)",
+    "title": "Mid-Sem 2023-24",
+    "summary": "Autumn 2023-24 mid-semester paper for Object Oriented Programming (COC-2030): function overriding, virtual functions, inheritance access modes.",
+    "kind": "scan-printed",
+    "year": "2023-24"
+   }
+  }
+ ]
+}

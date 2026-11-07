@@ -1,0 +1,2262 @@
+{
+ "id": "20261107-111214-auto-hasan",
+ "created": "2026-11-07T11:12:14+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "credit": "Hasan",
+  "note": "Automobile Engineering (B.Tech, ZHCET) notes for semesters 3 and 5, shared by Hasan"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Books-and-Resources/Book-Excerpt_Exercises-Chapter-1.pdf",
+   "s": 459291,
+   "h": "3eb7bd5d2400184947945fb791414d717258c62166748715f9250d0af1e4c44e",
+   "t": 1794049934,
+   "meta": {
+    "title": "Book excerpt · Chapter 1 exercises (Instrumentation, Measurement and Analysis)",
+    "summary": "Exercise questions from chapter 1 on calibration, standards and routine instrument checks.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Books-and-Resources/Links_Experimental-Methods-Video-Resources.pdf",
+   "s": 23131,
+   "h": "6459ed20667d3eb330eca34f109dbab0c26494620635c717438bd030ea7335ab",
+   "t": 1794049934,
+   "meta": {
+    "title": "Reference list · Experimental methods video resources",
+    "summary": "List of recommended video lecture series on experimental analysis, statistics and probability and sensors/transducers.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-1/Lecture-Slides_Introduction.pdf",
+   "s": 1065141,
+   "h": "83af3fd8fc12a487023d2cce9af127c0a59a4539e8d2acf267cac1778f675451",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Shahid Husain",
+    "title": "Lecture slides · Introduction to Experimental Methods",
+    "summary": "Why engineering needs accurate measurement, the physical quantities measured (dimensions, temperature, pressure, force, torque, strain) and the instruments used.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-4/Lecture-02_Functional-Elements-of-a-Measurement-System.pdf",
+   "s": 1015552,
+   "h": "32bcf1a5e5bb1cc96ad9b8a5d1931ef811cac626e1e32bf43db2dd10dbfa79ab",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Shahid Husain",
+    "title": "Lecture 2 · Functional Elements of a Measurement System",
+    "summary": "Basic versus auxiliary functional elements of instruments: transducers, signal conditioning, data presentation, calibration, power and feedback elements.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-4/Lecture-04_Functional-Elements-in-Detail.pdf",
+   "s": 827448,
+   "h": "801dfe11c29e3ee07cab0c67bb68e9f0078a5e4ba1d8416df966ee7716122528",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Shahid Husain",
+    "title": "Lecture 4 · Functional Elements in Detail",
+    "summary": "Transducer, signal-conditioning (amplification, filtration, arithmetic operations) and data-presentation elements of measuring instruments.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Z_Tutorial-Unit-3_MEA2420.pdf",
+   "s": 402770,
+   "h": "b67d52905d221fc1760a589a6f706cc359bd0501aae01985e08e92193cf6b151",
+   "t": 1794049934,
+   "meta": {
+    "title": "Tutorial sheet · Unit 3 (MEA2420)",
+    "summary": "Numerical problems on ac voltmeter accuracy, first-order instrument response and thermocouple time lag.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-3/Lecture-Slides_Measurement-of-Pressure.pdf",
+   "s": 1453972,
+   "h": "d8ca269a7755d47c6b672ad4397d20391ae7b85456f0fb0d0ef3e0192ffe1711",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Shahid Husain",
+    "title": "Lecture slides · Measurement of Pressure",
+    "summary": "Slides on instruments and methods used for pressure measurement.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-3/Lecture-Slides_Measurement-of-Temperature.pdf",
+   "s": 1556172,
+   "h": "f24a02afa2d675eefdcf5f07b73a1d018743567ab80564c0402752637215642d",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Shahid Husain",
+    "title": "Lecture slides · Measurement of Temperature",
+    "summary": "Slides on temperature-measuring instruments and their working.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-3/Lecture-Slides_Measurement-of-Torque.pdf",
+   "s": 3475597,
+   "h": "89e9640e7a634a6e1fcb24ca2473e053998fd29df9a8bcca82b4699dddb89fd5",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Shahid Husain",
+    "title": "Lecture slides · Measurement of torque and angular velocity",
+    "summary": "Angular velocity and rotation-rate measurement (tachometers, rpm to rad/s conversion) and torque measurement.",
+    "kind": "scan-printed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Books-and-Resources/Statistical-Tables_Appendix-A.pdf",
+   "s": 176296,
+   "h": "4ab02e8ad065c5b9238dfb66cf828c2f138669cd035e723dcbfb13a177e3e9c2",
+   "t": 1794049934,
+   "meta": {
+    "title": "Statistical tables (Appendix A)",
+    "summary": "Binomial probability sums and other statistical tables used for the probability and statistics part of the course.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Books-and-Resources/Book-Excerpt_Exercises-Chapter-2.pdf",
+   "s": 1130423,
+   "h": "f7d40ff2c1ba699e548b814e188f5c47c5faca6e1eac1ce47cb622ef907a9734",
+   "t": 1794049934,
+   "meta": {
+    "title": "Book excerpt · Chapter 2 exercises (Static Performance Characteristics)",
+    "summary": "Exercise questions on static performance characteristics of instruments: sensitivity, accuracy, precision, resolution, loading errors.",
+    "kind": "scan-printed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2322_Fluid-Mechanics/Books-and-Resources/Links_Fluid-Mechanics-Video-Resources.pdf",
+   "s": 19936,
+   "h": "40de9f7eebb1d727f790b4159991290bf0e7a25457d2cfda703b9151d82d3e39",
+   "t": 1794049934,
+   "meta": {
+    "title": "Reference list · Fluid mechanics video resources",
+    "summary": "List of recommended video lecture series and playlists on fluid mechanics.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2322_Fluid-Mechanics/Complete-Notes/Notes_Fluid-Mechanics.pdf",
+   "s": 7589988,
+   "h": "2bd8309b00a440c451f5aefbbb70ab6036b7b58f4d4b6e40de627f1bf0e39503",
+   "t": 1794049934,
+   "meta": {
+    "title": "Fluid mechanics notes (handwritten)",
+    "summary": "Handwritten notes starting from the definition of a fluid and shear deformation, continuing through kinematics, flow visualisation and streamlines.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2322_Fluid-Mechanics/Complete-Notes/Class-Notes_Fluid-Mechanics.pdf",
+   "s": 16028779,
+   "h": "3a2d5f0c0ae333931502e5e27c8bb7af698ed3aab1042b040c5d20c10aaa8b62",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "title": "Fluid Mechanics handwritten notes",
+    "summary": "49-page handwritten notebook opening with the fluid-as-continuum model and density, then working through the sem-3 Fluid Mechanics course.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2322_Fluid-Mechanics/Unit-4/Class-Notes_Unit-4.pdf",
+   "s": 6565406,
+   "h": "7bdd022b2def08bc1f828371c57e544cfa267f92e650fe646acd05cf889d1ded",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "title": "Unit 4 notes · Pipe flow, laminar and turbulent flow",
+    "summary": "Handwritten notes on laminar and turbulent pipe flow, transition Reynolds number, entrance region and fully developed velocity profile.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/PYQs-and-Assignments/Z_Assignment_2023-24.pdf",
+   "s": 487319,
+   "h": "4bcea305e3511d7a5b3ed2d3af7278d0056f2e96e3cdda55f988459548f0ee32",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "professor": "Dr. Kamran Khan",
+    "title": "Assignment · AMS 2310 (2023-24)",
+    "summary": "Assignment sheet of complex-analysis questions (analytic functions, Cauchy integral formula, residues) with submission date 25/11/2023.",
+    "kind": "typed",
+    "year": "2023-24",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-3/Class-Notes_Green-Gauss-Stokes-Theorems.pdf",
+   "s": 16817535,
+   "h": "fed707d99eb891d863a2038f330486460c9ac8c2f26c30dd11e0492d44244389",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "title": "Notes · Green's, Gauss's and Stokes's theorems",
+    "summary": "Handwritten worked notes on Green's theorem in the plane, Gauss divergence and Stokes theorems, with Chandrika Prasad exercise problems solved.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Syllabus/AMS2310_Syllabus_Lecture-Plan.jpg",
+   "s": 72292,
+   "h": "ef900bb808de8bfd57daa275978e6e229751db19767aa8f1264e9a0502aedadf",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "title": "Lecture plan · AMS 2310 (later part)",
+    "summary": "Photo of the AMS 2310 lecture plan listing Taylor/Laurent series and residues/singularities topics with textbook exercises to solve.",
+    "kind": "photo",
+    "year": "2023-24",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Syllabus/AMS2310_Syllabus_Lecture-Plan-Unit-1.pdf",
+   "s": 468531,
+   "h": "6d60aba4f2e284aec4b7f34d6f82f6fd0f3c9c0d5332b307219e20a9157c999e",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "professor": "Dr. Kamran Khan",
+    "title": "Lecture plan · AMS 2310 Unit 1",
+    "summary": "Unit-1 lecture plan for Higher Mathematics AMS 2310: analytic functions, C-R equations, complex integration and Cauchy's theorem with exercise lists.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Class-Notes_Unit-1_Analytic-Functions.pdf",
+   "s": 3094193,
+   "h": "90784e812e8cc79e33b92e6c92cd20798737e4fa8ba35d8b9ffbf81d75f3ca40",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "title": "Unit 1 notes · Analytic functions and C-R equations",
+    "summary": "Handwritten Unit-1 notes: differentiability and analyticity, Cauchy-Riemann equations, with Chandrika Prasad Example 19 worked out.",
+    "kind": "scan-handwritten",
+    "year": "2023-24",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Class-Notes_Unit-1_Complex-Differentiation.pdf",
+   "s": 3017178,
+   "h": "f6602134bf3823e385a27983a4569012b880f1a83e4ef5a8c3115b1711592705",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "title": "Unit 1 notes · Limits, differentiability and analytic functions",
+    "summary": "Handwritten Unit-1 notes deriving limits, continuity, differentiability, the Cauchy-Riemann equations, harmonic/conjugate functions and Laplace's equation.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Unit-1/Lecture-01_Functions-of-Complex-Variable.pdf",
+   "s": 3806855,
+   "h": "d9fc5509766ba54e6a928b2f85b491179fb7dcf34b43ef9f828334fe4ada06d4",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "professor": "Dr. (Mrs) Mumtaz Rizvi",
+    "title": "Lecture 1 · Functions of a complex variable (Unit 1)",
+    "summary": "First lecture of Unit 1: number sets and complex numbers, Argand plane, polar form, and the start of differentiability and C-R equations.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Unit-1/Lecture-02_Cauchy-Riemann-Equations.pdf",
+   "s": 5101144,
+   "h": "acb52606c02c8ae883d59f3699871a09c9cda3dcdba3019520820e225b60f258",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "title": "Lecture 2 · Cauchy-Riemann equations and analyticity",
+    "summary": "Second lecture: necessary and sufficient conditions for analyticity (C-R equations) from Jain & Iyengar, with textbook examples worked through.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Lecture-03_Analytic-Functions-CR-Equations.pdf",
+   "s": 3645561,
+   "h": "f19e8eb2516f385d383a2e52a869f2bee23e97b69086b7239a27d694aa50fcb5",
+   "t": 1794049934,
+   "meta": {
+    "title": "Lecture 3 · Analytic functions from Cauchy–Riemann equations",
+    "summary": "Handwritten worked problems (Chand. Ex. 19) constructing an analytic function from a given real or imaginary part using the Cauchy–Riemann equations.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Class-Notes_Cauchy-Integral-Formula_Unit-1.pdf",
+   "s": 2634763,
+   "h": "416a7b15846b7df819b65779f9b561286b1bcc56f6ac39598f092f6f2644a547",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 1 · Cauchy integral formula",
+    "summary": "Handwritten notes stating Cauchy's integral formula with a sketch of a simple closed contour and worked contour-integral examples.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Class-Notes_Cauchy-Integral-Theorem-Part-II_Unit-1.pdf",
+   "s": 923765,
+   "h": "5775fa182c90988c22f6fbd4749af539b85feeaf8629c64f193b2b29fd0c1272",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 1 · Cauchy integral theorem, Part II",
+    "summary": "Handwritten notes on multiply connected domains, the extension of Cauchy's integral theorem and cutting domains into simply connected ones.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Class-Notes_Complex-Integration-Cauchy-Theorem_Unit-1.pdf",
+   "s": 3539112,
+   "h": "0533b8573f4514542776fc8efe3902a3a735dce0b3eb676d831953e357282088",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 1 · Complex integration and Cauchy's integral theorem, Part I",
+    "summary": "Handwritten notes introducing complex/contour integrals, curves in the complex plane (simple, closed, smooth) and Cauchy's integral theorem, Part I.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-2/Class-Notes_Residues_Unit-2.pdf",
+   "s": 4952062,
+   "h": "156571493efdfa218d579a01cc4f09ec4122f2c78fab908aa29d80d9bfc1a032",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 2 · Residues",
+    "summary": "Handwritten notes defining residues of analytic functions at isolated singular points and computing them from the Laurent expansion.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-2/Class-Notes_Taylor-and-Laurent-Series_Unit-2.pdf",
+   "s": 1772214,
+   "h": "40f4a1d211e729f484ee43256b6883e5e4faa289ab385c38f2f35346827ad991",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 2 · Taylor and Laurent series",
+    "summary": "Handwritten notes on power series, radius and circle of convergence, and Taylor and Laurent expansions about a point.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-2/Lecture-04_Real-Integrals-by-Residues_Unit-2.pdf",
+   "s": 404604,
+   "h": "b1126b3151a4732344847d23d305aa34ff78dacd219db2de250cdb5714140c00",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 2, Lecture 4 · Real integrals by residues",
+    "summary": "Handwritten worked example evaluating a real integral of the form ∫dθ/(5−3sinθ)² by converting it to a contour integral and using residues.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-2/Lecture-01_Series-and-Contour-Integration.pdf",
+   "s": 6714820,
+   "h": "f80af3da5dc4b5f7fb8454b3cc98f2a7b76716c4b517fbd92b6f4b74fdc7c4f6",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 2, Lecture 1 · Series and contour integration",
+    "summary": "Handwritten opening lecture of Unit 2: topics overview, series of real numbers, convergence and the auxiliary ( p-series) test.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-2/Lecture-02_Residues-Examples_Unit-2.pdf",
+   "s": 308523,
+   "h": "ece89d988f36d534bfcd19e66b5194e073faf67d8e637e52991a2a7dc5b8a204",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 2, Lecture 2 · Poles and residues (examples)",
+    "summary": "Two handwritten pages finding the poles, their orders and the residues of x·e^iz/(z²+a²) at simple poles.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-3/Class-Notes_Vector-Differentiation_Unit-3.pdf",
+   "s": 8941875,
+   "h": "fc7e50456aa4ff6de5ea5559ac7d38085e04eb38d5a1ca8d35bcf50d57e6dc25",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 3 · Vector differentiation problems",
+    "summary": "Handwritten solutions of vector-differentiation exercises: curl, div of gradient fields, irrotational fields and finding the scalar potential.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-3/Class-Notes_Vector-Calculus_Unit-3.pdf",
+   "s": 20839202,
+   "h": "89f4c6f65b0b6d09bed494f50468692bbb27003c571f3fa427829aeed62f2085",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 3 · Vector calculus basics",
+    "summary": "26 handwritten pages on vector calculus: scalar and vector quantities, distance and angle between vectors, differentiation of vector functions and geometric meaning.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-3/Class-Notes_Vector-Integration_Unit-3.pdf",
+   "s": 33934467,
+   "h": "2ea2753122dbbffac3dbd867552044f20871a5969dfeb9be376e28572ac92612",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 3 · Vector integration and line integrals",
+    "summary": "Handwritten notes on line integrals of vector and scalar fields, parametric form, and work done by a conservative force.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2018-19_AM231_2.pdf",
+   "s": 9227843,
+   "h": "e57fbf5d1926e490ea7d34c04961093c128ce507e5f78b8d76b74b022f626e84",
+   "t": 1794049934,
+   "meta": {
+    "title": "Sem-End 2018-19 · Higher Mathematics (AM-231), question sets",
+    "summary": "Scanned Autumn 2018-19 sem-end Higher Mathematics papers (AM-231), several sets including Laplace transforms, vector calculus and analytic functions.",
+    "kind": "scan-printed",
+    "year": "2018-19",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2019-20_AM231_2.pdf",
+   "s": 7399936,
+   "h": "0c61e7ceb644237a535a850be434804904f5e543aab98081057533eec229cbe8",
+   "t": 1794049934,
+   "meta": {
+    "title": "Sem-End 2019-20 · Higher Mathematics (AM-231), question sets",
+    "summary": "Scanned Autumn 2019-20 sem-end Higher Mathematics papers (AM-231) covering Laplace transforms, directional derivatives and complex integration.",
+    "kind": "scan-printed",
+    "year": "2019-20",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2022-23_AMS2310_2.pdf",
+   "s": 11024848,
+   "h": "8c2c3b0bfe588fc6e3b9778ab78b4943b148a5c8d739cbf606522e45ff5ca587",
+   "t": 1794049934,
+   "meta": {
+    "title": "Sem-End 2022-23 · Higher Mathematics (AMS-2310), question sets",
+    "summary": "Scanned Autumn 2022-23 sem-end Higher Mathematics paper (AMS-2310) with analytic functions, contour integrals and residues questions, several sets.",
+    "kind": "scan-printed",
+    "year": "2022-23",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Mid-Sem_2022-23_MEC2110.pdf",
+   "s": 1924361,
+   "h": "669455fff998e271e297140b001679e35bd766261d7c97a6e2b20e1b285ade98",
+   "t": 1794049934,
+   "meta": {
+    "title": "Mid-Sem 2022-23 · Mechanics of Solids (MEC2110)",
+    "summary": "Scanned 12-page mid-semester question paper for Mechanics of Solids, Autumn 2022-23 (MEC2110) with student markings.",
+    "kind": "scan",
+    "year": "2022-23",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2752_Lean-Methods-for-Automobile-Engineers/Complete-Notes/Lecture-Slides_Introduction-to-Lean-Manufacturing.pdf",
+   "s": 8641780,
+   "h": "d9cf2035886372843171a775dc4e41a568cb5e66fe3a46043cae4ef58ba93fa5",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Faisal Talib",
+    "title": "Lecture slides · Introduction to Lean Manufacturing (AEC2750)",
+    "summary": "Course-opening slide deck on the origins of lean manufacturing at Toyota, waste elimination and the NUMMI example.",
+    "kind": "slides",
+    "year": "2023-24",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2752_Lean-Methods-for-Automobile-Engineers/Unit-2/Lecture-Slides_Unit-2_Part-A_5S.pdf",
+   "s": 5577912,
+   "h": "ccd5e053a60a77c2accc036a5a196d883f9b3594fc4892523bb3ddd54e2f93e0",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Faisal Talib",
+    "title": "Unit 2 · Part A — 5S and housekeeping",
+    "summary": "Unit-II Part-A slides on the 5S housekeeping technique as the foundation of waste elimination in lean operations.",
+    "kind": "slides",
+    "year": "2023-24",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2752_Lean-Methods-for-Automobile-Engineers/Unit-2/Lecture-Slides_Unit-2_Part-B_Value-Stream-Mapping.pdf",
+   "s": 2159297,
+   "h": "79a657992d2c8702aebc01f17153745d5583c8ca94c2d3debf97c641e4409540",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Faisal Talib",
+    "title": "Unit 2 · Part B — Value Stream Mapping and waste visualization",
+    "summary": "Unit-II Part-B slides on value stream mapping, its Toyota origin, and visualizing waste in material and information flow.",
+    "kind": "slides",
+    "year": "2023-24",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2752_Lean-Methods-for-Automobile-Engineers/Unit-3/Lecture-Slides_Unit-3_Part-A_Secondary-Lean-Tools.pdf",
+   "s": 1344119,
+   "h": "0ab71fe5fadc9e91505a7c66290763ed39046059f19449960e5fca87658ba17d",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Faisal Talib",
+    "title": "Unit 3 · Part A — Secondary lean tools and techniques",
+    "summary": "Unit-III Part-A slides on secondary lean tools: cause-and-effect (fishbone) diagrams and other problem-solving techniques.",
+    "kind": "typed",
+    "year": "2023-24",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2752_Lean-Methods-for-Automobile-Engineers/Unit-3/Lecture-Slides_Unit-3_Part-B_Kanban-System.pdf",
+   "s": 782725,
+   "h": "000016c480227bae1503e886e59253843a557e9f05c1b692b7ee8b3a16bb2a89",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Faisal Talib",
+    "title": "Unit 3 · Part B — Kanban system",
+    "summary": "Unit-III Part-B slides explaining the Kanban pull system for uninterrupted supply of components and parts to the line.",
+    "kind": "slides",
+    "year": "2023-24",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2752_Lean-Methods-for-Automobile-Engineers/Unit-4/Lecture-Slides_Unit-4_LMS-Rules-and-Implementation.pdf",
+   "s": 790869,
+   "h": "d8a2ea071fead02d92a116fb9ead84c3c0cc60b25222b6d003f7e574bb295cdc",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Faisal Talib",
+    "title": "Unit 4 · Lean management system rules and implementation",
+    "summary": "Unit-IV slides on standardized work, lean rules and the implementation of a lean management system in operations.",
+    "kind": "slides",
+    "year": "2023-24",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Gating-System_Short.pdf",
+   "s": 609778,
+   "h": "7d7060e4bcc7c09163d459135e6875f9de93bb8ac189b166defad2342399d9d3",
+   "t": 1794049934,
+   "meta": {
+    "title": "Lecture slides · Gating system (short edition)",
+    "summary": "Short 15-slide edition of the gating system slides: requirements, elements, gating ratios, risers, chills and casting yield.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2932-AEC2932_Manufacturing-Technology-Lab-I/Manuals/Lab-Manual_2.pdf",
+   "s": 255454,
+   "h": "b080faa5bcd9374c1f32d7f33c95c20d57afac5a817e7ee000397d3ede3f8a1c",
+   "t": 1794049934,
+   "meta": {
+    "title": "Manufacturing Technology Laboratory-I · lab manual",
+    "summary": "Official 43-page laboratory manual for Manufacturing Technology Lab-I (MEC2930/EMEC2930/AEC2930) with objectives, experiments and assessment scheme.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Complete-Notes/Lecture-Slides_Rapid-Prototyping-and-Additive-Manufacturing.pdf",
+   "s": 2914548,
+   "h": "42aeb7f045a12ff1cefe9357ca7675eecccf2770f0ce0d86255c6343576986bb",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Faisal Talib",
+    "title": "Lecture slides · Rapid prototyping, additive manufacturing and 3D printing",
+    "summary": "Slides on rapid prototyping, additive vs subtractive techniques, and 3D-printing applications from CT-scan skulls to jewellery and aircraft parts.",
+    "kind": "slides",
+    "year": "2023-24",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/Z_Assignment-3_MEC2410_Manufacturing-Technology-I.pdf",
+   "s": 146237,
+   "h": "16495fcc0b25e73df35dfd6b92971f288a04ebad8211b1f40954a1f5ee073761",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Sajjad Arif",
+    "title": "Home Assignment III · Manufacturing Technology I (MEC2410/AEC2410)",
+    "summary": "Home assignment III with five numerical problems on rolling power, extrusion, and blanking/punching force calculations.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-2/Lecture-Slides_Liquid-Phase-Welding_Part-B_2023-24.pdf",
+   "s": 13586415,
+   "h": "a4f488809dc39792325ad9758a5f6cad72fafff6c198e14ac3c4a214b75dee63",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Faisal Talib",
+    "title": "Unit 2 · Part B — Liquid phase (fusion) welding, 2023-24 edition",
+    "summary": "Unit-II Part-B slides on fusion welding processes: oxy-fuel gas welding, arc welding with consumable and non-consumable electrodes, and high-energy beam welding.",
+    "kind": "slides",
+    "year": "2023-24",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-4/Lecture-Slides_Plastics-and-Polymers_Part-B.pdf",
+   "s": 9311072,
+   "h": "bcc826caa37355281003571561ec90ffcd0a369798647ae60a125428b05651be",
+   "t": 1794049934,
+   "meta": {
+    "title": "Lecture slides · Plastics and Polymers (Unit IV, Part B)",
+    "summary": "Slides on plastics and polymers: polymerization, polymer structure, properties and processing, labelled MEC2410 Unit-IV Part B.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-4/Lecture-Slides_Processing-of-Metals-and-Non-metals_Part-A.pdf",
+   "s": 2980337,
+   "h": "ed4249ed35428ddbea66c545c50894fe44ce04595ac7d9307a63b7821ba98f74",
+   "t": 1794049934,
+   "meta": {
+    "title": "Lecture slides · Processing of Metals and Non-metals (Unit IV, Part A)",
+    "summary": "Powder metallurgy and other processing of metals and non-metals for MEC2410 Unit IV Part A: compaction, sintering, applications.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-3/Lecture-Slides_Sheet-Metal-Operations_2.pdf",
+   "s": 4524643,
+   "h": "2aa3281c221a44b520c870c4993911c148caf509587583ef66929ad8fabf11cf",
+   "t": 1794049934,
+   "meta": {
+    "title": "Lecture slides · Sheet Metal Operations",
+    "summary": "Scanned slides on sheet-metal cutting and forming operations: punching and blanking, shearing and related press operations.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-3/Lecture-Slides_Metal-Forming.pdf",
+   "s": 5687677,
+   "h": "56fb86b0415c99efe28e341f450a48b52a7e6d8a90827950892bfc84c74f73fa",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Sajjad Arif",
+    "title": "Lecture slides · Metal Forming (Unit III)",
+    "summary": "Unit III of MEC2410: metal forming introduction, cold vs hot working, recrystallisation, and the main bulk forming processes.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-3/Notes_Metal-Forming.pdf",
+   "s": 1247246,
+   "h": "43de12f5ae4520f80c1153c3f4fa8b932eaa0de6bc717d83060ce624dffdf2d3",
+   "t": 1794049934,
+   "meta": {
+    "title": "Notes · Metal Forming",
+    "summary": "Typed notes on metal forming: stress estimation, elastic and plastic deformation, and rolling, forging and drawing processes.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Metal-Casting.pdf",
+   "s": 7633071,
+   "h": "f2b41b574c05d3c1925fb3e1d1d017603841829a65a6378ac3d448f2ca2daae3",
+   "t": 1794049934,
+   "meta": {
+    "title": "Lecture slides · Metal Casting (casting processes)",
+    "summary": "Survey of casting processes: sand, shell, investment, die, centrifugal and semisolid casting, melting and design considerations.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Cores_2.pdf",
+   "s": 340318,
+   "h": "f76d34271d9c0a68956e7e01ab71a773cf65d2b6bce5690e7a2e32e6d2d84f5f",
+   "t": 1794049934,
+   "meta": {
+    "title": "Lecture slides · Cores",
+    "summary": "Cores in sand casting: required properties, core-making and baking, core boxes and chaplets.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-2/Lecture-Slides_Liquid-Phase-Welding_Part-B_2.pdf",
+   "s": 5026456,
+   "h": "8b9cd62804780be4f5f09a9c62f6ee29dfbb29ef4162e430e162c25bda6e90c8",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Faisal Talib",
+    "title": "Lecture slides · Liquid Phase Welding (Unit II, Part B)",
+    "summary": "Fusion (liquid-state) welding: oxy-fuel gas welding, consumable and non-consumable electrode arc welding and high-energy beam welding.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Casting-and-Pattern-Making.pdf",
+   "s": 550959,
+   "h": "dd07005c527139b6d4af3856aacf57be7d06003f72c1bcbe74fa824fa02ac9d1",
+   "t": 1794049934,
+   "meta": {
+    "title": "Lecture slides · Casting basics and pattern making",
+    "summary": "Manufacturing process classification, casting advantages and limitations, mould elements, pattern allowances and pattern types.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-2/Lecture-Slides_Metal-Joining_Part-A_2022-23.pdf",
+   "s": 4423542,
+   "h": "265fa1e8c305968afc662b42cba8bee7467971e05b81f5fba6ff20bb86beb5c4",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Faisal Talib",
+    "title": "Lecture slides · Metal joining, Unit II (Part A)",
+    "summary": "Unit-II Part A slides on joining processes and solid-state welding, taught for MEC2410 Manufacturing Technology-I; this deck is dated September 2022.",
+    "kind": "slides",
+    "year": "2022-23",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Complete-Notes/Lecture-Slides_Manufacturing-Technology-I.pdf",
+   "s": 4659390,
+   "h": "324c872a0ce890529bf83bc2a4e6958e855d881c88819663fc6c0d7aeccd00e8",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Farhan Ahmad Shamim",
+    "title": "Lecture slides · Manufacturing Technology-I (course overview)",
+    "summary": "126-slide course deck for MEC2410 covering the syllabus, metal casting (Unit I) and metal forming (Unit III) with book references.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Riser-Design.pdf",
+   "s": 844385,
+   "h": "71a197efdd90d8bd6996d5dc31893682debd02cb3485db7222d7bd8bf27aabd8",
+   "t": 1794049934,
+   "meta": {
+    "title": "Lecture slides · Riser design",
+    "summary": "Slides on the functions of a riser, the need for riser design and guidelines for sizing and locating risers in castings.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-3/Lecture-Slides_Sheet-Metal-Operations_Mid-Sem-Portion.pdf",
+   "s": 2821118,
+   "h": "cf70f75a660daf6edf9f7b7f64e9bd8d64d5a8a5c236e36bec7c664ee1af1f36",
+   "t": 1794049934,
+   "meta": {
+    "title": "Lecture slides · Sheet metal operations (up to mid-semester)",
+    "summary": "Scanned slides on sheet metal cutting and forming operations - punching, blanking, bending, deep drawing - the portion covered up to the mid-semester exam.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-2/Lecture-Slides_Solid-Liquid-Phase-Welding_Part-C_2023-24.pdf",
+   "s": 1953383,
+   "h": "d3e2f9a3a2094bb144cd591f8418798e42c25ce9372ccb15e507bbd00a63b75d",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Faisal Talib",
+    "title": "Lecture slides · Solid/liquid phase welding, Unit II (Part C)",
+    "summary": "Unit-II Part C slides on solid/liquid phase welding: brazing, soldering and adhesive bonding.",
+    "kind": "slides",
+    "year": "2023-24",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-3/Class-Notes_Beams.pdf",
+   "s": 18187710,
+   "h": "60496df0aeec122d3846ae091879aaa05ee4e7fb5b31c683ab81fd9e3dcae0e3",
+   "t": 1794049934,
+   "meta": {
+    "title": "Class notes · Beams",
+    "summary": "Scanned 25-page set of beam notes for Mechanics of Solids: bending of beams with worked figures.",
+    "kind": "scan",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Z_Tutorial-1_MEC2110_2.pdf",
+   "s": 212165,
+   "h": "47709f43c071e0057608cf4ee7744bb6d3547f2e9c8969480963a8bd6abe5ab6",
+   "t": 1794049934,
+   "meta": {
+    "title": "Tutorial 1 · Mechanics of Solids (MEC2110)",
+    "summary": "Three-page tutorial sheet of numerical problems on stress, strain and pressure systems for MEC2110 Mechanics of Solids.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Books-and-Resources/Reference-Links_Mechanics-of-Solids.pdf",
+   "s": 26991,
+   "h": "da8e5720a943998664e381b0eac8b8d10f82a2b7c3e0a12f42ef643fc3bf320b",
+   "t": 1794049934,
+   "meta": {
+    "title": "Reference links · Mechanics of Solids video playlists",
+    "summary": "One-page list of third-party YouTube playlists and channels (Mechtube, Manas Patnaik, Ekeeda) for Strength of Materials topics.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-4/Lecture-Slides_Strain-in-Thin-Cylinders.pdf",
+   "s": 333347,
+   "h": "9b7649dd5a63cc482498cf5c8640b9be1657fded1e0f123d27fb7097359f7b1b",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Azhar Jamil",
+    "title": "Lecture slides · Strains in thin cylinders",
+    "summary": "Slides on stresses, hoop and longitudinal strain, and changes in diameter and circumference of thin-walled cylinders under internal pressure.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Class-Notes_Strain-Components-and-Measurement.pdf",
+   "s": 2712500,
+   "h": "e7074ddee8fcc993985876d047ba8a93f1dc7ca3f3c110af3f5343e4edf74747",
+   "t": 1794049934,
+   "meta": {
+    "title": "Class notes · Strain components and measurement",
+    "summary": "Handwritten notes on motion and deformation, engineering vs tensorial strain components and strain-displacement relations.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-4/Lecture-Slides_Thin-Cylinders.pdf",
+   "s": 343685,
+   "h": "1da91771a082e8fb32d092862b4089080e080e4baad4ee209aacae884eddad88",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Azhar Jamil",
+    "title": "Lecture slides · Thin cylinders",
+    "summary": "Slides on thin-walled pressure vessels: applications, assumptions, hoop and longitudinal stresses, and the thin rotating ring.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Notes_Unit-1_Analysis-of-Stress.pdf",
+   "s": 627984,
+   "h": "8512cc6541ed823cabdeeb2f07623f9fd73930adea5b40650b3d6332b0142c60",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 1 notes · Analysis of stress in cylindrical coordinates",
+    "summary": "Typed notes on the general three-dimensional state of stress in cylindrical coordinates with equilibrium equations and solved numerical examples.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-3/Class-Notes_Unit-3_Beams.pdf",
+   "s": 5290107,
+   "h": "98c569d2d981189169be84e917584c744bd5d09e00b4c9e0eb54fd298a679064",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 3 notes · Beams and simple bending",
+    "summary": "Handwritten Unit-3 notes on simple bending theory: assumptions, beam geometry under pure bending and the bending equation.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-4/Class-Notes_Thin-Walled-Cylinders.pdf",
+   "s": 3185635,
+   "h": "8162813ea12ab69260204d83cb5240b5b234b6fa2d6964e79bee87d94ad5e714",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit notes · Thin-walled cylinders",
+    "summary": "Handwritten notes on thin-walled cylinders: circumferential, radial and longitudinal stresses and the derivation of hoop stress pd/2t.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4430-EME453_Numerical-Control-of-Machine-Tools/Unit-1/Lecture-Slides_Introduction-to-CNC.pdf",
+   "s": 763042,
+   "h": "cf98749d992f126a98cf6493451fe9540dfdcf3e58ab465bacee9f57a61fc0fb",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Atul Thakur",
+    "title": "Lecture slides · Introduction to Computer Numerical Control",
+    "summary": "Thirty-five slides introducing CNC: conventional vs CNC control, types of milling machines and machining centres, and commercial control units (FANUC, Siemens, GSK).",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4430-EME453_Numerical-Control-of-Machine-Tools/Unit-1/Lecture-Slides_Introduction-to-NC-and-CNC.pdf",
+   "s": 1909245,
+   "h": "a3cd0eced3eb4e56b8acce53931e27cf4993fe5ea0f8700e4f4fb1f188619677",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Tamer S. Mahmoud",
+    "title": "Lecture slides · Introduction to NC and CNC (CAM)",
+    "summary": "Thirty-five slides on the basics of numerical control: what NC is, its history, components of traditional NC, and the move to computer numerical control.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4430-EME453_Numerical-Control-of-Machine-Tools/Syllabus/MEE4430_Syllabus.pdf",
+   "s": 411508,
+   "h": "e2ab474d30566875b7232c6f7e1d4c09fa38707a1c5b879868ee7704a25e1038",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Mohd. Ali",
+    "title": "Syllabus · Numerical Control of Machine Tools (MEE4430/ME453)",
+    "summary": "Official course outline for Numerical Control of Machine Tools: objectives, outcomes, credits, assessment weightage and unit-wise content.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4430-EME453_Numerical-Control-of-Machine-Tools/Complete-Notes/Lecture-Slides_Computer-Numerical-Control.pdf",
+   "s": 1520598,
+   "h": "8be9bc94a5f605ce9bddab46023ac1a4eac402a943e81102e7362fb528c428f4",
+   "t": 1794049934,
+   "meta": {
+    "title": "Lecture slides · Computer Numerical Control (full set)",
+    "summary": "Eighty-two slides covering CNC broadly: what CNC is and why it is used, machine elements such as ball screws and guideways, and control/programming basics.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4430-EME453_Numerical-Control-of-Machine-Tools/Unit-2/Lecture-Slides_Unit-2-CNC-Machine-Tools.pdf",
+   "s": 3008083,
+   "h": "4658589ee627e023cb7b5eff0794ae2332622cb9ac7c14e858639a6160a7806b",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Mohd. Ali",
+    "title": "Unit 2 slides · CNC machine tools",
+    "summary": "Complete Unit 2 deck: CNC machine tools, accuracy, precision and resolution, structures, drives and actuators, feedback devices, DNC and AC systems.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4430-EME453_Numerical-Control-of-Machine-Tools/PYQs-and-Assignments/Z_Assignment_2024-25.pdf",
+   "s": 223384,
+   "h": "9b37245bb564dc9e6ef5733dfecf6ee07a65d8c54e1d7a63cff9af19968ce837",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Mohd. Ali",
+    "title": "Home assignment · Numerical Control of Machine Tools (MEE4430)",
+    "summary": "Home assignment with G-M code part programming, subroutine and APT programming questions; submission date 20.11.24.",
+    "kind": "typed",
+    "year": "2024-25",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4430-EME453_Numerical-Control-of-Machine-Tools/Unit-5/Notes_Unit-5_Part-Programming.pdf",
+   "s": 711106,
+   "h": "3d0aa76b613b61a6e1f1f7aca5b71790c6de7417a4ec6d6ba15bca567b8cb041",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 5 notes · Part programming",
+    "summary": "Eighteen pages on NC part programming methods: manual part programming, symbolic/computer-assisted methods and the programming procedure up to the machine control unit.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4430-EME453_Numerical-Control-of-Machine-Tools/Unit-1/Lecture-Slides_Unit-1-Introduction-to-NC.pdf",
+   "s": 2411027,
+   "h": "f4711a286e9e1a8026ea33a75a0559489b2ac5f3e9c9f7c9ad9e797290fb6a59",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Dr. Mohd. Ali",
+    "title": "Unit 1 slides · Introduction to numerical control",
+    "summary": "Eighty-one Unit 1 slides: manufacturing and machine tools, NC fundamentals, NC/CNC machine components, input media and coding.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3132_Automotive-Drives-and-Transmission/Complete-Notes/Lecture-Slides_Automotive-Drives-and-Transmission.pdf",
+   "s": 843281,
+   "h": "8c9659d8c359ef648af8c2e6ebc5ce530d044551057b42a2e3451be67f9e9bbf",
+   "t": 1794049934,
+   "meta": {
+    "title": "Lecture slides · Automotive Drives and Transmission",
+    "summary": "Twenty-five slides giving the course syllabus and covering the opening units: electric and hybrid propulsion components, hydrostatic drives and electric drive systems.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3132_Automotive-Drives-and-Transmission/PYQs-and-Assignments/Z_Assignment_2024-25_AEC3130.pdf",
+   "s": 93622,
+   "h": "75a669bf0a4a87b27f4d50dbddd46c05dfb2d848e11426ffd9fa09e5ca09e428",
+   "t": 1794049934,
+   "meta": {
+    "title": "Home assignment · Automotive Drives & Transmission (AEC3130)",
+    "summary": "Five-question home assignment on universal joints and speed fluctuation, tractive effort, resistances to motion and EV battery technology; deadline 20.11.2024.",
+    "kind": "typed",
+    "year": "2024-25",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3132_Automotive-Drives-and-Transmission/Books-and-Resources/Links_Automotive-Drives-and-Transmission-Video-Resources.pdf",
+   "s": 14060,
+   "h": "6a314e4962f77db40c1f5999747bc879ca490598b0c1cd5a5e70f6ba2dc0caa8",
+   "t": 1794049934,
+   "meta": {
+    "title": "Links · Video resources for Automotive Drives & Transmission",
+    "summary": "Listed video resource on gear trains ('Gear Train by Technical Classes') recommended alongside the course.",
+    "kind": "scan",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3132_Automotive-Drives-and-Transmission/Syllabus/AEC3130_Syllabus.pdf",
+   "s": 183606,
+   "h": "739f97afa71d7cb732940da762d7123a022969ed95c3982115d9a873e8ce06da",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "title": "Automotive Drives and Transmission syllabus (AEC3130)",
+    "summary": "One-page AMU course outline for Automotive Drives and Transmission AEC3130: objectives, outcomes, credits and assessment scheme.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3132_Automotive-Drives-and-Transmission/Unit-1/Lecture-Slides_Introduction-to-Transmission-System.pdf",
+   "s": 543049,
+   "h": "71622ed72b40d14e33cfc65f754565f68b7b20b7a5c12adf9717ed5f223cd092",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "title": "Lecture slides · Introduction to the Transmission System",
+    "summary": "Slides introducing the transmission system: requirements and layout of clutch, gear box, propeller shaft, universal joints, final drive, differential and rear axle.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3132_Automotive-Drives-and-Transmission/Unit-4/Lecture-Slides_Unit-4_Clutches-and-Gear-Box.pdf",
+   "s": 17889901,
+   "h": "e1f3fd6050eae3b6243fd04227472ce5b90a18dd340d0903774c5c8293e4501a",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "title": "Unit 4 slides · Clutches and Gear Box",
+    "summary": "Detailed deck on clutches (cone, single/multi-plate, diaphragm, centrifugal, electromagnetic, lining materials) and gear boxes, matching Unit IV of the transmission syllabus.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3132_Automotive-Drives-and-Transmission/Unit-1/Lecture-Slides_Unit-1_Introduction-to-Hybrid-Vehicles.pdf",
+   "s": 1851070,
+   "h": "31e2359503a2352917314b5f6074d9d15a82819fe99b61498267d02691e366cf",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "title": "Unit 1 slides · Introduction to Hybrid Vehicles",
+    "summary": "Unit I deck on hybrid vehicle concepts, series and parallel hybrid configurations and propulsion-system fundamentals from the AEC3130 class.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3132_Automotive-Drives-and-Transmission/Unit-1/Lecture-Slides_Unit-1_First-Internal-Exam.pdf",
+   "s": 1385134,
+   "h": "876b6af5b990d04a76472824b5dfef15ae197668919e6d0d645cd9cfb81b5ccb",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "title": "Unit 1 slides · First Internal Exam portion",
+    "summary": "Shorter Unit I deck (hybrid vehicles, gasoline vehicle comparison) covering the portion set for the first internal examination.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3132_Automotive-Drives-and-Transmission/Unit-2/Lecture-Slides_Unit-2_Types-of-Power-Transmission.pdf",
+   "s": 1000402,
+   "h": "ba600769238fae3bd2bb43d517424b31400cdc362f15d7e00560b303932fd57e",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "title": "Unit 2 slides · Types of Power Transmission",
+    "summary": "Unit II deck on electric, mechanical, hydromechanical, hydrodynamic and hydrostatic drives and their use in vehicle power transmission.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3132_Automotive-Drives-and-Transmission/Unit-4/Class-Notes_Planetary-Gear-Trains.pdf",
+   "s": 2134824,
+   "h": "588aca6d2487a4174282a0d2bcf0200db3154fc9617eeba855aa5fb05136099c",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "professor": "Danish",
+    "title": "Class notes · Planetary and epicyclic gear trains",
+    "summary": "Handwritten class notes dated 30-07-2024 on simple, planetary and epicyclic gear trains, gear-train velocity ratios and the relative velocity method.",
+    "kind": "scan-handwritten",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3292_Electric-and-Hybrid-Vehicles/Unit-2/Lecture-Slides_Unit-2_Fundamentals-of-Electric-Vehicle.pdf",
+   "s": 1307905,
+   "h": "32859c8b77fc6820ffa70e0a4ffa25491c74cac531c54d5fbe4a51101b7d94d9",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "title": "Unit 2 slides · Fundamentals of Electric Vehicles",
+    "summary": "Unit II deck on the six basic types of electric vehicle (BEV, HEV, fuel cell, power-line, solar and flywheel/ultracapacitor storage).",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3292_Electric-and-Hybrid-Vehicles/Unit-4/Lecture-Slides_Unit-4_Electric-Propulsion-System.pdf",
+   "s": 1899913,
+   "h": "63929688bdd8e37207e3040d233de9091e189c70d04399b453bd373f4467b6b2",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "title": "Unit 4 slides · Electric Propulsion System",
+    "summary": "Unit IV deck on electric propulsion: motors, power converters, controllers and regenerative braking for EVs and HEVs.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3292_Electric-and-Hybrid-Vehicles/Unit-1/Lecture-Slides_Unit-1_Overview-of-Electric-Vehicles.pdf",
+   "s": 1261785,
+   "h": "717e450a59b3175de44e605d88e26e495ad9a660c7a3687b8dfedd873316a9dc",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "title": "Unit 1 slides · Overview of Electric Vehicles",
+    "summary": "Unit I deck defining electric vehicles, how they work, their main components and their advantages over conventional vehicles.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3292_Electric-and-Hybrid-Vehicles/Unit-3/Lecture-Slides_Unit-3_Batteries.pdf",
+   "s": 2513016,
+   "h": "5d5fe631111fcfe852e9717fa70d3f08f8e65be4cb0ca81385c5efd8e74a0819",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "title": "Unit 3 slides · Batteries",
+    "summary": "Unit III deck on electrochemical battery cells, battery types, parameters and energy-storage requirements for electric vehicles.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Lecture-Slides_Annual-Worth-Analysis.pdf",
+   "s": 5283096,
+   "h": "477097cbb659b7a7523f5389f5a012b656c021ec61fc30d78e0c037f50cc33e5",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "professor": "Hasan",
+    "title": "Lecture slides · Annual Worth Analysis",
+    "summary": "Deck on the annual worth method: converting cash flows to equivalent uniform annual worth and comparing alternatives by net EUAW.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/Lecture-Slides_Break-Even-Analysis.pdf",
+   "s": 386684,
+   "h": "232e897c3e2e30d84367d60f8d1558fac3c547ecadaec3703325d0e555a813e0",
+   "t": 1794049934,
+   "meta": {
+    "source": "Hasan",
+    "professor": "Faisal Hasan",
+    "title": "Lecture slides · Break-Even Analysis",
+    "summary": "Deck from the Engineering Economy and Management (MEC2450) class on break-even analysis: cost, revenue and profit relationships and break-even volume.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-4/Lecture-Slides_Cost-Benefit-Analysis.pdf",
+   "s": 629471,
+   "h": "a1609875ec6e66314afb01add4382947b20de32bc507358332ec05d5868f05a3",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Faisal Hasan",
+    "title": "Cost Benefit Analysis — slides",
+    "summary": "Deck on evaluation of public projects: public vs private project characteristics and benefit-cost (B/C) analysis, for Engineering Economy & Management (MEC2450).",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-4/Lecture-Slides_Depreciation.pdf",
+   "s": 824927,
+   "h": "cb4356da7064b3a1b01f3db5fa0099cc4c76819eb0c6e96cfe235d42afb1a090",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Faisal Hasan",
+    "title": "Depreciation — slides",
+    "summary": "Deck defining depreciation, its causes such as wear and tear and obsolescence, with everyday examples, for Engineering Economy & Management (MEC2450).",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/Lecture-Slides_Engineering-Economy-Definition-Importance-and-Applications.pdf",
+   "s": 1322982,
+   "h": "8811e10177f32ca0b75facdd7b57ccdaeb96769f87a420fca18a20fcce9d546a",
+   "t": 1794049934,
+   "meta": {
+    "title": "Engineering Economy · Definition, Importance and Applications",
+    "summary": "Opening deck giving the definition of economics and engineering economy, why engineers need it, and its applications.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/Lecture-Slides_Forecasting.pdf",
+   "s": 618154,
+   "h": "e8baf06ec2741556aa02d3c13e0e03c0427e74980e52095fbbc2ae1ea587d643",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Faisal Hasan",
+    "title": "Forecasting — slides",
+    "summary": "Deck on demand forecasting: meaning of a forecast, qualitative and quantitative approaches, with demand data examples, for Engineering Economy & Management (MEC2450).",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Lecture-Slides_Nominal-and-Effective-Interest-Rates.pdf",
+   "s": 68109,
+   "h": "1804965ce6ce86a8c2851c15914e81ff4541e46b7d5f2bf12cf8b57b87bb4bef",
+   "t": 1794049934,
+   "meta": {
+    "title": "Nominal and Effective Interest Rates — slides",
+    "summary": "Short deck on interest-rate statements: interest period, compounding period and frequency, and the difference between nominal and effective rates.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Lecture-Slides_Present-Worth-with-Unequal-Lives.pdf",
+   "s": 7393549,
+   "h": "6150f694eba8cabdcf5ae538ba42d94169fe75c2dde6b7c0959363a5b12a4ecb",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Faisal Hasan",
+    "title": "Present Worth Method with Unequal Lives — slides",
+    "summary": "Deck comparing alternatives with different economic lives by present worth: repeat-purchase and study-period approaches, with worked examples.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-4/Lecture-Slides_Replacement-Analysis.pdf",
+   "s": 603333,
+   "h": "0092ee56b6e873d40eafdcdbe63ff9139bed85b8cc5ee5bc95eefc133c384d17",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Faisal Hasan",
+    "title": "Replacement Analysis — slides",
+    "summary": "Deck on whether and when to replace an owned asset, with examples such as tyres, phones, petrol vs electric cars, for Engineering Economy & Management (MEC2450).",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/Lecture-Slides_Time-Value-of-Money.pdf",
+   "s": 362875,
+   "h": "feb9f29530ad3aa6546381dfa245d493cc441e961d30453f6c19e79ad19df03d",
+   "t": 1794049934,
+   "meta": {
+    "title": "Time Value of Money — slides",
+    "summary": "Deck explaining why money today is worth more than money later, the interest it can earn, and the cash-flow basis for later equivalence calculations.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/Complete-Notes/Lecture-Slides_Engine-Performance-Parameters.pdf",
+   "s": 746633,
+   "h": "1eca35c91e58771c345b4fae6a642c130874db93c8c7556d6bc9ff41dd8228b5",
+   "t": 1794049934,
+   "meta": {
+    "title": "Engine Performance Parameters — slides",
+    "summary": "Deck on IC-engine performance: energy flow from fuel to brake power, indicated vs brake power, mechanical and volumetric efficiency and related parameters.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3242_Fuels-Lubricants-and-Coolants/Complete-Notes/Notes_Fuels-and-Lubricants_SAUA1303.pdf",
+   "s": 3948322,
+   "h": "21d3c49cd37adce022f8329cc3ccae742631dac5140c06e27f3fcee98bfef6a3",
+   "t": 1794049934,
+   "meta": {
+    "title": "Fuels and Lubricants — unit-wise notes (SAUA1303)",
+    "summary": "Seventy-three pages of unit-wise notes on manufacture of fuels and lubricants, refining, cracking, alternative fuels and lubricant properties.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3242_Fuels-Lubricants-and-Coolants/Unit-1/Lecture-Slides_Conventional-Fuels.pdf",
+   "s": 1446529,
+   "h": "a1d1f5a82f2c457bb1cde4e9aa9746922f6627681c861b45d8d9d6f2c21e5a32",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 1 · Conventional Fuels — slides",
+    "summary": "Deck on conventional fuels: why fuel characteristics matter for engine design, efficiency and emissions, with IC-engine fuel fundamentals.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3242_Fuels-Lubricants-and-Coolants/Unit-2/Lecture-Slides_Alternative-Fuels.pdf",
+   "s": 1497028,
+   "h": "e96e0cfbcc9d3c46472c7860c3cb5e82805aaa9abc86f07fc04ef4e38179bf69",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 2 · Alternative Fuels — slides",
+    "summary": "Deck on why alternative fuels are needed and the main alternative fuels for IC engines, with their properties and emission considerations.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3242_Fuels-Lubricants-and-Coolants/Unit-3/Lecture-Slides_Lubrication-System.pdf",
+   "s": 1590495,
+   "h": "870568d00bd52e39c10bcafc2730efd7031dbc10bc4ee7ab27ac0dd95eaa8a9a",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 3 slides · Lubrication System",
+    "summary": "Slide deck on the engine lubrication system: functions, friction and wear reduction, and oil supply to moving parts.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3242_Fuels-Lubricants-and-Coolants/Unit-4/Lecture-Slides_Cooling-Systems.pdf",
+   "s": 2168266,
+   "h": "6109c5d7074da3374c82784429913502d4439ff05943940d7ede6f3567fe6343",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 4 slides · Cooling Systems",
+    "summary": "Slide deck on automotive coolants, heat transfer, inhibitors, anti-freeze/anti-boil properties and engine cooling systems.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-1/Lecture-Slides_Block-Brake.pdf",
+   "s": 1332734,
+   "h": "7797151edc91a27e0c49a6b181c44c379fa6d426c283472001a198afa52df0f4",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 1 slides · Block Brake",
+    "summary": "Block-brake construction, force analysis on drum and lever, braking torque and uniform-pressure assumptions.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-1/Lecture-Slides_Brakes.pdf",
+   "s": 2132198,
+   "h": "b8b996e11aa9f2e5e02d4c92a68ef39ef744246ab33ece0c1e4c60d9a2cab2b4",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 1 slides · Brakes",
+    "summary": "Classification of brakes by power source, operation and braking contact, with an introduction to brake design.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-1/Lecture-Slides_Clutch-Theory.pdf",
+   "s": 47352296,
+   "h": "4e231fae0e9f5ff49b58b0e5e6d3c5d010940115e115a6fc1ea834cdf30abb92",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 1 slides · Clutch Theory",
+    "summary": "Clutch definition, requirements such as torque transmission, gradual engagement and heat dissipation, and clutch types.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-1/Lecture-Slides_Clutch.pdf",
+   "s": 3440695,
+   "h": "cfc68e20b69d51655244f5d2d6c8472f2257419415eb0534e3836c3eab7a8372",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 1 slides · Clutch",
+    "summary": "Clutch as a machine member: positive and friction clutches, their advantages and disadvantages, and clutch design.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-1/Lecture-Slides_Drum-Brake.pdf",
+   "s": 3298560,
+   "h": "237cab01afeb0c928a847d00151155e74a2da94b1d6702fd97cb19d9ba766986",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 1 slides · Drum Brakes",
+    "summary": "Drum-brake history, main components, working of brake shoes against the rotating drum and brake analysis.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-1/Lecture-Slides_Fillet-Welded-Joints.pdf",
+   "s": 989934,
+   "h": "0c5270359fde49b0bf2a0b76dfe0e28b0252399da58e6e5d34f52b18f1f82cf5",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 1 slides · Fillet Welded Joints",
+    "summary": "Fillet welds in tee and lap joints, weld geometry and strength analysis of fillet-welded connections.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-4/Lecture-Slides_Gears.pdf",
+   "s": 14402927,
+   "h": "d4dc85c66f0489e1a43ba0b734666ecfc1eaf6367f07646fe870f5aa99e2549f",
+   "t": 1794049934,
+   "meta": {
+    "title": "Unit 4 slides · Gears",
+    "summary": "Gear fundamentals: radius and number of teeth, tooth profiles, types of gears and power transmission through gear pairs.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Books-and-Resources/Links_Machine-Design-II-Video-Resources.pdf",
+   "s": 21271,
+   "h": "ae9e0d7bd64db458f350764bf6398564f58bbe9472c9ec07f000587c440c308a",
+   "t": 1794049934,
+   "meta": {
+    "title": "Machine Design II · video lecture resources",
+    "summary": "List of recommended video lecture series on welded joints, springs, clutches and bearings for Machine Design II.",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Syllabus/MEC3110_Old-Syllabus.pdf",
+   "s": 95429,
+   "h": "2a57ecb243043fc0e7817c515d8b073fce90d90c67e1a223e77dd53a9e9512e9",
+   "t": 1794049934,
+   "meta": {
+    "title": "Machine Design II · old-syllabus course outline (MEC3110)",
+    "summary": "AMU course outline for Machine Design II under old code MEC3110: objectives, outcomes and units on welded joints, bearings, springs and gears.",
+    "kind": "scan-printed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Complete-Notes/Notes_Machine-Design-II.pdf",
+   "s": 24186397,
+   "h": "1a60a65d779aa1669c64315c000423c7594649dae1309261f13761d6dd7ee74e",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Prof. M. Naushad Alam",
+    "title": "Machine Design II · complete lecture slides",
+    "summary": "410-page compiled deck for Machine Design II (MEC 3110): course objectives, syllabus and lectures on welded joints, clutches, brakes, bearings and lubrication, springs, and gear drives.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-1/Lecture-Slides_Types-of-Welded-Joints.pdf",
+   "s": 692647,
+   "h": "0a69ad88e924211572920670a039b22db400542659c432b90b71cea66ccee2c3",
+   "t": 1794049934,
+   "meta": {
+    "professor": "Prof. M. Naushad Alam",
+    "title": "Types of welded joints",
+    "summary": "Fourteen slides on joint design: the five major joint types, weld grooves, welding-symbol parts, groove preparation and non-destructive test symbols.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-3/Lecture-Slides_Design-of-Springs.pdf",
+   "s": 6084224,
+   "h": "5de29571e285cccb0189d586e48f023948e97f5c3f9c3d7155f9e179b8952cf0",
+   "t": 1794049934,
+   "meta": {
+    "title": "Design of springs (slide deck)",
+    "summary": "Detailed slide deck on mechanical springs: stresses in helical springs, curvature effect, deflection, compression springs, spring materials, stability, critical frequency and fatigue design, extension and torsion springs",
+    "kind": "typed",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Lecture-Slides_Decision-Making.pdf",
+   "s": 718780,
+   "h": "e6745056941f39c60309affff0998afaf1ae8d17589fd20f46454be8c798081c",
+   "t": 1794049934,
+   "meta": {
+    "title": "Decision making",
+    "summary": "Slides on the nature of decision making, conditions of certainty/risk/uncertainty, programmed and non-programmed decisions, and decision types.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/Lecture-Slides_Economic-Indicators.pdf",
+   "s": 71407,
+   "h": "a908a26ece9286686522c339a2284988ed136fdd173661deea06f8d0f8c00169",
+   "t": 1794049934,
+   "meta": {
+    "title": "Economic indicators",
+    "summary": "Slides defining economic indicators (GDP, unemployment, CPI, industrial production etc.) and how they are used to read economic performance and business cycles.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Lecture-Slides_Organising.pdf",
+   "s": 741317,
+   "h": "b94c49cb5150ecf4ad6897adfc3a391f16b6a9daaab672537b155113754f7bc4",
+   "t": 1794049934,
+   "meta": {
+    "title": "Organising",
+    "summary": "Slides on organisation and organisation structure: grouping activities and resources, organisational design, division of work, authority and coordination.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Lecture-Slides_Planning.pdf",
+   "s": 460340,
+   "h": "b4a984edc1b315189ce1e25a79da0abfac155bee69427d03e7074b7eb26b61d3",
+   "t": 1794049934,
+   "meta": {
+    "title": "Planning",
+    "summary": "Slides on planning: definition, ends and means, objectives and strategy, a hierarchy of plans, reasons for planning, and its advantages and disadvantages.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Lecture-Slides_Leadership.pdf",
+   "s": 565254,
+   "h": "814c4562a0c011c7099050f3c1f12bc776bafd877c65406ebe1f10d08ce581e2",
+   "t": 1794049934,
+   "meta": {
+    "title": "Leadership",
+    "summary": "Slides on leadership: definitions and influence, leadership versus management activities, and leadership styles.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Lecture-Slides_Motivation.pdf",
+   "s": 392752,
+   "h": "4ccbf9d349abb770ed9d68aef3f1c2cc995735d3b2a5c22d7139110931134ec5",
+   "t": 1794049934,
+   "meta": {
+    "title": "Motivation",
+    "summary": "Slides on motivation: definition, individual and organisational influences, and process versus content theories of motivation.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Lecture-Slides_Control.pdf",
+   "s": 306438,
+   "h": "74e6eee4b71d898d1e064cdc3bc7b241efec62382cbaa113e1b01efe95297662",
+   "t": 1794049934,
+   "meta": {
+    "title": "Control",
+    "summary": "Slides on managerial control: monitoring activities and corrective action, coping with organisational complexity and adapting to a changing environment.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Lecture-Slides_Ethics.pdf",
+   "s": 514220,
+   "h": "3d34fe8b1b0a506274f0973d45d247ca6bb8a21ab2f29ffaa13404b90effe25a",
+   "t": 1794049934,
+   "meta": {
+    "title": "Ethics",
+    "summary": "Nineteen slides on business ethics built around a grant-utilisation case study, with ethical reasoning and decision options.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Lecture-Slides_International-Business.pdf",
+   "s": 540857,
+   "h": "efa2b7db6023dcaa30eb9562a9ff8b4a50888dd9975b4d9601d75f2bd80c4a42",
+   "t": 1794049934,
+   "meta": {
+    "title": "International business",
+    "summary": "Slides on globalisation and international business: definition, drivers such as technology and trade liberalisation, and effects on firms.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Lecture-Slides_The-Management-Process.pdf",
+   "s": 557805,
+   "h": "0dd019a1ac7a18dd4fb9bd553e6214e524657e99be9d09151112b3ff9b64cc65",
+   "t": 1794049934,
+   "meta": {
+    "title": "The management process",
+    "summary": "Slides setting out the management process — planning and decision making, organising, leading and controlling — with the four functions explained in turn.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Lecture-Slides_Capacity-Planning.pdf",
+   "s": 99535,
+   "h": "5682fe0697e8496ed0a34d622bcb6a33c97c12338f44687a927cbd80179718a4",
+   "t": 1794049934,
+   "meta": {
+    "title": "Capacity planning",
+    "summary": "Slides introducing operations management and its functions, with emphasis on capacity planning and its importance for cost, quality and delivery.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Complete-Notes/Lecture-Slides_Inventory-Management.pdf",
+   "s": 466363,
+   "h": "d9ca0b8bf8a58029ba99e96a6b51bf7b37d87cb33847a4352aa8d540062884fb",
+   "t": 1794049934,
+   "meta": {
+    "title": "Slide deck · Inventory Management",
+    "summary": "Slides on inventory: definition, why firms hold stock, and the need for inventory in operations.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Complete-Notes/Lecture-Slides_Operations-Management.pdf",
+   "s": 43483,
+   "h": "1f183c5402c65f8d44abc1283a0d4c945b2ce02f50c80ccc8b78a900a0738ba6",
+   "t": 1794049934,
+   "meta": {
+    "title": "Slide deck · Operations Management — definition and functions",
+    "summary": "Short deck defining operations management, its key functions (design, planning, capacity, quality, inventory, SCM) and its importance.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Complete-Notes/Lecture-Slides_Quality-Management.pdf",
+   "s": 687113,
+   "h": "aab54e13ffca627074c1b923dfbb184422b99025b8eccca47c5cb1c9ae1d8c34",
+   "t": 1794049934,
+   "meta": {
+    "title": "Slide deck · Quality Management",
+    "summary": "Slides on quality definitions, quality of design vs conformance, the dimensions of quality and TQM basics.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice/Books-and-Resources/Links_Machine-Design-Practice-Video-Resources.pdf",
+   "s": 15266,
+   "h": "b7c2b0e25a7bf44a2c32d5b0abf268a2bf14595eb00bdf84f08dac6589547339",
+   "t": 1794049934,
+   "meta": {
+    "title": "Machine Design Practice — video lecture links",
+    "summary": "One-line document naming a recommended video series, 'Machine Design Practice by Hassan Muhammad'; the URL was lost in conversion.",
+    "kind": "scan",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME404_Mechanical-Engg/PYQs-and-Assignments/Sem-End_2015-16_ME404.pdf",
+   "s": 7553644,
+   "h": "a5a453a9afe36881f5363ef27e8c799f78b2cb7dcbcb0c26ce3fecb953d237e2",
+   "t": 1794049934,
+   "meta": {
+    "title": "Sem-End 2015-16 · ME 404 Manufacturing Engineering",
+    "summary": "Winter 2015-16 B.Tech Mechanical sem-end paper on Manufacturing Engineering: automation and NC/CNC, part programming, jigs and dies, group technology, quality control.",
+    "kind": "scan-printed",
+    "year": "2015-16",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME407-EME407_Processing-of-Plastics-Polymers-and-Ceramics/PYQs-and-Assignments/Sem-End_2016-17_ME407.pdf",
+   "s": 24479471,
+   "h": "3075cd8e93a498bf34c105535285ee9bebba5f3ad19066faae2c851663977321",
+   "t": 1794049934,
+   "meta": {
+    "title": "Sem-End 2016-17 · ME-407 Processing of Plastics, Polymers & Ceramics",
+    "summary": "Winter 2016-17 elective sem-end paper on polymer cross-linking, polymer properties, polymerisation routes, polymer processing and ceramics.",
+    "kind": "scan-printed",
+    "year": "2016-17",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2022-23_MEE4150.pdf",
+   "s": 11192646,
+   "h": "db86ea6ccf3864f8f5539a60dc3428d5ea00353f8659e60aa0216adc9f67a808",
+   "t": 1794049934,
+   "meta": {
+    "title": "Sem-End 2022-23 · Computer Aided Design (MEE4150)",
+    "summary": "Winter 2022-23 sem-end paper on CAD modelling modes, solid modelling and homogeneous transformations, plus engineering-optimization questions.",
+    "kind": "scan-printed",
+    "year": "2022-23",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4112_Mechanical-Vibrations/PYQs-and-Assignments/Sem-End_2022-23_MEC4110_2.pdf",
+   "s": 8673440,
+   "h": "2d844e1c03e7ebe343e91efaa3873312499072677feb767c2cb7c59e1d5eb120",
+   "t": 1794049934,
+   "meta": {
+    "title": "Sem-End 2022-23 · Mechanical Vibration (MEC4110/ME411)",
+    "summary": "Autumn 2022-23 sem-end paper on damping, vibration isolation, multi-DOF systems, matrix iteration and transverse vibration of cables.",
+    "kind": "scan-printed",
+    "year": "2022-23",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4112_Mechanical-Vibrations/PYQs-and-Assignments/Sem-End_2023-24_MEC4110_2.pdf",
+   "s": 9321463,
+   "h": "878cbc3ecfc01d7746d2a12339dc9613fed62eb2d893bf7082e4c64976c1bcb6",
+   "t": 1794049934,
+   "meta": {
+    "title": "Sem-End 2023-24 · Mechanical Vibration (MEC4110/ME411)",
+    "summary": "Autumn 2023-24 sem-end paper on Fourier series for periodic excitation, constraint inertia, logarithmic decrement and multi-DOF vibration.",
+    "kind": "scan-printed",
+    "year": "2023-24",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/Sem-End_2018-19_EE305.pdf",
+   "s": 7408515,
+   "h": "40fe1687f97a6af3cb5f949c6c3fa0485418b7a1e83f2baf12c14ae87c1b6dc2",
+   "t": 1794049934,
+   "meta": {
+    "title": "Sem-End 2018-19 · Control Engineering (EE-305)",
+    "summary": "Autumn 2018-19 sem-end paper on mathematical modelling of control systems, transfer functions, block diagrams, Bode plots and stability.",
+    "kind": "scan-printed",
+    "year": "2018-19",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/Sem-End_2019-20_EE305.pdf",
+   "s": 9164755,
+   "h": "efb41627a29e334ca6881ca19fe24a8d2014657ed576fa6788baf2e0a9edb358",
+   "t": 1794049934,
+   "meta": {
+    "title": "Sem-End 2019-20 · Control Engineering (EE-305)",
+    "summary": "Winter 2019-20 sem-end paper on transfer functions, synchro error detectors, signal flow graphs and block-diagram reduction.",
+    "kind": "scan-printed",
+    "year": "2019-20",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EEA3010-EEEA3010_Automation-Control/PYQs-and-Assignments/Sem-End_2022-23_EEA3010.pdf",
+   "s": 8928494,
+   "h": "8e5fc13e1aa5e588f1ce7b95b269b4227b2eb2eb326a766eed0113ae88c6c4f0",
+   "t": 1794049934,
+   "meta": {
+    "title": "Sem-End 2022-23 · Automation and Control (EEA-3010)",
+    "summary": "Autumn 2022-23 sem-end paper on transfer functions of mechanical systems and DC servomotors, block-diagram reduction and Mason's gain formula.",
+    "kind": "scan-printed",
+    "year": "2022-23",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/PYQs-and-Assignments/Sem-End_2023-24_MEC3110_2.pdf",
+   "s": 5894381,
+   "h": "a19f6bf5148a25dd710e97019e9991834c40d94f1020f24a0292ba1dde714104",
+   "t": 1794049934,
+   "meta": {
+    "title": "Sem-End 2023-24 · Machine Design II (MEC3110)",
+    "summary": "2023-24 sem-end paper with MCQs on welded joints and brakes, spring design, and spur-gear design by the Lewis equation.",
+    "kind": "scan-printed",
+    "year": "2023-24",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3112_Design-of-Vehicle-Components/PYQs-and-Assignments/Mid-Sem-1_2024-25_AEC3110.pdf",
+   "s": 1941193,
+   "h": "16ea1bb557b1166f24705d545a2f56010d903e225effaf10a957723b3e5ba906",
+   "t": 1794049934,
+   "meta": {
+    "title": "Mid-Sem-1 2024-25 · Machine Design-I / Design of Vehicle Components (MEC-3110/AEC3110)",
+    "summary": "First internal examination of 2024-25: MCQs and numericals on fusion welding, fillet welds, hydrodynamic bearings and weld sizing.",
+    "kind": "scan-printed",
+    "year": "2024-25",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3962_Modeling-and-Simulation-of-Thermofluid-System/Records/Record_ANSYS-Project-01.pdf",
+   "s": 1433739,
+   "h": "267b7911a0dc768557705044b45ffec410fcec87e568ba13bb096215bb937bd0",
+   "t": 1794049934,
+   "meta": {
+    "author": "Muhammad Hassan",
+    "title": "ANSYS project 01 · thermo-fluid model in Fluent",
+    "summary": "Screenshots of an Ansys Student 2024 R2 workflow: sketching geometry, extruding, cutting material and meshing in Fluent Meshing.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3962_Modeling-and-Simulation-of-Thermofluid-System/Records/Record_Modelling-and-Simulation-of-Thermofluid-System.pdf",
+   "s": 975194,
+   "h": "ffc677431efbb0f78e1a3cf73e8d07a8ee450c39a5665030df6d4be4bf6d9ed1",
+   "t": 1794049934,
+   "meta": {
+    "author": "Muhammad Hassan",
+    "title": "ANSYS lab record · modelling and simulation of thermo-fluid systems",
+    "summary": "Five-slide lab record showing Ansys modelling screenshots for a thermo-fluid simulation exercise.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3962_Modeling-and-Simulation-of-Thermofluid-System/Records/Record_ANSYS-Lab-Report-01.pdf",
+   "s": 1816525,
+   "h": "094e836613822de20eca46ab205c9b2cba77028703811ffd3c6f5409d57326df",
+   "t": 1794049934,
+   "meta": {
+    "author": "Muhammad Hassan",
+    "title": "ANSYS lab report 01 · block modelling and Boolean cut",
+    "summary": "Fifteen-slide Ansys Student 2024 R2 lab report: extruded rectangular block, viewing from an angle, and cutting two cylinders at 6 cm spacing.",
+    "kind": "slides",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3962_Modeling-and-Simulation-of-Thermofluid-System/Records/Experiment-2_Manifold-Flow-Simulation.pdf",
+   "s": 2566343,
+   "h": "36cb1f46962782da86bd4c5490417c72f51d45b07abb815ca820f85544d4421e",
+   "t": 1794049934,
+   "meta": {
+    "author": "Syed Nabeel Hasan",
+    "title": "Experiment 2 · Thermo-fluid simulation of manifold flow cases",
+    "summary": "Student lab record for Experiment 2: CFD setup and results for a pipeline manifold with two outlets/one inlet and one outlet/two inlets (streamlines, pressure profiles).",
+    "kind": "slides",
+    "year": "2024-25",
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/PYQs-and-Assignments/Z_Tutorial-1_2025-26.pdf",
+   "meta": {
+    "credit": "Farhan Baig, Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/PYQs-and-Assignments/Z_Tutorial-2_2025-26.pdf",
+   "meta": {
+    "credit": "Farhan Baig, Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/PYQs-and-Assignments/Z_Tutorial-3_2025-26.pdf",
+   "meta": {
+    "credit": "Farhan Baig, Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/PYQs-and-Assignments/Z_Tutorial-4_2025-26.pdf",
+   "meta": {
+    "credit": "Farhan Baig, Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I/Unit-3/Class-Notes_Unit-3.pdf",
+   "meta": {
+    "credit": "Farhan Baig, Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-2/Lecture-02_Unit-2.pdf",
+   "meta": {
+    "credit": "Farhan Baig, Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-2/Lecture-03_Unit-2.pdf",
+   "meta": {
+    "credit": "Farhan Baig, Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-2/Lecture-04_Unit-2.pdf",
+   "meta": {
+    "credit": "Farhan Baig, Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Solidification-of-Metals.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig, Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Gating-System.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig, Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-1/Lecture-Slides_Moulding-Materials.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha, Farhan Baig, Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-2/Lecture-Slides_Metal-Joining_Part-A_2024-25.pdf",
+   "meta": {
+    "credit": "Farhan Baig, Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-1/Lecture-01_Introduction.pdf",
+   "meta": {
+    "credit": "Farhan Baig, Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Unit-1/Lecture-03_Unsymmetrical-Welded-Joints.pdf",
+   "meta": {
+    "credit": "Farhan Baig, Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_1. Decision Making.pdf",
+   "meta": {
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_5. Organising.pdf",
+   "meta": {
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_4. Planning.pdf",
+   "meta": {
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_12. Human resource.pdf",
+   "meta": {
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_7. Leadership.pdf",
+   "meta": {
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_3. Managers.pdf",
+   "meta": {
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_10. Marketing management 2024 AQ.pdf",
+   "meta": {
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_8. Motivation.pdf",
+   "meta": {
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_Unit-3_Intro-to-Management.pdf",
+   "meta": {
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_11. International business.pdf",
+   "meta": {
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-2/Saman-Mam_2024-25_10. Marketing mgmt.pdf",
+   "meta": {
+    "credit": "Hasan"
+   }
+  }
+ ]
+}

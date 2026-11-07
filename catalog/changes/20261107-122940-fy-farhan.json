@@ -1,0 +1,4276 @@
+{
+ "id": "20261107-122940-fy-farhan",
+ "created": "2026-11-07T12:29:40+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "credit": "Farhan Baig",
+  "note": "B.Tech first year (both semesters) from Farhan Baig's drive; downloaded in two parts. The 'Books' folders hold published textbooks. 'ZH TEKNOS' issues are a college magazine."
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/PYQs-and-Assignments/Z_Assignment_Fuels-and-Calorimetry_Solution.pdf",
+   "s": 3457319,
+   "h": "31f91bce08ea8785f686c45cb83e6743f4be01a4b7def01be5c3f269440ed0c2",
+   "t": 1794054580,
+   "meta": {
+    "title": "Assignment solutions · Bomb calorimeter and fuel analysis",
+    "summary": "Handwritten worked answers on the bomb calorimeter and on calculating calorific value from a fuel's ultimate analysis.",
+    "kind": "scan-handwritten",
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/PYQs-and-Assignments/Z_Assignment_Water-Treatment_Solution.pdf",
+   "s": 3069544,
+   "h": "4c50d03a0b9738ceeca6dce9200c519ee05fdba675eea9859d9658b34ac00ad6",
+   "t": 1794054580,
+   "meta": {
+    "title": "Assignment solutions · Lime-soda water softening",
+    "summary": "Handwritten solution of the lime and soda requirement numerical for softening 30,000 litres of water, with hardness table.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-1/Notes_Unit-1_Water-Treatment.pdf",
+   "s": 2775417,
+   "h": "0d78cfccbaf31c6dc4e8b2d47e097a638760797f593c21148352e8f04b3ad243",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 1 notes · Treatment of water for municipal and industrial uses",
+    "summary": "Typed notes on sources of water, classification of impurities and the treatment of water for municipal and industrial use.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-1/Lecture-Slides_Unit-1_Water-Treatment.pdf",
+   "s": 2412947,
+   "h": "d2b979fd330e5bf2d893e73eddbc99c3da598ca96e20b8ac9f74828dd885f4c9",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Inamuddin",
+    "title": "Unit 1 slides · Water and water treatment",
+    "summary": "86 slides on water sources, impurities and water-treatment processes for the first chemistry unit.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-2/Lecture-Slides_Fuels-and-Lubricants_2.pdf",
+   "s": 3844053,
+   "h": "c2a84b0b4f5c28fe244b1859a15c0ababbcc81106c2669321d30f5cd61671109",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 slides · Fuels and lubricants",
+    "summary": "113 slides on classification of fuels, calorific value, combustion and lubricants, citing Jain and Jain.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Class-Notes_Unit-2_Curve-Tracing-Polar.pdf",
+   "s": 903713,
+   "h": "451ed5b4c5f78e163f00a1148440faf6c86c30897c3cbe64883fed0c523fee19",
+   "t": 1794054580,
+   "meta": {
+    "title": "Curve tracing in polar form",
+    "summary": "Three handwritten pages on tracing polar curves: symmetry, pole and tangent at the pole, asymptotes and region of existence, with a worked example.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_Assignment-1_Solution.pdf",
+   "s": 3570593,
+   "h": "505b3afca30717b5041434101c3bff216618210dfc663b6a2994b96b35116794",
+   "t": 1794054580,
+   "meta": {
+    "title": "Assignment 1 · worked solutions",
+    "summary": "Handwritten worked solutions to assignment 1: vector-space counterexamples, rank and consistency of matrices, and other linear-algebra and calculus problems.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_Assignment-2_Solution.pdf",
+   "s": 6654924,
+   "h": "5d74660cf954c9ee4b095e984cd22c4ca68682ec9d8f36b1c5ae3644aff90680",
+   "t": 1794054580,
+   "meta": {
+    "title": "Assignment 2 · worked solutions (differential equations)",
+    "summary": "Handwritten worked solutions to assignment 2: exact differential equations, integrating factors and further first-order equations.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Complete-Notes/Class-Notes_Applied-Mathematics-I_2.pdf",
+   "s": 299047953,
+   "h": "cad0a9ca84be74f03ce1a23b06193146b9bcd3c439e4e5d9de8284ae30a58934",
+   "t": 1794054580,
+   "meta": {
+    "title": "Applied Mathematics I · handwritten note book",
+    "summary": "188 scanned handwritten pages covering the calculus units: standard results, successive differentiation, curve tracing and series expansion, with worked problems.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Mid-Sem-2_2023-24_Solution.pdf",
+   "s": 4692906,
+   "h": "9f20c30ba63a09471d35d37a06c4481dce38a2ff20ef35d7e58222faa3738940",
+   "t": 1794054580,
+   "meta": {
+    "author": "Aarif",
+    "title": "Mid-Sem-2 2023-24 · Handwritten solutions",
+    "summary": "Handwritten solutions to the 2023-24 second internal (mid-sem) paper of Applied Mathematics-I (AMS-1110): particular integrals, equal roots, Taylor coefficient and first-order differential equations.",
+    "kind": "scan-printed",
+    "year": "2023-24",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Mid-Sem-1_2023-24_Solution.pdf",
+   "s": 2883824,
+   "h": "1f80c72fca2850efd0baf92e2b60e9c72488a85a252e316fdb6d9d635c6ad1f9",
+   "t": 1794054580,
+   "meta": {
+    "title": "Mid-Sem-1 2023-24 · Paper with handwritten solutions",
+    "summary": "First internal examination (odd semester 2023-24, AMS-1110) Applied Mathematics-I paper with handwritten solutions on rank, linear systems, vector spaces, eigen values and exact differential equations.",
+    "kind": "typed",
+    "year": "2023-24",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Class-Notes_Lecture-5-Unit-1.pdf",
+   "s": 2071894,
+   "h": "3176ff2df2651346afd43adec116a1bdaab6ec2a1bf9601de75e5e05c578be6d",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 1 · Lecture 5 notes (eigenvalues and eigenvectors)",
+    "summary": "Handwritten Lecture-5 notes of Unit 1: eigenvalues and eigenvectors, characteristic matrix, polynomial and equation, and the trace/determinant properties.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Class-Notes_Applications-of-Differential-Equations.pdf",
+   "s": 1645814,
+   "h": "73272551a2949910c56ff342db1e50954e40f3cfa6d55c4df4abb7cdf4fa8d2f",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 · Applications of differential equations to physical problems",
+    "summary": "Handwritten 12-page lecture applying first-order differential equations: law of natural growth and decay, population models and mixing-of-solutions problems.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Class-Notes_Unit-2_Differential-Equations.pdf",
+   "s": 18096222,
+   "h": "56ac86805cec5bed8babf612e1c1906717b9cbe3effc53c8089dd977c1d4ca4c",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 notes · Differential equations",
+    "summary": "Handwritten Unit-2 notes on differential equations: order and degree, ordinary and partial DEs, solution types, initial and boundary value problems, first-order linear equations.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Class-Notes_Unit-2_Asymptotes.pdf",
+   "s": 13190593,
+   "h": "fd942c233760c62704dfb73d6e690debecea8c7e3eeca483b5412f255732872e",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 notes · Asymptotes and curve tracing",
+    "summary": "Handwritten Unit-2 notes on expansion of functions followed by asymptotes — horizontal, vertical and oblique types, working rules and worked examples.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Class-Notes_Lecture-1-Unit-2.pdf",
+   "s": 2636655,
+   "h": "2bbeeedc624ef9f0a03bfc30c178139bf591a882da88b927cf64f630407d1652",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 · Lecture 1 notes (successive differentiation)",
+    "summary": "Handwritten Lecture-1 of Unit 2: successive differentiation, notation for nth derivatives and the relation between successive derivatives.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Class-Notes_Lecture-2-Unit-2.pdf",
+   "s": 1807915,
+   "h": "8b0c47cac35ffe4c1c4a1db490af869baa8b258ddfdb0513875bc5aedd099330",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 · Lecture 2 notes (expansion of functions)",
+    "summary": "Handwritten Lecture-2 of Unit 2: Maclaurin's and Taylor's theorems for expanding functions of one variable, with the series formulas.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Class-Notes_Lecture-3-4-Unit-2.pdf",
+   "s": 1006244,
+   "h": "bfdf4dbf96249b2c5c1d510b5001325d95032e63b635df6c8392bbc68a9c15c7",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 · Lectures 3-4 notes (tracing of curves)",
+    "summary": "Handwritten combined Lectures 3-4 of Unit 2: tracing of curves — multiple and double points, nodes and their tangents.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Class-Notes_Lecture-6-Unit-2.pdf",
+   "s": 6130397,
+   "h": "983850aeaf68a1b2fc6d4c6216cfd0803ab0676fd2d5787845ee993074a000b9",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 · Lecture 6 notes (curve tracing worked example)",
+    "summary": "Handwritten Lecture-6 of Unit 2: a complete worked tracing of the curve y²(a+x)=(a−x)x², checking symmetry, tangents at the origin, intersections, asymptotes and region.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/Class-Notes_Lecture-2-Unit-3.pdf",
+   "s": 4577358,
+   "h": "8d771b1bc2dc5d38d67a1888dc35045d6c9afd79f49d83afd7ef957192a32e8a",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 3 · Lecture 2 notes (rectification)",
+    "summary": "Handwritten Lecture-2 of Unit 3: rectification — finding the perimeter of the cardioid r = a(1+cos θ) by the arc-length integral.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/Class-Notes_Gamma-Function.pdf",
+   "s": 421026,
+   "h": "0503eaa37e8c3f51a143340390151035143ddd96a83b8a5dc6296d1cfdc23fab",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 3 notes · Gamma function",
+    "summary": "Two-page handwritten appendix on the gamma function: Euler's definition, its factorial property, special values such as Γ(1/2) and worked evaluations.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Class-Notes_Unit-4-Lecture-1.pdf",
+   "s": 1352435,
+   "h": "2773540477e7692703941a1fd1608cc1d5c34aa2f3f6533d3f4be09a43301538",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 4 notes · Lecture 1 — Ordinary Differential Equations: order, degree, linearity",
+    "summary": "Handwritten lecture notes defining ODEs, order, degree, linear vs non-linear equations, general and particular solutions with examples.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Class-Notes_Unit-4-Lecture-3.pdf",
+   "s": 1523931,
+   "h": "ff2049eb1429d3209c3eabc22b4f93a01c20a4150c23b110ca5527529f739e54",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 4 notes · Lecture 3 — Higher-order homogeneous linear ODEs with constant coefficients",
+    "summary": "Handwritten notes on solving higher-order homogeneous linear differential equations with constant coefficients via the auxiliary equation, including the real-and-distinct-roots case.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Class-Notes_Unit-4-Lecture-4.pdf",
+   "s": 1971803,
+   "h": "68ddd18883c3f6a9c24560474f1b8e10be833c58ec67646f7b8eb9422da31c88",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 4 notes · Lecture 4 — Particular integrals for sin ax / cos ax (Case II)",
+    "summary": "Handwritten notes on finding particular integrals when the right-hand side is sin ax or cos ax, with a worked example solved by the operator method.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Handwritten-Notes_Unit-2_Transformer-QA.pdf",
+   "s": 5391045,
+   "h": "86a58ee7e0c9d6c98e3801cc240bdd453607fd1def4c3c2211b7f48b73d9358b",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 handwritten notes · B-H curve, hysteresis loss and single-phase transformers (Q&A)",
+    "summary": "Ten handwritten pages answering questions on the B-H curve and hysteresis loop, hysteresis and eddy losses, and transformer EMF equation, no-load operation and phasor diagram.",
+    "kind": "scan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_Assignment_Home-Assignment.pdf",
+   "s": 444730,
+   "h": "cc691513bd3cbe843e9cac83482fee8d97fa3f135fab326477835120e8baff66",
+   "t": 1794054580,
+   "meta": {
+    "title": "Home assignment · network theorems and three-phase loads",
+    "summary": "Typed home assignment sheet on superposition, Thevenin and Norton theorems, star/delta connected loads and power calculations.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_Assignment_Home-Assignment_Solution.pdf",
+   "s": 3431106,
+   "h": "2a3f91e982a41df300f8dc51f989ebafb3d6e804658f9d75359065581f9f0c1a",
+   "t": 1794054580,
+   "meta": {
+    "title": "Home assignment solutions · network theorems and three-phase loads",
+    "summary": "Fourteen handwritten pages of worked solutions to the Principles of Electrical Engineering home assignment, starting with V2 by superposition, Thevenin and Norton.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Handwritten-Notes_Unit-1.pdf",
+   "s": 17244553,
+   "h": "64bf8c7e3be52d0e3bb66e92b1d40bf426f5ed17ba6b36fd5265724a66bd9865",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 1 handwritten notes · Electric Circuits (AC fundamentals)",
+    "summary": "Fifty-three handwritten pages of Unit-1 notes on electric circuits, opening with alternating voltage and current, waveform, average and RMS values and phasors.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Handwritten-Notes_Unit-2_Transformer.pdf",
+   "s": 2855827,
+   "h": "45606201944e5403510de3ed1c5df8ed86f5d8370c87069f89e902afa35d133a",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 handwritten notes · Single-phase transformer",
+    "summary": "Six handwritten pages on the single-phase transformer: construction sketch, EMF equation, ideal transformer, no-load operation and no-load phasor diagram.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Notes_Unit-2_Construction-of-Single-Phase-Transformers.pdf",
+   "s": 1409246,
+   "h": "29b308db1e44bab199867e6a12703928c5a8673954d9092ea622945e4c423ed0",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 notes · Construction of single-phase transformers",
+    "summary": "Two printed pages describing transformer cores, laminations, windings and the construction of single-phase transformers.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Lecture-Slides_Unit-2-Single-Phase-Transformer.pdf",
+   "s": 1276888,
+   "h": "fe2031aed6d248053584cf542c7032a42c448c8acc8ee1296d997980ea77c599",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 slides · Single-phase transformer",
+    "summary": "Twenty-nine slides covering transformer construction, step-up and step-down operation, EMF equation and ideal transformer behaviour.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Lecture-01-Part-C_Amperes-Circuital-Law-and-BH-Curve.pdf",
+   "s": 5412975,
+   "h": "0402c6d6121596e4e49d52007b42d5b67078e13a8ce59cce959597f2cdaccc8c",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture 1 Part C · Ampere's circuital law and B-H curve",
+    "summary": "Thirteen printed pages of lecture notes on Ampere's circuital law with applications and the B-H characteristic of magnetic materials.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Lecture-Slides_Alternator.pdf",
+   "s": 1104632,
+   "h": "9afc84ea7f54ceb6509aef6b477035754ff98a4405751b054763efd212b12e9b",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture slides · Alternator",
+    "summary": "Construction, rotor types (salient-pole and cylindrical), principle of operation and EMF of an alternator.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Lecture-Slides_Concept-of-Green-Energy.pdf",
+   "s": 1931117,
+   "h": "a8ed2d6564b3e0917b83f1b62f18b2b6cfd801a8168093ab4aa58075d198afac",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Suhaib Ahmad Khan",
+    "title": "Lecture slides · Concept of Green Energy",
+    "summary": "Green/renewable energy sources, sustainability and reduced emissions, as part of the power-system topics of Unit 3.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Lecture-Slides_Induction-Motors.pdf",
+   "s": 2057211,
+   "h": "7abd5c580caba81ef3593b6cd6cdd9b1a5621081e27957c80e4495a896f5fc76",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture slides · Induction Motors",
+    "summary": "Three-phase induction motor: construction, types, rotating field, slip, torque and speed characteristics.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Class-Notes_Unit-3_Electric-Machines-and-Power-System.pdf",
+   "s": 2148694,
+   "h": "c6a024570eb34a789cbcedb63c895da942c64a500954879f75da44016e13c978",
+   "t": 1794054580,
+   "meta": {
+    "professor": "M Saad Bin Arif",
+    "title": "Unit 3 notes · Introduction to Electric Machines and Power System",
+    "summary": "Typed chapter on rotating magnetic field, alternator construction and EMF, three-phase induction motor, power-system elements and green energy.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Lecture-Slides_Surface-Development.pdf",
+   "s": 4001657,
+   "h": "ae9b3b75f94173e044718d8482dfe78f1031e726516a15d90639f8cc7becfb6f",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture slides · Development of Surfaces",
+    "summary": "Unrolling of solids on a plane, uses in sheet-metal work, and worked development of prisms, cylinders, pyramids and cones.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Problem-Sheet_Development-of-Surfaces.pdf",
+   "s": 2534416,
+   "h": "eb0e802db4a6a2525f2d3935e127369d0f454b96de66b8f517511fa841ffe31b",
+   "t": 1794054580,
+   "meta": {
+    "title": "Problem sheet · Development of Surfaces (lab figures)",
+    "summary": "Three scanned sheets of dimensioned figures for development-of-surfaces drawing exercises.",
+    "kind": "scan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/PYQs-and-Assignments/Sem-End_2025-26_Set-1.jpg",
+   "s": 101656,
+   "h": "e46573315f0c1c58ecf107230629d0d7b37cada2d85dccc271a98645419b37bc",
+   "t": 1794054580,
+   "meta": {
+    "title": "Sem-End 2025-26 · Engineering Graphics Lab paper (photo)",
+    "summary": "Photo of the 2025-26 odd-semester Engineering Graphics Lab paper: development of a sectioned pentagonal pyramid or a line inclined to HP and VP.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/PYQs-and-Assignments/Sem-End_2025-26_Set-2.jpg",
+   "s": 79099,
+   "h": "b774083ce7a5efdc91a23944f664bbb5e83fd9ebc19dc2351c1b0c98ae01865d",
+   "t": 1794054580,
+   "meta": {
+    "title": "Sem-End 2025-26 · Engineering Graphics Lab paper, second set (photo)",
+    "summary": "Photo of the 2025-26 odd-semester Engineering Graphics Lab paper: curves of intersection of two cylinders or an isometric view of a machine part.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Lecture-Slides_Intersection-of-Solids.pdf",
+   "s": 4050030,
+   "h": "e63f1e7b6629e0f8c7bc492c913868088187790b7bf11370fe6c101692da7be8",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture slides · Intersection of Solids",
+    "summary": "Curves of intersection when one solid penetrates another, with worked examples for pipes, prisms and lids.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Problem-Sheet_Projection-of-Straight-Lines_Sheet-2.pdf",
+   "s": 114613,
+   "h": "844467d0c53a1ad4ba88d4a59e4e7019c1d4697a0d48195ae293e7a56fa8c499",
+   "t": 1794054580,
+   "meta": {
+    "title": "Problem sheet 2 · Projection of Straight Lines",
+    "summary": "One-page lab sheet of projection-of-lines problems with true inclinations to HP, VP and PP for MEA1912/EMEA1912.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-4/Lecture-Slides_Air-Prevention-and-Control-of-Pollution-Act-1981.pdf",
+   "s": 739180,
+   "h": "4324bca47baf8903d12ebdcc065c86023c5828a1b7055f1dd8139147fc0e1fe3",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture slides · Air (Prevention and Control of Pollution) Act 1981",
+    "summary": "Air pollution and the provisions of the Air (Prevention and Control of Pollution) Act 1981 on prevention, control and abatement.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-1/Lecture-Slides_Multidisciplinary-Nature-of-Environmental-Studies.pdf",
+   "s": 6827055,
+   "h": "9690d57434d60030a9ddaa88c5970b6a244c5d01f02d326ec4c014dab9b073cd",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 1 slides · Multidisciplinary Nature of Environmental Studies",
+    "summary": "Scope and multidisciplinary nature of environmental studies, its components and importance.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-2/Lecture-Slides_Disaster-Management.pdf",
+   "s": 2193327,
+   "h": "b8658e67a3910a0e35d0a1bc8149c35e0baae5cb97251ade90cc77539773cccc",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 slides · Disaster Management",
+    "summary": "Definition, epidemiology, types and phases of disasters and the principles of disaster management.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_PYQ-Compilation_Applied-Physics-Sets_2017-18.pdf",
+   "s": 2093586,
+   "h": "1c708cfa27d714316b6a8a92f6333693c629266ba6e844a4e20438779ccafde0",
+   "t": 1794054580,
+   "meta": {
+    "title": "Applied Physics question papers (2017-18 autumn sets)",
+    "summary": "Scanned bundle of 2017-18 autumn Applied Physics APS1110/AP111 end-semester papers: Hall effect, semiconductors, lasers, optical fibres, quantum statistics.",
+    "kind": "scan-printed",
+    "year": "2017-18",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Z_PYQ-Compilation_Internals-and-Mid-Sems_2023-24.pdf",
+   "s": 11501199,
+   "h": "797ba1ddc9b7e94f5960722f114af8f05e78d422589779345154c9e76da1a028",
+   "t": 1794054580,
+   "meta": {
+    "title": "Internal and mid-sem papers 2023-24 (mixed first-year courses)",
+    "summary": "Photo scans of 2023-24 first-year internal/mid-semester papers of several courses, including Thermal Sciences internals and Environmental Studies.",
+    "kind": "scan",
+    "year": "2023-24",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Syllabus/ELA1112_Syllabus_2023-24.pdf",
+   "s": 140125,
+   "h": "955eb0754b01f3343f2ca93e5f64b1081cc6e1b77c2696524ec233efcc2461fe",
+   "t": 1794054580,
+   "meta": {
+    "title": "ELA1112 syllabus 2023-24",
+    "summary": "Official 2023-24 BOS-approved syllabus (Annexure-II) for Principles of Electronics Engineering: objectives, outcomes, modules and assessment.",
+    "kind": "typed",
+    "year": "2023-24",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Tutorial-6_Heat-Transfer.pdf",
+   "s": 87590,
+   "h": "ce17fb01913e81175eac2adbc237954f7bdaae522655c7edd92f88f15e9fc30e",
+   "t": 1794054580,
+   "meta": {
+    "title": "Problem Sheet 6 (Unit 4) · Conduction, Convection and Radiation",
+    "summary": "Typed problem sheet on heat transfer by conduction, convection and radiation, starting with steady-state flow through a plane wall.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Tutorial-1_Manometry.pdf",
+   "s": 485003,
+   "h": "8eefbbebc3f7b1de4d56d8c25e6f96811ebe10eab02820b5c7778320672236f8",
+   "t": 1794054580,
+   "meta": {
+    "title": "Problem Sheet 1 · Measurement of Pressure (Manometry)",
+    "summary": "Typed problem sheet (MEA-1130, PS01 part 1) on pressure measurement and manometry problems in fluids.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Tutorial-Unit-1_Solution.pdf",
+   "s": 9808801,
+   "h": "b31fb2bc9abc643a3b45eae7cf50397c38c69fbb56088c85b18390bc58df9918",
+   "t": 1794054580,
+   "meta": {
+    "author": "Himesh",
+    "title": "Unit 1 tutorial sheet · handwritten solutions",
+    "summary": "Handwritten worked solutions to the Thermal Sciences Unit 1 tutorial sheet, starting with piston/manometer gauge-pressure problems.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Tutorial-4_Solution.pdf",
+   "s": 2425498,
+   "h": "58bd3b3f9b5329439d6998bf873346bf70f430db9b76df82fdf19a67d98b50ad",
+   "t": 1794054580,
+   "meta": {
+    "title": "Problem Sheet 4 · handwritten solutions",
+    "summary": "Handwritten solutions to problem sheet 4 on steady and unsteady flow energy equation and pure substance problems (nozzle, steam tables).",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Tutorial-1-2_Solution.pdf",
+   "s": 3365944,
+   "h": "fc2794b3f48c9a06c5cea5e7e6cbeb724f0089cc614aaac2743174f6509d69c3",
+   "t": 1794054580,
+   "meta": {
+    "title": "Problem Sheets 1 and 2 · handwritten solutions",
+    "summary": "Handwritten solutions to MEA-1130 problem sheets 1 and 2, starting with temperature-scale and thermometer calibration problems.",
+    "kind": "scan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-2/Lecture-Slides_Steady-Flow-Energy-Equation.pdf",
+   "s": 2493483,
+   "h": "4b493ad214c394f06c654f9ae872bd0a51dcc2dbfcf8597a61b8c9ebcd6e19f5",
+   "t": 1794054580,
+   "meta": {
+    "title": "Steady Flow Energy Equation (First Law for an open system)",
+    "summary": "15 slides deriving the steady flow energy equation for open systems with its assumptions and worked flow-process applications.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Assignment-1_Temperature-Part-2.pdf",
+   "s": 181186,
+   "h": "203892b9878fa8beb663224c094d7affcd3e102319723b6d2d886577f42a8f6a",
+   "t": 1794054580,
+   "meta": {
+    "title": "Problem Sheet 1 (Part 2) · Temperature",
+    "summary": "One-page MEA-1130 problem sheet, part 2 of sheet 1, on temperature.",
+    "kind": "typed",
+    "year": "2023-24",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Tutorial-Solutions_Handwritten.pdf",
+   "s": 6015452,
+   "h": "951c2a64e5a91d78e0a3f6ff9b3a64a2f73b478df151f7e94e6f76b968786f0c",
+   "t": 1794054580,
+   "meta": {
+    "title": "Thermal Sciences tutorial solutions (handwritten)",
+    "summary": "27 pages of handwritten worked solutions to the Thermal Sciences tutorial sheets (manometry, work and the first law).",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Assignment-1_Work-Heat-First-Law.pdf",
+   "s": 481172,
+   "h": "85f4de91ca1c7b475cb61d62da3cc3dc98cc10692998eda53df14d13327292d6",
+   "t": 1794054580,
+   "meta": {
+    "title": "Problem Sheet · Work, Heat and the First Law",
+    "summary": "Typed MEA1112 problem sheet of ten numericals on work, heat and the first law for closed systems, with answers.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-1/Lecture-Slides_Unit-1_Part-2_2.pdf",
+   "s": 2095283,
+   "h": "ab4a7c84f2f47606382371e0fb450ef899d0759b34a1fddf3284374d2e767aeb",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 1 slides (Part 2) · Heat, Work and the First Law",
+    "summary": "MEA1112 Unit 1 lecture slides, part 2: heat and work as energy transfers, types of work, first law for control mass and control volume, internal energy, enthalpy and specific heats.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-1/Lecture-Slides_Unit-1_Part-3.pdf",
+   "s": 1470847,
+   "h": "8d5756e151f088aae2a46973881bd18afde6cd7e109805f7c31f45f844e1cf8d",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Mohammad Asif",
+    "title": "Unit 1 slides (Part 3) · First Law for Open Systems and SFEE",
+    "summary": "MEA1112 Unit 1 slides, part 3: first law for an open system (control volume), the steady-flow energy equation and its engineering applications.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-4/Lecture-Slides_Unit-4_Heat-Transfer.pdf",
+   "s": 7177698,
+   "h": "20f60a424eb18beae2320c46c7edf25d9d70a670600c89a12920a23f52455a8b",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 4 slides · Heat Transfer and its Engineering Applications",
+    "summary": "Fifty slides for Unit 4 of MEA1130: Fourier's law, composite walls and cylinders, convection and Newton's cooling, overall heat transfer coefficient, black/grey body radiation and Stefan-Boltzmann law.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Assignment-1_Work-Heat-First-Law_2.pdf",
+   "s": 629727,
+   "h": "b9a16edc2494f21c3ee7fcfe0a4fdda3706feb988e6524850c4425edd2939afa",
+   "t": 1794054580,
+   "meta": {
+    "title": "Problem Sheet · Work, Heat and the First Law (wider set)",
+    "summary": "Typed MEA1112 problem sheet on work, heat and the first law, a wider 16-question version of the same sheet with different answers given for question 1.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Tutorial-1_Solution_Handwritten.pdf",
+   "s": 3589896,
+   "h": "9e7dc77b315dec6ffabcefb3a237a8ad20d1748364baaf24c6943adc6a3376d7",
+   "t": 1794054580,
+   "meta": {
+    "title": "Tutorial 1 solutions · Engineering Thermodynamics (handwritten)",
+    "summary": "Ten handwritten ruled-notebook pages solving the Unit-1 tutorial sheet: hydrostatic pressure in chambers, U-tube and inclined manometers, and pressure calculations.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Tutorial-2_2018-19.pdf",
+   "s": 941949,
+   "h": "dc5fb4b313d900dbc478d742c4ba4cfe177bbd4c1068de5c69f7539772f08fc4",
+   "t": 1794054580,
+   "meta": {
+    "title": "Tutorial 2 (Unit 2) · 2018-19",
+    "summary": "Typed 2018-19 MEA-1110 (Engineering Thermodynamics) Tutorial 2 for Unit 2: work at a piston face, spring-and-piston problems and other closed-system numericals.",
+    "kind": "typed",
+    "year": "2018-19",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Tutorial-1_Solution_Handwritten_Set-2.pdf",
+   "s": 3193223,
+   "h": "0269dcd77c5345c0c0e3458bc237b17ff76dea829e572884017ebf54612cd240",
+   "t": 1794054580,
+   "meta": {
+    "title": "Tutorial 1 solutions · set 2 (handwritten)",
+    "summary": "Nine handwritten ruled-notebook pages solving a Unit-1 tutorial sheet: specific gravity of oil, pressures at points in a tank, and manometer problems.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_PYQ-Solution_Operational-Amplifier.pdf",
+   "s": 8180070,
+   "h": "fec206549c04e90af72e53587685c1475ed425a2737300ee4ee526ef6bd921be",
+   "t": 1794054580,
+   "meta": {
+    "title": "Op-amp past-paper solutions (handwritten)",
+    "summary": "Thirty-three handwritten pages answering Applied Physics past-paper questions on operational amplifiers: ideal op-amp, CMRR, offset and bias currents, slew rate and applications.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_PYQ-Compilation_Semiconductors.pdf",
+   "s": 1577629,
+   "h": "58dea8a1036ee116d0e9ed79f2fc00f5ea70df7a1aebda54ea09f1b5b21e2eb1",
+   "t": 1794054580,
+   "meta": {
+    "title": "Semiconductor past-paper compilation",
+    "summary": "Forty scanned pages of printed Applied Physics question papers grouped on semiconductors: energy bands, Hall effect, mobility, carrier concentration and conductivity numericals.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Lecture-01_Introduction-to-Semiconductors.pdf",
+   "s": 1034834,
+   "h": "b1728a82a9e91d4669ad109e01b1f5ced1101d232b6f51346f0ff0a12eda875b",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Dr. M. M. Khan",
+    "title": "Lecture 1 · Course introduction and semiconductors",
+    "summary": "Opening lecture of APS1110 (2021, Section A1D): split of Units I-II and III-IV between the two teachers, recommended text, and the definition and properties of semiconductors.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Lecture-07_Fermi-Level.pdf",
+   "s": 2009426,
+   "h": "d4c8889edf5741b1b7281b2572dd62bd734106d8f6225114d6fe0176c16bbf86",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Dr. M. M. Khan",
+    "title": "Lecture 7 · Fermi level and carrier distribution",
+    "summary": "Lecture 7 slides: Fermi-Dirac statistics, density of states, Fermi level and the carrier concentrations used to compute conductivity, resistivity and mobility.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_PYQ-Compilation_Laser-and-Fibre-Optics.pdf",
+   "s": 913906,
+   "h": "ef326aee17b31c40015c923f88cd9858ce7349097396bc15e9be7609d2695391",
+   "t": 1794054580,
+   "meta": {
+    "title": "Laser and fibre optics · past-paper questions",
+    "summary": "Cropped exam questions on laser principles, He-Ne and ruby lasers and fibre optics, collected page by page.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-3/Lecture-Slides_Quantum-Mechanics.pdf",
+   "s": 1465707,
+   "h": "ff94e41077e0201e56201ced18751ae4307733799c0c99d7032ab7aebfce2a61",
+   "t": 1794054580,
+   "meta": {
+    "title": "Quantum mechanics · lecture slides",
+    "summary": "22-slide deck introducing quantum mechanics: failure of classical physics, black-body radiation, photoelectric and Compton effects.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_Assignment_Home-Assignment_2024-25.pdf",
+   "s": 452667,
+   "h": "976c32d8e79ca9843a201d745c9353c8812fc53cf41ccfb4627610dbb8c4cc0c",
+   "t": 1794054580,
+   "meta": {
+    "title": "Home assignment · Quantum mechanics (dated 22 April 2025)",
+    "summary": "Typed home assignment for B.Tech I year Section A1D: de Broglie wavelength, uncertainty principle and valid wave functions.",
+    "kind": "typed",
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Z_Assignment_Partial-Differentiation_Solution_2.pdf",
+   "s": 4590712,
+   "h": "3c3852c0eecb47f43aef27d83ae63e2f11cafa72a7d791862cbfab5ae646a860",
+   "t": 1794054580,
+   "meta": {
+    "title": "Maths assignment · partial differentiation solutions",
+    "summary": "18 pages of handwritten worked solutions: chain rule for functions of two variables and Lagrange-multiplier maxima/minima problems.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_Assignment_Home-Assignment_2024-25_Solution.pdf",
+   "s": 1019037,
+   "h": "7ed7a498048e620cf74ed6c8aa02a2841829923e44bf344f127fc3609be569ff",
+   "t": 1794054580,
+   "meta": {
+    "title": "Home assignment · Quantum mechanics solutions (Units 3-4)",
+    "summary": "Handwritten worked answers to the April 2025 home assignment: de Broglie wavelengths, wave function meaning and other quantum-mechanics problems.",
+    "kind": "scan-handwritten",
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_PYQ-Compilation_BJT.pdf",
+   "s": 904377,
+   "h": "03b44c4e9f911c9564674a5f4c34dc736b15aacd117ad7bc549fda66ee9df16f",
+   "t": 1794054580,
+   "meta": {
+    "title": "BJT · past-paper questions",
+    "summary": "Scanned past-paper questions on bipolar junction transistors: CE configurations, biasing design, current gain and operating point.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_PYQ-Compilation_MOSFET_Solution.pdf",
+   "s": 4369627,
+   "h": "a0c2ae2f66798f77923a19dd30c7be6f681e203c7fe5c945014a14baf70eb92d",
+   "t": 1794054580,
+   "meta": {
+    "title": "MOSFET · past-paper questions with solutions",
+    "summary": "20 pages of handwritten solutions to MOSFET problems: saturation-region checks, RD/RS design and bias-point calculations.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-1/Lecture-Slides_Diodes.pdf",
+   "s": 9439059,
+   "h": "9c2fc6bc109d6500a7f90a6b407bc91169ebc6dc40cab914d44e6d0a4225c29f",
+   "t": 1794054580,
+   "meta": {
+    "title": "Diodes · lecture slides (120 slides)",
+    "summary": "120-slide deck on diodes: non-linear I-V characteristics, rectifiers and diode applications.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-3/Handwritten-Notes_Depletion-Type-MOSFET.pdf",
+   "s": 2258898,
+   "h": "3a5323f09c0378349c9463f4e3ead706f14c6cb1bb4aef4134e83ba7d81b1890",
+   "t": 1794054580,
+   "meta": {
+    "title": "Depletion-type MOSFET · handwritten notes",
+    "summary": "Handwritten notes with diagrams on construction, channel and terminal behaviour of the depletion-type n-channel MOSFET.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-3/Handwritten-Notes_Enhancement-Type-MOSFET.pdf",
+   "s": 1372061,
+   "h": "47bcb5a6795e71091e258f0ab977aaa80648e40d6ff5608104e92317a9c39d20",
+   "t": 1794054580,
+   "meta": {
+    "title": "Enhancement-type MOSFET · handwritten notes",
+    "summary": "Handwritten notes with diagrams on construction of the enhancement-type n-channel MOSFET and its difference from the depletion type.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-3/Handwritten-Notes_MOSFET_2.pdf",
+   "s": 859346,
+   "h": "8fe902359a911928434443c77957ac3b31b271460bb4bc491a733b69b8b455d9",
+   "t": 1794054580,
+   "meta": {
+    "title": "MOSFET · handwritten notes (Unit 3)",
+    "summary": "Eleven handwritten pages on MOSFET types, the enhancement-type family and the construction of an n-channel MOSFET with its terminals and depletion widths.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Mid-Sem_2024-25.pdf",
+   "s": 1354550,
+   "h": "8fb386b69db7b78635b99480f77288434b874a15ce12ed7fe8df86ab2d01b4af",
+   "t": 1794054580,
+   "meta": {
+    "title": "Mid-Sem 2024-25 (Internal Examinations 1 and 2)",
+    "summary": "Scanned internal examinations 1 and 2 of odd-semester 2024-25 for MEA1122/MEA1120 Engineering Mechanics, with marks and CO mapping.",
+    "kind": "scan-printed",
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-2/Class-Notes_Kinematics-of-Particles.pdf",
+   "s": 8254396,
+   "h": "84c6a2d967981953a901df7dc0f2170f47db5917f35d72c461bef018fd40b4bc",
+   "t": 1794054580,
+   "meta": {
+    "title": "Kinematics of particles · handwritten notes",
+    "summary": "Handwritten class notes on dynamics: definitions of kinematics, trajectory, displacement, velocity and acceleration, then kinematics of particles.",
+    "kind": "scan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-2/Class-Notes_Kinetics-of-Particles.pdf",
+   "s": 2165966,
+   "h": "e0620688876810636b81db699b4af8ae7196eb05944cfaa46e414c11788ac1bb",
+   "t": 1794054580,
+   "meta": {
+    "title": "Kinetics of particles · handwritten notes",
+    "summary": "Handwritten notes starting from D'Alembert's principle and dynamic equilibrium to solve kinetics-of-particles problems with inertia forces.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-2/Class-Notes_Impact-of-Bodies.pdf",
+   "s": 3457760,
+   "h": "b23ce43bf0aa91b5c596438c3635e5c3323de433d35c2f7f3275f7665fab8ca4",
+   "t": 1794054580,
+   "meta": {
+    "title": "Impact of bodies · handwritten notes",
+    "summary": "Handwritten notes on impact: definition, line of impact, and central versus eccentric impact with diagrams.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-3/Class-Notes_Kinetics-of-Rigid-Bodies.pdf",
+   "s": 2033792,
+   "h": "9a70bf443cd8b595e155d190f9fab3b0e17d8ee5fc93fdb40dc869ddb5b4fdee",
+   "t": 1794054580,
+   "meta": {
+    "title": "Kinetics of rigid bodies · handwritten notes",
+    "summary": "Handwritten notes on torque, work done by a force, power from torque and angular momentum of a rigid body.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-1/Class-Notes_Friction.pdf",
+   "s": 4037394,
+   "h": "58eee187df99dc2bfbd6ff4c919ed5a16baa2765bfa8a8dac709adcd0da4466b",
+   "t": 1794054580,
+   "meta": {
+    "title": "Friction · handwritten notes",
+    "summary": "Handwritten notes on friction: desirability, dry/fluid friction, static, dynamic and limiting friction and the friction graph.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-1/Notes_Friction.pdf",
+   "s": 3515175,
+   "h": "e9379e7f69f65a5ecd7abb914b51cfe5b4157058afd0958fd0b9020e09fae90c",
+   "t": 1794054580,
+   "meta": {
+    "title": "Friction · typed notes",
+    "summary": "Typed notes headed 'Unit-2 Friction' covering definitions, causes of friction, merits and demerits and the types of friction.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-2/Z_Tutorial-1_2024-25_Dynamics.pdf",
+   "s": 1340278,
+   "h": "fb68f0e17a19b9cc8bb56a6ea7317c65db65de9c4fdc9174d9391a016ed7673c",
+   "t": 1794054580,
+   "meta": {
+    "title": "Tutorial 1 · Dynamics (Chapter 11)",
+    "summary": "Tutorial sheet for I Year B.Tech/B.Arch 2024-25 Engineering Mechanics MEA-1122, chapter 11 particle-kinematics problems.",
+    "kind": "typed",
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-3/Z_Tutorial_Ch16-17.pdf",
+   "s": 898509,
+   "h": "bb6d69c8c22733ab69e6c34f727d389c7243ef56b1f1a6fa34af54813257d267",
+   "t": 1794054580,
+   "meta": {
+    "title": "Problem sheet · Chapters 16 and 17",
+    "summary": "Four-page problem sheet with Beer & Johnston problems 16.5 onward on plane motion of rigid bodies (chapters 16–17).",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-2/Class-Notes_Unit-2_Novels-Viva-Guide.pdf",
+   "s": 356170,
+   "h": "4b5ceec934419220db7f38219289de33549d4a557f69270f9086aec7728b8813",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 notes · Viva Guide for Animal Farm and The Time Machine",
+    "summary": "Typed viva revision guide: character list and symbolism of Animal Farm and key points on The Time Machine.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/PYQs-and-Assignments/Z_Presentation_Maglev-Trains.pdf",
+   "s": 362336,
+   "h": "cf474742bc61967b4ac7775392e75e69d57115766938323a5ca9246a808b59f4",
+   "t": 1794054580,
+   "meta": {
+    "title": "Presentation · Maglev Trains: The Future of High-Speed Transportation",
+    "summary": "Seven-slide student presentation on magnetic-levitation train technology, its history and advantages.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_PYQ-Compilation_Unit-1.pdf",
+   "s": 4156592,
+   "h": "172c4ba7ceabcfc05666dd8d0fd4c65a344b7dfdbbc4109d9b4ce45d0f48adef",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 1 · Question paper compilation",
+    "summary": "26 pages of Unit-I English papers: unseen passage comprehension and short-answer questions with marks.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_PYQ-Compilation_Unit-2-Novel.pdf",
+   "s": 667880,
+   "h": "8655e54437cdfadce1c6336c41cf7725063963a40eec3a65d7ea71870a13e2c2",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 · Novel question paper compilation",
+    "summary": "26 pages of Unit-II papers on Animal Farm and The Time Machine: symbolism, characters and vision of the future.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Complete-Notes/Class-Notes_Unit-11_Role-of-Chance-in-Scientific-Discovery.pdf",
+   "s": 1513118,
+   "h": "b6ad59121ee03d40e0765ec6457f3ab519af432a3f70853b622baeacce57f720",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 11 notes · The Role of Chance in Scientific Discovery",
+    "summary": "Scanned and annotated course-book lesson on chance discoveries (Oersted, penicillin) with student markings.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_PYQ-Compilation_Unit-4-Precis.pdf",
+   "s": 2391233,
+   "h": "d4ea01dafd6ab0a91288410aae85967c91c757f36815a4febea6b6e5be2ba002",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 4 · Precis question paper compilation",
+    "summary": "26 pages of Unit-IV English papers built around precis writing passages and comprehension questions.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_PYQ-Compilation_Unit-5-Essay.pdf",
+   "s": 424000,
+   "h": "4b351c54966382c0f09860f18007e525f7d9cde8123f1f974ba3791175afcca4",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 5 · Essay question paper compilation",
+    "summary": "25 pages of Unit-V papers: cloze/vocabulary exercises and essay topics of about 400 words.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Syllabus/AMS1122_Syllabus_2023-24.pdf",
+   "s": 102530,
+   "h": "97f509757eee4b1b1ca94470570d7c167a71dd7120da33eb94c1156b13895b6e",
+   "t": 1794054580,
+   "meta": {
+    "title": "AMS1122 syllabus 2023-24",
+    "summary": "Official 2023-24 B.O.S. syllabus sheet for Applied Mathematics-II: objectives, outcomes, credits and assessment.",
+    "kind": "typed",
+    "year": "2023-24",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Lecture-Plan_Unit-1-Partial-Differentiation_2.pdf",
+   "s": 200720,
+   "h": "fc108fa2ff7203aa3a436a70973fbd9cf3517d8cfed3fa60ac8fd7375ed865c4",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Dr. Ghazala Yasmin",
+    "title": "Unit 1 · Lecture plan (partial differentiation)",
+    "summary": "Unit-I lecture plan listing topics and textbook problems from Jain & Iyengar and Chandrika Prasad, signed by the course incharge.",
+    "kind": "scan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Z_PYQ-Compilation_Multiple-Integrals.pdf",
+   "s": 566015,
+   "h": "dc81d643f7d49107e098e296343270934a781dd7fc81eed77dab890f780afa88",
+   "t": 1794054580,
+   "meta": {
+    "title": "Multiple integrals · past-paper questions",
+    "summary": "25-page topic-wise compilation of past exam questions on double/triple integrals, volume and area by integration.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2025-26_2.pdf",
+   "s": 462813,
+   "h": "0ff837d9e720d80e2a8e2391a2a3791badacb2c441732e4b929d34c08e422220",
+   "t": 1794054580,
+   "meta": {
+    "title": "Sem-End 2025-26",
+    "summary": "Scanned 2025-26 even-semester Applied Mathematics-II (AMS1122/AMS1120) paper, 2 pages.",
+    "kind": "scan-printed",
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Class-Notes_Unit-1-Lecture-1.pdf",
+   "s": 2910911,
+   "h": "9be7741c72a3a25553629d9bc4236e48bf098ff90d5abb20e84ecbb7644d3fa1",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture 1 · Partial Derivatives",
+    "summary": "Handwritten first lecture of Unit-I: functions of several variables, definition of partial derivatives and notation.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-2/Class-Notes_Unit-2-Triple-Integrals.pdf",
+   "s": 2887360,
+   "h": "28c8b1d2ca4b6516323dc028cbf0a6889c2ef2f75ac5cc946d5921e6565713c2",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 notes · Triple Integrals and Spherical Coordinates",
+    "summary": "Handwritten solved triple-integral examples followed by spherical and cylindrical coordinate definitions and sketches.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-2/Class-Notes_Unit-2-Double-Integrals.pdf",
+   "s": 10333858,
+   "h": "6027d16235f6b3c535b1af1793edacb268ddb2fabc624bfe8fd4b4432e5150a8",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 notes · Double integrals in polar coordinates",
+    "summary": "Handwritten notes on changing a double integral to polar coordinates, with worked examples over circles and cardioids.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-2/Class-Notes_Unit-2-Triple-Integrals_2.pdf",
+   "s": 8842394,
+   "h": "2a36ffb05719a29e694d1167ad1d164317365d06dc1c9a2206e99388f31132dd",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 notes · Triple integrals",
+    "summary": "Handwritten notes defining triple integrals and evaluating them by successive integration, with a worked limit-change example.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Lecture-07_Laplace-Transform-Properties.pdf",
+   "s": 212863,
+   "h": "ebecfa218397ba3eec9c9331fe03444436e8dee769cf9b802765805be5d61d5c",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture 7 · Properties and theorems of Laplace transform",
+    "summary": "Typed lecture notes (Lecture 7) on Laplace-transform properties, with mixed-type problems such as the integral of e^-t sin t / t.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Z_PYQ-Compilation_End-Sem_Even-Sem_2025-26.pdf",
+   "s": 2614407,
+   "h": "160890463a1c761aeabf045d337952ac3afcde82ed5d2abeeb5fcfdd7ed33d31",
+   "t": 1794054580,
+   "meta": {
+    "title": "End-semester papers 2025-26 (even semester)",
+    "summary": "Scan of the 2025-26 even-semester end-semester papers, starting with English (EZH-1112, paper code 6885).",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Z_PYQ-Compilation_Internal-Papers_Odd-Sem_2025-26.pdf",
+   "s": 1424610,
+   "h": "6aad8c79b7051560ae7be6466da3f0962886ed61eaab7b47404a1212c21494f0",
+   "t": 1794054580,
+   "meta": {
+    "title": "Internal examination papers 2025-26 (odd semester)",
+    "summary": "Bundle of 2025-26 odd-semester internal examination papers, starting with Applied Mathematics-I (AMS-1112/AMS1110) and Applied Physics (APS1112/APS1110).",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Z_PYQ-Compilation_End-Sem_Odd-Sem_2025-26.pdf",
+   "s": 4223563,
+   "h": "29eb4d70d454c56b6f2e5a22fe56a975822e19578a1bfdce537fc8c53018c3a1",
+   "t": 1794054580,
+   "meta": {
+    "title": "End-semester papers 2025-26 (odd semester)",
+    "summary": "Scan of 2025-26 odd-semester end-semester papers, starting with English (EZH1112, paper code 4033).",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Records/Class-Notes_Experiments-10-to-12.pdf",
+   "s": 3946338,
+   "h": "0b06f070e9d6d6b0d22fd0d57a98b4ce501c93db8291aa8ebccdb0d6f1574153",
+   "t": 1794054580,
+   "meta": {
+    "author": "Aarif Khan",
+    "title": "Experiments 10-12 · Grating, polarimeter, thermocouple",
+    "summary": "Short student write-ups for three physics lab experiments: plane transmission grating, biquartz polarimeter and thermocouple.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Curriculum/Syllabus-Bundle_Sem-2_Mechanics-Electronics-Physics-Maths-II.pdf",
+   "s": 591004,
+   "h": "3cd7ce589619f63c223ccc0a5f9eb1291548c171cc1c84c4ca30743829fa18c3",
+   "t": 1794054580,
+   "meta": {
+    "title": "Second-semester syllabus bundle · Mechanics, Electronics, Physics, Maths-II",
+    "summary": "Scanned official course outlines for four second-semester first-year courses, including Applied Physics (AP111).",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Syllabus/MEA1122_Syllabus.pdf",
+   "s": 681870,
+   "h": "e7502455a66d812e24e2ff2a1379fb5401c83a590788ccdea041d33d9d04fbab",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Rashid Zafar",
+    "title": "MEA1122 Engineering Mechanics · syllabus",
+    "summary": "Department of Mechanical Engineering course outline for Engineering Mechanics MEA1122: objectives, outcomes, four units and books.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Records/Workshop-Record_Dustpan.pdf",
+   "s": 3614146,
+   "h": "04fea6cf8de49b4b3d77459ea6b81309e6bdef56f576a92a71092f1b03531b6f",
+   "t": 1794054580,
+   "meta": {
+    "title": "Workshop record · Dustpan (tin smithy)",
+    "summary": "Handwritten engineering-workshop job record for making a dustpan from galvanised iron sheet, with objective, tools and procedure.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Manuals/Viva-Questions_Gear.pdf",
+   "s": 600296,
+   "h": "df6fa65c3f3c994756160e8a695470a5db36fc94dbbed8d42296a151d95bd316",
+   "t": 1794054580,
+   "meta": {
+    "author": "SMT",
+    "title": "Viva notes · Gear manufacture",
+    "summary": "Two-page handwritten viva notes on gear making: materials, shaper/milling operations, dividing head, key way and shaft making.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Records/Workshop-Record_Gear-Workshop-1.pdf",
+   "s": 4755791,
+   "h": "cd824ea039f991da9637da8ad42a332af52f3931ea2e3932671652e92ab9dc87",
+   "t": 1794054580,
+   "meta": {
+    "title": "Workshop record · Spur gear, shaft and key (part 1)",
+    "summary": "Handwritten workshop project record on preparing a spur gear, mild-steel shaft and square key in the machine shop.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Records/Workshop-Record_Gear-Workshop-2.pdf",
+   "s": 2680158,
+   "h": "db1f81a495e36f2e68bc8011acfe74cd83b535a047a7b42ca94fed4316f91aae",
+   "t": 1794054580,
+   "meta": {
+    "title": "Workshop record · Gear and shaft assembly with key (part 2)",
+    "summary": "Handwritten workshop record describing machine-shop tools and operations for assembling a gear and shaft with a key.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Records/Workshop-Record_Hanger-Dustpan-Gear.pdf",
+   "s": 6276079,
+   "h": "c0b1121c369709700ca363a66bf92fa2f8986a211ea40b1f3f9d558890c81069",
+   "t": 1794054580,
+   "meta": {
+    "title": "Workshop record · Hanger, dustpan and gear assembly",
+    "summary": "Complete CamScanner workshop record book: index and write-ups for the hanger, dustpan and gear-and-shaft assembly jobs.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Manuals/Viva-Questions_Fitting-and-Welding-Shop.pdf",
+   "s": 684399,
+   "h": "f3e5945db30af8ea0f82290af03a7bd069f00a1936063bd6d0a9cded003b2e81",
+   "t": 1794054580,
+   "meta": {
+    "title": "Viva questions · Fitting and Welding Shop",
+    "summary": "Handwritten two-page viva preparation notes on the fitting shop (materials, filing/marking/punching/drilling/grinding/bending sequence) and welding shop operations.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Manuals/Manual_Manufacturing-Processing-Lab.pdf",
+   "s": 2043357,
+   "h": "30ee5a3926f5b2006d4a53f1bbd4875eaba0d9b4ac82c37c96356dee1b99cfff",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lab manual · Manufacturing Processing Laboratory (MEA/EMEA-1920)",
+    "summary": "Departmental lab manual for Manufacturing Process Lab MEA/EMEA-1920: course objectives, assessment scheme and the workshop jobs.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Books-and-Resources/Book_Fundamentals-of-Electrical-Engineering-I.pdf",
+   "s": 3540677,
+   "h": "3774aab6d6d78108cef4f8e78e8d4cf90fade501b73b340e46bddd9fd592eff2",
+   "t": 1794054580,
+   "meta": {
+    "source": "Farhan Baig",
+    "title": "Reference book · Fundamentals of Electrical Engineering I (open licence)",
+    "summary": "Don H. Johnson's introductory electrical engineering text (Connexions/Rice University), signals, circuits and systems, freely shareable under CC BY 1.0.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Curriculum/Notice_Branch-Change_2025-26.pdf",
+   "s": 653762,
+   "h": "50a8222c7ac3ae1c5ee401e06811e8b0a2943894cbbac214b8aecddf94dab17e",
+   "t": 1794054580,
+   "meta": {
+    "title": "Notice · B.Tech 1st year branch change, 2025-26",
+    "summary": "Dean's office notice on applying for a change of branch of studies for first-year B.Tech students of session 2025-26, with dates and office hours.",
+    "kind": "scan-printed",
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-2/Notes_Fuels-and-Lubricants.pdf",
+   "s": 2264423,
+   "h": "0d73dcbbce3a55c247f71cce38d0bb2795b98e72961ae415c7ec2e2bfccadc17",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 · Fuels and Lubricants",
+    "summary": "Typed unit-2 notes covering classification of fuels, calorific value and combustion, and lubricants with their properties and grading.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-3/Notes_Corrosion-and-Its-Prevention.pdf",
+   "s": 2849372,
+   "h": "5161d658df1b59f11c630c7e8c12857964387d528319894d1ad48abe23e701ea",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 3 · Corrosion and Its Prevention",
+    "summary": "Typed notes on the corrosion of metals, its significance, the electrochemical mechanism and the protective methods used against it.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-4/Lecture-Slides_Polymers.pdf",
+   "s": 1367907,
+   "h": "7d932b8f68b7e2d7fe303f49877872d440013c06650b81edf40ae2424b4d5099",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 4 · Polymers",
+    "summary": "Slides on polymer definitions, homopolymers and copolymers, tacticity, chain (free-radical) polymerization and related polymer chemistry.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_Assignment_Solution.pdf",
+   "s": 22115074,
+   "h": "78858a028f3cb9e727496e3d538abff90bcda71ed6ef2ba62f74d2fdf9d4122f",
+   "t": 1794054580,
+   "meta": {
+    "title": "Handwritten assignment solutions · Applied Mathematics I",
+    "summary": "Thirty-seven pages of handwritten worked solutions to assignment questions, starting with Cayley-Hamilton problems, matrices and differential equations.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Syllabus/AMS1112_Lecture-Plan_Unit-1.pdf",
+   "s": 306585,
+   "h": "ab687eab62e39122cf98de46f44f41ee8e36c722b3d6f2473615529f0d493add",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Sabiha Tabassum",
+    "title": "Lecture plan · Unit 1 (Linear Algebra)",
+    "summary": "Unit-1 lecture plan for AMS 1110/1112: rank, echelon form, consistency of linear systems, vector spaces, basis and dimension, with textbook problem lists.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Syllabus/AMS1112_Lecture-Plan_Unit-2.pdf",
+   "s": 266976,
+   "h": "bd026a433bd5d2cc1858373109142b42a679ab06c3bb9ffb6a2dd70e48591ba6",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture plan · Unit 2 (Ordinary Differential Equations)",
+    "summary": "Unit-2 lecture plan for AMS 1112: first-order and exact differential equations, higher-order linear equations, particular integrals, simultaneous equations and applications.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Syllabus/AMS1112_Lecture-Plan_Unit-4.pdf",
+   "s": 688394,
+   "h": "3693476dad5df4a61d70efbfcfd547b08995ed2abd46bfe02728fc63e1db124b",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Sabiha Tabassum",
+    "title": "Lecture plan · Unit 4 (Integration and Its Applications)",
+    "summary": "Unit-4 lecture plan: improper integrals, Beta and Gamma functions, arc length, intrinsic equations, volumes and surface areas of solids of revolution.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Syllabus/AMS1112_Lecture-Plan_Unit-3.pdf",
+   "s": 240992,
+   "h": "c93590fb2a984a36c5a0e3d1e3dab1d753e8ffef2feaec4ba68b937b0041084d",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture plan · Unit 3 (Differential Calculus)",
+    "summary": "Unit-3 lecture plan: successive differentiation and Leibnitz theorem, Taylor and Maclaurin series, asymptotes, curve tracing and infinite series.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_PYQ-Compilation_2022-23.pdf",
+   "s": 541082,
+   "h": "eb131dea477521c5c7b83c3ba7a687c28933d87046761703bd0cd49f3194f502",
+   "t": 1794054580,
+   "meta": {
+    "title": "Scanned previous-year papers · Applied Mathematics I",
+    "summary": "Fourteen scanned pages of Applied Mathematics I question papers, opening with the 2022-23 (Autumn) AMS 1110 sem-end paper.",
+    "kind": "scan-printed",
+    "year": "2022-23",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Class-Notes_Unit-1_Linear-Algebra.pdf",
+   "s": 14446337,
+   "h": "3ed26ccfa4186f947f5189e063cfe4947b3762371616d11b4020d502af03041f",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 1 notes · Linear Algebra",
+    "summary": "Twenty-eight pages of handwritten Unit-1 notes on rank of a matrix, echelon form, consistency of linear systems, vector spaces, basis and eigenvalues.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Lecture-02_Nonhomogeneous-Linear-Systems.pdf",
+   "s": 1662491,
+   "h": "10d0ff08e120b74775f7cd7d8802c71b5472601df71e86c04a0d8809748f59b7",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture 2 · Non-homogeneous linear systems",
+    "summary": "Handwritten notes defining non-homogeneous systems in matrix form, coefficient and augmented matrices, consistent and inconsistent systems.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Lecture-03_System-Consistency-Examples.pdf",
+   "s": 1202448,
+   "h": "be366bdf52b06bb6d57870a1c8334ef2c195c2268eb56ecbe1532defb6a07ebf",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture 3 · Solving systems · worked examples",
+    "summary": "Worked problems finding values of lambda and mu for which a linear system has no, unique or infinitely many solutions.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Lecture-06_Diagonalizable-Matrices.pdf",
+   "s": 4606316,
+   "h": "1430b6e76e23faa2e234151aef05e3f37927129196811674faf824945444dd0f",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture 6 · Diagonalizable matrices",
+    "summary": "Definition and criteria for diagonalizability, with eigenvalue and eigenvector worked examples from the eigenvalues chapter exercises.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Lecture-05_Curve-Tracing.pdf",
+   "s": 532615,
+   "h": "3a66d5435af830b1d5a099d5b551f4427933e82cdc507afc7af2a8bec844a3be",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture 5 · Curve tracing · worked questions",
+    "summary": "Short worked set tracing curves by symmetry, tangents, intersections, asymptotes, region and special points.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Lecture-05_Asymptotes.pdf",
+   "s": 1919382,
+   "h": "4a444ac632dcbfaaaf1cfe05f16e3e7cf39cb9200415b2baf00415963ce9c122",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture 5 · Asymptotes",
+    "summary": "Handwritten lecture defining asymptotes, illustrating them, and listing the rules for finding asymptotes parallel to the axes and inclined asymptotes.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Lecture-07_Infinite-Series.pdf",
+   "s": 2704401,
+   "h": "c05e7e2f0fd51e72f0b3b9f4871c03ca3ed8eac92b3787763ef6526887098c09",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture 7 · Infinite series",
+    "summary": "Notes on infinite series: definition of a real sequence, notation and convergence examples.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/Class-Notes_Linear-Differential-Equations-Exercise-5.7.pdf",
+   "s": 14279916,
+   "h": "dd505bea652406f6370ed31d74280f13de0c702f3a4e4242480ce26548ddb3fb",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 3 notes · Linear differential equations (Exercise 5.7)",
+    "summary": "Thirty-one pages of worked solutions to Exercise 5.7: second-order linear equations with constant coefficients, complementary functions and particular integrals.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/Lecture-01_Rectification.pdf",
+   "s": 3558059,
+   "h": "43f387aef5ef708bd9683a749ae50d6693f2b54ee0122e3f39b0ca197a8f563a",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture 1 · Length of curves (rectification)",
+    "summary": "Handwritten lecture on rectification: definition and the arc-length integral for Cartesian curves, with the derivation of ds/dx.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/Lecture-07_Surface-of-Revolution.pdf",
+   "s": 1268431,
+   "h": "58dede7de723a149ca811f620456c2075b45a276193862cc5297ccd7ef30e77f",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture 7 · Surface of revolution",
+    "summary": "Formulas for the curved surface area generated by revolving Cartesian, parametric and polar curves about an axis.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/Lecture-04_Solids-of-Revolution.pdf",
+   "s": 8649622,
+   "h": "c013d2589f02e606d49605cf900e042d077e5654fe27c865188faefc88414eeb",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture 4 · Volume and surfaces of solids of revolution",
+    "summary": "Handwritten lecture defining solids and surfaces of revolution and introducing volume and surface area by revolution, with standard examples.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Lecture-01_Ordinary-Differential-Equations.pdf",
+   "s": 1117746,
+   "h": "a84853775f0c14cbbab14a8c7404b44ee99945066581bdcef13ffac17a458160",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture 1 · Ordinary differential equations",
+    "summary": "First lecture of Unit 4 (header gives code AMS 1110): definition of differential equations, ordinary differential equations, and order and degree.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Lecture-02_Integrating-Factors.pdf",
+   "s": 1049425,
+   "h": "0164a4ec6b11b768f706a0ef5057ab4b429518ffbddf8a703846bc98fa9c34b0",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture 2 · Integrating factors",
+    "summary": "Rules for finding integrating factors of non-exact first-order equations, with a worked example, plus internal-rule cases.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Lecture-05_Cauchy-Euler-Equations.pdf",
+   "s": 971578,
+   "h": "3676e898ea4e2537b6b7d89d4978288064a7332a65944872d0830de112f057ca",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture 5 · Homogeneous (Cauchy–Euler) differential equations",
+    "summary": "Reduction of second-order linear equations with variable coefficients to constant-coefficient form using x = e^t, with the derivative transformations.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Lecture-04_Volume-and-Surfaces-of-Solids-of-Revolution.pdf",
+   "s": 2515167,
+   "h": "9350d19b6b715857af85cac9f6cb8a6cb3208d208b1947dd4ceeb17c091ab632",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture 4 · Volume and Surfaces of Solids of Revolution",
+    "summary": "Handwritten notes defining solids and surfaces of revolution, with examples such as the cylinder and the sphere.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Viva-Questions_Qualitative-Analysis.pdf",
+   "s": 123107,
+   "h": "5a19c9bb6079e804fdef587b0b68111603461bfa67c962ba1671d2d97673e9fe",
+   "t": 1794054580,
+   "meta": {
+    "title": "Chemistry lab viva questions · Qualitative analysis",
+    "summary": "Model viva questions and answers on identifying two cations and two anions in a salt mixture (qualitative analysis, radicals, bonding).",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Class-Notes_Unit-1_Definitions.pdf",
+   "s": 6882275,
+   "h": "6c23bd007754da6377c87412e5edac6b0dce3ebbac14537bccebc0a63b47fbe1",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 1 notes · Important definitions",
+    "summary": "Handwritten definitions of superposition, Thevenin and Norton theorems for DC and AC networks, plus instantaneous value of an alternating quantity.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Mid-Sem-1_Handwritten-Answers.pdf",
+   "s": 1181902,
+   "h": "a41c596750d1981accaf1fc32fabe4a6a273993fdbab7374a4eb6fc300f6a8df",
+   "t": 1794054580,
+   "meta": {
+    "title": "Mid-Sem 1 · Handwritten solutions to the numericals",
+    "summary": "Worked solutions to the numerical questions of the Internal-1 (mid-sem) paper, including superposition and Thevenin network problems.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Class-Notes_Alternator-and-Rotating-Magnetic-Field.pdf",
+   "s": 12598947,
+   "h": "944ecaeb94d54883be09829c3b5ae24074b4405c3c8d0f4dd1c532c2ad986f36",
+   "t": 1794054580,
+   "meta": {
+    "title": "Alternator construction and rotating magnetic field",
+    "summary": "Handwritten notes on how a rotating magnetic field is produced and on the stator, rotor, slip rings and other parts of an alternator.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_Assignment-1_2024-25.pdf",
+   "s": 797254,
+   "h": "dd409ae74bb64a9998db66fa5233046cb1279111928bb2248706b40debd37ffa",
+   "t": 1794054580,
+   "meta": {
+    "title": "Home Assignment 1 · 2024-25",
+    "summary": "Assignment sheet on the hysteresis loop and core losses in a B-H curve, plus magnetic-circuit numericals; submission due 28 September 2024.",
+    "kind": "typed",
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_Tutorial-2_Unit-2-Magnetic-Circuits-and-Transformers.pdf",
+   "s": 1104020,
+   "h": "5302f32469cf32b7fd42c65aad262f621d1284f0f6d70da47d628e6b1c48d80a",
+   "t": 1794054580,
+   "meta": {
+    "title": "Tutorial 2 · Magnetic Circuits and Transformers",
+    "summary": "Two-page tutorial sheet of magnetic-circuit and single-phase transformer numericals with answers, for Unit 2 of EE 1110.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Class-Notes_Unit-1_Electric-Circuits.pdf",
+   "s": 47680536,
+   "h": "ab2893163d22e16a8293e2016387b0d2ab10b57a516648f8a21bf35a89c0b4d9",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 1 notes · Electric Circuits",
+    "summary": "Twenty-five pages of handwritten class notes on sinusoidal quantities, phasors, phase difference, average and RMS values of AC signals.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Lecture-Slides_Unit-2-Magnetic-Circuits-and-Transformers.pdf",
+   "s": 2069696,
+   "h": "a645a6e558fb9ea8f96e0c0de5fa0b3222c96ee41217b5863a63a64d6be12ba2",
+   "t": 1794054580,
+   "meta": {
+    "professor": "M Saad Bin Arif",
+    "title": "Unit 2 slides · Magnetic Circuits and Transformers",
+    "summary": "Slide deck on equivalence of magnetic and electric circuits, series and parallel magnetic circuits, and the move to transformers.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Lecture-Slides_B-H-Curve-of-Magnetic-Materials.pdf",
+   "s": 367487,
+   "h": "533b8264c36fa52a213fddf312254845f886db32d989a9a44dcf5670b3034a74",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Suhaib Ahmad Khan",
+    "title": "B-H curve of magnetic materials (slides)",
+    "summary": "Slides on magnetisation, magnetic hysteresis and the B-H curve of ferromagnetic materials such as iron.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Lecture-Slides_Unit-2-Transformers.pdf",
+   "s": 4652813,
+   "h": "08e2de01de02583cbae4ebc8e2b288a1ffe8d6c23c2078ac45946ce3ae9b8691",
+   "t": 1794054580,
+   "meta": {
+    "professor": "M Saad Bin Arif",
+    "title": "Unit 2 slides · Transformers",
+    "summary": "Scanned slide deck on transformers: why they are needed in power systems, construction and principle of operation.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Lecture-01_Electric-Circuits.pdf",
+   "s": 3433957,
+   "h": "726cfd299a3432d726190cc1bbcd99c6087e1d7e4c2fd6e9284775c5fc523957",
+   "t": 1794054580,
+   "meta": {
+    "professor": "M Saad Bin Arif",
+    "title": "Lecture 1 · Electric Circuits (Unit 1)",
+    "summary": "Slides on basic electrical concepts: charge, current, phasors, single-phase AC and R-L-C series and parallel circuits.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Lecture-04_Transformer-Equivalent-Circuit.pdf",
+   "s": 3492009,
+   "h": "256d3a2b45e11de1ac830939083aabc581754cb297f35323ff59d0e5cb30a239",
+   "t": 1794054580,
+   "meta": {
+    "professor": "M Saad Bin Arif",
+    "title": "Lecture 4 · Single-phase transformer and equivalent circuit",
+    "summary": "Printed lecture slides on the ideal transformer, its equivalent circuit and KVL on the primary and secondary sides.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/Class-Notes_Unit-2-Transformer-No-Load-and-Equivalent-Circuit.pdf",
+   "s": 5585429,
+   "h": "1e1489b44ede57127e26d026dcc6f1ec5dd93a28228606fb6f677ae014a58dcd",
+   "t": 1794054580,
+   "meta": {
+    "title": "Transformers · no-load operation and equivalent circuit (handwritten slides)",
+    "summary": "Handwritten notes on slides covering transformer on no-load, equivalent circuit at no-load, winding resistances and referred values.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/Notes_Unit-3-Introduction-to-Electric-Machines-and-Power-System.pdf",
+   "s": 28806084,
+   "h": "878b761c3c64a9002e2bb50eb26420ebd6cf205e7c282684fbdbe91ea9443b8a",
+   "t": 1794054580,
+   "meta": {
+    "professor": "M Saad Bin Arif",
+    "title": "Unit 3 notes · Introduction to Electric Machines and Power System",
+    "summary": "Course-compiled notes on EEA1110 Chapter III: electrical machines, rotating field, alternators, three-phase induction motors and basics of power systems.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/PYQs-and-Assignments/Sem-End_2024-25_Autumn_MEA1912.pdf",
+   "s": 257418,
+   "h": "16f51f65d0290b2b091292ddfc3adb276183fbb033e9cd522ab89bf357857810",
+   "t": 1794054580,
+   "meta": {
+    "title": "Sem-End 2024-25 · Engineering Graphics Lab",
+    "summary": "Odd-semester Engineering Graphics Lab exam paper (13-12-2024): projection of a straight line, or isometric view of a machine part.",
+    "kind": "scan-printed",
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/PYQs-and-Assignments/Sem-End_2025-26_Autumn_MEA1912_2.jpg",
+   "s": 51619,
+   "h": "ec199e996bf6b4e644a3cb509f896f19348752c025c2a3f0b7d83fe7acb7bc1c",
+   "t": 1794054580,
+   "meta": {
+    "title": "Sem-End 2025-26 · Engineering Graphics Lab (second paper)",
+    "summary": "Odd-semester Engineering Graphics Lab paper: isometric view of a block, or intersection of a vertical cylinder with a square prism.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/PYQs-and-Assignments/Sem-End_2025-26_Autumn_MEA1912.jpg",
+   "s": 72023,
+   "h": "d6d4dcd62c0ab162c653563a3aa31cd5f29357018128d0f86e7918b26526e997",
+   "t": 1794054580,
+   "meta": {
+    "title": "Sem-End 2025-26 · Engineering Graphics Lab",
+    "summary": "Odd-semester Engineering Graphics Lab paper: projections and inclination of a square plate, or elevation, plan and end view of a machine part.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Lecture-Slides_Isometric-Projection_2.pdf",
+   "s": 1339197,
+   "h": "3fd1ab82cfd9f366cc0794616f4878da78192d24f298030018a5475f5485f901",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Danish Iqbal",
+    "title": "Lecture slides · Isometric Projection",
+    "summary": "Slides on isometric and axonometric projection, with worked isometric drawing examples.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Problem-Sheets_MEA1910.pdf",
+   "s": 4702252,
+   "h": "3c36c1e65ab61a0a32887fd0174a946d300eaa7a134f02e8b982d5b8695d1252",
+   "t": 1794054580,
+   "meta": {
+    "title": "Engineering Graphics Lab problem sheets (MEA1910)",
+    "summary": "Twelve scanned problem sheets for the Engineering Graphics Lab, starting with projection of straight lines.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Lecture-Slides_Projection-of-Machine-Parts.pdf",
+   "s": 1602389,
+   "h": "32a48a4a6930463240e8cc5a3c591fc5f83257c1942af455c42ab5831cac94ae",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Danish Iqbal",
+    "title": "Lecture slides · Projection of Machine Parts",
+    "summary": "Slides on orthographic projection and multi-view drawings of machine parts.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Lecture-Slides_Projection-of-Planes_2.pdf",
+   "s": 1510080,
+   "h": "ef604a88407e7ed6f969074c59e508aed1ce3e8ef11fc0782c6ebfbdec2dd43f",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture slides · Projection of Planes",
+    "summary": "Slides on plane figures, regular and irregular planes, and their projections.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Lecture-Slides_Sectional-Views_2.pdf",
+   "s": 2594104,
+   "h": "d4af1c69af74228ff73fca106f23772a9df48c1a26fa57fa4ec0146eb6381c10",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Danish Iqbal",
+    "title": "Slides · Sectional Views",
+    "summary": "Slides explaining section planes, cutting planes and full/half/offset sections for drawing interior features of objects.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Manuals/Lecture-Slides_Projection-of-Lines_2022-23.pdf",
+   "s": 3390323,
+   "h": "958b8f84782a109c56839e69927fe921a13341cb8d2803dce2c0be098d294ca3",
+   "t": 1794054580,
+   "meta": {
+    "title": "Slides · Projection of Lines (2022-23)",
+    "summary": "Department of Mechanical Engineering slides on types of projections and the projection of straight lines in orthographic drawing.",
+    "kind": "slides",
+    "year": "2022-23",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-4/Lecture-Slides_Environmental-Protection-Act.pdf",
+   "s": 315937,
+   "h": "2d163df1125ed99cee07205c6ddf6f701c540f26f9a784fb1c348c0642390297",
+   "t": 1794054580,
+   "meta": {
+    "title": "Slides · Environmental Protection Act 1986",
+    "summary": "Slides on the Environment (Protection) Act 1986, its constitutional background and the legislation for controlling pollution.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-3/Lecture-Slides_Disaster-Management.pdf",
+   "s": 2980628,
+   "h": "82f5b0465c272d41f692224db62efd204b9f0e96e3b4bd2eea6330ac7426d0f5",
+   "t": 1794054580,
+   "meta": {
+    "title": "Slides · Disaster Management",
+    "summary": "Slides on definitions and types of disasters, preparedness, medical and public health response, mitigation and recent Indian disasters.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-2/Lecture-Slides_Ecosystem.pdf",
+   "s": 3161119,
+   "h": "c625af95d40adb547ac306c4ccf11cf4a7b849d381ab2697ceb80f69e50bcede",
+   "t": 1794054580,
+   "meta": {
+    "title": "Slides · Ecosystem",
+    "summary": "Slides defining ecosystems, their biotic and abiotic components, structure and function, with examples of energy and matter flow.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-2/Lecture-Slides_Land-Resources.pdf",
+   "s": 1001209,
+   "h": "2987a97d2201a38f69286f600128f4b60c14db2190d109dd48915754bf623623",
+   "t": 1794054580,
+   "meta": {
+    "title": "Slides · Land Resources",
+    "summary": "Slides on land as a resource, land degradation, soil erosion and desertification and their control.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-4/Lecture-Slides_Nuclear-Hazards-and-Human-Health.pdf",
+   "s": 6686967,
+   "h": "fb6a200dbdac498edf7765b5f40a8d60095d39f17e0661c41794e2c0c887fca8",
+   "t": 1794054580,
+   "meta": {
+    "title": "Slides · Nuclear Hazards and Human Health Risk",
+    "summary": "Slides on ionising radiation, nuclear hazards and accidents, their health risks and pollution case studies.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-3/Lecture-Slides_Solid-Waste-Management.pdf",
+   "s": 4391466,
+   "h": "cf64ed2d0c1e4e0c8c78c0e91aece7f8b616b28f1807f87a6568a39cb34bc011",
+   "t": 1794054580,
+   "meta": {
+    "title": "Slides · Solid Waste Management",
+    "summary": "Slides on generation, collection, transport, processing and disposal of urban and industrial solid waste and control measures.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-4/Lecture-Slides_Water-Pollution.pdf",
+   "s": 1606678,
+   "h": "ef5f8fdeeb286010d1269661b61e255b752eed5dbc8c3fbdb8e15e5d6f644578",
+   "t": 1794054580,
+   "meta": {
+    "title": "Slides · Water Pollution: Sources and Control Measures",
+    "summary": "Slides on the sources of water pollution and the treatment and control measures for contaminated water bodies.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-4/Lecture-Slides_Air-Water-and-Noise-Pollution.pdf",
+   "s": 2830225,
+   "h": "85b6b16aba304d7caf0d11bb6fd96257bbe548e44b112dd4db9ed9ebe5457a2f",
+   "t": 1794054580,
+   "meta": {
+    "title": "Slides · Air, Water and Noise Pollution",
+    "summary": "Combined slide set on air pollutants and their control, water pollution sources and treatment, and noise pollution and standards.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-2/Lecture-Slides_Aquatic-Desert-and-Forest-Ecosystems.pdf",
+   "s": 5337764,
+   "h": "ec08afd9316d9da10d4b53dea21a7ff5f168d14b27d9ae75ca6bd168df9e26cb",
+   "t": 1794054580,
+   "meta": {
+    "title": "Slides · Aquatic, Desert and Forest Ecosystems",
+    "summary": "Combined slide set describing freshwater, marine, desert and forest ecosystems, their features and biodiversity.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_PYQ-Compilation_Electronics-All-Papers.pdf",
+   "s": 2699826,
+   "h": "62418b3071d96763be2103f42b45e100bca77ae63f3519f2ed2290e3d8b1175d",
+   "t": 1794054580,
+   "meta": {
+    "title": "PYQ compilation · Principles of Electronics Engineering (all papers)",
+    "summary": "Twelve scanned pages of ELA1110/ELA1112 past exam papers (including 2017-18) on diodes, BJT/MOSFET circuits and op-amps.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_PYQ-Compilation_English-All-Papers.pdf",
+   "s": 3242114,
+   "h": "63e8adedc20102a683ee7cd604d323762fe24b18df07d09f17fdc6bc3755c710",
+   "t": 1794054580,
+   "meta": {
+    "title": "PYQ compilation · English (EZH-1110)",
+    "summary": "Ten scanned pages of EZH-1110 English semester-end papers from 2017-18 (autumn and winter): comprehension, essays and the prescribed texts.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_Tutorial-1_Network-Theorems.pdf",
+   "s": 729330,
+   "h": "1ac85edf450932361d711457ca20071b77491c3e5c839e23b951f50cc67bb908",
+   "t": 1794054580,
+   "meta": {
+    "title": "Tutorial 1 · Network theorems (Thevenin, Norton, superposition)",
+    "summary": "EEA-1110 tutorial sheet 1: circuit problems on Thevenin/Norton equivalents, superposition and single-phase AC branch currents, with answers.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/PYQs-and-Assignments/Z_PYQ-Compilation_Chemistry-All-Papers.pdf",
+   "s": 427812,
+   "h": "8e56e109b190c1b3c1ec7a4a3c7fbee50dce171769c3b3bf5be3a362f17c9961",
+   "t": 1794054580,
+   "meta": {
+    "title": "PYQ compilation · Applied Chemistry (ACS-1110)",
+    "summary": "Ten scanned pages of ACS-1110 semester-end papers (2019-20, 2022-23) on water treatment, fuels, corrosion and polymers.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Z_PYQ-Compilation_Sem-1_2023-24.pdf",
+   "s": 12716505,
+   "h": "665c7b0d07344dc7480f1b0d21a7b4c1b1343498750fae0a88db07a3dde435a3",
+   "t": 1794054580,
+   "meta": {
+    "title": "Question-paper collection · B.Tech 1st year sem 1 Internal-I, 2023-24",
+    "summary": "Nineteen scanned pages of first-semester 2023-24 first internal exam papers for several subjects, starting with Applied Physics (APS1110) and Principles of Electronics (ELA1110).",
+    "kind": "scan-printed",
+    "year": "2023-24",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Tutorial-1_2016-17_ME101.pdf",
+   "s": 1009173,
+   "h": "306b45d910666252cf705eec94c5e6e842a8bc7f38bac42bd62c76d55f01c821",
+   "t": 1794054580,
+   "meta": {
+    "title": "Tutorial 1 (Unit 1) · Pressure and manometry problems",
+    "summary": "ME 101/EME 101 tutorial sheet for Unit 1 (2016-17): chamber pressure, inclined mercury manometer and contact-pressure problems.",
+    "kind": "typed",
+    "year": "2016-17",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Complete-Notes/Class-Notes_Basic-Thermal-Science.pdf",
+   "s": 6661484,
+   "h": "9b05377589724610fbad2ee6e3dbad660c47a603cced0b096c8b19543d82181b",
+   "t": 1794054580,
+   "meta": {
+    "title": "Class notes · Basic Thermal Science (ME 101)",
+    "summary": "Twenty-three pages of handwritten notes from a Basic Thermal Science (ME 101) class: scope of thermodynamics, four laws, dimensions and units, systems and properties.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-1/Lecture-Slides_Unsteady-Flow-Processes.pdf",
+   "s": 212134,
+   "h": "e0c39588d72fb39e7b57ff577c41c4d96caa3ca0ec2862162c7e16c49f6d2f81",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture slides · Unsteady-flow (USUF) processes",
+    "summary": "Nine slides on unsteady-flow processes and the uniform-state uniform-flow model, with examples such as charging rigid vessels and inflating balloons.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Assignment_Part-3_Solution.pdf",
+   "s": 2642187,
+   "h": "0908616802352b64608a301a59f5ab034e878ee32cbf7c6f324f3564e3a9e29d",
+   "t": 1794054580,
+   "meta": {
+    "title": "Problem Sheet 1 (Part 3) · Solutions",
+    "summary": "Handwritten worked solutions to Problem Sheet 1 Part 3: heat, work and the first law for closed systems (e.g. van der Waals gas expansion).",
+    "kind": "scan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Assignment_Part-5_Solution.pdf",
+   "s": 6576214,
+   "h": "695d58b459b6717147429af9e140e387d98fe7801092aa70af58eec6277f6e23",
+   "t": 1794054580,
+   "meta": {
+    "title": "Home assignment / tutorial sheet Unit 2 · Solutions",
+    "summary": "Handwritten worked solutions to a Unit 2 tutorial sheet: reversible engines with several reservoirs, Carnot engine and reversed-engine problems.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Problem-Sheet-1_Pressure-Manometry.pdf",
+   "s": 486317,
+   "h": "d50badd00f8e749e89833a7bc4db094b12a162d79a7ff6850c01c66d6a0922c8",
+   "t": 1794054580,
+   "meta": {
+    "title": "Problem sheet 1 · Measurement of pressure (manometry)",
+    "summary": "Typed MEA-1130 problem sheet 1 (part 1) on pressure measurement with manometers, fluid depth and specific weight.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-2/Lecture-Slides_Properties-of-Pure-Substances_Part-2.pdf",
+   "s": 1988609,
+   "h": "8bda125d6698d9079beaa646c77c7e44369e9d49bac174ac00d9cb758ab9706d",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 slides · Properties of pure substances (part 2)",
+    "summary": "Thirty-six slides on pure substances and phase change: property diagrams, steam tables and the P-v, T-v and h-s behaviour of a pure substance.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Syllabus/MEA1112_Syllabus_Revised.pdf",
+   "s": 167454,
+   "h": "20dd82a8568ee71e41da6c401e55187f44ea1c9c064269eeb27bfa50b483ef2f",
+   "t": 1794054580,
+   "meta": {
+    "title": "Thermal Sciences syllabus (revised) · MEA1112",
+    "summary": "One-page revised MEA1112 Thermal Sciences course outline: credits, assessment split, course objectives and outcomes.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-1/Lecture-Slides_Unit-1_Part-2.pdf",
+   "s": 2551808,
+   "h": "2b496373553ada60190a2fc43a587cfd37cb0fa10a9923b47f764c36b1e10b56",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 1 slides (part 2) · Heat, work and the first law",
+    "summary": "Fifty-six slides continuing Unit 1 of Thermal Sciences (MEA1130): thermodynamic concepts of heat and work, types of work, the first law for control mass and control volume.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-3/Lecture-Slides_Second-Law-of-Thermodynamics.pdf",
+   "s": 4189615,
+   "h": "d1c22b1d5da959ac6569d6db9ec89237f22cee9c2fd202070411f9205620d3d4",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Mohammad Asif",
+    "title": "Unit 3 slides · Second Law of Thermodynamics and its Applications",
+    "summary": "58-slide Unit 3 deck on limitations of the first law, statements of the second law, reversibility, Carnot cycle, Clausius inequality, entropy and power/refrigeration cycle analysis.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Assignment_Work-Heat-and-First-Law.pdf",
+   "s": 481654,
+   "h": "22cbc396a5cd2d505c20b2af83b155b78af29253988fd4341bd22e5b094dac26",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Mohammad Asif",
+    "title": "Problem sheet · Work, heat and the first law",
+    "summary": "Typed two-page problem sheet for Thermal Sciences (MEA1112) on work, heat and the first law of thermodynamics, with answers given.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Tutorial-1_Solution_Temperature.pdf",
+   "s": 2097211,
+   "h": "8fe1354f5d209ee1bc51ed63d8b0d26868563e2c0f6e2a67b32d3cf6bafcb1a8",
+   "t": 1794054580,
+   "meta": {
+    "title": "Tutorial 1 solutions · Temperature and thermometry",
+    "summary": "Handwritten worked solutions on temperature scales and thermometry (resistance thermometer, t = a ln P + b scale, two thermometers related quadratically).",
+    "kind": "scan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Quiz-3_2019-20.pdf",
+   "s": 184440,
+   "h": "c2633f5b74f8dc1357e5a167be1856a7fa52d7659d482cb7d895b42e34e83f82",
+   "t": 1794054580,
+   "meta": {
+    "title": "Quiz 3 · Engineering Thermodynamics (2019-20)",
+    "summary": "One-page 2019-20 M.E.D. quiz/assignment sheet for MEA-1110 Engineering Thermodynamics on ideal-gas rigid-tank problems.",
+    "kind": "typed",
+    "year": "2019-20",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Tutorial-1_2018-19.pdf",
+   "s": 1141234,
+   "h": "d9b0797be2bdeff1636cfa35f62257f5249b9eed965f93f0b556b155de77478b",
+   "t": 1794054580,
+   "meta": {
+    "title": "Tutorial 1 · Unit 1 (2018-19)",
+    "summary": "Three-page 2018-19 tutorial sheet for MEA-1110 Engineering Thermodynamics, Unit 1: pressure, manometers and fluid statics problems.",
+    "kind": "typed",
+    "year": "2018-19",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Assignment-Unit-4_Solution.pdf",
+   "s": 1842734,
+   "h": "f6fbb97a5afb0b67dbbb3ad72fa430e8765f29cf2086efe145bfe5160929f450",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 4 question solutions · heat conduction",
+    "summary": "Ten handwritten pages of worked solutions (Fourier law, series resistance, composite walls, insulation thickness) to the Unit 4 slide questions.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Assignment_Solution_Work-Heat-and-First-Law.pdf",
+   "s": 4859530,
+   "h": "6caaee825a616298a954a09889d4bf930f58fbf92461a2e959fb98b7796ce0b2",
+   "t": 1794054580,
+   "meta": {
+    "title": "Problem sheet solutions · Work, heat and the first law",
+    "summary": "Fourteen handwritten pages solving the Thermal Sciences problem sheet on work, heat and the first law (P–V work, energy balances).",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Sem-End_2025-26_Winter.pdf",
+   "s": 694311,
+   "h": "41c350002171fdc5d9b0beb1371ffb1433917084bc333ea8858c98092960a2cf",
+   "t": 1794054580,
+   "meta": {
+    "title": "Sem-End 2025-26 · Applied Physics (even semester)",
+    "summary": "Scanned 2025-26 even-semester B.Tech Applied Physics paper (APS1112/APS1110) on Fermi level, current density, Hall effect, lasers, fibre optics, quantum and statistics.",
+    "kind": "scan-printed",
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_PYQ-Compilation_2023-24_2024-25.pdf",
+   "s": 336840,
+   "h": "e30e4286c9f586873bc1b626a43e4a344716a176420b4ba4848bda89324f8ab2",
+   "t": 1794054580,
+   "meta": {
+    "title": "PYQ compilation · 2023-24 and 2024-25 sem-end papers",
+    "summary": "Six scanned pages gathering Applied Physics sem-end papers: the 2024-25 paper and two scans of the 2023-24 odd-semester APS1110 paper.",
+    "kind": "scan-printed",
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_PYQ-Compilation_Statistical-Mechanics.pdf",
+   "s": 1011569,
+   "h": "cb09e5909e1143e6e51dacf1e83578041206b400f0cf4bc6279073d41f56df4e",
+   "t": 1794054580,
+   "meta": {
+    "title": "PYQ compilation · Statistical mechanics (Unit 4)",
+    "summary": "22 scanned pages of past Applied Physics questions on Maxwell-Boltzmann, Fermi-Dirac and Bose-Einstein statistics, Fermi energy and electron-gas averages.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_PYQ-Compilation_X-Rays-and-Quantum-Mechanics.pdf",
+   "s": 1912246,
+   "h": "90af629068175834b302b7150d2c4f81acac092ed5e894d044e970e3c75136a9",
+   "t": 1794054580,
+   "meta": {
+    "title": "PYQ compilation · X-rays and quantum mechanics (Unit 3)",
+    "summary": "38 scanned pages of past Applied Physics questions on Heisenberg uncertainty, phase and group velocity, the particle in a box, tunnel effect and X-ray production.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Lecture-3_Direct-and-Indirect-Semiconductors.pdf",
+   "s": 409529,
+   "h": "796e2eba764df22b5f5c10ca6fc0845e22c4908f58d5eac588a49ce287712b72",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Dr. M. M. Khan",
+    "title": "Lecture 3 · Direct and Indirect Semiconductors",
+    "summary": "Five-slide lecture on direct and indirect semiconductors, with electrons travelling in the periodic potential of the crystal lattice.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/Handwritten-Notes_Fibre-Optics.pdf",
+   "s": 1063614,
+   "h": "8edb5ccfae13c2731213560d6c6dc34bd474f6ea4ca2a8b31dc3e02b69f9d069",
+   "t": 1794054580,
+   "meta": {
+    "title": "Fibre optics handwritten notes",
+    "summary": "Twenty handwritten pages on optical fibre construction, core/cladding and dimensions, propagation by total internal reflection and fibre types.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/Class-Notes_Laser-Fundamentals.pdf",
+   "s": 383410,
+   "h": "0700aed3e2503deac21b41b1a1335fddb6170677dbd243bc21c5f6cd571538a5",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 notes · Laser Fundamentals",
+    "summary": "Handwritten notes defining LASER and listing the characteristics of a laser beam: high intensity, small divergence, monochromaticity, brightness and coherence.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-3/Lecture-02_Compton-Effect.pdf",
+   "s": 1624010,
+   "h": "c464a9f7e594db0381e9949a872ee1fc148dd067053a1cff856fe6eca33b1aa8",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Zafrul Hasan",
+    "title": "Lecture 2 · Compton Effect",
+    "summary": "Slides explaining Compton scattering of an X-ray photon by a loosely bound electron and the use of energy and momentum conservation to get the Compton shift.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-3/Class-Notes_Expectation-Value-of-Momentum.pdf",
+   "s": 1732641,
+   "h": "72b338535b8ff5eef5ed7b0026656ecf4818644bdb8b53d5b25a0750d27eaae5",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 3 notes · Expectation value of momentum",
+    "summary": "Handwritten derivation of the expectation value of momentum for a particle trapped in a one-dimensional box of width L.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Z_Assignment_Partial-Differentiation_Solution.pdf",
+   "s": 21938319,
+   "h": "4cea4870d5f674cbbb32ffb10e3de7ac9ad55eaf618d835ec0220e795a8fb4d4",
+   "t": 1794054580,
+   "meta": {
+    "title": "Assignment solutions · Partial Differentiation and Taylor Expansion",
+    "summary": "Handwritten worked solutions of a second-semester mathematics assignment: chain rule for u(x,y) with polar substitution and second-degree Taylor expansion of e^x·tan⁻¹y about (1,1).",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_Assignment-1_Semiconductor-Physics.pdf",
+   "s": 858462,
+   "h": "c83c81c0960faea77cfe95d56a2fcbee2d3ac75ca043cf35d85b0dcb0c85fdb2",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Mohsin",
+    "title": "Assignment 1 · Semiconductor Physics questions",
+    "summary": "Eight assignment questions on compound semiconductors and their applications, energy-band formation, charge carriers, effective mass, donor binding energy and the Fermi-Dirac probability.",
+    "kind": "scan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_Assignment-2_Solution.pdf",
+   "s": 606180,
+   "h": "0b098931b65dee2e9914cbf1646d16c9de89269b03c90584cf656bc18b05850a",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Triphati",
+    "title": "Assignment 2 solutions · Relativity and Compton effect",
+    "summary": "Handwritten solutions to relativity problems (particle and group velocity of a 0.770c particle) and Compton-scattering problems on scattered wavelength and recoil electron energy.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_Assignment-1_MOSFET-Problems_Solution.pdf",
+   "s": 8196224,
+   "h": "51204d5e4f660e01e8953d32e458dacae185b01678d0425a5ab3376cd7a4033c",
+   "t": 1794054580,
+   "meta": {
+    "title": "Assignment 1 solutions · MOSFET problems",
+    "summary": "Handwritten worked solutions of MOSFET exercises: oxide capacitance and k'n for a 0.8-µm process, overdrive voltage, minimum VDS, and biasing a MOSFET in saturation.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_Assignment-2_Diode-Problems_Solution.pdf",
+   "s": 7660422,
+   "h": "9287fa1b526d408cd7a7a2076958c9d9836422cbc92c6aebe299a122b871d85b",
+   "t": 1794054580,
+   "meta": {
+    "title": "Assignment 2 solutions · Diode circuit problems",
+    "summary": "Handwritten worked solutions of diode exercises: diode current for a forward-biased silicon diode and currents in diode circuits using the approximate equivalent model.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment_Kinematics_Solution.pdf",
+   "s": 3782488,
+   "h": "5cb30062a696e0c811e584da368d395cbea358488a3091fa4d60c7109f511639",
+   "t": 1794054580,
+   "meta": {
+    "title": "Assignment solutions · Kinematics of rigid bodies",
+    "summary": "Handwritten worked solution of a dynamics problem: motion of an equilateral triangular plate driven by a hydraulic cylinder, finding velocity, acceleration and angular motion of edge CB.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_Assignment_Semiconductor-Physics_Solution.pdf",
+   "s": 3474205,
+   "h": "8f9af635957d07bef7d863fd2f18bc082f4decd41982aa330be8b2bba6248b2c",
+   "t": 1794054580,
+   "meta": {
+    "author": "Mohammad Affan Ahmed",
+    "professor": "Mohsin",
+    "title": "Assignment solutions · Semiconductor Physics",
+    "summary": "Handwritten answers to Mohsin Sir's semiconductor assignment: compound semiconductors and applications, energy bands, charge carriers, effective mass and Fermi-Dirac occupation probability.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_PYQ-Compilation_MOSFET-Questions.pdf",
+   "s": 836978,
+   "h": "76fdd96a2773d3d1fda91800cf57cbc8a6c4422fc943415e065a63ed23453e4b",
+   "t": 1794054580,
+   "meta": {
+    "title": "Past-paper questions · MOSFET and diode design problems",
+    "summary": "Twenty-eight scanned pages of question-paper extracts on MOSFET and diode circuits (biasing, Cox and overdrive calculations, node analysis) with marks and CO tags.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-1/Handwritten-Notes_Diode-Analog-and-Digital.pdf",
+   "s": 838206,
+   "h": "7a9bbf49e89b2a6ac83877e065cd682866d27d3b96ba17381a8081ffb5efebfd",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 1 notes · Diode, and analog vs digital electronics",
+    "summary": "Eleven handwritten pages opening Unit 1: analog and digital forms, and diode forward/reverse/breakdown behaviour with the V-I characteristic.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-2/Lecture-Slides_Bipolar-Junction-Transistor.pdf",
+   "s": 2512593,
+   "h": "18b89d6e261082297031d87f92ffc2a2ff62ac77f9004fca5a66c976a99d527e",
+   "t": 1794054580,
+   "meta": {
+    "title": "BJT slides · Construction, types and operation",
+    "summary": "Sixty-two class slides on the bipolar junction transistor: pnp/npn construction, elements, biasing and operating principle.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-2/Handwritten-Notes_BJT-Unit-2.pdf",
+   "s": 2521016,
+   "h": "a43a772613a24554490de06649f6e1460162d5f671828f33f35ddc89aa914677",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 notes · Bipolar junction transistor",
+    "summary": "Seventeen scanned notebook pages on the BJT: three-terminal structure, npn/pnp regions and doping, currents and working.",
+    "kind": "scan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-4/Lecture-Slides_Operational-Amplifier.pdf",
+   "s": 2467551,
+   "h": "28343630561562dcdd5c20f74d361b8dbb90d28156376cbb7d473e26faa1b8f5",
+   "t": 1794054580,
+   "meta": {
+    "title": "Op-amp slides · Introduction to the operational amplifier",
+    "summary": "Thirty-eight slides starting from the op-amp introduction (differential inputs, high gain) and continuing through its basic configurations.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-3/Lecture-Slides_Introduction-to-MOSFET.pdf",
+   "s": 1288108,
+   "h": "273eef7553554c50ce4204230ebd75ea60c525334d82b4343fab1809e7c48d3c",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Sayeed Ahmad",
+    "title": "MOSFET slides · Introduction, construction and characteristics",
+    "summary": "Eighteen slides on the MOSFET: four-terminal device, enhancement MOSFET construction, operation, characteristics and current equation.",
+    "kind": "slides",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-4/Handwritten-Notes_Op-Amp-and-CMRR.pdf",
+   "s": 1376281,
+   "h": "8bb6bc5434bda912462d5a4402bef20e3c3721fe38866b5d7100a9b4e0067c9f",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 4 notes · Op-amp, slew rate and CMRR",
+    "summary": "Twelve scanned notebook pages on op-amp basics: slew rate, common-mode rejection ratio, inverting/non-inverting inputs, gain and saturation limits.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Sem-End_2025-26_MEA1122.pdf",
+   "s": 542459,
+   "h": "b66ea97be0d699ad535e1e8a097eb0b8ea8e78f9ed6b3ef358eb85fbdf6826cf",
+   "t": 1794054580,
+   "meta": {
+    "title": "Sem-End 2025-26 · Engineering Mechanics (even semester)",
+    "summary": "Two-page sem-end question paper for MEA1122/MEA 1120 (2025-26 even semester): belt-and-pulley equivalent force/couple, friction on an incline and related problems.",
+    "kind": "scan-printed",
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-3/Class-Notes_Kinematics-of-Rigid-Bodies-Instantaneous-Centre.pdf",
+   "s": 1999412,
+   "h": "f7d009b8ed889af91e4872c6ae8ef62aa0c3c20a9a1b7b8f468d8ff3bbcf9a69",
+   "t": 1794054580,
+   "meta": {
+    "title": "Kinematics of rigid bodies · Instantaneous centre",
+    "summary": "Handwritten notes on general plane motion and the instantaneous centre of rotation, with worked cases such as a cylinder between conveyor belts.",
+    "kind": "scan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Complete-Notes/Notes_Units-2-and-3_Dynamics-Summary_SMT.pdf",
+   "s": 938035,
+   "h": "f2989456211f848f5c86d61e8ce8094ddb087a9ef8c914dddbd5d279ecc020f6",
+   "t": 1794054580,
+   "meta": {
+    "author": "SMT",
+    "title": "Units 2–3 short notes · Kinematics and dynamics",
+    "summary": "Two-page handwritten revision sheet: plane motion as translation plus rotation, relative velocity/acceleration, curvilinear motion and angular momentum.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-2/Animal-Farm_George-Orwell_Complete-Novel.pdf",
+   "s": 314256,
+   "h": "b1fd8b0173f8dda0c94d0e2a7dccf4ba2c6bbf3adccc7c71f72027bece71216f",
+   "t": 1794054580,
+   "meta": {
+    "title": "Animal Farm · full text (George Orwell)",
+    "summary": "Complete text of Orwell's Animal Farm, the prescribed novel for the English course, in a Project Gutenberg-derived electronic edition.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_PYQ-Compilation_Animal-Farm-and-The-Time-Machine.pdf",
+   "s": 1347346,
+   "h": "b6ab4443557d9b7573e36de9fa43c5f3a7964a94877f6e28491350e3be7679c2",
+   "t": 1794054580,
+   "meta": {
+    "author": "Himesh",
+    "title": "Animal Farm & The Time Machine · handwritten PYQ questions",
+    "summary": "Three handwritten pages of past-exam questions on the two prescribed novels, from Russian-Revolution allegory to Time Machine and Eloi/Morlock themes.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Sem-End_2025-26_EZH1112.pdf",
+   "s": 1219694,
+   "h": "19598cbe4b5e0d80f263aa78270e31f7e9e992d29fb9cdbbf5463b94ea5cdbdc",
+   "t": 1794054580,
+   "meta": {
+    "title": "Sem-End 2025-26 · English (even semester)",
+    "summary": "Four-page 2025-26 even-semester English paper (EZH-1112, paper code 6885) with comprehension, precis and novel-based questions.",
+    "kind": "scan-printed",
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Complete-Notes/Notes_English-Viva_Citation-Styles-and-Professional-Writing.pdf",
+   "s": 203560,
+   "h": "da037d35628ecb40537c2aac505ccad2ab01c9f08b7ccc36cf75f333a207c5bf",
+   "t": 1794054580,
+   "meta": {
+    "title": "English viva notes · Citation styles, CV/resume and conference vs seminar",
+    "summary": "Six typed pages of viva preparation: IEEE paper layout, differences between MLA, IEEE, Chicago and APA styles, CV vs resume vs biodata, conference vs seminar.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Books-and-Resources/Writing-Professional-Memos.pdf",
+   "s": 148304,
+   "h": "01e906500d434af58e0402969c5c2b90aae7a88529edd301a3acb1418332fcf3",
+   "t": 1794054580,
+   "meta": {
+    "title": "Writing Professional Memos",
+    "summary": "Handbook chapter on writing memos: purpose, audience, heading format, structure and samples (San José State University Writing Center handout).",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_PYQ-Compilation_Unit-3-Report-and-Process.pdf",
+   "s": 489891,
+   "h": "b3e04b4ddf176cff7758481deda8e54a74716030892c382154e0d7730920a74b",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 3 exam questions · Report and process writing",
+    "summary": "Scanned 25-page collection of Unit-III questions on process description and report writing, with marks, from English papers.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Books-and-Resources/Group-Discussion-Notes.pdf",
+   "s": 50433,
+   "h": "61cf1524d5e485e6c6fa86f53576888f4fe16ab82383d50645f99df070e62719",
+   "t": 1794054580,
+   "meta": {
+    "title": "Group Discussion",
+    "summary": "Notes on group discussions: purpose, skills judged by the panel, and an example GD session used for classroom practice.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-2/Lecture-Plan_Unit-2-Multiple-Integrals.pdf",
+   "s": 259762,
+   "h": "560e18438eccf5f1ca1e5911b504979fbe0d47326ee77ef722550d326d965ff1",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Dr. Ghazala Yasmin",
+    "title": "Unit 2 lecture plan · Multiple integrals",
+    "summary": "AMS 1122 lecture plan for Unit II: evaluation and properties of double integrals, applications, change of variables and order, with textbook problem lists.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Lecture-Plan_Unit-3-Laplace_2.pdf",
+   "s": 257764,
+   "h": "922b053f6f351e06dd9bfccde72f1a81b72ef91ba16878bfc6c3ca5cce8aa610",
+   "t": 1794054580,
+   "meta": {
+    "professor": "Dr. Ghazala Yasmin",
+    "title": "Unit 3 lecture plan · Laplace transform",
+    "summary": "AMS 1122 lecture plan for Unit 3: Laplace transform theory, inverse and shifting theorems, convolution and applications to initial value problems, with problem lists.",
+    "kind": "scan",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Z_PYQ-Compilation_Fourier-Series.pdf",
+   "s": 224852,
+   "h": "fb5ece29ceb5fcbf22544704d97c200bb5e6812eb446a34b6d6825c2b159e87a",
+   "t": 1794054580,
+   "meta": {
+    "title": "Fourier series · past paper questions",
+    "summary": "Scanned collection of past paper questions on Fourier series and half-range cosine/sine series, with marks split.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Z_PYQ-Compilation_Laplace-Transform.pdf",
+   "s": 214716,
+   "h": "57dc206c00cae7a603acfe91fc549380d6ee1118695c0c2e645e22ff3ecb5b6b",
+   "t": 1794054580,
+   "meta": {
+    "title": "Laplace transform · past paper questions",
+    "summary": "Scanned past paper questions on Laplace transforms and inverse transforms, including solving differential equations (paper code 3009/3008).",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Z_PYQ-Compilation_Partial-Differentiation.pdf",
+   "s": 825934,
+   "h": "c676c62a9d657c908f47f6d316ae0ccc50c185e6ec3c260bbd7c329d9a6b07ae",
+   "t": 1794054580,
+   "meta": {
+    "title": "Partial differentiation · past paper questions",
+    "summary": "Scanned collection of several past papers on partial differentiation: Euler's theorem, Jacobians, Taylor expansion, maxima-minima and errors.",
+    "kind": "scan-printed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Class-Notes_Unit-1_Partial-Differentiation.pdf",
+   "s": 21382728,
+   "h": "815bf7a5250d34897664db21901dd89ee66a4107c00e32fa63414c495e7c727d",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 1 notes · Partial differentiation",
+    "summary": "Handwritten 33-page Unit-1 note set: limits of functions of two variables, ε-δ approach, partial derivatives and worked examples.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-2/Class-Notes_Unit-2_Multiple-Integrals.pdf",
+   "s": 15975195,
+   "h": "1631b4b5b71617453e07d1f7fff8ffa0e755a84f0c3b31cdede2978487c6895b",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 2 notes · Multiple integrals",
+    "summary": "Handwritten 15-page Unit-2 note set on double and triple integrals, evaluation, change of order and applications.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Lecture-08_Solutions-of-Linear-Differential-Equations.pdf",
+   "s": 237984,
+   "h": "1e0aa981d334f4e89ca725657dc6f2c16d98a5066288f3955129500ec280dbc4",
+   "t": 1794054580,
+   "meta": {
+    "title": "Lecture 8 · Solutions of linear differential equations by Laplace transform",
+    "summary": "Typed lecture 8 of Unit III: working rule and worked examples for solving linear differential equations with constant coefficients using Laplace transforms.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Notes_Unit-3_Laplace-Transform-Summary.pdf",
+   "s": 236560,
+   "h": "0b41f3e342298e66e3deee34ff9072ff621dd308359bae96e4f51ec008ccfcdc",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 3 notes · Laplace transform summary",
+    "summary": "Typed Unit-3 summary: definition of the Laplace transform, table of standard transforms, inverse transform and key theorems.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Class-Notes_Unit-3_Laplace-Transform.pdf",
+   "s": 19168128,
+   "h": "40c97dd52f9f05dbee15d337c7e160fbadda925683a559be3004582adcadced2",
+   "t": 1794054580,
+   "meta": {
+    "title": "Unit 3 notes · Laplace transform",
+    "summary": "Handwritten 26-page Unit-3 notebook: unit step function, second shifting theorem, periodic functions and worked Laplace/inverse problems.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Z_PYQ-Compilation_First-Internal_2025-26_2.pdf",
+   "s": 2151217,
+   "h": "78bb7ce37bdb3a3b3a653d0220da9c8d60c8bcfe2307776c75e7ef424389b58b",
+   "t": 1794054580,
+   "meta": {
+    "title": "First internal papers 2025-26 · first year",
+    "summary": "Scanned bundle of first internal / mid-semester question papers, even semester 2025-26, for several first-year courses (Engineering Mechanics MEA1122/MEA1120, English EZH1112 and others).",
+    "kind": "scan-printed",
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Z_PYQ-Compilation_First-Internal_2025-26.pdf",
+   "s": 1788380,
+   "h": "132f939c92f718d3a3418b0a05d7ddf8967bbb9004fdd01bf0f343903f50595a",
+   "t": 1794054580,
+   "meta": {
+    "title": "First internal papers 2025-26 · several first-year courses",
+    "summary": "Scanned first internal examination papers of 2025-26, including English EZH1112 and Applied Mathematics-I AMS-1112.",
+    "kind": "scan-printed",
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Z_PYQ-Compilation_Mid-Sem_2024-25.pdf",
+   "s": 5952121,
+   "h": "ba1ece2e283e90d8c15475dc65c818c94ec37640632fae84947eb4dedac7396b",
+   "t": 1794054580,
+   "meta": {
+    "title": "Internal and mid-sem papers 2024-25 · Electronics (ELA1112/ELA1110) and English",
+    "summary": "Scanned first and second internal papers of Principles of Electronics Engineering plus English mid-semester papers, 2024-25.",
+    "kind": "scan-printed",
+    "year": "2024-25",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Z_PYQ-Compilation_Second-Internal_2025-26.pdf",
+   "s": 1908280,
+   "h": "21831a9598c89521d1a180c79611c7ffb8f94614ba2fb7b50f5ede60b1e2da71",
+   "t": 1794054580,
+   "meta": {
+    "title": "Second internal papers 2025-26 · Electronics, Applied Physics and Engineering Mechanics",
+    "summary": "Scanned second internal examination papers of 2025-26 for ELA1112/ELA1110, APS1112/1110 and MEA1122/MEA1120.",
+    "kind": "scan-printed",
+    "year": "2025-26",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Viva-Questions_Physics-Lab-Experiments.pdf",
+   "s": 146400,
+   "h": "ce00b83eb8758cc62889eb057a43f3212731786f42bda04e911dc527a05245f2",
+   "t": 1794054580,
+   "meta": {
+    "title": "Physics lab viva notes · six experiments",
+    "summary": "Typed viva questions with short answers for the flywheel, energy-gap, thermocouple, modulus-of-rigidity, LED/solar-cell and Carey Foster bridge experiments.",
+    "kind": "typed",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Manuals/Viva-Questions_Dustpan.pdf",
+   "s": 640811,
+   "h": "c0965691ab94783e3c5b0f0581cda2583c9665b9adf4c09c20013c54159ba4a4",
+   "t": 1794054580,
+   "meta": {
+    "title": "Workshop viva notes · Dust pan job",
+    "summary": "Handwritten viva notes on the tin-smithy dust pan: material, sheet size, tools and operations, with notes on moulding and smithy.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Records/Record_Dustpan-Job.pdf",
+   "s": 9932794,
+   "h": "ccbc1127d272a28b13f66b6ce595232439fcff3bb26e612e88f680c6e68ed36b",
+   "t": 1794054580,
+   "meta": {
+    "title": "Workshop record · Dust pan job",
+    "summary": "Handwritten workshop job record for the dust pan: job diagram with dimensions, GI sheet and tools such as scriber, snip scissors, hatchet, stake and mallet.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Records/Record_Gear-Assembly.pdf",
+   "s": 3449622,
+   "h": "ce5fe4ce95d2967cec4204bc169531cea7eb7c25969e057814fce80a684fa7a9",
+   "t": 1794054580,
+   "meta": {
+    "title": "Workshop record · Gear and shaft assembly",
+    "summary": "Handwritten workshop record, Experiment 3: preparing a gear-and-shaft assembly fixed with a key, describing shaper, slotter and lathe machines and operations.",
+    "kind": "scan-handwritten",
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-3/PPT_Corrosion.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_ASSIGNMENT SHEET 1.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_ASSIGNMENT Sol 2.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Unit-1_Lecture-1.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Unit-1_Lecture-2.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Class-Notes_Lecture-4-Unit-1.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Lecture-08_2021-22.pdf",
+   "meta": {
+    "credit": "gk7093, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/AMU-Pedia_ODE_Lecture-2.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Class-Notes_Unit-4-Lecture-6.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Available-Chlorine.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Records/Chemistry-Practical_Observations-Only.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Ion-Exchange.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/Handwritten-Notes_Unit-1_watermark.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Sheet-1.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-5/Class-Notes_Human-Population-and-Environment.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/PYQs-and-Assignments/Mid-Sem-2_2023-24.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Mid-Sem_2023-24.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Syllabus/APS1112_Syllabus.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Curriculum/Syllabi_First-Year.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-1/PPT_Unit-1.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/AMU-Pedia_Linear-Algebra_Lecture-5.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/UNIT-I_SET-I_ELEMENTAL AND COMPOUND SEMICONDUCTORS.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/7_UNIT-I_SET-VII_TEMPERATURE DEPENDENCE OF INTRINSIC AND EXTRINSIC CARRIER CONCENTRATION.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Dr-M-M-Khan_Lecture-11_Hall-Effect.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Dr-M-M-Khan_Lecture-12_Problems-from-Unit-1.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Dr-M-M-Khan_Lecture-04.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Dr-M-M-Khan_Lecture-05_Effective-Mass.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Dr-M-M-Khan_Lecture-09_Temperature-Dependence-and-Compensation.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_PYQ-Compilation_Mixed-Problems_Semiconductor-Laser-Fibre-Optics.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/n-type-and-p-type-Semiconductors.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Semiconductor-Numericals_2024-03-12.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/Laser-Problems.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/Numerical-Problems_Fibre-Optics.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/RUBY LASER.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-3/Heisenberg-Uncertainty-Principle.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-3/Pair-Production.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-3/Particle-in-a-Box-and-Tunnel-Effect.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-3/TDSE-TISE-Expectation-Values.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-3/Wave-Particle-Duality_de-Broglie-Hypothesis.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-4/Statistical-Mechanics.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-4/AMU-Pedia_Lecture-1.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-4/AMU-Pedia_Lecture-2.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-4/Statistical-Mechanics_watermark.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-1/Diode-Problems_merged.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-1/Diode.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-3/MOSFET-Problems.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-2/BJT-Problems.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-2/Tutorial-Sheet_Ch11.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-2/Tutorial-Sheet_Ch13.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-2/Tutorial-Sheet_Ch14.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-3/Tutorial-Sheet_Ch15.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-1/Tutorial-Sheet_Ch4.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-1/Statics_Solved-Problems_Beer-Johnston.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-3/Tutorial-Solutions_Ch15.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-1/The-Scientific-Attitude_Text-Passage.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_PYQ-Compilation_Novels-Recent-Years.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-4/Solved-Precis.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-2/The-Time-Machine_Summary.pdf",
+   "meta": {
+    "credit": "Umar Iqbal, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-5/Class-Notes_Unit-5-Directed-Research.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-3/Describing-Processes.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-4/Precis-Writing.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Teacher-Notes_Lecture-3.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Teacher-Notes_Lecture-4.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Teacher-Notes_Lecture-5.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Teacher-Notes_Lecture-2.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Teacher-Notes_Lecture-3.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Teacher-Notes_Lecture-5.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Teacher-Notes_Lecture-6.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-4/Class-Notes_4-Fourier-Transforms.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-4/Teacher-Notes_Lecture-1.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-4/Teacher-Notes_Lecture-2.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-4/Teacher-Notes_Lecture-3.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-4/Teacher-Notes_Lecture-5.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Records/APS_Practicals-1-to-15.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Records/APS1910_Experiments-1-to-11_Merged_v1.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Records/DUSTPAN REPORT.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Manuals/Viva 1.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Books-and-Resources/Beer-Johnston_Vector-Mechanics-for-Engineers_Dynamics_10th-Ed.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-1/Notes_Water-Treatment.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-4/Notes_Polymers.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_PYQ-Compilation_Unit-2-Exam-Questions_2022-23.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Unit-1_Lecture-4.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Class-Notes_Lecture-1-Unit-1.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Unit-2_Lecture-1.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Aqueous-Corrosion.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Coal-Analysis.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Hardness-of-Water.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Experiment_Relative-Viscosity.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-3/Class-Notes_Solid-Waste-Management.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/CEU1112_Environmental-Studies-Audit/Unit-3/Class-Notes_Biodiversity.pdf",
+   "meta": {
+    "credit": "gk7093, AMU Cloud, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Syllabus/MEA1130_Thermal-Sciences_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Unit-2/PPT_Unit-2.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/AMU-Pedia_ODE_Lecture-1.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Mid-Sem-1_2024-25.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/10_UNIT-I_SET-X_HALL EFFECT.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/UNIT I_SET-II_ENERGY BANDS.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/3_UNIT-I_SET-III_DIRECT AND INDIRECT SEMICONDUCTORS.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/UNIT-I_SET-IV_ELECTRONS AND HOLES & INTRINSIC AND EXTRINSIC SEMICONDUCTORS.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/5_UNIT-I_SET-V_FERMI LEVEL.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/6_UNIT-I_SET-VI_ELECTRON AND HOLE CONCENTRATION AT EQUILIBRIUM.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/8_UNIT-I_SET-VIII_COMPENSATION AND SPACE CHARGE NEUTRALITY.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/UNIT-I_SET-IX_CONDUCTIVITY AND MOBILITY.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-4/Free-Electrons-in-a-Metal_Energy-Distribution.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Dr-M-M-Khan_Lecture-10_Conductivity-and-Mobility.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Dr-M-M-Khan_Lecture-01_Elemental-and-Compound-Semiconductors.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Dr-M-M-Khan_Lecture-06.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Dr-M-M-Khan_Lecture-08_Electron-and-Hole-Concentrations-at-Equilibrium.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/SEMICONDUCTOR DIODE LASER.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-3/Mechanism-of-X-ray-Production.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-3/Compton-Effect.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-3/Phase-and-Group-Velocities.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-3/Unit-III_Quantum Mechanics and Wave Function.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-4/Specific-Heat-of-Solids.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-1/Zener-Diode.pdf",
+   "meta": {
+    "credit": "AMU Cloud, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-2/AMU-Pedia_BJT_slides.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-3/MOSFET_slides.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-4/Operational-Amplifier_slides.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-2/Tutorial-Sheet_Ch12.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-1/Tutorial-Sheet_Ch2.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-1/Tutorial-Sheet_Ch3.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-1/Tutorial-Sheet_Ch8.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-3/Tutorial-Solutions_Ch16-17.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-2/Tutorial-Solutions_Ch11.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-2/Tutorial-Solutions_Ch13.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-1/Tutorial-Solutions_Ch8.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_PYQ-Compilation_Novels-Solution.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Complete-Notes/Class-Notes_Scientific-Method-and-Methods-of-Science.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Complete-Notes/Class-Notes_The-Scientific-Attitude.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-2/The-Time-Machine_HG-Wells_Novel.pdf",
+   "meta": {
+    "credit": "Umar Iqbal, Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-2/Animal-Farm_Chapter-Summaries.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-3/Report-Writing_Sample.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Teacher-Notes_Lecture-2.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Teacher-Notes_Lecture-6.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Teacher-Notes_Lecture-7.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Teacher-Notes_Lecture-1.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Teacher-Notes_Lecture-4.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Teacher-Notes_Lecture-9.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-4/Teacher-Notes_Lecture-4.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Records/Hanger.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Manuals/Viva 2.pdf",
+   "meta": {
+    "credit": "Farhan Baig"
+   }
+  }
+ ]
+}

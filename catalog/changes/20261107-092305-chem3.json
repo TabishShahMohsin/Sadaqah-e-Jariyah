@@ -1,0 +1,1321 @@
+{
+ "id": "20261107-092305-chem3",
+ "created": "2026-11-07T09:23:05+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "credit": "Alquama Haider",
+  "note": "Chemical Engineering, 3rd semester (2026), shared by Alquama Haider"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/PYQs-and-Assignments/Z_Assignment-1_2018-19.pdf",
+   "s": 605438,
+   "h": "9218a691065734af280e9a6ad04a5823650de84ee291788ad33a26f1632e8692",
+   "t": 1794043385,
+   "meta": {
+    "title": "Assignment 1 · 2018-19",
+    "summary": "Unit-conversion and stoichiometry problems (force units, Prandtl number, process calculations) with a September 2018 submission date.",
+    "kind": "typed",
+    "year": "2018-19",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/PYQs-and-Assignments/Z_Assignment-2_2018-19.pdf",
+   "s": 354088,
+   "h": "40ab4eaab469784116dff17668be5f9160ed12bb74e215a94a166ae58837178e",
+   "t": 1794043385,
+   "meta": {
+    "title": "Assignment 2 · 2018-19",
+    "summary": "Ideal-gas, gas-mixture and compressibility-factor problems, due 22.09.2018.",
+    "kind": "typed",
+    "year": "2018-19",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/Unit-1/Class-Notes_Unit-1.pdf",
+   "s": 1726630,
+   "h": "5183111052673170f4e800ca635bbd83e7bf6caa2974eed2ca6b51b09d5ea64a",
+   "t": 1794043385,
+   "meta": {
+    "title": "Unit 1 notes · Units and Dimensions",
+    "summary": "Typed notes on units, dimensions, dimensionless quantities, process variables and estimation of physical properties of single- and multi-phase systems.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/Unit-2/Class-Notes_Unit-2.pdf",
+   "s": 832523,
+   "h": "e03822b533170c3400dfdd81e26a3738360e8a9c3e9738389d8d35e52e6c617e",
+   "t": 1794043385,
+   "meta": {
+    "title": "Unit 2 notes · Fundamentals of Material Balances",
+    "summary": "Typed notes on process classification (batch, continuous, semi-batch) and material balances on single and multiple units.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/Unit-3/Class-Notes_Unit-3.pdf",
+   "s": 2303451,
+   "h": "183817eb031ddcfa626b26381f8999aa1a2f6bf10fe08689ba3248a5ecc22acc",
+   "t": 1794043385,
+   "meta": {
+    "title": "Unit 3 notes · Fundamentals of Energy Balances",
+    "summary": "Typed notes on forms of energy, the first law, mechanical energy balance and balances on reactive and non-reactive processes.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/Unit-4/Class-Notes_Unit-4.pdf",
+   "s": 1262366,
+   "h": "075a9f4ae145f1c083c7c4ed6d131c6ce3b6dd987b4d08c36b3d2e4e5d26e0b2",
+   "t": 1794043385,
+   "meta": {
+    "title": "Unit 4 notes · Balances on Transient Processes",
+    "summary": "Typed notes on differential vs integral balances, the general balance equation and combined material and energy balances on transient processes.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/PYQs-and-Assignments/Z_PYQs_Unit-1.pdf",
+   "s": 1587759,
+   "h": "a8adcd6abac3bfe3bedecf1b05b2e92f562c09253e7293b7bdeb7dbc7fbf56ba",
+   "t": 1794043385,
+   "meta": {
+    "title": "Unit 1 · previous-year questions",
+    "summary": "Compilation of past examination questions on units and dimensions, stoichiometry and material-balance basics for Unit 1.",
+    "kind": "scan-printed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/PYQs-and-Assignments/Z_PYQs_Unit-2.pdf",
+   "s": 944957,
+   "h": "bbbaaade7590cf13ebadf7142b27bb6cd6ce073df619883ced080f05a2c3a658",
+   "t": 1794043385,
+   "meta": {
+    "title": "Unit 2 · previous-year questions",
+    "summary": "Compilation of past examination questions on material balances, recycle/bypass and related calculations for Unit 2.",
+    "kind": "scan-printed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/_General-PYQs/Mid-Sem_2018-19_Multiple-Courses.pdf",
+   "s": 1806777,
+   "h": "8d4fd644572d8a9c49c8bf285028ca59d9bca6efd6cfb3d40e711c89603c3d6f",
+   "t": 1794043385,
+   "meta": {
+    "title": "Mid-Sem 2018-19 · bundle of semester-3 papers (Fluid Mechanics, Biology for Engineers, BPC",
+    "summary": "Nine-page scan bundling several third-semester mid-semester papers of 2018-19 (Fluid Mechanics CHC2030/PKC2050, Biology for Engineers CHA2020, BPCE CHC2010/CH211/PKC2010, EEA2030, Fluid Particle Operations).",
+    "kind": "scan-printed",
+    "year": "2018-19",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/_General-PYQs/Z_PYQs_2025-26_Mid-Sem-and-Sem-End.pdf",
+   "s": 18601617,
+   "h": "93f49f0b47c74c95e5a281e9c3b1b51f66709c8389127be97f7b91127ce5a44a",
+   "t": 1794043385,
+   "meta": {
+    "title": "2025-26 · mid-semester and end-semester question papers bundle",
+    "summary": "32-page scan of 2025-26 mid-semester and end-semester papers for several semester-3 chemical engineering courses (Heat Transfer Operations, Fluid Mechanics, Numerical Methods, BPCE, Thermodynamics).",
+    "kind": "scan-printed",
+    "year": "2025-26",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2052_Chemical-Engineering-Thermodynamics/Syllabus/CHC2052_Syllabus.jpg",
+   "s": 116890,
+   "h": "226c8081c39929b8cd302df40c524197909d429742baadf9160d01c315d12470",
+   "t": 1794043385,
+   "meta": {
+    "title": "CHC2052 syllabus · Chemical Engineering Thermodynamics",
+    "summary": "Photograph of the printed CHC2052 course outline: objectives, four units, text and reference books, course outcomes.",
+    "kind": "photo",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2052_Chemical-Engineering-Thermodynamics/Unit-1/Lecture-Slides_Unit-1_2022-23.pdf",
+   "s": 5361901,
+   "h": "b0c3c5f056c2ab35c28e1c62dc778229f615ab3392b0098391bd5c9002f3ad6e",
+   "t": 1794043385,
+   "meta": {
+    "professor": "Dr. Khursheed Ansari",
+    "title": "Unit 1 slides · Laws of Thermodynamics, Refrigeration and Liquefaction",
+    "summary": "93 lecture slides on the course objectives, first and second laws, entropy, refrigeration cycles and Linde/Claude liquefaction.",
+    "kind": "slides",
+    "year": "2022-23",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2052_Chemical-Engineering-Thermodynamics/Unit-3/Lecture-Slides_Unit-3-and-4_2022-23.pdf",
+   "s": 5274695,
+   "h": "3d67c347ea3f488fc66845d912cb1650588124f62be90ad567f7181cb2e1f289",
+   "t": 1794043385,
+   "meta": {
+    "professor": "Dr. Khursheed Ansari",
+    "title": "Units 3–4 slides · Phase Equilibrium and Reaction Coordinates",
+    "summary": "70 lecture slides on vapour-liquid phase equilibrium, activity coefficients, reaction coordinates, chemical equilibrium and equilibrium conversion.",
+    "kind": "slides",
+    "year": "2022-23",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2052_Chemical-Engineering-Thermodynamics/Unit-2/Lecture-Slides_Unit-2_2021-22.pdf",
+   "s": 5626559,
+   "h": "29df8993ec008e379438c91cdcbc35cbc591f4cbd59486cfcc52ee27662ee03b",
+   "t": 1794043385,
+   "meta": {
+    "professor": "Dr. Khursheed Ansari",
+    "title": "Unit 2 slides · Properties of Pure Substances and Mixtures",
+    "summary": "74 lecture slides on properties of pure substances and mixtures, thermodynamic property relations, generalized correlations, fugacity and excess properties.",
+    "kind": "slides",
+    "year": "2021-22",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/_General-PYQs/Z_PYQs_2024-25_Multiple-Courses.pdf",
+   "s": 6131579,
+   "h": "4811401b166cf303fdce26402bd5987d17af08d039753d3f2a27831b8f7b461e",
+   "t": 1794043385,
+   "meta": {
+    "title": "2024-25 / 2025-26 · internal and end-semester papers bundle (Thermodynamics, Numerical Met",
+    "summary": "12-page scan of first/second internal and end-semester papers in Engineering Thermodynamics, Numerical Methods, Fluid Mechanics and Heat Transfer Operations across 2024-25 and 2025-26.",
+    "kind": "typed",
+    "year": "2024-25",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2052_Chemical-Engineering-Thermodynamics/Complete-Notes/Class-Notes_Thermodynamics.pdf",
+   "s": 17303363,
+   "h": "f3c1001ef36dadc268c26c5d3f6dad5291fc3038118a8d39c0c7c071cbf81a8f",
+   "t": 1794043385,
+   "meta": {
+    "title": "Handwritten thermodynamics notes · complete course",
+    "summary": "37 photographed notebook pages covering internal energy, property relations for single- and two-phase systems, fugacity, excess properties and entropy balances.",
+    "kind": "scan-handwritten",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Syllabus/CHC2902_Syllabus.jpg",
+   "s": 123348,
+   "h": "e7fb86f8138494161f85a71a140270975884131e51c5f9de096d2224434562cf",
+   "t": 1794043385,
+   "meta": {
+    "title": "CHC2902 syllabus · Computer Applications Lab",
+    "summary": "Photograph of the printed CHC2902 lab syllabus (Excel/MATLAB problem list, assessment and reference books), with the CHC3022 Mass Transfer Operations syllabus below it.",
+    "kind": "photo",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/PYQs-and-Assignments/Z_Assignment-7_MATLAB.pdf",
+   "s": 227269,
+   "h": "99d46803b7c71fd52f041cb3efd8c50e805b73850f0a7eaf99c8e0996b3410b6",
+   "t": 1794043385,
+   "meta": {
+    "author": "Sadeem Rehman",
+    "title": "Assignment 7 · Graph Plotting and Editing (MATLAB)",
+    "summary": "CHC2902 lab assignment 7 with MATLAB commands and the resulting graphs, including the hold command.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/PYQs-and-Assignments/Z_Assignment-6_Regression-and-Solver.pdf",
+   "s": 225417,
+   "h": "ae166969d4d48379993bb17a131d99d02fad91b8835fde41239b757cf3b41bb8",
+   "t": 1794043385,
+   "meta": {
+    "author": "Ateeb Faruqui",
+    "title": "Assignment 6 · Regression and Solver in Excel",
+    "summary": "Typed steps and results for CHC2902 Assignment 6: building a table, running Data Analysis Regression and Excel Solver, with screenshots of the outputs.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/PYQs-and-Assignments/Z_Assignments-1-13_Solutions.pdf",
+   "s": 6253540,
+   "h": "66162faeab0c7cab7f3b45124af0d52da6f6557ec0ee45124111f40f23a45973",
+   "t": 1794043385,
+   "meta": {
+    "title": "Computer Applications Lab · complete solutions, Assignments 1-13 (Excel and MATLAB)",
+    "summary": "Bound compilation of the lab handout plus typed and handwritten worked solutions to all thirteen Excel/MATLAB assignments.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/PYQs-and-Assignments/Z_Assignment-8_Solution.pdf",
+   "s": 170350,
+   "h": "c048b38363d9fc272dc4d0f6cd2026514d542c3ab916b4c67c39d6eef7333b45",
+   "t": 1794043385,
+   "meta": {
+    "author": "Sadeem Rehman",
+    "title": "Assignment 8 solution · Simultaneous linear equations in MATLAB",
+    "summary": "Typed solution of lab Assignment 8: solving a 4x4 system of linear equations by matrix inversion with MATLAB's solve/inverse commands.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/PYQs-and-Assignments/Z_Assignment-9_Solution.pdf",
+   "s": 103700,
+   "h": "64d807b0ac229c5945979c8e7c27c63d3824ca880677998903388f6a53617afc",
+   "t": 1794043385,
+   "meta": {
+    "author": "Sadeem Rehman",
+    "title": "Assignment 9 solution · Non-linear equation by Newton-Raphson in MATLAB",
+    "summary": "Typed MATLAB results for Assignment 9: root of 3x+sin(x)+exp(x)=0 by Newton-Raphson using the eval and feval functions.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/PYQs-and-Assignments/Z_Assignment-6_Least-Square-Method.pdf",
+   "s": 82939,
+   "h": "a69c6181072916d5593f3bce8e1ccb9fea4c469035eee987767912a4cbf5e23c",
+   "t": 1794043385,
+   "meta": {
+    "author": "Sadeem Rehman",
+    "title": "Assignment 6 · Least Square Method in Excel",
+    "summary": "Typed write-up of CHC2902 Assignment 6 solved by the least-square method: building the table, finding coefficients, inverting and multiplying to get alpha, beta, gamma.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/PYQs-and-Assignments/Z_Assignment-4_Goal-Seek-and-Solver.pdf",
+   "s": 119252,
+   "h": "6a0c6c9d45e37fe5ac970cb571285ae1a8a5d7e83aefcb2f46cad29ee3fe6497",
+   "t": 1794043385,
+   "meta": {
+    "author": "Sadeem Rehman",
+    "title": "Assignment 4 · Goal Seek and Solver in Excel",
+    "summary": "Typed steps and final values for CHC2902 Assignment 4, solving the equation first with Excel Goal Seek and then with the Solver add-in.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/PYQs-and-Assignments/Z_Assignment-5_Matrix-Inverse.pdf",
+   "s": 58495,
+   "h": "84d487644c680eb5d2b63839ba39c3763adeec8221521a8f910dcde3ddebad59",
+   "t": 1794043385,
+   "meta": {
+    "author": "Sadeem Rehman",
+    "title": "Assignment 5 · Matrix Inverse Method in Excel",
+    "summary": "One-page typed write-up of CHC2902 Assignment 5: writing the coefficient matrix and constants, then MINVERSE/MMULT to show the inverse matrix and solution.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/PYQs-and-Assignments/Z_Assignment-5_Solution_Matrix-Sheet.csv",
+   "s": 1021,
+   "h": "be80ff257f9a19c5c447915525ff42c8b543da483cb5adc487220312a9269936",
+   "t": 1794043385,
+   "meta": {
+    "title": "Assignment 5 · matrix and inverse work sheet",
+    "summary": "Excel working sheet for Assignment 5: the 6x6 coefficient matrix, its inverse and the multiplication giving the solution values.",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Complete-Notes/Lecture-Slides_MATLAB-1-and-2.pdf",
+   "s": 2031614,
+   "h": "4c4a644c07e147e33dd9badd80dd25c55739da9de50e3cd8f14e62246c4dad0e",
+   "t": 1794043385,
+   "meta": {
+    "professor": "Dr. Iftekhar Ahmad",
+    "title": "MATLAB 1 & 2 · Introduction",
+    "summary": "Slides introducing MATLAB: command window, variables, arrays, basic functions and help, with worked command-line examples.",
+    "kind": "slides",
+    "year": "2025-26",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Complete-Notes/Lecture-Slides_MATLAB-3-Linear-Equations.pdf",
+   "s": 966216,
+   "h": "e8d39b214ec0822bc0243f2448f9bdaa3062f17ef8175f759a3e192a00fab1ee",
+   "t": 1794043385,
+   "meta": {
+    "professor": "Dr. Iftekhar Ahmad",
+    "title": "MATLAB 3 · Linear equations",
+    "summary": "Slides on solving systems of linear algebraic equations in MATLAB using matrices, inversion and the backslash operator.",
+    "kind": "slides",
+    "year": "2025-26",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/PYQs-and-Assignments/Z_Tutorial-3_Non-Linear-Equations-MATLAB.pdf",
+   "s": 449971,
+   "h": "2fce1de0b1b9d8132637591cdc0bd6d9ff6bb24fb00ce948b00eec0dde267253",
+   "t": 1794043385,
+   "meta": {
+    "professor": "Dr. Iftekhar Ahmad",
+    "title": "Tutorial 3 · Solving non-linear equations in MATLAB",
+    "summary": "Tutorial sheet on numerical solution of non-linear equations in MATLAB with fzero, fsolve and roots, with options and worked examples.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Records/Experiment-4_Friction-Factor-Goal-Seek-and-Solver.pdf",
+   "s": 321143,
+   "h": "c3cb96ee320bfa8d490f03a12f519487230434b53b187418c9ac00e5aee9c8ca",
+   "t": 1794043385,
+   "meta": {
+    "title": "Experiment 4 · Friction factor at Re = 100000 using Goal Seek and Solver",
+    "summary": "Handwritten report on using Excel Goal Seek and Solver to solve the implicit friction-factor equation at Re = 10 5.",
+    "kind": "scan-handwritten",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Records/Experiment-5_Linear-Equations-Matrix-Inverse.pdf",
+   "s": 245031,
+   "h": "7c199127a1241e3e6def9a3b86e3d1963896cddedef6e2e709c09871eb0b83f3",
+   "t": 1794043385,
+   "meta": {
+    "title": "Experiment 5 · Simultaneous linear equations by matrix inverse",
+    "summary": "Handwritten report solving a six-unknown system of linear current equations by matrix inverse and multiplication in MS Excel.",
+    "kind": "scan-handwritten",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Records/Experiment-1_MS-Excel-Worksheet-Operations.pdf",
+   "s": 672751,
+   "h": "1c54411d3da42c7a0f8bbb9ce3fbf5d6d0974849f08d683c090d20d6dc106e8a",
+   "t": 1794043385,
+   "meta": {
+    "title": "Experiment 1 · Adding, deleting and renaming MS Excel worksheets",
+    "summary": "Handwritten lab report on adding, deleting and renaming worksheets and on changing the default sheet number and save location.",
+    "kind": "scan-handwritten",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Records/Experiment-2_Plotting-Z-vs-X-and-Y.pdf",
+   "s": 688425,
+   "h": "6640ae0cbdb8136707ad9d1cc0e7b857b84e982d36aeea0600efd121eb6c9ea2",
+   "t": 1794043385,
+   "meta": {
+    "title": "Experiment 2 · Plotting Z versus X and Z versus Y in MS Excel",
+    "summary": "Handwritten report on making separate and combined scatter charts of Z versus X and Z versus Y from given experimental data.",
+    "kind": "scan-handwritten",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Records/Experiment-3_Friction-Factor-Colebrook-Equation.pdf",
+   "s": 719535,
+   "h": "311e926db242ab94f4407101667d6bfbd0db18fdb30d07bbb5d4b1a9b1df9ca2",
+   "t": 1794043385,
+   "meta": {
+    "title": "Experiment 3 · Friction factor by the Colebrook-type equation",
+    "summary": "Handwritten report using hit-and-trial iteration in Excel to find the friction factor at Re = 2000, 10 000 and 100 000.",
+    "kind": "scan-handwritten",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Records/Experiment-6_Open-Channel-Velocity-Regression.pdf",
+   "s": 461889,
+   "h": "5a374e334e76dbf05b6caba5b73521cc2a832bef363d259f5c1ee78c752139aa",
+   "t": 1794043385,
+   "meta": {
+    "title": "Experiment 6 · Open-channel velocity by least squares regression",
+    "summary": "Handwritten report estimating the constants of V = a·S^b·R^c by least squares, Excel Regression tool and Solver.",
+    "kind": "scan-handwritten",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Records/Experiment-1_Worksheet-Operations-Results.pdf",
+   "s": 9364053,
+   "h": "6fc24cbaac88550da9b1f0a915b55aa8e9b9630f84044ae3fef60c8ce6b95e00",
+   "t": 1794043385,
+   "meta": {
+    "author": "Alquama Haider",
+    "title": "Experiment 1 · Results (worksheet operations screenshots)",
+    "summary": "Two-page result sheet with MS Excel screenshots showing sheets added, deleted and renamed and the default sheet and save-location settings.",
+    "kind": "scan-printed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Records/Experiment-2_Scatter-Plots-Results.pdf",
+   "s": 239781,
+   "h": "9d5ace7bfa40808be9daa97f42730c876550de6860e41fcbb1700b1a634b6890",
+   "t": 1794043385,
+   "meta": {
+    "author": "Alquama Haider",
+    "title": "Experiment 2 results · Scatter plots Z vs X and Z vs Y",
+    "summary": "Canva result sheet for Experiment 2: data table and graph screenshots for Z vs X, Z vs Y and combined scatter plots.",
+    "kind": "scan-printed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Records/Experiment-3_Friction-Factor-Hit-and-Trial-Results.pdf",
+   "s": 176488,
+   "h": "e9dda29d0403362c2383ff04466cc74447b6da32976af4b03e750a7c44582438",
+   "t": 1794043385,
+   "meta": {
+    "author": "Alquama Haider",
+    "title": "Experiment 3 results · Friction factor by hit-and-trial (Re 2000, 10 000, 100 000)",
+    "summary": "Result sheet with the Colebrook-type function and converged friction factors found by hit-and-trial at three Reynolds numbers.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Records/Experiment-4_Friction-Factor-Goal-Seek-and-Solver-Results.pdf",
+   "s": 401781,
+   "h": "5b28a9eaf484f3385a0e4b3fb6d63d7a8f2d53f5f9af6ebfe08fb9309067bc75",
+   "t": 1794043385,
+   "meta": {
+    "author": "Alquama Haider",
+    "title": "Experiment 4 results · Friction factor at Re = 10^5 by Goal Seek and Solver",
+    "summary": "Result sheet with screenshots of Goal Seek and Solver setups and the converged friction factor f = 0.0045.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Records/Experiment-5_Matrix-Inverse-Results.pdf",
+   "s": 156052,
+   "h": "99b1972df62857186d1a64df029971d9e4aff97f986ef402e355dc682bae0188",
+   "t": 1794043385,
+   "meta": {
+    "author": "Alquama Haider",
+    "title": "Experiment 5 results · Matrix inverse and multiplication",
+    "summary": "Result sheet listing the coefficient matrix, the MINVERSE/MMULT functions used and the resulting inverse and product.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Records/Experiment-6_Least-Square-Fit-Results.pdf",
+   "s": 399025,
+   "h": "5830f40aecea468657648e071172db291fb328fd9d357a1f678389bd6ab94c87",
+   "t": 1794043385,
+   "meta": {
+    "author": "Alquama Haider",
+    "title": "Experiment 6 results · Least-square fit, regression tool and Solver",
+    "summary": "Result screenshots for fitting V = a S^b R^c by the matrix method, Excel Regression tool and Solver.",
+    "kind": "scan-printed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/_Curriculum/Chemical-Engineering_Syllabus_Sem3-4.pdf",
+   "s": 683027,
+   "h": "7ef2041429072de1a9bd486c5a1a28ed24da940354eeb19270093a1eea50d3ad",
+   "t": 1794043385,
+   "meta": {
+    "title": "B.Tech Chemical Engineering syllabus · Semesters 3 and 4",
+    "summary": "Official Annexure I & II syllabus bundle with the detailed course outlines of the third- and fourth-semester Chemical Engineering courses.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/_Curriculum/Chemical-Engineering_Sem3_Course-Structure.png",
+   "s": 119623,
+   "h": "cb0289bf98bba806e8d80adb08095a088c17202e9d49f25c0eef220a3952160a",
+   "t": 1794043385,
+   "meta": {
+    "title": "B.Tech Chemical Engineering course structure · Semester 3",
+    "summary": "Photo of the official third-semester course structure table (CHC2012 to CHC2072 etc.) valid for students admitted from 2023.",
+    "kind": "photo",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032-PKC2152_Fluid-Mechanics/Complete-Notes/Class-Notes_Fluid-Mechanics.pdf",
+   "s": 21543448,
+   "h": "2d18069057cccc98faf3489ab73dff09c95612c319ec0aebcdcc855e744c2ab2",
+   "t": 1794043385,
+   "meta": {
+    "professor": "Iram Arman",
+    "title": "Fluid Mechanics · complete handwritten notes",
+    "summary": "126 handwritten notebook pages covering the whole Fluid Mechanics course, from fluid properties and statics to flow kinematics, discharge and stream/velocity-potential functions.",
+    "kind": "scan-handwritten",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032-PKC2152_Fluid-Mechanics/Unit-1/Lecture-Slides_Introduction-to-Fluid-Mechanics.pdf",
+   "s": 865979,
+   "h": "73f0bbfe47b7c133725edc042d5833dbc95cf7215e8bb6489754561ed2f7e9a7",
+   "t": 1794043385,
+   "meta": {
+    "professor": "Iram Arman",
+    "title": "Lecture slides · Introduction, fluid properties and types of flow",
+    "summary": "Slides defining fluids, fluidity and viscosity, then classifying flow as viscous/inviscid, compressible/incompressible, laminar/turbulent, forced/natural and steady/unsteady.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032-PKC2152_Fluid-Mechanics/PYQs-and-Assignments/Z_PYQs_Unit-1.pdf",
+   "s": 1377687,
+   "h": "e4875e1f80f2bdca0440c6e4bb7bd53596430fc25931f5f050cd1afe09f3da25",
+   "t": 1794043385,
+   "meta": {
+    "title": "Unit 1 question bank · Fluid properties and statics",
+    "summary": "Ten pages of Unit 1 questions from past Fluid Mechanics papers (density/viscosity distinctions, manometer and hydrostatic-pressure problems).",
+    "kind": "scan-printed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032-PKC2152_Fluid-Mechanics/PYQs-and-Assignments/Z_PYQs_Unit-2.pdf",
+   "s": 854568,
+   "h": "0b85dc23794e0066e963109e78da2e2de66ce5161f7b780009e808a9ff7f6402",
+   "t": 1794043385,
+   "meta": {
+    "title": "Unit 2 question bank · Fluid kinematics and Bernoulli",
+    "summary": "Five pages of Unit 2 questions from past Fluid Mechanics papers (Euler and Bernoulli equations, stream function, velocity potential, pathlines and streamlines).",
+    "kind": "scan-printed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032-PKC2152_Fluid-Mechanics/PYQs-and-Assignments/Z_PYQs_Unit-3.pdf",
+   "s": 1059485,
+   "h": "94bf3607248c1464d9ddc4c5a65010fc601f86696768e618499ed781d2d18549",
+   "t": 1794043385,
+   "meta": {
+    "title": "Unit 3 PYQs · Dimensional Analysis and Similitude",
+    "summary": "Compiled past-exam questions on dimensionless numbers, model testing and Buckingham's pi theorem, with answers.",
+    "kind": "scan-printed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032-PKC2152_Fluid-Mechanics/PYQs-and-Assignments/Z_PYQs_Unit-4.pdf",
+   "s": 672213,
+   "h": "0a4af9697d63b1b195dad8e59132c3c0462ab44c595b5af5428e2de3dfe36622",
+   "t": 1794043385,
+   "meta": {
+    "title": "Unit 4 PYQs · Flow-measuring Devices and Pumps",
+    "summary": "Past-exam questions on venturimeters, centrifugal pumps, NPSH, cavitation and pump characteristics.",
+    "kind": "scan-printed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032-PKC2152_Fluid-Mechanics/PYQs-and-Assignments/Z_Tutorial-1_Unit-1.pdf",
+   "s": 335762,
+   "h": "c77276802f52d210080eba3723f3b52f9871d5a6f36292604f67848c16d5906d",
+   "t": 1794043385,
+   "meta": {
+    "title": "Tutorial Sheet Unit 1 · Fluid Statics",
+    "summary": "Ten fluid-statics problems on piezometers, manometers, immiscible layers and hydrostatic forces, with answers.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032-PKC2152_Fluid-Mechanics/PYQs-and-Assignments/Z_Tutorial-2_Unit-2.pdf",
+   "s": 283337,
+   "h": "5de77695234bcc62f62857be02608e34c859c50073d7f909c1b299781b28a956",
+   "t": 1794043385,
+   "meta": {
+    "title": "Tutorial Sheet Unit 2 · Fluid Kinematics",
+    "summary": "Problems on velocity fields, acceleration, continuity and pipe-flow discharge with answers.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032-PKC2152_Fluid-Mechanics/PYQs-and-Assignments/Z_Tutorial-3_Unit-2-and-3.pdf",
+   "s": 594301,
+   "h": "025dde16bdbef02b6f16c1b1b6a3b3fb10adb6517758f1b11c47c3eda1615ef6",
+   "t": 1794043385,
+   "meta": {
+    "title": "Tutorial Sheet Units 2-3 · Stream Function, Potential Flow and Boundary Layers",
+    "summary": "Problems on stream function and velocity potential, continuity, flow measurement and boundary-layer shear stress, with answers.",
+    "kind": "typed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Syllabus/CHC2042_Syllabus.jpg",
+   "s": 125187,
+   "h": "690e355691adfa2b949994b492330c9db69a2a277bcf77eb5323a3599656e564",
+   "t": 1794043385,
+   "meta": {
+    "title": "CHC2042 Fluid Particle Operations syllabus",
+    "summary": "Photo of the official course outline: credits, assessment split, four units from particle size measurement to filtration, textbooks and outcomes.",
+    "kind": "photo",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-1/Lecture-Slides_Screen-Efficiency-Solution.pdf",
+   "s": 30060,
+   "h": "d98b5fccefcca08518d598c77b9afab590dd69718dd91eb99e8f704a0fc768df",
+   "t": 1794043385,
+   "meta": {
+    "title": "Worked problem · Screen efficiency from sieve analysis",
+    "summary": "Two-slide worked solution finding D/F, B/F, recovery, rejection and overall efficiency from cumulative screen-analysis fractions.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-1/Lecture-Slides_Screen-Effectiveness.pdf",
+   "s": 94066,
+   "h": "8431ee507467bdd2923d06e8c898c44aa36c347cbbfc0ad4de99dae59675dcae",
+   "t": 1794043385,
+   "meta": {
+    "title": "Lecture slides · Effectiveness of an industrial screen",
+    "summary": "Derives screen effectiveness from mass balances on feed, overflow and underflow, with recovery and rejection definitions.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/PYQs-and-Assignments/Z_Assignment.pdf",
+   "s": 3467203,
+   "h": "39f7791c284a74576085a1ce168b03f7153dd4501f9d989197680b8f0c1b8268",
+   "t": 1794043385,
+   "meta": {
+    "title": "Home assignment · Elutriation, thickening, agitation and filtration",
+    "summary": "Four-question home assignment on elutriator velocity, Dorr thickener design, baffled-tank impeller power and plate-and-frame filtration.",
+    "kind": "scan-printed",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-3/Class-Notes_Impeller-Types.pdf",
+   "s": 637241,
+   "h": "6564c5bf07cdd1d8810440caba5d7304f6a487e92965e65a80a57c2f93d5336c",
+   "t": 1794043385,
+   "meta": {
+    "title": "Notes · Types of impellers for agitation",
+    "summary": "Handwritten page classifying axial-flow and radial-flow impellers, with sketches of propellers, turbines and paddles.",
+    "kind": "scan-handwritten",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-3/Lecture-Slides_Sedimentation-Problem.pdf",
+   "s": 672731,
+   "h": "e80b48df41aa28db1d9f7f3e54cf50cd07f72442fd0efb5a08ed5694e2d77b57",
+   "t": 1794043385,
+   "meta": {
+    "title": "Worked problem · Depth and diameter of a continuous thickener",
+    "summary": "Five-slide worked solution sizing a Dorr thickener from batch sedimentation interface-height data and feed/underflow concentrations.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-1/Lecture-Slides_Sieve-Analysis-Problem.pdf",
+   "s": 216265,
+   "h": "acfa91dae44eabf8a6636ab8833b695a41f497a60e1ea4398e9d48d7008935c6",
+   "t": 1794043385,
+   "meta": {
+    "title": "Worked problem · Particle-size distribution from sieve analysis",
+    "summary": "Spreadsheet-derived worked problem computing average particle diameter, specific surface area and particle counts per gram from mesh data.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/PYQs-and-Assignments/Z_Tutorial-1_2016-17_Sieve-Analysis.pdf",
+   "s": 227667,
+   "h": "eb087f42dc6b68f394a818828d92ea6de2c521f1cac3b4d800b08b25369a5b95",
+   "t": 1794043385,
+   "meta": {
+    "title": "Tutorial 1 · Sieve Analysis",
+    "summary": "Tutorial sheet asking for specific surface area and the various mean diameters of a galena sample from its screen analysis, with differential and cumulative plots (submission 20/08/2016).",
+    "kind": "typed",
+    "year": "2016-17",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-1/Lecture-Slides_Unit-1_Solid-Mass.pdf",
+   "s": 5357506,
+   "h": "728b9cdead5bbc6ea33cfcd3a94a803df83f5f8a41e350c5cfc3f4f126a0f9f1",
+   "t": 1794043385,
+   "meta": {
+    "professor": "Dr. Mohd Danish Khan",
+    "title": "Unit 1 slides · Solid Mass (characteristics, sieve analysis, screens, storage)",
+    "summary": "Lecture deck for Unit 1 (PKC2192/CHC2042): solid-particle characteristics, sphericity, size analysis, screening effectiveness, storage of solids in hoppers, bins and silos.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-2/Lecture-Slides_Size-Reduction-Equipment.pdf",
+   "s": 1576795,
+   "h": "a16fc305ee36289306f83d1673406d0f27cebdce9a619d9c1ef5924137aa2096",
+   "t": 1794043385,
+   "meta": {
+    "title": "Unit 2 slides · Size Reduction Equipment",
+    "summary": "Size-reduction machines: crushers, grinders, cutters and ultrafine grinders, laws of crushing, and the equipment used for coarse to fine comminution.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-3/Lecture-Slides_Fluid-Particle-Interactions.pdf",
+   "s": 4944827,
+   "h": "6106efa2c08abb0d03a7baadc7fd62dee0138ee22ac9af4fe6edb49f5cfdaf6b",
+   "t": 1794043385,
+   "meta": {
+    "title": "Unit 3 slides · Fluid-Particle Interactions",
+    "summary": "Drag and wall drag on particles, terminal and hindered settling, sedimentation, centrifuges and cyclones, impellers and agitation.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-4/Lecture-Slides_Flow-Through-Packed-Beds.pdf",
+   "s": 8125473,
+   "h": "1a6c8400b73406a7188547efd073943ad715cfe876411726d27e5ad6d72e6bd2",
+   "t": 1794043385,
+   "meta": {
+    "title": "Unit 4 slides · Flow Through Packed and Fluidized Beds",
+    "summary": "Flow through packed beds (Ergun-type pressure drop), fluidization, and filtration, including worked examples and design graphs.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-1/Lecture-Slides_Characterization-of-Solid-Particles.pdf",
+   "s": 1416757,
+   "h": "38ee43deeffc6ea7ad8f8c25202d845027b6ea7bfb5afb5e2581a91f1115fc6a",
+   "t": 1794043385,
+   "meta": {
+    "title": "Lecture slides · Characterization of Solid Particles (shape and size analysis)",
+    "summary": "Teacher slides on density, particle shape and sphericity, particle-size measurement, differential and cumulative size analysis, specific surface and mean diameters, worked screen-analysis problems.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-1/Lecture-Slides_Screen-Analysis.pdf",
+   "s": 948371,
+   "h": "d3758e6f75b767332da3efc3b2664f54b0d347ff52eda8dc9b22d8c7b65ee0d6",
+   "t": 1794043385,
+   "meta": {
+    "title": "Lecture slides · Screen Analysis",
+    "summary": "Short deck on standard screens and sieves: mesh sizing, Tyler standard screen scale and the standard screen table, dry and wet screening limits.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-1/Lecture-Slides_Properties-of-Particulate-Masses.pdf",
+   "s": 1454237,
+   "h": "22efd5c08db33d47b156d138a578cd638a55b50d9f0540fe9b6a9025c9a93de5",
+   "t": 1794043385,
+   "meta": {
+    "title": "Lecture slides · Properties of Particulate Masses",
+    "summary": "Cohesive and non-cohesive solids, directional pressure in a particle mass, K', Mohr stress circle, angle of internal friction and angle of repose.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-1/Lecture-Slides_Storage-of-Solids.pdf",
+   "s": 2810363,
+   "h": "3f8314cbd121003b50ca53ab63fcbeb68a4c9229df917d3a923b8fb2f90d19d4",
+   "t": 1794043385,
+   "meta": {
+    "title": "Lecture slides · Storage of Solids (bins, silos, flow problems)",
+    "summary": "Storage of bulk solids: outdoor vs indoor storage, dusting and leaching, bins, silos and hoppers, wall pressures, arching and ratholing, flow out of bins.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-1/Lecture-Slides_Industrial-Conveyors.pdf",
+   "s": 3903788,
+   "h": "3dbbef2d4169a48f3bd7c28dba8479fb68d7f3e637c423637f1a1ca5d6bab702",
+   "t": 1794043385,
+   "meta": {
+    "title": "Lecture slides · Industrial Conveyors",
+    "summary": "Belt, screw, bucket and pneumatic conveyors: construction, components, capacities, advantages and selection criteria for bulk-solids handling.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-2/Lecture-Slides_Size-Reduction.pdf",
+   "s": 1693924,
+   "h": "119a5ab1300138f83351ba2ce6fc80a1282e92e216a6e80e227d99c24949848c",
+   "t": 1794043385,
+   "meta": {
+    "title": "Unit 2 slides · Size Reduction",
+    "summary": "Introduces size reduction of solids: purposes in industry, types of grinding, theory of crushing and grinding, laws of comminution and choice of equipment.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-2/Lecture-Slides_Size-Reduction-Equipment_2.pdf",
+   "s": 2436199,
+   "h": "3652a1b241fd0b54c6f7d7ff22e5338a16a7a6f969bddb791eb4ada90294a32f",
+   "t": 1794043385,
+   "meta": {
+    "title": "Unit 2 slides · Size-Reduction Equipment",
+    "summary": "Classification and working of size-reduction machines: jaw, gyratory and roll crushers, hammer and impactor mills, tumbling and agitated mills, cutters.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-2/Lecture-Slides_Size-Reduction-Operations.pdf",
+   "s": 1503248,
+   "h": "a5870d6d2573c32449d8a17b49f4cae3846d5158465c55859c70b766e5911f0d",
+   "t": 1794043385,
+   "meta": {
+    "title": "Unit 2 slides · Size-Reduction Operations",
+    "summary": "Open and closed circuit grinding, processing factor, feed control, mill discharge, energy consumption and calculations for equipment design.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Unit-3/Lecture-Slides_Fluid-Particle-Interactions_2.pdf",
+   "s": 1619385,
+   "h": "3abafccca3e82e74bd6e45138130bd475853efcfe48221e4b47731310045b6e9",
+   "t": 1794043385,
+   "meta": {
+    "title": "Unit 3 slides · Fluid–Particle Interactions",
+    "summary": "Drag on a particle moving through a fluid: wall drag and form drag, their integrals over the body surface and the resulting correlations.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/Syllabus/CHC2062_Syllabus.jpg",
+   "s": 141022,
+   "h": "09a9c279d1f261d0be124348eee70544f57d999bf57a2d3ddb3d4b14ceea94dd",
+   "t": 1794043385,
+   "meta": {
+    "title": "CHC 2062 Heat Transfer Operations · syllabus (photo)",
+    "summary": "Photo of the CHC 2062 course outline: credits, assessment, unit-wise syllabus, textbooks, reference books and course outcomes.",
+    "kind": "photo",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/PYQs-and-Assignments/Z_Assignment_Shell-and-Tube-Heat-Exchanger.pdf",
+   "s": 1080368,
+   "h": "9c131c401245716b96a1ca0464dc985adeea1bbd9d41720c0e2c1dcb04968f3a",
+   "t": 1794043385,
+   "meta": {
+    "title": "Assignment · Shell-and-tube heat exchanger",
+    "summary": "Handwritten four-page assignment on shell-and-tube exchangers: constructional parts, labelled exchanger diagram and the overall heat transfer coefficient.",
+    "kind": "scan-handwritten",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/PYQs-and-Assignments/Z_Assignment_Condensation-and-Evaporators.pdf",
+   "s": 1022269,
+   "h": "d002ce8b8425d9a99b6c30fdcd0914a5187fe2bcb4763066fbb54efaf5c4d618",
+   "t": 1794043385,
+   "meta": {
+    "title": "Assignment · Condensation and evaporators",
+    "summary": "Handwritten four-page assignment on film and dropwise condensation, and on the working of single- and double-effect evaporators.",
+    "kind": "scan-handwritten",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/Complete-Notes/Class-Notes_Heat-Transfer_2014-15.pdf",
+   "s": 4002699,
+   "h": "26bfe4b8d016858b1a395c8f94608382449af1ae8eb86e81abcefbdb4e088443",
+   "t": 1794043385,
+   "meta": {
+    "title": "Heat Transfer complete notes (2014-15)",
+    "summary": "Scanned handwritten class notes for the whole Heat Transfer course, from Fourier's law and conduction equations to convection, exchangers and radiation, dated October 2014.",
+    "kind": "typed",
+    "year": "2014-15",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/Complete-Notes/Class-Notes_Heat-Transfer_Complete.pdf",
+   "s": 10967068,
+   "h": "0b79ecebe07f41cf92ddff0e1c1c88fa7b0303244ac025e89e09863f7c625d07",
+   "t": 1794043385,
+   "meta": {
+    "title": "Heat Transfer complete handwritten notes",
+    "summary": "Photographed 98-page notebook covering the whole Heat Transfer Operations syllabus with derivations (conduction, film condensation, boiling, exchangers, radiation).",
+    "kind": "scan-handwritten",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/Complete-Notes/Class-Notes_Heat-Transfer-Operations.pdf",
+   "s": 33932727,
+   "h": "f2215e2a1f66fb2d1bcd4e3b1db1a634ab44655168e331909e622b3e14818b95",
+   "t": 1794043385,
+   "meta": {
+    "title": "Handwritten notes · Heat Transfer Operations (complete)",
+    "summary": "74-page handwritten notebook of the whole HTO course, from heat-transfer applications and the three modes of heat transfer through boundary layers to forced-circulation evaporators.",
+    "kind": "scan-handwritten",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering/Syllabus/CHC2072_Syllabus.jpg",
+   "s": 106651,
+   "h": "f81418beacbf62cfa5a94a76a56618a03d194edb6ef9e94e0660e7f98957cb03",
+   "t": 1794043385,
+   "meta": {
+    "title": "CHC2072 syllabus photo",
+    "summary": "Photo of the CHC-2072 course description: credits, assessment weightage, unit-wise syllabus, textbook and reference list.",
+    "kind": "photo",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering/Books-and-Resources/Topic-Chart_Numerical-Methods.jpg",
+   "s": 283797,
+   "h": "b0162125398dd6c5c67831ab2f7b9170ad0e31399e387d6f477ee9c891409054",
+   "t": 1794043385,
+   "meta": {
+    "title": "Topic-wise syllabus chart · Numerical Methods",
+    "summary": "One-page graphic grouping the course topics into non-linear equations, direct and iterative linear solutions, and interpolation, with the goal of each group.",
+    "kind": "photo",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering/Complete-Notes/Class-Notes_Numerical-Methods.pdf",
+   "s": 20407860,
+   "h": "a2ce5815c5699b6411cda2220d6cedec7fa9b0983c68c665a4ea2ac82b20ecf5",
+   "t": 1794043385,
+   "meta": {
+    "title": "Handwritten notes · Numerical Methods in Chemical Engineering",
+    "summary": "86-page handwritten notebook of the full course: error analysis and root finding, direct/iterative linear systems, interpolation, numerical integration and ODE methods.",
+    "kind": "scan-handwritten",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering/Unit-1/Lecture-Slides_Introduction-to-Numerical-Methods.pdf",
+   "s": 955471,
+   "h": "653d3f20810a30be334ed9486bd44c5404e061db9284dd875d09eea5ce1d1ef5",
+   "t": 1794043385,
+   "meta": {
+    "title": "Lecture slides · Introduction to Numerical Methods (CHC 2070)",
+    "summary": "Opening deck on modelling real problems, the scope of numerical methods and the topics of the course (roots, linear systems, interpolation and regression, differentiation/integration).",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering/Unit-1/Lecture-Slides_Non-Linear-Equations.pdf",
+   "s": 1600931,
+   "h": "b63dc7115d82e8d582ed4afcddd325b8cbd5e548cffdd938bc4c3a82327aaba8",
+   "t": 1794043385,
+   "meta": {
+    "title": "Lecture slides · Non-linear equations: roots of f(x)=0",
+    "summary": "82-slide deck on locating roots of non-linear equations, with bracketing/iterative techniques, convergence and worked examples.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering/Unit-1/Lecture-Slides_Mullers-Method.pdf",
+   "s": 1464971,
+   "h": "b2e1170925864933c47e2148fca719432e35b2d5936698eace84006879dc5ff8",
+   "t": 1794043385,
+   "meta": {
+    "title": "Lecture slides · Muller's method and root-finding continued",
+    "summary": "Deck deriving Muller's quadratic-interpolation method from three points and continuing the survey of single-variable root-finding schemes.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering/Unit-1/Lecture-Slides_Direct-Solution-of-Linear-Equations.pdf",
+   "s": 1131214,
+   "h": "dfa137cd35f96afff39207a3924e4fc7843034a7c06a1fd019d601349a24bf31",
+   "t": 1794043385,
+   "meta": {
+    "title": "Lecture slides · Direct solution of linear equations",
+    "summary": "Deck on simultaneous linear systems solved directly: basic Gauss elimination, Gauss with pivoting, Gauss-Jordan and LU decomposition.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering/Unit-1/Lecture-Slides_Ill-Conditioned-Systems.pdf",
+   "s": 847917,
+   "h": "8cd87f2456cf136eb048adcd4f14c36c72e66a167d307206f2c862162a57b1fe",
+   "t": 1794043385,
+   "meta": {
+    "title": "Lecture slides · Ill-conditioning of matrices",
+    "summary": "Deck on what makes a matrix ill-conditioned, how round-off and coefficient errors amplify, and how ill-conditioning is detected by back substitution.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering/Unit-2/Lecture-Slides_Iterative-Solution-of-Linear-Equations.pdf",
+   "s": 1395721,
+   "h": "1ea6865a7a5c49125f4ba89ef3496d4a2b296314107e7c55b5479b40ee636b25",
+   "t": 1794043385,
+   "meta": {
+    "title": "Lecture slides · Iterative solution of linear algebraic equations (Unit 2)",
+    "summary": "Unit 2 deck on iterative solvers for large sparse systems, starting from banded/Jacobi-type methods with discretisation examples.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering/Unit-2/Lecture-Slides_Iterative-Solutions-to-Linear-Algebraic-Equations.pdf",
+   "s": 876086,
+   "h": "d7069ea5e3bf9d824bfbfe971e47db4b4606bf53f42ad0a576eb7464251d52bd",
+   "t": 1794043385,
+   "meta": {
+    "title": "Lecture slides · Iterative Solutions to Linear Algebraic Equations",
+    "summary": "Unit 2 teacher slides on why direct banded solvers fail for large sparse systems from FD/FE discretisations, with the sparse matrix example that motivates iterative methods.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering/Unit-1/Lecture-Slides_Systems-of-Nonlinear-Equations.pdf",
+   "s": 2898762,
+   "h": "cc9c0f067fbcec4daf31ba1d0d011f94291606b97b2498dce8e725d4876b6225",
+   "t": 1794043385,
+   "meta": {
+    "title": "Lecture slides · Systems of Nonlinear Equations",
+    "summary": "Unit 1 slides on Newton's method for higher-dimensional problems: Jacobian matrices, fixed-point conditions, and worked Broyden/secant iterations, plus matrix inversion by minors.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering/Unit-3/Lecture-Slides_Introduction-to-Interpolation.pdf",
+   "s": 1199922,
+   "h": "5e56fbe51d9f234cf0d295c572f29b59708857c3e15c0c7f5158d79c4d35c9c5",
+   "t": 1794043385,
+   "meta": {
+    "title": "Lecture slides · Introduction to Interpolation",
+    "summary": "Unit 3 slides introducing interpolation functions for tabulated data, with the sin(x) table example and why interpolated values are needed.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering/Unit-3/Lecture-Slides_Newton-Interpolation-Polynomial.pdf",
+   "s": 2032902,
+   "h": "72221039b693c235f40533cebd294b57658280c319e82406b0e237a40d9a0d4b",
+   "t": 1794043385,
+   "meta": {
+    "title": "Lecture slides · Newton Interpolation Polynomial",
+    "summary": "Unit 3 slides deriving the Newton form of the interpolating polynomial, its coefficients and the divided-difference construction from data points.",
+    "kind": "slides",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/Books-and-Resources/T-x-y-Diagram-Data.csv",
+   "s": 174,
+   "h": "05baabfd1b141a2a1b19e9b45f7de1e99b1b7ef40883120f43fbbf967800a502",
+   "t": 1794043385,
+   "meta": {
+    "title": "T-x-y diagram data (Sheet 1)",
+    "summary": "Temperature, liquid and vapour mole-fraction data points used to plot a T-x-y diagram for a benzene-toluene type system.",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/Books-and-Resources/Clausius-Clapeyron-Data.csv",
+   "s": 316,
+   "h": "46c9c765eeb2f71497fb1c759d20fd00431048c9e93a543e230dac4225df7082",
+   "t": 1794043385,
+   "meta": {
+    "title": "Clausius-Clapeyron plot data (Sheet 4)",
+    "summary": "Vapour pressure, log p, temperature in °C and K and 1/T values for a Clausius-Clapeyron plot.",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Records/Experiment-2_Z-X-Y-Experimental-Data.csv",
+   "s": 61,
+   "h": "0ba1fc5c589e839214690942c87abc022795a6683ff75841c22571f886dcb208",
+   "t": 1794043385,
+   "meta": {
+    "title": "Experiment 2 · Z, X, Y experimental data sheet",
+    "summary": "The six-row Z-X-Y data table used for the two scatter plots in the second Excel lab experiment.",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Records/Experiment-3_Friction-Factor_Re-2000.csv",
+   "s": 563,
+   "h": "f7706c80c86666d0c587491e1922a0ba4796dafdc90752125a99497f17e5bad4",
+   "t": 1794043385,
+   "meta": {
+    "title": "Experiment 3 · Friction factor iteration at Re = 2000",
+    "summary": "Hit-and-trial iteration table with guessed friction factor and residual for Re = 2000 in the Colebrook-type equation.",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Records/Experiment-3_Friction-Factor_Re-10000.csv",
+   "s": 492,
+   "h": "2a7fbff46ac6eddec234f547b71f9ce72b57bf21ad49670a7ff2ce9e7f7947b8",
+   "t": 1794043385,
+   "meta": {
+    "title": "Experiment 3 · Friction factor iteration at Re = 10000",
+    "summary": "Hit-and-trial iteration table with guessed friction factor and residual for Re = 10 000 in the Colebrook-type equation.",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Records/Experiment-3_Friction-Factor_Re-100000.csv",
+   "s": 567,
+   "h": "abbf8ac00fe8cfb5681f5668667548b01eb0cd405800c2596881a2d3f4e09d8a",
+   "t": 1794043385,
+   "meta": {
+    "title": "Experiment 3 · Friction factor iteration at Re = 100000",
+    "summary": "Hit-and-trial iteration table with guessed friction factor and residual for Re = 100 000 in the Colebrook-type equation.",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/Syllabus/CHC2012_Syllabus_Official.pdf",
+   "meta": {
+    "credit": "AMU website (official), Alquama Haider"
+   }
+  }
+ ]
+}

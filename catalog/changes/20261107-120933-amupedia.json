@@ -1,0 +1,2955 @@
+{
+ "id": "20261107-120933-amupedia",
+ "created": "2026-11-07T12:09:33+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "credit": "AMUPedia",
+  "note": "From AMUPedia's Google Drive (amupedia2021): '2nd Year' is Mechanical Engineering semesters 3-4 (2021-22) with mid/end-sem papers; 'semester 3' is the AI/Computer branch 3rd semester (AIC2020, AIC2040, AIC2060, AIC2070, ELA2110, AMS2610, EZH2910)."
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/PYQs-and-Assignments/Sem-End_2021-22_MEC2130_2.pdf",
+   "s": 1492698,
+   "h": "479536133fdc45b86708985675187bf3c4b6014b8e607e95be66e6ccc24d635f",
+   "t": 1794053373,
+   "meta": {
+    "title": "Sem-End 2021-22 · Machine Design-I (MEC-2130)",
+    "summary": "Scanned 2021-22 end-semester paper for Machine Design-I (MEC-2130) with a student's handwritten working over the questions, across 11 pages.",
+    "kind": "scan-printed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/PYQs-and-Assignments/Sem-End_2021-22_MEC2120.pdf",
+   "s": 359504,
+   "h": "ea622cb23ae3660633c7de5693b6b4fec893d500eb30196269484cd3311231ae",
+   "t": 1794053373,
+   "meta": {
+    "professor": "Abid Ali Khan",
+    "title": "Sem-End 2021-22 · Kinematics of Machines (MEC2120)",
+    "summary": "End-semester 2021-22 paper for Kinematics of Machines: Grubler's criterion, degrees of freedom, inversions, straight-line mechanisms and related problems.",
+    "kind": "typed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-4/Lecture-Slides_Impedance-Loading-and-Matching.pdf",
+   "s": 1281748,
+   "h": "39ebfc35e51fc1eb32bec6247e92191f956d0e843ea3bf5ae85c97b30b2d77d5",
+   "t": 1794053373,
+   "meta": {
+    "professor": "Shahid Husain",
+    "title": "Impedance Loading and Matching",
+    "summary": "Slides on impedance loading and matching, including the loading effect of a recorder on a transducer element and the voltage-divider relation.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-3/Lecture-Slides_Classification-of-Instruments.pdf",
+   "s": 994100,
+   "h": "8468b6be104c85f8bcb2de746ceb002a160f99fbf9367c3ef02b8f09c118edf5",
+   "t": 1794053373,
+   "meta": {
+    "professor": "Shahid Husain",
+    "title": "Classification of Instruments",
+    "summary": "Slides classifying instruments by physical effect, type of operation, representation, energy requirement, proximity and processing (dumb vs intelligent).",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-4/Lecture-Slides_Data-Presentation-Element.pdf",
+   "s": 4650202,
+   "h": "d22d286edfc93c361175e98579ca7f83d40e477a043f8e424256cd675856aded",
+   "t": 1794053373,
+   "meta": {
+    "professor": "Shahid Husain",
+    "title": "Data Presentation Element",
+    "summary": "Slides on the data presentation element of a measurement system and the display/recording stages that present the measured value.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-1/Class-Notes_Probability-Distributions_2021-22.pdf",
+   "s": 3573139,
+   "h": "976eac921e77f09dc39f861a69fe8510a6ebeafe5d49d17f063bf4dbfc80e7dc",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 1 notes · Probability distributions",
+    "summary": "Handwritten class notes (January 2022) on probability density functions — continuous, joint, marginal and conditional — and distribution mean and variance.",
+    "kind": "scan-handwritten",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-1/Class-Notes_Probability_2021-22.pdf",
+   "s": 594235,
+   "h": "7ec84aea64bc2ad248cb55ff0e31ae145e4b878809aea07b8e4f6f34561c3bf8",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 1 notes · Probability",
+    "summary": "Handwritten class notes (November 2021) opening Unit 1 on probability, with a worked example on the probability of an event.",
+    "kind": "scan",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-4/Lecture-Slides_Transducers.pdf",
+   "s": 4429638,
+   "h": "e75378a5c9e5583fcd44afda5d6636902dfd0b82485947c0dab85f5d93de64ad",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Transducers",
+    "summary": "Slide deck on transducers and strain gauges: resistive metal and semiconductor gauges, stress/strain relations and transducer elements.",
+    "kind": "typed",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-3/Class-Notes_Vector-Differentiation_Unit-3_2.pdf",
+   "s": 2610463,
+   "h": "651b596d2bb1a03e3ad37b4d4ad3f2da74e52ce65ecab543745509ad97618474",
+   "t": 1794053373,
+   "meta": {
+    "title": "Unit 3 notes · Vector Differentiation",
+    "summary": "Handwritten notes on scalar and vector fields, gradient, its direction and magnitude, with worked examples.",
+    "kind": "scan-handwritten",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-3/Class-Notes_Vector-Integration_Unit-3_2.pdf",
+   "s": 13156857,
+   "h": "308580602368fecc85589cc68c991b0152ce14340b2077f12cfb27b0f753b7a4",
+   "t": 1794053373,
+   "meta": {
+    "title": "Unit 3 notes · Vector Integration",
+    "summary": "Handwritten notes on line integrals of vector fields, tangential components and the start of vector integration methods.",
+    "kind": "scan-handwritten",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-2/Class-Notes_Zeroes-and-Singularities_Unit-2.pdf",
+   "s": 1215844,
+   "h": "ebdeefce1eae3e6280fd68f6529e832513026d5309f092eda87e030e69c65c5a",
+   "t": 1794053373,
+   "meta": {
+    "title": "Unit 2 notes · Zeros and Singularities",
+    "summary": "Handwritten notes defining zeros of analytic functions and their order, singular points, with worked examples.",
+    "kind": "scan-handwritten",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Unit-3/Lecture-Slides_Gears-Terminology-and-Law-of-Gearing.pdf",
+   "s": 1129388,
+   "h": "f9a8856dde5ce9f4e64d29d4845942205dc006e6ff10465eed02e8023b4e51eb",
+   "t": 1794053373,
+   "meta": {
+    "title": "Gears · Terminology and Law of Gearing",
+    "summary": "Slide deck listing gear terms (pitch, addendum, module, pressure angle, path of contact) and the law of gearing.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Unit-3/Lecture-Slides_Gears-Problem-Solving.pdf",
+   "s": 465553,
+   "h": "046144758d66022817ecaee80478551a51b34cd80daf4b9fc7a4c45f6b125e60",
+   "t": 1794053373,
+   "meta": {
+    "title": "Gears · Solved Problems",
+    "summary": "Two worked numerical problems on path of contact, arc of contact, addendum and angle of action of involute gears.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Unit-3/Lecture-Slides_Interference-and-Minimum-Number-of-Teeth.pdf",
+   "s": 642108,
+   "h": "25dfceea87fb83d843f4da9b0570e9e2d4aa02701726b78fbdd3152a20584ded",
+   "t": 1794053373,
+   "meta": {
+    "title": "Gears · Interference and Minimum Number of Teeth",
+    "summary": "Slides on interference and undercutting, maximum path/arc of contact to avoid it, and the minimum number of teeth needed.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Unit-4/Lecture-Slides_Gear-Trains-Types.pdf",
+   "s": 1036676,
+   "h": "cb9c4d0946e4298383f724ca1bb0d2308c0c9becd27f6dc55a0622f1ee73411e",
+   "t": 1794053373,
+   "meta": {
+    "title": "Gear Trains · Types of Gear Trains",
+    "summary": "Definition and classification of gear trains into simple, compound, reverted and epicyclic trains, with simple and compound train velocity-ratio slides.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Unit-4/Lecture-Slides_Epicyclic-Gear-Trains.pdf",
+   "s": 1032453,
+   "h": "5ea07a73a7977f9d0fe91051efee21b2b8ebfa46912260762f4c43935465f898",
+   "t": 1794053373,
+   "meta": {
+    "title": "Gear Trains · Epicyclic Gear Trains",
+    "summary": "Construction, relative-velocity reasoning and applications of epicyclic gear trains, with tabular-method examples.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/PYQs-and-Assignments/Z_Assignment_2021-22_Home-Assignment.pdf",
+   "s": 20859,
+   "h": "7213023546d6bb5a1e5c2a8c19ce8b391a094a849b5d697fd43bab13df4c488b",
+   "t": 1794053373,
+   "meta": {
+    "title": "Home Assignment 2021-22 · Gears and Gear Trains",
+    "summary": "Five-problem home assignment on law of gearing, interference and minimum teeth, path of contact, reverted and epicyclic gear trains.",
+    "kind": "typed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Unit-3/Lecture-Slides_Friction-Wheels-and-Gears-Introduction.pdf",
+   "s": 1176058,
+   "h": "b08a45dae8b35cc8276d7627ab79036aabeab57b4c08fb2cceb7614f3ac587e4",
+   "t": 1794053373,
+   "meta": {
+    "title": "Lectures 1–3 · Friction Wheels and Gears: Introduction",
+    "summary": "Opening lectures of the gears chapter: friction-wheel drives and slip, why teeth are cut, and advantages and disadvantages of gears.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/PYQs-and-Assignments/Mid-Sem-2020-21_EMEC2130.pdf",
+   "s": 157378,
+   "h": "a55dccaf5f71c0739c4756ed629b85f0ac96b9c4090c77db9c1040e90f300304",
+   "t": 1794053373,
+   "meta": {
+    "title": "Mid-Sem 2020-21 · Machine Design I (EMEC2130)",
+    "summary": "B.E. sessional paper of 2020-21: bolted wall-bracket and machine-element design questions, maximum marks 30 in one hour.",
+    "kind": "typed",
+    "year": "2020-21",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-Slides_Part-3_Analysis-of-Bolted-Joints.pdf",
+   "s": 1520422,
+   "h": "360c9a9e23ec5adb850148501761a6ef597797cea6ef328f886e85e14ea90416",
+   "t": 1794053373,
+   "meta": {
+    "professor": "Dr. Muaz",
+    "title": "Lecture slides · Unit 3 Part 3 · Analysis of Bolted Joints",
+    "summary": "Analysis of bolted joints: bolt in tension, eccentrically loaded bolted joints in shear, and eccentric load perpendicular to the bolt axis.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-1/Lecture-Slides_Mechanics-of-Metal-Cutting_2021-22_2.pdf",
+   "s": 3568491,
+   "h": "03eb0c390bfa059b77dd233afc925e2e9282ee9f2adcdf1293c03ebf8fb64945",
+   "t": 1794053373,
+   "meta": {
+    "title": "Lecture slides · Mechanics of Metal Cutting",
+    "summary": "Metal-cutting mechanics for machine tools: cutting tool geometry, chip formation and forces, based on P.N. Rao's Manufacturing Technology Vol. 2.",
+    "kind": "slides",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-2/Lecture-Slides_Mechanization-of-Machine-Tools_2021-22.pdf",
+   "s": 3926874,
+   "h": "9be68655bcd569c7c2aac0408f440beceaa54662ac1ea05826e3c4a2777926d6",
+   "t": 1794053373,
+   "meta": {
+    "title": "Lecture slides · Mechanization of Machine Tools",
+    "summary": "Degrees of freedom and mechanization of machine tools, leading into jigs and fixtures for machining.",
+    "kind": "slides",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Unit-2/Lecture-Slides_Heat-Treatment-of-Steel_2.pdf",
+   "s": 2192699,
+   "h": "2454f00a573d7b2b83bccfdeba09999a27b44ea018167c43941dc104d953ae83",
+   "t": 1794053373,
+   "meta": {
+    "professor": "Khusro Qasim",
+    "title": "Lecture slides · Heat Treatment of Steel",
+    "summary": "Heat treatment of steel: the iron-carbon phase diagram, phases and the effect of heating and cooling on steel structure.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Complete-Notes/Class-Notes_Mechanical-Properties-of-Engineering-Materials.pdf",
+   "s": 5684034,
+   "h": "636950c9249c92c1a19b447d20a384466ca1e6aef21841132fe391d8ef448212",
+   "t": 1794053373,
+   "meta": {
+    "professor": "Khusro Qasim",
+    "title": "Class notes · Mechanical Properties and Classification of Materials",
+    "summary": "Handwritten notes on mechanical properties of engineering materials (strength, toughness, hardness, ductility) and the classification into ferrous and non-ferrous metals.",
+    "kind": "scan-handwritten",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Complete-Notes/Class-Notes_Ferrous-and-Non-Ferrous-Metals.pdf",
+   "s": 6711028,
+   "h": "ee91fd2471f5ae87d54d02c01d1f299c4a04693eb279ea120604936562cb9cd2",
+   "t": 1794053373,
+   "meta": {
+    "professor": "Khusro Qasim",
+    "title": "Class notes · Alloying Elements, Tool Steels and Non-Ferrous Metals",
+    "summary": "Handwritten notes on alloying elements, tool and high-speed steels, and non-ferrous metals and alloys with their properties and uses.",
+    "kind": "scan-handwritten",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-4/Lecture-Slides_Thin-Cylinders_2.pdf",
+   "s": 343685,
+   "h": "1da91771a082e8fb32d092862b4089080e080e4baad4ee209aacae884eddad88",
+   "t": 1794053373,
+   "meta": {
+    "professor": "Azhar Jamil",
+    "title": "Lecture slides · Thin Cylinders",
+    "summary": "Thin-walled pressure vessels: assumptions, hoop and longitudinal stresses, and applications of cylindrical and spherical vessels.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-4/Lecture-Slides_Stresses-and-Strains-in-Thin-Cylinders.pdf",
+   "s": 333347,
+   "h": "9b7649dd5a63cc482498cf5c8640b9be1657fded1e0f123d27fb7097359f7b1b",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "professor": "Azhar Jamil",
+    "title": "Lecture 2 · Thin Cylinders: Stresses and Strains",
+    "summary": "Slide deck (course MEC2110) on thin-walled cylinders: hoop and longitudinal stresses, and the three principal strains under internal pressure.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-4/Lecture-Slides_Wire-Wound-Thin-Cylinders.pdf",
+   "s": 436424,
+   "h": "7015d674a9498a6ebb2673df201e3424a2e5a783286c63a730526e39310bbb2c",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "professor": "Azhar Jamil",
+    "title": "Lecture 5 · Wire-wound Thin Cylinders",
+    "summary": "Slide deck on strengthening thin-walled tubes by winding wire under tension: need, hoop-stress reduction and design relations.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-4/Lecture-Slides_Thick-Walled-Pressure-Vessels.pdf",
+   "s": 794220,
+   "h": "90a07a7825fce2e1ef6ad02fac5c41e7176d931f6471af8692de1b9cefae6f6b",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "professor": "Azhar Jamil",
+    "title": "Lecture 6 · Thick Walled Pressure Vessels",
+    "summary": "Slide deck on thick cylinders: applications, equilibrium equations and stress distribution in thick-walled pressure vessels.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-4/Lecture-Slides_Thick-Cylinder-Internal-Pressure.pdf",
+   "s": 449366,
+   "h": "96604a6ad5bcd514d4e282b61021ecfd1ce1c7e82f4da78757c7ab5a245c2752",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "professor": "Azhar Jamil",
+    "title": "Lecture 7 · Thick Cylinder under Internal Pressure Only",
+    "summary": "Slide deck applying Lame's equations to a thick cylinder with internal pressure only, with worked boundary-condition solutions.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-4/Lecture-Slides_Lame-Line.pdf",
+   "s": 520758,
+   "h": "0fff1f3230629872ffa928b280030142b9b4c7e97eb931855c65923691aef53f",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "professor": "Azhar Jamil",
+    "title": "Lecture 8 · Lame Line (Graphical Treatment)",
+    "summary": "Slide deck on the graphical Lame line for thick cylinders: plotting hoop and radial stresses against 1/r² to solve cylinder problems.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Lecture-Slides_Measurement-of-Strains_2.pdf",
+   "s": 432366,
+   "h": "d0a527aa1704f7dacc5f4defd26db8480a16b84d02476303894eeeedc0d228a7",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "professor": "Rashid Zafar",
+    "title": "Measurement of Strains",
+    "summary": "Beamer slides on strain measurement: why stress cannot be measured directly, photoelasticity, brittle coatings, strain gauges and DIC.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Class-Notes_Stress-Tensor_2021-22.pdf",
+   "s": 3437312,
+   "h": "523ed29f5f552164885b79aed5cc81c79131c95b9cb207e0e8db218112f87b74",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 1 notes · Stress tensor and principal stresses",
+    "summary": "Handwritten class notes (2 Jan 2022): equilibrium equations in indicial notation, stress transformation and principal stresses, plane-stress equilibrium problem.",
+    "kind": "scan-handwritten",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Class-Notes_Strain-in-3D_2021-22.pdf",
+   "s": 3136739,
+   "h": "e2b0c7a92274e430ca4f2a9a85e88a8ce60308cc41914df6e5d2ca82785b8e25",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 1 notes · Strain in the 3D case",
+    "summary": "Handwritten notes (4 Feb 2022) deriving normal and shear strain components in three dimensions from the displacement field.",
+    "kind": "typed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-3/Class-Notes_Castiglianos-Theorem_2021-22.pdf",
+   "s": 3417983,
+   "h": "139b55b24979ddf55de9c7bb64853fc3958775b3f79cafa7870dc802e1540d95",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Notes · Castigliano's theorem and deflections",
+    "summary": "Handwritten notes (4 Mar 2022) on Castigliano's first theorem for deflections, with worked bar and beam examples.",
+    "kind": "typed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Class-Notes_Principal-Stresses_2021-22.pdf",
+   "s": 3436673,
+   "h": "ee29fdd95f3939863512604e09fe568abe23aaf217bd32edb725def949073eef",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 1 notes · Principal stresses and planes",
+    "summary": "Handwritten notes (7 Jan 2022) deriving the principal-angle relation and the principal stresses from the stress-transformation equations.",
+    "kind": "scan-handwritten",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-4/Class-Notes_Thin-Cylinder-Stresses_2021-22.pdf",
+   "s": 2050309,
+   "h": "3ef679aff88562d2b556516303ceef59fe29da37419f801d9bc46a89c10736a3",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 4 notes · Thin cylinders: hoop force and change in radius",
+    "summary": "Handwritten notes (10 Dec 2021) on thin cylinders: hoop force from pressure, change of radius, plus a bicycle brake-test problem.",
+    "kind": "scan",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Class-Notes_Deformation-and-Strain-Tensor_2021-22.pdf",
+   "s": 2895659,
+   "h": "e85a6640b8e9e02db83367bbfecca31dffd3ac117b70ec252a98b684c80758ba",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 1 notes · Deformation and the strain tensor",
+    "summary": "Handwritten notes (11 Feb 2022) distinguishing rigid-body motion from deformation and introducing engineering and tensorial strain tensors.",
+    "kind": "typed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-3/Class-Notes_Beam-Deflection_2021-22.pdf",
+   "s": 3556354,
+   "h": "1fdba7c28249e466d5f070eb71191acc30f7db98be008656e3e3be9ac073646e",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Notes · Beam deflection by double integration",
+    "summary": "Handwritten notes (11 Mar 2022) working a simply supported beam deflection by the double-integration method with boundary conditions.",
+    "kind": "typed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Class-Notes_Stress-Vector-and-Hookes-Law_2021-22.pdf",
+   "s": 3658383,
+   "h": "5986f9915cade999d7c987b5ed9a1c6587a185f0c340aabed79afcec95ee6465",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 1 notes · Stress vector, Cauchy relation and Hooke's law",
+    "summary": "Handwritten notes (17 Dec 2021) on the traction/stress vector, the Cauchy stress relation and generalized Hooke's law, with a worked plane-stress problem.",
+    "kind": "scan-handwritten",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Class-Notes_Constitutive-Relations_2021-22.pdf",
+   "s": 1543448,
+   "h": "aa27453c08f540b41e137e7b0a9fc017baf5dd470543731272ed535b027c6dda",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 1 notes · Compliance and stiffness matrices",
+    "summary": "Handwritten notes (18 Feb 2022) on strain–stress compliance and stiffness matrices and the isotropic material matrix with shear modulus.",
+    "kind": "typed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Class-Notes_Stress-Vector-and-Equilibrium_2021-22.pdf",
+   "s": 2428797,
+   "h": "795aaf3b9d709f43cb7d4952e51e68b2b9355a7dec2a89c9f0b7995e9f3219f1",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 1 notes · Stress vector and equilibrium",
+    "summary": "Handwritten notes on the traction (stress) vector on a plane, stress components on a differential element and the equilibrium argument behind them.",
+    "kind": "scan-handwritten",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Class-Notes_Constitutive-Relation-Thermal-Strain_2021-22.pdf",
+   "s": 3681388,
+   "h": "6f4f6c57a21031846e1955c7ff787b592b6419caf0ae233721e56e25ab904d09",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 1 notes · Constitutive relation with temperature change",
+    "summary": "Handwritten notes on total strain as mechanical plus thermal strain, thermal expansion coefficients, and worked thermal-stress problems for a constrained rod.",
+    "kind": "typed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Class-Notes_Equilibrium-of-Differential-Element_2021-22.pdf",
+   "s": 2968608,
+   "h": "c86d0b5e66714097e6ea21f66368dfe07c61ef02b7167aa1fb89a4c2ec653038",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 1 notes · Equilibrium of a differential element",
+    "summary": "Handwritten notes on equilibrium of a differential element in plane stress, body forces and Taylor-series expansion for small increments.",
+    "kind": "scan-handwritten",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Class-Notes_Stress-Strain-Relations-Cylindrical-Spherical_2021-22.pdf",
+   "s": 2471239,
+   "h": "4472cd8bd3738b9d83258fe539f7b4c794d44fe723cc902a3206a18cf63d2c09",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 1 notes · Stress–strain relations in cylindrical and spherical coordinates",
+    "summary": "Handwritten notes writing the generalized Hooke's law compliance matrix in cylindrical and spherical coordinates.",
+    "kind": "typed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-1/Class-Notes_Equilibrium-Equations-and-Indicial-Notation_2021-22.pdf",
+   "s": 2748320,
+   "h": "036716bd8d7e88f245a42a440964767424cb1df5e6f0d7a76b822dd681db0bfc",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 1 notes · Equilibrium equations and indicial notation",
+    "summary": "Handwritten notes deriving the 3-D stress equilibrium equations, symmetry of shear stresses from moment equilibrium, and mapping stress components to indicial notation.",
+    "kind": "scan-handwritten",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-4/Lecture-Slides_Thin-Spherical-Shell.pdf",
+   "s": 388994,
+   "h": "668e263ecdfffb86b7886e68a45ef75a72ef6d8d526797c5489a73be8057abb0",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 4 slides · Thin spherical shell",
+    "summary": "Slides on thin spherical pressure vessels: thin-shell criterion, membrane stresses from internal pressure and typical applications.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/Unit-4/Lecture-Slides_Thin-Cylinders-Examples.pdf",
+   "s": 499718,
+   "h": "1670a91ab5c83f5cc8ff305dc203da2be159b71766009ebf581b366c57c84c26",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 4 slides · Thin cylinders worked examples",
+    "summary": "Worked examples on thin cylinders: change in diameter and length, hoop and longitudinal stresses, and principal stresses when torsion is added.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Books-and-Resources/Brayton-Cycle_Lecture-Notes_External.pdf",
+   "s": 95205,
+   "h": "b425998415d321f6af077df1054614f1482f64b8be7e87bab5f431d753564459",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Brayton cycle — external lecture notes",
+    "summary": "External lecture notes (IIT Madras gas power cycles) on the simple gas-turbine Brayton cycle, its p-v and T-s diagrams and efficiency.",
+    "kind": "typed",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Books-and-Resources/Carnot-Cycle_Lecture-Notes_External.pdf",
+   "s": 87628,
+   "h": "7b4cf05807d1420bfb3a45e87ca927f6f386d931f169879df22cf393b8956ca4",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Carnot cycle — external lecture notes",
+    "summary": "External lecture notes on the Carnot gas cycle, its T-s diagram, the difficulty of realising it with steady-flow devices and its efficiency.",
+    "kind": "typed",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Books-and-Resources/Diesel-Cycle_Lecture-Notes_External.pdf",
+   "s": 98785,
+   "h": "d57cc9ac7d523a59d7c8da0c95de68a946a1e400cabc0041a6443a19ef7e13fc",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Air-standard Diesel cycle — external lecture notes",
+    "summary": "External lecture notes on the air-standard Diesel cycle: processes on p-v and T-s diagrams, cut-off ratio and thermal efficiency.",
+    "kind": "typed",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Books-and-Resources/Dual-Cycle_Lecture-Notes_External.pdf",
+   "s": 89721,
+   "h": "348463694c606dcf1a78c7be2a74e23d0c4d916852183cabb089265261b585c8",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Limited pressure (dual) cycle — external lecture notes",
+    "summary": "External lecture notes on the dual or limited-pressure cycle, with part of heat addition at constant volume and part at constant pressure.",
+    "kind": "typed",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Sem-End_2020-21_MEC2210.pdf",
+   "s": 127982,
+   "h": "c6f3a76195d681e69d45f05ec4b4a6e613266306cf2320b12b9b5ccd9c919429",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Sem-End 2020-21 · MCQ page",
+    "summary": "Multiple-choice questions on vapour-compression refrigeration, psychrometry and air-standard cycles from a March 2021 semester-end paper.",
+    "kind": "scan-printed",
+    "year": "2020-21",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Mid-Sem_2020-21_EMEC2210.pdf",
+   "s": 164126,
+   "h": "7411ebfd4c3606a7181d8265f9d544782433d123fb8077d1849e7339843bf332",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Mid-Sem 2020-21 · Applied Thermodynamics (EMEC2210)",
+    "summary": "B.E. winter-semester test paper (7 Mar 2021) on thermodynamic relations, a Rankine-cycle numerical, vapour-compression refrigeration and reciprocating compressors.",
+    "kind": "scan-printed",
+    "year": "2020-21",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-3/Lecture-Slides_Ericsson-Cycle.pdf",
+   "s": 70818,
+   "h": "9360ebd237ba1c28f8302054c1f4ddee724c8510a5ab64d9b2901b83130a105d",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Lecture slides · Ericsson Cycle",
+    "summary": "IIT Madras gas-power-cycle slides (section 4.3): the Ericsson cycle's two isothermal and two constant-pressure processes, heat addition and regeneration, efficiency.",
+    "kind": "typed",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-3/Lecture-Slides_Gas-Power-Cycles-Introduction.pdf",
+   "s": 46557,
+   "h": "2525337958f64d52bcdad1f9058596becb65625482b21fe7516a016acafaf7a4",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Lecture slides · Introduction to Gas Power Cycles",
+    "summary": "IIT Madras introductory slides (section 4.0): purpose and classification of thermodynamic cycles, power versus refrigeration cycles and the assumptions of cycle analysis.",
+    "kind": "typed",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-2/Class-Notes_Unit-2_2021-22.pdf",
+   "s": 6959571,
+   "h": "40edd4d5fa96ae2266d559adaa5b9dd95620973b0159b7ac59e2ed7af332aab6",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 2 notes · Gas Mixtures",
+    "summary": "Handwritten 19-page Unit 2 notes on gas mixtures: total mass and moles, mass and mole fractions, mixture molecular weight and partial molar properties.",
+    "kind": "scan-handwritten",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Z_Assignment_Rankine-Otto-Numericals.pdf",
+   "s": 150129,
+   "h": "491c82c31f1d344cd25e60793c55f55b070cff5150de18db43466ab2101e794c",
+   "t": 1794053373,
+   "meta": {
+    "author": "Haani Farooqi",
+    "source": "AMUPedia",
+    "title": "Cycle numericals · Rankine and Otto cycles",
+    "summary": "One-page typed set of practice numericals on the simple ideal Rankine cycle and the air-standard Otto cycle, with stated data and figures.",
+    "kind": "typed",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-3/Lecture-Slides_Otto-Cycle.pdf",
+   "s": 151795,
+   "h": "d2670507851eb77ef772ecb7b933b71ecc760a6f0ec081ddd8dab64575769d57",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Lecture slides · Air Standard Otto Cycle",
+    "summary": "IIT Madras slides (section 4.4): p-v and T-s diagrams of the air-standard Otto cycle, its four processes and thermal-efficiency analysis.",
+    "kind": "typed",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-3/Lecture-Slides_Rankine-Cycle.pdf",
+   "s": 73896,
+   "h": "7d865e28abef7c01502841ec85d14626c436a5d67413371475c968370c98485f",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Lecture slides · Rankine Cycle",
+    "summary": "IIT Madras vapour-power-cycle slides (section 5.2): Rankine cycle processes on p-v, T-v, h-s and T-s diagrams, with boiler, turbine, condenser and pump.",
+    "kind": "typed",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Books-and-Resources/Saturated-Refrigerant-134a-Temperature-Table.pdf",
+   "s": 6300377,
+   "h": "2f5a3695144fd9f14fa063a7e32c958ca9f0355347728b79b8ab4fd5334568e3",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Saturated refrigerant-134a table (temperature)",
+    "summary": "Six scanned pages of the saturated refrigerant-134a temperature table: saturation pressure, specific volume, internal energy, enthalpy and entropy.",
+    "kind": "scan-printed",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Books-and-Resources/Saturated-Water-Temperature-Table.pdf",
+   "s": 2704598,
+   "h": "9cb0a46174906ebe17a77c43a2b6dfea06734e9cbfd831723d7c2de3dc6136ea",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Saturated water table (temperature)",
+    "summary": "Two scanned pages of the saturated-water temperature table: saturation pressure, specific volume, internal energy, enthalpy and entropy from 0.01 °C upward.",
+    "kind": "scan-printed",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Books-and-Resources/Steam-Tables.pdf",
+   "s": 24577548,
+   "h": "c442438eb9ea1fd277d4897e2c31b7b5b48286d2519293ac5ae0b84b8d232c5b",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Steam tables · Saturated water and steam (temperature)",
+    "summary": "23 scanned pages of saturated water and steam tables in temperature form: absolute pressure, specific volume, specific enthalpy and entropy.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-3/Lecture-Slides_Stirling-Cycle.pdf",
+   "s": 77260,
+   "h": "d854ccdc6514097552eddf6f9e4616393d021a7681f698de9b698bfe7920b96c",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Lecture slides · Stirling Cycle (Regenerative)",
+    "summary": "IIT Madras slides (section 4.2): the regenerative Stirling cycle with two isothermal and two constant-volume processes, its p-v and T-s diagrams, and efficiency.",
+    "kind": "typed",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Z_Tutorial-1.pdf",
+   "s": 126435,
+   "h": "fb6ebba59c3678c1c475902f22561d4665af88b74276cf283782260eac1c42c8",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Tutorial Sheet 1 · ME-221 (thermodynamic relations)",
+    "summary": "First tutorial sheet: derivations of heat capacities from Maxwell relations, the third Tds equation, Van der Waals property relations and a sublimation-pressure problem.",
+    "kind": "typed",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Books-and-Resources/Generalized-Compressibility-Charts.pdf",
+   "s": 860249,
+   "h": "19075dc0c2277ae49c4ff81f49918c1d360371d46ea0b2f147f14ec550a5c588",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Generalized compressibility charts (Appendix D)",
+    "summary": "Three scanned pages with the Lee-Kesler simple-fluid compressibility factor chart and related equations-of-state charts for reduced pressure and temperature.",
+    "kind": "scan-printed",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-4/Lecture-Slides_Introduction-to-Refrigeration-Systems.pdf",
+   "s": 726648,
+   "h": "b9237c4d3d30ea38954b35587dd74f354cc5991f85154378eab58c4bfe2ee569",
+   "t": 1794053373,
+   "meta": {
+    "title": "Unit 4 slides · Introduction to Refrigeration Systems",
+    "summary": "Slide deck defining refrigeration versus cooling, with examples and an introduction to refrigeration systems and air conditioning.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-1_Short-Circuit-and-Open-Circuit-Test-on-Single-Phase-Transformer.pdf",
+   "s": 1525965,
+   "h": "5a85b275126e19f21488821a7d9529629748c68bb2142d31edf87eca54e8c0cf",
+   "t": 1794053373,
+   "meta": {
+    "author": "Praveen Verma",
+    "title": "Experiment 1 · SC and OC test on a single-phase transformer",
+    "summary": "Handwritten lab record of the open-circuit and short-circuit tests on a single-phase transformer, with circuit diagram, observations and calculations.",
+    "kind": "scan",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-2_Speed-Control-of-Wound-Rotor-Induction-Motor.pdf",
+   "s": 2995062,
+   "h": "1228e93f1dea4263ba70d0f06824c76445aa6ecdce422d39fff43ae63e58efe9",
+   "t": 1794053373,
+   "meta": {
+    "author": "Praveen Verma",
+    "title": "Experiment 2 · Speed control of wound-rotor induction motor",
+    "summary": "Handwritten record of speed control of a slip-ring (wound-rotor) induction motor by varying rotor-circuit resistance.",
+    "kind": "scan-printed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-5_Characteristics-of-Three-Phase-Induction-Motor.pdf",
+   "s": 3936098,
+   "h": "4fd7c6a14d374f148f64505d77db376ca88c9c047b7a47540770b734f2bbd5ce",
+   "t": 1794053373,
+   "meta": {
+    "author": "Praveen Verma",
+    "title": "Experiment 5 · Characteristics of a three-phase induction motor",
+    "summary": "Handwritten lab record of the load test determining the characteristics of a three-phase induction motor.",
+    "kind": "scan-printed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-6_Static-Characteristics-of-SCR.pdf",
+   "s": 1480162,
+   "h": "e10e4fade284caab96e3eb4c79a6ad8e66d342d9ad8b533bd0c0c36830a63ef4",
+   "t": 1794053373,
+   "meta": {
+    "author": "Praveen Verma",
+    "title": "Experiment 6 · Static characteristics of an SCR",
+    "summary": "Handwritten lab record of the experiment measuring the static V-I characteristics of a silicon controlled rectifier.",
+    "kind": "scan-printed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-7_TRIAC-and-AC-Phase-Control.pdf",
+   "s": 3515841,
+   "h": "81ea3d3e4da15b47c98e612d49f536628934710f9e61fc6926c6fbc0fc925d11",
+   "t": 1794053373,
+   "meta": {
+    "author": "Praveen Verma",
+    "title": "Experiment 7 · TRIAC and AC phase control",
+    "summary": "Handwritten lab record on TRIAC-based AC phase control, with circuit diagram, observations and waveforms.",
+    "kind": "scan-printed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiment-8_Speed-Control-of-Universal-Motor-by-SCR.pdf",
+   "s": 4352116,
+   "h": "a3ce2b9ec4b16effae2cfad80cec42d2bbe7f3bc730464b8cd6f250ab0720009",
+   "t": 1794053373,
+   "meta": {
+    "author": "Praveen Verma",
+    "title": "Experiment 8 · Speed control of a universal motor by SCR",
+    "summary": "Handwritten lab record on speed control of a universal motor using an SCR-based circuit.",
+    "kind": "scan-printed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2972_Electrical-Technology-Lab/Records/Experiments-1-to-8_Lab-Record_2021-22.pdf",
+   "s": 17884411,
+   "h": "eea743a20e06542d78b26b4c4098db1a884c886a8c8529618f9e053f661f7ea9",
+   "t": 1794053373,
+   "meta": {
+    "author": "Praveen Verma",
+    "title": "Electrical Technology Lab record · Experiments 1–8",
+    "summary": "Complete 42-page handwritten lab record of the electrical technology lab, from the transformer OC/SC test through the SCR and TRIAC experiments.",
+    "kind": "scan-printed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/_Curriculum/BTech-AI_Course-Structure-and-Curriculum.pdf",
+   "s": 1255027,
+   "h": "880e57fa843bf4a4537e2d0072157cc803007d82eca8d5640a19a99267123ddb",
+   "t": 1794053373,
+   "meta": {
+    "title": "B.Tech AI · Course structure and curriculum",
+    "summary": "Semester-wise course structure of the B.Tech in Artificial Intelligence with course codes, credits and marks distribution.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/_Curriculum/BTech-AI_Semester-3_Syllabi_2021-22.pdf",
+   "s": 769988,
+   "h": "a72feaca0843c4998d3a4f9f50652898fa441c6383a273074112d234b4d06b6f",
+   "t": 1794053373,
+   "meta": {
+    "title": "B.Tech AI Semester 3 · Syllabi bundle 2021-22",
+    "summary": "46-page bundle of the 2021-22 AI-branch semester-3 syllabi, beginning with AIE2020 Introduction to Artificial Intelligence and AIC2040 Principles of Machine Learning.",
+    "kind": "typed",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Syllabus/AIE2020_Old-Syllabus_2021-22.pdf",
+   "s": 395865,
+   "h": "25c8248442451f427c2913e0969c9dc24fc15ee71dbb4da42952421d6768b899",
+   "t": 1794053373,
+   "meta": {
+    "title": "Introduction to Artificial Intelligence · Syllabus 2021-22 (AIE2020)",
+    "summary": "Two-page 2021-22 syllabus of Introduction to Artificial Intelligence (AIE2020/AIC2020) with objectives, outcomes, four units and reference books.",
+    "kind": "typed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Syllabus/AIC2040_Old-Syllabus_2021-22.pdf",
+   "s": 338931,
+   "h": "6b208f561e76f272bb9c2fd895f57356aafa5565c832ff36da5c22e43fcdc064",
+   "t": 1794053373,
+   "meta": {
+    "title": "Principles of Machine Learning · Syllabus 2021-22 (AIC2040)",
+    "summary": "One-page 2021-22 syllabus of Principles of Machine Learning (AIC2040) listing the four units and reference books.",
+    "kind": "typed",
+    "year": "2021-22",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Unit-1/Class-Notes_Unit-1_BJT-Problems.pdf",
+   "s": 1422343,
+   "h": "82e5b3ccf4c1f13fbba33af766ccb4e7b9d156c0f46eb600a5b89a6909074ae3",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 1 notes · Solved BJT DC-analysis problems",
+    "summary": "Handwritten worked solutions for transistor DC analysis: finding active mode, base/collector/emitter currents with KVL on input and output loops.",
+    "kind": "scan-handwritten",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Unit-1/Lecture-Slides_Schottky-Diode.pdf",
+   "s": 407143,
+   "h": "69b4c4c7a51340e26483d2a678f2ebeb1b548bea952ec9654a1ac6f208865934",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 1 slides · Schottky Diode",
+    "summary": "Slide deck on the metal-semiconductor Schottky diode: symbol, construction, forward and reverse characteristics and comparison with a p-n junction diode.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Unit-1/Lecture-Slides_Tunnel-Diode.pdf",
+   "s": 297149,
+   "h": "41e2a50cc7dec860808609aedff756ff58526022733e46ddfcb16275115a399d",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "title": "Unit 1 slides · Tunnel Diode",
+    "summary": "Slide deck on the tunnel diode: heavy doping, tunnelling effect, V-I characteristic with negative resistance region and applications.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Unit-4/Lecture-Slides_Frequency-Response-of-Amplifiers.pdf",
+   "s": 4105195,
+   "h": "6945cb86250fb6c0e39d1ce6e7941a260829333b68dc3ca7c81291990668dcd2",
+   "t": 1794053373,
+   "meta": {
+    "source": "AMUPedia",
+    "professor": "Rafeeda",
+    "title": "Unit 4 slides · Frequency Response of Amplifiers",
+    "summary": "34-slide deck on amplifier frequency response: gain-versus-frequency behaviour, low- and high-frequency effects, bandwidth and Bode plots.",
+    "kind": "slides",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/_General-PYQs/Mid-Sem_Sem4-Papers-Collection_2.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Mid-Sem_2021-22_MEC2110.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2021-22_MEC2110.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/PYQs-and-Assignments/Mid-Sem-1_2021-22_MEC2120.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Records/Experiment-2_COP.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-1/Class-Notes_Unit-1.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-1/Class-Notes_Availability.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Unit-2/Class-Notes_1.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-2/Class-Notes_Unit-2.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Complete-Notes/Lecture-Slides_Universal-Motors.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-1/Class-Notes_1.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control/Unit-1/Class-Notes_1_2.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-1/Lecture-Slides_Introduction.pdf",
+   "meta": {
+    "credit": "Hasan, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-4/Lecture-02_Functional-Elements-of-a-Measurement-System.pdf",
+   "meta": {
+    "credit": "Hasan, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-4/Lecture-04_Functional-Elements-in-Detail.pdf",
+   "meta": {
+    "credit": "Hasan, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-3/Lecture-Slides_Measurement-of-Pressure.pdf",
+   "meta": {
+    "credit": "Hasan, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-3/Lecture-Slides_Measurement-of-Temperature.pdf",
+   "meta": {
+    "credit": "Hasan, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-3/Lecture-Slides_Measurement-of-Torque.pdf",
+   "meta": {
+    "credit": "Hasan, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Z_Tutorial_Prob-Unit-2-Ha.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Unit-4/Class-Notes_Signal-Conditioning-Element.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Books-and-Resources/Statistical-Tables_Appendix-A.pdf",
+   "meta": {
+    "credit": "Hasan, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Syllabus/AMS2310_Syllabus_Lecture-Plan-Unit-1.pdf",
+   "meta": {
+    "credit": "Hasan, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Class-Notes_Unit-1_Complex-Differentiation.pdf",
+   "meta": {
+    "credit": "Hasan, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-3/Examples-15_Gradient-Divergence-Curl.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-2/Class-Notes_Residues_Unit-2.pdf",
+   "meta": {
+    "credit": "Hasan, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-2/Class-Notes_Taylor-and-Laurent-Series_Unit-2.pdf",
+   "meta": {
+    "credit": "Hasan, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/PYQs-and-Assignments/Z_Assignment.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-4/Lecture-Slides_Design-of-Hollow-and-Solid-Shafts.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-4/Lecture-Slides_Design-of-Keys.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-2/Lecture-Slides_Part-3_Fatigue-Under-Combined-Stresses.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-2/Lecture-Slides_Part-2_Cumulative-Fatigue-Damage.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-Slides_Part-2_Threaded-Joints.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-Slides_Part-4_Rivets-and-Riveted-Joints.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-Slides_Part-6_Power-Screws.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-Slides_Part-1.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Lecture-Slides_Part-5_Failure-of-Riveted-Joints.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-4/Lecture-Slides_Design-of-Keys-Contd.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3/Class-Notes_Unit-3.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-2/Lecture-Slides_Design-Against-Fluctuating-Load.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-1/Class-Notes_Farooq-Upto-Mid-Sem.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Unit-4/Class-Notes_Metrology.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-3/Class-Notes_Unit-3.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-4/Class-Notes_Unit-4.pdf",
+   "meta": {
+    "credit": "Farhan Baig, Md Yousuf, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-1/Class-Notes_Unit-1_2024-25_2.pdf",
+   "meta": {
+    "credit": "Farhan Baig, Md Yousuf, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-2/Class-Notes_Unit-2-Ams.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/PYQs-and-Assignments/Z_Assignment_2022-23_1_Assignment.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/PYQs-and-Assignments/Z_Assignment_2022-23_1_Solution.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/PYQs-and-Assignments/Z_Assignment_2022-23_2_Speech Recgnition.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Books-and-Resources/Artificial Intelligence - A Modern Approach by Russel.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-1/2022-23_1.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-1/2022-23_2.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-1/2022-23_3.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-1/2022-23_4.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-1/2022-23_5.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-2/2022-23_1.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-2/2022-23_2.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-3/2022-23_Baysian Network.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-3/2022-23_Decision Network.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-3/2022-23_Expectation Maximization.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-3/2022-23_Hidden Markov Model.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-3/2022-23_Machine Learning 2.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-3/2022-23_Machine Learning.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-3/2022-23_Reasioning Under Certainty.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-4/2022-23_AI in Computer_Vision.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-4/2022-23_AI in Robotics.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-4/2022-23_Computer_Vision1.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-4/2022-23_Computer_Vision2.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-4/2022-23_Limitation of AI.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/Unit-4/2022-23_nlp_AI.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/PYQs-and-Assignments/Mid-Sem_2022-23.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/PYQs-and-Assignments/Z_Assignment_2022-23_1_Assignment.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/PYQs-and-Assignments/Z_Assignment_2022-23_1_Solution.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/PYQs-and-Assignments/Z_Assignment_2022-23_2_Home Assignment-II (AIC2040).pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Books-and-Resources/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Books-and-Resources/Ethem Alpaydin-Introduction to Machine Learning-The MIT Press (2014).pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Books-and-Resources/Introduction to machine learning.pdf",
+   "meta": {
+    "credit": "PDF Drive, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-1/2022-23_Introduction to Machine Learning.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-2/2022-23_Decision Tree Classifiers.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-2/2022-23_Evaluating and Debugging.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-2/2022-23_Expectation Maximization.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-2/2022-23_Factor Analysis.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-2/2022-23_Gaussian Mixture Model.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-2/2022-23_Generative VS Discriminative.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-2/2022-23_K-Means and Clustering.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-2/2022-23_Model Selection and Feature selection.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-2/2022-23_PCA questions.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-2/2022-23_PCA.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-2/2022-23_Regression.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-2/2022-23_Supervised Learning.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-2/2022-23_neural network.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-3/2022-23_15.ICA_FA.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-3/2022-23_16. Q_Learning.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-3/2022-23_16. ReinforcementLearning_MDP_ValueIterationPolicyIteration.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-3/2022-23_Deep Learning and it_s Type.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/Unit-3/2022-23_Deep Learning.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AIC2042-COE4610_Principles-of-Machine-Learning/PYQs-and-Assignments/Mid-Sem_2022-23.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/PYQs-and-Assignments/Z_Assignment_2022-23_Assignment.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Books-and-Resources/Lipschutz_Schaums-Outline_Data-Structures-with-C_scan-554pp.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Books-and-Resources/Thareja_Data-Structures-Using-C.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Books-and-Resources/Lipschutz_Schaums-Outline_Data-Structures-with-C.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-1/Lecture-01_Introduction.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-3/Lecture-10_Tree.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-3/Lecture-11_Graph.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-1/Lecture-02_Algorithm-Notation-Pseudocode.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-1/Lecture-03_Algorithmic-Complexity.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-2/Lecture-04_Arrays.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-4/Lecture-05_Sorting-Algorithms.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-4/Lecture-06_Hashing.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-2/Lecture-07_Linked-Lists.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-2/Lecture-08_Stacks.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-2/Lecture-09_Queue.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-1/Abstract-Data-Types.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-1/Algorithm-Trace-Table.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/PYQs-and-Assignments/Sem-End_2019-20_COC2060.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/PYQs-and-Assignments/Sem-End_2022-23_COC2060.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/PYQs-and-Assignments/Mid-Sem_2022-23.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/PYQs-and-Assignments/Z_Quiz_2022-23_Quiz-1.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/PYQs-and-Assignments/Z_Quiz_2022-23_Quiz-2.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/PYQs-and-Assignments/Z_Assignment_2022-23_1.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/PYQs-and-Assignments/Z_Assignment_2022-23_Solution.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Books-and-Resources/DIGITAL PRINCIPLES AND APPLICATION BY LEACH & MALVINO.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Books-and-Resources/Digital Design, 5th Edition by M Morris Mano and Michael Ciletti.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Books-and-Resources/Digital Logic And Computer Design By M. Morris Mano (2nd Edition).pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Lecture-01_Number-System.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Lecture-10_Two-Level-Implementations.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Lecture-11_Tabulation-Method.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Lecture-02_Binary-Number-System.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Lecture-03_Complements-of-Numbers.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Lecture-04_Subtraction-by-Complementation.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/2022-23_Lecture 5.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Lecture-06_Boolean-Algebra.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Lecture-07_Boolean-Functions.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Lecture-08_Simplification-of-Boolean-Functions.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Lecture-09_Karnaugh-Maps.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-2/Lecture-12_Combinational-Circuits.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-2/Lecture-13_Adders-and-Magnitude-Comparators.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-2/Lecture-14_Decoder-and-Demultiplexer.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-2/Lecture-15_Encoder-and-Multiplexer.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-2/Lecture-16_ROM.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-2/Lecture-17_ROM-and-PLA.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-2/Lecture-18_Parity-bit-generator-and-checker.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-3/Lecture-19_Sequential-Systems.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-3/Lecture-20_JK-and-T-Flip-Flops.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-3/Lecture-21_Excitation-Tables.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-3/Lecture-22_Design-of-Sequential-Circuits.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-3/Lecture-23_Counters-and-Registers.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-3/Lecture-24_Shift-Registers.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-3/2022-23_Lecture 25.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-3/Lecture-26_RAM.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/2022-23_Additional.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/Lecture-27_Register-Transfer-Logic.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/Lecture-28_Continuing-with-Register-Transfer-Logic.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/Lecture-29_A-Simple-Computer.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/Lecture-30_Arithmetic-Circuit-Design.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/Lecture-31_ALU-Design.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/Lecture-32_ALU-Design-continued.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/Lecture-33_Control-Signals-for-the-Processor.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/Lecture-34_Accumulator-Design.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/2022-23_Screenshot_1.jpg",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/CO207_Logic-Theory-and-Computer-Organization/PYQs-and-Assignments/Sem-End_2012-13_CO202.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/CO207_Logic-Theory-and-Computer-Organization/PYQs-and-Assignments/Sem-End_2013-14_CO202.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/CO207_Logic-Theory-and-Computer-Organization/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/CO207_Logic-Theory-and-Computer-Organization/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/PYQs-and-Assignments/Sem-End_2018-19_COC2070.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/PYQs-and-Assignments/Sem-End_2019-20_COC2070.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/PYQs-and-Assignments/Sem-End_2022-23_COC2070.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/PYQs-and-Assignments/Mid-Sem_2022-23.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/PYQs-and-Assignments/Z_Assignment_2022-23_AMS2610-Assignment_2022-23.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Books-and-Resources/[PDF] Numerical Methods for Scientific and Engineering Computation_M. K. Jain, S. R. K. Iyengar and R. K. Jain _ WIAC.INFO.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Complete-Notes/2022-23_Mam_UNIT 1.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Complete-Notes/2022-23_Mam_UNIT 2.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Complete-Notes/2022-23_Mam_UNIT 3.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Complete-Notes/2022-23_Mam_UNIT 4.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-1/Examples-19-20_Analytic-Functions-and-Line-Integrals.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-1/Class-Notes-3_2021-12-03.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-2/Evaluation-of-Real-Integrals.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-1/Examples-19_Harmonic-Conjugates_Q11-20.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-1/Harmonic-Functions.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-1/2022-23_Sir_Unit-1-and-2_Lecture-1.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-1/2022-23_Sir_Unit-1-and-2_Lecture-2.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-1/2022-23_Sir_Unit-1-and-2_Lecture-6.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-1/2022-23_Sir_Unit-1-and-2_Lecture-7.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-1/2022-23_Sir_Unit-1-and-2_Lecture-8.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-2/Complex_Lecture-9_Jordans-Lemma.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-1/Complex-Line-Integrals.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-2/Singularities.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-2/Taylor-and-Laurent-Series.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-3/Vector_Lecture-1_Scalar-and-Vector-Fields.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-3/Vector_Lecture-2_Directional-Derivative.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-3/Vector_Lecture-3_Gradient.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-3/Vector_Lecture-4_Curl-and-Divergence.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-3/Vector_Lecture-5_Curl-Examples.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-3/Vector_Lecture-6_Irrotational-and-Potential-Fields.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-4/Vector_Lecture-7_Vector-Line-Integrals.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-4/Vector_Lecture-8.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-4/Vector_Lecture-9_Surface-and-Volume-Integrals.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2013-14_AM261.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2015-16_Set-3.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2018-19_Set-2.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2019-20_AM261.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2022-23_AMS2610.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Z_Assignment_2022-23_Assingment.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Z_Assignment_2022-23_Solution.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Unit-1/2022-23_Bipolar Junction transistor_p.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Unit-1/2022-23_MOSFET_part1_p.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Unit-1/MOSFET-Review_part2.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Unit-1/Varactor-Diode.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Unit-2/2022-23_1.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Unit-2/2022-23_2.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Unit-2/2022-23_3.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Unit-3/2022-23_Unit-III_part1_p.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Unit-3/2022-23_Unit-III_part2_p.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Unit-3/2022-23_Unit-III_part3_p.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Unit-4/2022-23_Unit 4 (Kashif Sir).pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Unit-5/2022-23_Unit 5 part 1.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Unit-5/2022-23_Unit 5 part 2.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2018-19_ELA2110.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2019-20_ELA2110.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Sem-End_2022-23_ELA2110.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Mid-Sem_2022-23.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/Syllabus/EZH2910_Syllabus_2021-22_EZH2910.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/PYQs-and-Assignments/Z_Other_Viva-Questions.txt",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/PYQs-and-Assignments/Z_Assignment_2022-23_Advertisement.jpeg",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/PYQs-and-Assignments/Z_Assignment_2022-23_COVER LETTER.docx",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/PYQs-and-Assignments/Z_Assignment_2022-23_CV.docx",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/Books-and-Resources/English.for.Business.Communication_Student_s.Book_2003.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/Books-and-Resources/Professional+Writing,+4th+Edition+(2020).pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Records/Unit-14.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Records/some business terms.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Records/letter writing.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Records/Unit-7.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/Complete-Notes/2022-23_Unit-8.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/Books-and-Resources/Presentation_2022-23_Artificial Intelligence_ a bane or boon_.pptx",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/Books-and-Resources/Presentation_2022-23_UNEMPLOYMENT IN INDIA.pptx",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  }
+ ]
+}
