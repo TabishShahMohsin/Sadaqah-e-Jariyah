@@ -8,6 +8,7 @@
 
 Paths inside the work folder are stored relative to the repo ("@REPO/…") so a work folder can move between machines."""
 import json
+from concurrent.futures import ThreadPoolExecutor
 import os
 import time
 
@@ -79,12 +80,7 @@ def prepare(items, work, rules, budget, log=print, save=None):
             items.append(extra)
         it["prep_converted"] = True
         checkpoint()
-    n = 0
-    for it in items:                            # evidence: text, OCR, profile, fingerprints, page images
-        if it.get("prep_inspected") or it.get("outcome"):
-            continue
-        if out_of_time():
-            return False
+    def evidence_for(it):
         if it.get("path") and os.path.exists(it["path"]):
             evidence.inspect(it)
             if not it.get("orig_sha") and it.get("orig_path") and os.path.exists(it["orig_path"]):
@@ -101,8 +97,15 @@ def prepare(items, work, rules, budget, log=print, save=None):
                     texts.append(evidence.pdf_text(it["path"], p, p)[:4000])
                 it["page_texts"] = texts
         it["prep_inspected"] = True
-        n += 1
-        checkpoint()
+
+    todo = [it for it in items if not it.get("prep_inspected") and not it.get("outcome")]
+    workers = max(1, min(4, os.cpu_count() or 1))
+    with ThreadPoolExecutor(workers) as pool:  # evidence: text, OCR, profile, fingerprints, page images
+        for k in range(0, len(todo), workers * 2):
+            if out_of_time():
+                return False
+            list(pool.map(evidence_for, todo[k:k + workers * 2]))   # OCR and rendering run in subprocesses/C code
+            checkpoint()
     log(f"  prepared: {len(items)} items")
     return True
 
