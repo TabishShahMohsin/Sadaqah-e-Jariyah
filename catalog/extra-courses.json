@@ -1,0 +1,37 @@
+{
+ "courses": {
+  "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3920_Communication-Lab-I": {
+   "title": "Communication Lab-I",
+   "codes": [
+    "ELC3920"
+   ],
+   "be": [],
+   "old": [],
+   "progs": {},
+   "kind": "lab",
+   "evidence": "department lab report covers and lab manual headings (shared by Afzal Malik, 2023-24)"
+  },
+  "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3940_Communication-Lab-II": {
+   "title": "Communication Lab-II",
+   "codes": [
+    "ELC3940"
+   ],
+   "be": [],
+   "old": [],
+   "progs": {},
+   "kind": "lab",
+   "evidence": "'ELC3940 Communication Lab-II - List of Experiments', 2023-24, Department of Electronics Engineering"
+  },
+  "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC4910_VLSI-and-Signal-Processing-Lab": {
+   "title": "VLSI and Signal Processing Lab",
+   "codes": [
+    "ELC4910"
+   ],
+   "be": [],
+   "old": [],
+   "progs": {},
+   "kind": "lab",
+   "evidence": "'ELC4910 list of experiments 2024-25' course outline and lab report cover"
+  }
+ }
+}

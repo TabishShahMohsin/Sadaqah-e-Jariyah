@@ -29,6 +29,10 @@ class Archive:
         self.local_root = local_root  # set when the archive files themselves are on this machine
         pg_path = os.path.join(repo, "catalog", "programmes.json")
         self.pg = json.load(open(pg_path, encoding="utf-8")) if os.path.exists(pg_path) else {"programmes": [], "courses": {}}
+        ex_path = os.path.join(repo, "catalog", "extra-courses.json")   # courses proven by material but missing from the curricula
+        if os.path.exists(ex_path):
+            for k, v in json.load(open(ex_path, encoding="utf-8")).get("courses", {}).items():
+                self.pg.setdefault("courses", {}).setdefault(k, v)
         self.folders = sej.courses(state)  # course path → {sections}
         self.known = set(self.folders) | set(self.pg.get("courses", {}))  # the curriculum counts even before any file exists
         self.by_course = {}
