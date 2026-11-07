@@ -62,7 +62,13 @@ class _Base:
 
     def _post(self, url, body, headers):
         for attempt in range(8):
-            r = requests.post(url, json=body, headers=headers, timeout=600)
+            try:
+                r = requests.post(url, json=body, headers=headers, timeout=600)
+            except (requests.ConnectionError, requests.Timeout, requests.exceptions.ChunkedEncodingError) as e:
+                if attempt < 7:      # dropped or cut-off connection: wait and ask again
+                    time.sleep(5 * (attempt + 1))
+                    continue
+                raise RuntimeError(f"network: {type(e).__name__}") from e
             if r.status_code in (429, 500, 502, 503, 529) and attempt < 7:
                 wait = r.headers.get("retry-after")
                 time.sleep(min(90, float(wait) + 1 if wait and wait.replace(".", "").isdigit() else 10 * (attempt + 1)))

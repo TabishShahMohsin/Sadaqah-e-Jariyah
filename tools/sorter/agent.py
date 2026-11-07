@@ -336,7 +336,7 @@ def run(items, archive, ctx, call, conventions, upload_text, log=print, on_batch
         for turn in range(MAX_TURNS):
             try:
                 resp = call({"system": system, "tools": TOOLS, "max_tokens": 8000, "messages": messages})
-            except RuntimeError as e:           # one failing batch shouldn't sink the others; it is retried next run
+            except Exception as e:  # noqa: BLE001 — one failing batch shouldn't sink the others; it is retried next run
                 log(f"  batch {bi} stopped: {str(e)[:200]}")
                 return
             content = resp.get("content", [])
