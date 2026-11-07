@@ -162,7 +162,8 @@ def cmd_prepare(a):
         meta = {"slug": slug, "inputs": [os.path.abspath(p) for p in a.paths], "credit": a.credit, "note": a.note,
                 "permission": a.permission, "items": items}
         print(f"{slug}: {len(items)} files collected")
-    done = stages.prepare(items, work, rules, a.budget)
+    meta["prepared"] = False
+    done = stages.prepare(items, work, rules, a.budget, save=lambda: stages.save_json(ip, meta, REPO))
     meta["prepared"] = done
     stages.save_json(ip, meta, REPO)
     left = sum(1 for it in items if not it.get("prep_inspected") and not it.get("outcome"))

@@ -44,7 +44,7 @@ def page_image(work, it, page):
     return os.path.join(work, "pages", f"{it['id']}-{page}.jpg")
 
 
-def prepare(items, work, rules, budget, log=print):
+def prepare(items, work, rules, budget, log=print, save=None):
     """Advance every item one step at a time until done or out of time. Returns True when everything is prepared."""
     t0 = time.time()
     out_of_time = lambda: budget and time.time() - t0 > budget   # noqa: E731
@@ -69,6 +69,8 @@ def prepare(items, work, rules, budget, log=print):
             extra["prep_collected"] = extra["prep_converted"] = True
             items.append(extra)
         it["prep_converted"] = True
+        if save and i % 20 == 0:
+            save()
     n = 0
     for it in items:                            # evidence: text, OCR, profile, fingerprints, page images
         if it.get("prep_inspected") or it.get("outcome"):
@@ -90,6 +92,8 @@ def prepare(items, work, rules, budget, log=print):
                 it["page_texts"] = texts
         it["prep_inspected"] = True
         n += 1
+        if save and n % 20 == 0:
+            save()
     log(f"  prepared: {len(items)} items")
     return True
 
