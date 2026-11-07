@@ -19,7 +19,7 @@ Options for plan:
     --link URL             a link to include (repeatable); Drive folders/files are downloaded when DRIVE_API_KEY is set
     --limit N              only the first N files (to try it out)
 
-Needs ANTHROPIC_API_KEY. Model: SEJ_MODEL (default claude-sonnet-5-5).
+AI provider: catalog/llm-config.json or SEJ_PROVIDER + SEJ_API_KEY + SEJ_MODEL (see tools/sorter/llm.py).
 """
 import argparse
 import json
@@ -107,7 +107,8 @@ def cmd_plan(a):
         note += f"\n(Credit for this upload: {a.credit})"
     if a.permission:
         note += f"\n(The maintainer has permission from {a.permission} to publish this material, books included.)"
-    call = agent.ApiClient()
+    from sorter import llm
+    call = llm.client()
     print(f"Sorting {len(items)} inputs as '{slug}'")
     notes = pipeline.sort(items, archive=archive, rules=rules, workdir=work, upload_text=note.strip(), call=call,
                           conventions=load_conventions(), permission=a.permission, log=print)

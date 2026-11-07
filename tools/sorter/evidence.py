@@ -191,6 +191,11 @@ def inspect(it):
     if info["tl"] < 40 and ext in ("pdf", "jpg", "jpeg", "png"):  # a scan or photo: read the first page
         info["ocr"] = util.norm_space(ocr_page(path, ext, 1))[:6000]
     body = info.get("text", "") if info["tl"] >= 40 else info.get("ocr", "")
+    try:
+        from . import profile as _profile
+        it["profile"] = _profile.profile(path, ext)
+    except Exception as e:  # noqa: BLE001 — the profile is a hint, never a blocker
+        it["profile"] = {"error": type(e).__name__}
     info["tsig"] = text_sig(info.get("text", ""))
     info["mh"] = minhash(shingles(body)) if len(re.sub(r"\s", "", body)) > 80 else None
     it["info"] = info
@@ -212,10 +217,16 @@ def summary(it, n=700):
     for k in ("title", "author", "creator"):
         if i.get(k):
             bits.append(f"{k}={json.dumps(i[k], ensure_ascii=False)}")
-    scanned = i.get("tl", 0) < 40 and it["ext"] in ("pdf", "jpg", "png")
+    pr = it.get("profile") or {}
+    if pr.get("kind"):
+        from . import profile as _profile
+        bits.append("profile: " + _profile.describe(pr))
+    scanned = i.get("tl", 0) < 40 and it["ext"] in ("pdf", "jpg", "jpeg", "png")
+    handwritten = pr.get("kind") == "scan-handwritten" or pr.get("handwritten")
     if scanned:
-        bits.append("scanned/handwritten" + (": text below is OCR of page 1, may be garbled" if i.get("ocr", "").strip() else ": use view"))
+        bits.append("handwritten: OCR is useless, use view to read it" if handwritten else
+                    "scanned" + (": text below is OCR of page 1" if i.get("ocr", "").strip() else ": use view"))
     head = "  ".join(bits)
-    txt = re.sub(r"[ \t]+", " ", i.get("ocr", "") if scanned else i.get("text", "")).strip()
+    txt = "" if (scanned and handwritten) else re.sub(r"[ \t]+", " ", i.get("ocr", "") if scanned else i.get("text", "")).strip()
     txt = re.sub(r"\n{2,}", "\n", txt)[:n]
     return head + ("\n  text: " + txt.replace("\n", " ⏎ ") if txt else "")

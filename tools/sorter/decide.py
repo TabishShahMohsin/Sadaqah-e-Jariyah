@@ -9,6 +9,35 @@ YEAR_RE = re.compile(r"^(19|20)\d\d-\d\d$")
 BRANCH_LEVEL = ("_General-PYQs", "_Curriculum")
 
 
+def describe_meta(d, it, course_path):
+    """professor (canonical from the teacher registry), author, source, title, summary, kind. Returns (meta, flags)."""
+    from . import people
+    meta, flags = {}, []
+    for k in ("author", "source"):
+        v = util.clean_text(d.get(k), 60)
+        if v:
+            meta[k] = v
+    prof = util.clean_text(d.get("professor"), 60)
+    if prof:
+        course = "/".join(course_path.split("/")[:4])
+        hit = people.Registry().match(prof, course=course)
+        if hit:
+            meta["professor"] = hit["name"]
+        else:
+            meta["professor"] = prof
+            flags.append(f"new teacher: {prof}")
+    title = util.clean_text(d.get("title"), 90)
+    if title:
+        meta["title"] = title
+    summ = util.clean_text(d.get("summary"), 220)
+    if summ:
+        meta["summary"] = summ
+    kind = (it.get("profile") or {}).get("kind")
+    if kind and kind not in ("other",):
+        meta["kind"] = kind
+    return meta, flags
+
+
 class Context:
     def __init__(self, archive, rules, items, permission=None):
         self.archive, self.rules, self.permission = archive, rules, permission
@@ -111,11 +140,9 @@ class Context:
         err = self.rules.check_format(folder, name)
         if err:
             return None, err
-        meta = {}
-        for k in ("professor", "author", "source"):
-            v = util.clean_text(d.get(k), 60)
-            if v:
-                meta[k] = v
+        meta, flags = describe_meta(d, it, folder)
+        if flags:
+            base["flags"] = (base.get("flags", []) + flags)[:6]
         y = str(d.get("year") or "").strip()
         if y:
             if not YEAR_RE.match(y):

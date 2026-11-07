@@ -8,8 +8,8 @@ import requests
 
 from . import dedup, evidence
 
-MODEL = os.environ.get("SEJ_MODEL") or "claude-sonnet-5-5"  # empty repo variable → default
-BATCH = 25            # files per conversation
+MODEL = os.environ.get("SEJ_MODEL") or "claude-sonnet-5-5"  # used only by the old ApiClient; see llm.py
+BATCH = int(os.environ.get("SEJ_BATCH") or 25)   # files per conversation (2-3 for free tiers)
 MAX_TURNS = 40        # model calls per batch
 MAX_VIEWS = 45        # page images per batch
 
@@ -21,6 +21,9 @@ TOOLS = [
     {"name": "list_course", "description": "File names already in a course (optionally one section), to pick consistent names, "
      "years and to spot copies.", "input_schema": {"type": "object", "properties": {
          "course": {"type": "string"}, "section": {"type": "string"}}, "required": ["course"]}},
+    {"name": "teachers", "description": "Known teachers: those recorded for a course, and the registry entries matching names "
+     "you saw on a file (any spelling, e.g. 'Sufyan sir'). Use the canonical name it returns as 'professor'.",
+     "input_schema": {"type": "object", "properties": {"course": {"type": "string"}, "names": {"type": "array", "items": {"type": "string"}}}}},
     {"name": "view", "description": "See one page of a file (PDF page or image) with its text. Use it for scans, handwriting, "
      "unclear files and whenever the header/first page decides where it goes.", "input_schema": {"type": "object", "properties": {
          "id": {"type": "string"}, "page": {"type": "integer", "minimum": 1}}, "required": ["id"]}},
@@ -44,6 +47,8 @@ TOOLS = [
          "name": {"type": "string", "description": "file name per CONVENTIONS.md, with the file's extension"},
          "professor": {"type": "string"}, "author": {"type": "string"}, "year": {"type": "string", "description": "YYYY-YY"},
          "source": {"type": "string", "description": "where it came from if the upload says so, e.g. AMU Cloud"},
+         "title": {"type": "string", "description": "what students see in the list, e.g. 'Lecture 5 · Binary Codes and Binary Logic' (no teacher name; it is shown separately)"},
+         "summary": {"type": "string", "description": "one sentence on what the file covers, max ~30 words"},
          "of": {"type": "string"}, "category": {"type": "string"}, "reason": {"type": "string"},
          "confidence": {"type": "number"}, "flags": {"type": "array", "items": {"type": "string"}}},
          "required": ["id", "action", "reason"]}}}, "required": ["decisions"]}},
@@ -78,8 +83,14 @@ Every file you are given must end with exactly one decision. Work like a careful
    personal_data (other people's enrolment/faculty numbers, phone numbers, marks or attendance lists, ID cards, filled
    forms), not_study_material, out_of_scope (not B.Tech/B.E. at AMU), unreadable, still_due (answers to work still due).
    A student's own name on their own notes is fine. When unsure, choose review and say what to check.
-7. Metadata: professor = who taught it (from slides, headers, or the upload's words such as "Rashid Sir");
-   author = who wrote handwritten notes if signed (initials count when the upload explains them); year = academic year.
+7. Metadata: professor = who taught it (from slides, headers, or the upload's words such as "Rashid Sir"). Each file's
+   'profile' line lists names already found on its first pages; check them with the teachers tool and use the canonical
+   name it returns. A name on a slide that is a cited book author is not the professor. A name that isn't in the
+   registry may still be right: use it as written, it is flagged for a person to confirm. author = who wrote
+   handwritten notes if signed (initials count when the upload explains them); year = academic year.
+   title = the name students see in the list ("Lecture 5 · Binary Codes and Binary Logic", "Unit 2 notes ·
+   Power Quality", "Sem-End 2023-24"), summary = one sentence on what it covers. Handwritten files: view page 1 (and
+   another page if needed) before writing title and summary.
 8. confidence: how sure you are about the place (0–1). Add flags such as "check copyright" or "check personal data" when a
    reviewer should look.
 
@@ -138,6 +149,18 @@ class Session:
         if not it:
             raise KeyError(i)
         return it
+
+    def t_teachers(self, course=None, names=None):
+        from . import people
+        reg = people.Registry()
+        out = {}
+        if course:
+            out["recorded_for_course"] = reg.of_course(course)
+        if names:
+            out["matches"] = {n: ((reg.match(n, course=course) or {}).get("name")
+                                  or "new: not in the registry yet - if this person taught it, use the name as written "
+                                     "(a person confirms new teachers)") for n in names[:10]}
+        return out
 
     def t_find_courses(self, query):
         return {"results": self.archive.find(query)}

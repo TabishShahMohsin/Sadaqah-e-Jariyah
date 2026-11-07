@@ -1,0 +1,547 @@
+{
+ "people": [
+  {
+   "name": "Abbas",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems"
+   ]
+  },
+  {
+   "name": "Abdul Baqi",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics"
+   ]
+  },
+  {
+   "name": "Abdullah",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics"
+   ]
+  },
+  {
+   "name": "Abid Ali Khan",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis",
+    "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines"
+   ]
+  },
+  {
+   "name": "Ajmal Hussain",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem4/CEC2192_Hydrology"
+   ]
+  },
+  {
+   "name": "Amjad",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures"
+   ]
+  },
+  {
+   "name": "Arshad Umar",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics"
+   ]
+  },
+  {
+   "name": "Danish",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem6/CEC3202_Structural-Analysis-II"
+   ]
+  },
+  {
+   "name": "Danish Iqbal",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids"
+   ]
+  },
+  {
+   "name": "Dr. Arees Qamareen",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis"
+   ]
+  },
+  {
+   "name": "Dr. Ateeb Ahmad Khan",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I"
+   ]
+  },
+  {
+   "name": "Dr. Faisal Talib",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I"
+   ]
+  },
+  {
+   "name": "Dr. Farman Ali",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry"
+   ]
+  },
+  {
+   "name": "Dr. Ghazala Yasmin",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization"
+   ]
+  },
+  {
+   "name": "Dr. Inamullah",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems"
+   ]
+  },
+  {
+   "name": "Dr. M. M. Khan",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics"
+   ]
+  },
+  {
+   "name": "Dr. Md Rehan Sadique",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem3/CEC2122_Soil-Mechanics",
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering"
+   ]
+  },
+  {
+   "name": "Dr. Mohammad Asif",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis",
+    "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics"
+   ]
+  },
+  {
+   "name": "Dr. Mohd Faisal Jalil",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2022_Electrical-Technology-and-Control"
+   ]
+  },
+  {
+   "name": "Dr. Muaz",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I"
+   ]
+  },
+  {
+   "name": "Dr. Najeeb ur Rahman",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines"
+   ]
+  },
+  {
+   "name": "Dr. Rizwan A. Khan",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE410-ECE410_Construction-Management",
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH4110-ECEH4110_Construction-Management-II"
+   ]
+  },
+  {
+   "name": "Dr. Sabih Akhtar",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem6/CEC3202_Structural-Analysis-II"
+   ]
+  },
+  {
+   "name": "Dr. Saif Said",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering"
+   ]
+  },
+  {
+   "name": "Dr. Sajjad Arif",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science",
+    "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II"
+   ]
+  },
+  {
+   "name": "Dr. Salim",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies"
+   ]
+  },
+  {
+   "name": "Dr. Syed Fahad Anwer",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II"
+   ]
+  },
+  {
+   "name": "Fareed Mahdi",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology",
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey"
+   ]
+  },
+  {
+   "name": "Farooq",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I"
+   ]
+  },
+  {
+   "name": "Farooqi",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3130_Environmental-Engineering-II"
+   ]
+  },
+  {
+   "name": "Farukh Basheer",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3130_Environmental-Engineering-II",
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2170-ECEC2170_Environmental-Engineering-I"
+   ]
+  },
+  {
+   "name": "Hasan",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3"
+   ]
+  },
+  {
+   "name": "Hilal",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics"
+   ]
+  },
+  {
+   "name": "Ibrahim",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH4110-ECEH4110_Construction-Management-II",
+    "BTech-and-BE/Civil-Engineering/Sem5/CEC3152_Structural-Analysis-I"
+   ]
+  },
+  {
+   "name": "Irtaza",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem6/CEC3162_Design-of-Concrete-Structure-II"
+   ]
+  },
+  {
+   "name": "Ishtiyak",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I"
+   ]
+  },
+  {
+   "name": "Izharul Haq",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2170-ECEC2170_Environmental-Engineering-I"
+   ]
+  },
+  {
+   "name": "Jafri",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice"
+   ]
+  },
+  {
+   "name": "Javed Alam",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem4/CEC2192_Hydrology"
+   ]
+  },
+  {
+   "name": "Kamil",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering"
+   ]
+  },
+  {
+   "name": "Kamran",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I"
+   ]
+  },
+  {
+   "name": "Kamrujjaman",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I"
+   ]
+  },
+  {
+   "name": "Kausar",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering"
+   ]
+  },
+  {
+   "name": "Khalil",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control"
+   ]
+  },
+  {
+   "name": "Malik Shoeb",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem3/CEC2122_Soil-Mechanics",
+    "BTech-and-BE/Civil-Engineering/Sem6/CEC3172_Transportation-Engineering"
+   ]
+  },
+  {
+   "name": "Mehboob",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering",
+    "BTech-and-BE/Civil-Engineering/Sem6/CEC3172_Transportation-Engineering"
+   ]
+  },
+  {
+   "name": "Mohd Asif",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics"
+   ]
+  },
+  {
+   "name": "Moinul Haq",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem4/CEC2182_Surveying"
+   ]
+  },
+  {
+   "name": "Moonis Zaheer",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem7/CEC4222_Elements-of-Earthquake-and-Wind-Engineering",
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4510-ECEE4510_Concrete-Technology",
+    "BTech-and-BE/Civil-Engineering/Sem4/CEC2182_Surveying"
+   ]
+  },
+  {
+   "name": "Mubeen",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering"
+   ]
+  },
+  {
+   "name": "Mujib",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3190-ECEC3190_Engineering-Hydraulics-II"
+   ]
+  },
+  {
+   "name": "Nasir",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1",
+    "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3"
+   ]
+  },
+  {
+   "name": "Parvez",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies"
+   ]
+  },
+  {
+   "name": "Prof. M. Altamush Siddiqui",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3912_Heat-and-Mass-Transfer-Lab"
+   ]
+  },
+  {
+   "name": "Prof. M. Naushad Alam",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II"
+   ]
+  },
+  {
+   "name": "Prof. Mohammad Muzammil",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research"
+   ]
+  },
+  {
+   "name": "Prof. Mohd Masroor Alam",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering",
+    "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology"
+   ]
+  },
+  {
+   "name": "Prof. Nadeem Hasan",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II",
+    "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2922-AEC2952_Fluids-Mechanics-Lab"
+   ]
+  },
+  {
+   "name": "Pushpendra",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics"
+   ]
+  },
+  {
+   "name": "Rashid Zafar",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids"
+   ]
+  },
+  {
+   "name": "Rehan",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem6/CEC3162_Design-of-Concrete-Structure-II"
+   ]
+  },
+  {
+   "name": "Rehan Ahmad",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem7/CEC4222_Elements-of-Earthquake-and-Wind-Engineering"
+   ]
+  },
+  {
+   "name": "SMY",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2312_Fluid-Mechanics-I"
+   ]
+  },
+  {
+   "name": "Saleem Anwar",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics"
+   ]
+  },
+  {
+   "name": "Saman",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research"
+   ]
+  },
+  {
+   "name": "Shahid",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies"
+   ]
+  },
+  {
+   "name": "Shariq",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice"
+   ]
+  },
+  {
+   "name": "Subhan",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH2210-ECEH2210_Construction-Management-I",
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey"
+   ]
+  },
+  {
+   "name": "Suhaib",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH2210-ECEH2210_Construction-Management-I",
+    "BTech-and-BE/Civil-Engineering/Sem6/CEC3172_Transportation-Engineering"
+   ]
+  },
+  {
+   "name": "Tabassum",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures"
+   ]
+  },
+  {
+   "name": "Talib",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3190-ECEC3190_Engineering-Hydraulics-II"
+   ]
+  },
+  {
+   "name": "Tazyeen",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4750-CEO4850_Project-Management"
+   ]
+  },
+  {
+   "name": "Yasser",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry"
+   ]
+  },
+  {
+   "name": "Yasser Azim",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry",
+    "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab"
+   ]
+  },
+  {
+   "name": "Zaid Mohammad",
+   "aliases": [],
+   "courses": [
+    "BTech-and-BE/Civil-Engineering/Sem4/CEC2182_Surveying"
+   ]
+  }
+ ]
+}

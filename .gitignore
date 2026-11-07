@@ -41,3 +41,6 @@ site/index.json
 
 # Hugging Face write token (never commit)
 catalog/hf-config.json
+
+# AI provider key (never commit)
+catalog/llm-config.json
