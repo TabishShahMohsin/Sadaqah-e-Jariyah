@@ -49,6 +49,8 @@ def client(**over):
         return AnthropicClient(key, model)
     c = OpenAIClient(cfg.get("base_url") or BASES[prov], key, model, prov)
     c.vision = cfg.get("vision", not (prov == "groq" and "gpt-oss" in model))
+    c.lean = cfg.get("lean", prov == "groq")                     # free tiers: short prompts
+    c.budget = int(cfg.get("max_request_tokens", 7000 if prov == "groq" else 0))
     return c
 
 
@@ -58,10 +60,11 @@ class _Base:
         self.usage = {"input": 0, "output": 0, "cache_read": 0, "calls": 0}
 
     def _post(self, url, body, headers):
-        for attempt in range(6):
+        for attempt in range(8):
             r = requests.post(url, json=body, headers=headers, timeout=600)
-            if r.status_code in (429, 500, 502, 503, 529) and attempt < 5:
-                time.sleep(min(60, 8 * (attempt + 1)))
+            if r.status_code in (429, 500, 502, 503, 529) and attempt < 7:
+                wait = r.headers.get("retry-after")
+                time.sleep(min(90, float(wait) + 1 if wait and wait.replace(".", "").isdigit() else 10 * (attempt + 1)))
                 continue
             if r.status_code >= 400:
                 raise RuntimeError(f"{self.__class__.__name__} {r.status_code}: {r.text[:500]}")
@@ -87,7 +90,7 @@ class OpenAIClient(_Base):
     def __init__(self, base, key, model, provider):
         super().__init__(key, model)
         self.base, self.provider = base, provider
-        self.vision = True
+        self.vision, self.lean, self.budget = True, False, 0
 
     @staticmethod
     def _text(blocks):
@@ -137,6 +140,21 @@ class OpenAIClient(_Base):
                                                                "parameters": t["input_schema"]}} for t in body["tools"]]
         return out
 
+    def trim(self, req):
+        """Keep a request under the provider's per-request token budget: shorten the oldest tool results first."""
+        if not self.budget:
+            return req
+        est = lambda: len(json.dumps(req, ensure_ascii=False)) // 4   # noqa: E731  (≈4 characters a token)
+        msgs = req["messages"]
+        last_assistant = max((i for i, m in enumerate(msgs) if m["role"] == "assistant"), default=len(msgs))
+        for cut in (600, 200, 60):
+            for m in msgs[1:last_assistant]:
+                if est() <= self.budget:
+                    return req
+                if m["role"] == "tool" and isinstance(m.get("content"), str) and len(m["content"]) > cut:
+                    m["content"] = m["content"][:cut] + " …(trimmed)"
+        return req
+
     @staticmethod
     def _repair(err):
         i = err.find("{")
@@ -158,7 +176,7 @@ class OpenAIClient(_Base):
         headers = {"Authorization": f"Bearer {self.key}"}
         if self.provider == "openrouter":
             headers.update({"HTTP-Referer": "https://sadaqah-e-jariyah.pages.dev", "X-Title": "Sadaqah-e-Jariyah sorter"})
-        req = self.translate(body)
+        req = self.trim(self.translate(body))
         for attempt in range(3):
             try:
                 out = self._post(self.base + "/chat/completions", req, headers)

@@ -15,7 +15,8 @@ def describe_meta(d, it, course_path):
     meta, flags = {}, []
     for k in ("author", "source"):
         v = util.clean_text(d.get(k), 60)
-        if v:
+        if v and not re.fullmatch(r"(?i)(admin|administrator|user|owner|dell|hp|lenovo|asus|acer|windows user|microsoft|unknown|"
+                                  r"pc|laptop|me|student|teacher|camscanner|adobe)\W*\w{0,3}", v):
             meta[k] = v
     prof = util.clean_text(d.get("professor"), 60)
     if prof:
@@ -141,6 +142,11 @@ class Context:
         if err:
             return None, err
         meta, flags = describe_meta(d, it, folder)
+        stem = re.sub(r"[^a-z]", "", name.rsplit(".", 1)[0].lower())
+        for k in ("author", "professor"):
+            for w in re.sub(r"(?i)\b(prof|dr|mr|ms|md|mohd|sir)\b\.?", " ", meta.get(k, "")).split():
+                if len(w) >= 4 and w.lower() in stem:
+                    return None, f"don't put a person's name ({meta[k]}) in the file name; it is kept in '{k}'"
         if flags:
             base["flags"] = (base.get("flags", []) + flags)[:6]
         y = str(d.get("year") or "").strip()
