@@ -49,8 +49,8 @@ def prepare(items, work, rules, budget, log=print, save=None):
     t0 = time.time()
     out_of_time = lambda: budget and time.time() - t0 > budget   # noqa: E731
     os.makedirs(os.path.join(work, "pages"), exist_ok=True)
+    ingest.settle_junk(items)          # every run, so a newer junk rule also reaches a half-prepared upload
     if not any(it.get("prep_collected") for it in items):
-        ingest.settle_junk(items)
         ingest.unpack(items, work)
         for it in items:
             it["prep_collected"] = True

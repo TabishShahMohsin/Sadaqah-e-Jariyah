@@ -12,7 +12,8 @@ from . import util
 JUNK = re.compile(r"(?i)(^|/)(\.ds_store|thumbs\.db|desktop\.ini|icon\r|~\$[^/]*|\._[^/]*)$|(^|/)__macosx/")
 # code projects' machinery: installed packages, environments, caches, build output (not study material)
 CODE_JUNK = re.compile(r"(?i)(^|/)(node_modules|__pycache__|site-packages|\.?venv|\.?env|\.git|\.ipynb_checkpoints|\.idea|"
-                       r"\.vscode|\.gradle|\.pytest_cache|\.mypy_cache|\.next|\.cache)/|"
+                       r"\.vscode|\.gradle|\.pytest_cache|\.mypy_cache|\.next|\.cache|xsim\.dir|\.Xil|webtalk|"
+                       r"[^/]+\.(runs|sim|cache|hw|ip_user_files|gen))/|"   # Vivado/Xilinx project output
                        r"\.(pyc|pyo|pyi|so|dylib|dll|o|a|class|jar|whl|egg|lock|map)$|(^|/)pyvenv\.cfg$")
 DATASET_IMAGES = 150   # a folder holding this many images is a dataset (e.g. an ML project's training images)
 MAX_UNZIPPED_BYTES = 8 * 1024 ** 3
