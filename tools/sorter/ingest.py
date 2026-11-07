@@ -22,27 +22,40 @@ REJECT_EXT = {"exe", "msi", "dmg", "apk", "app", "bat", "cmd", "com", "scr", "ou
               "html", "htm", "css", "svg", "lnk", "url", "webloc", "download", "crdownload", "part", "torrent", "iso"}
 
 
-def new_item(items, src, path, parent=None, **kw):
+def new_item(items, src, path, parent=None, fingerprint=True, **kw):
     it = {"id": f"f{len(items) + 1:04d}", "src": src, "name": os.path.basename(src.rstrip("/")) or src,
           "path": path, "orig_path": path, "parent": parent, **kw}
     it["ext"] = util.ext_of(it["name"])
     if path and os.path.exists(path):
         it["size"] = os.path.getsize(path)
-        it["orig_sha"] = util.sha256(path)
+        if fingerprint:
+            it["orig_sha"] = util.sha256(path)
     items.append(it)
     return it
 
 
+IMAGE_EXT = ("png", "jpg", "jpeg", "bmp", "gif", "tif", "tiff", "webp")
+
+
 def from_folder(root, items):
-    """Every file under a local folder becomes an item; its path inside the folder is kept (the strongest clue)."""
+    """Every file under a local folder becomes an item; its path inside the folder is kept (the strongest clue).
+    System junk, code-project machinery and image datasets are recognised here and not fingerprinted (it's slow)."""
     base = os.path.dirname(os.path.abspath(root).rstrip("/"))
+    found = []
     for dp, dns, fns in os.walk(root):
         dns.sort()
         for f in sorted(fns):
             fp = os.path.join(dp, f)
-            if os.path.islink(fp):
-                continue
-            new_item(items, os.path.relpath(fp, base), fp)
+            if not os.path.islink(fp):
+                found.append((os.path.relpath(fp, base), fp))
+    per_dir = {}
+    for rel, _ in found:
+        if util.ext_of(os.path.basename(rel)) in IMAGE_EXT:
+            per_dir[os.path.dirname(rel)] = per_dir.get(os.path.dirname(rel), 0) + 1
+    for rel, fp in found:
+        junk = bool(JUNK.search(rel) or CODE_JUNK.search(rel) or
+                    (util.ext_of(os.path.basename(rel)) in IMAGE_EXT and per_dir.get(os.path.dirname(rel), 0) >= DATASET_IMAGES))
+        new_item(items, rel, fp, fingerprint=not junk)
     return items
 
 
