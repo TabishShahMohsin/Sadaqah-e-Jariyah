@@ -137,11 +137,39 @@ class OpenAIClient(_Base):
                                                                "parameters": t["input_schema"]}} for t in body["tools"]]
         return out
 
+    @staticmethod
+    def _repair(err):
+        i = err.find("{")
+        try:
+            gen = json.loads(json.loads(err[i:])["error"]["failed_generation"])
+        except (ValueError, KeyError, TypeError):
+            return None
+        calls = gen if isinstance(gen, list) else [gen]
+        tc = []
+        for n, c in enumerate(calls):
+            name = str(c.get("name", "")).split("/")[-1].split(".")[-1]
+            if not name:
+                return None
+            tc.append({"id": f"repaired_{int(time.time() * 1000)}_{n}", "type": "function",
+                       "function": {"name": name, "arguments": json.dumps(c.get("arguments") or c.get("parameters") or {})}})
+        return {"choices": [{"message": {"content": None, "tool_calls": tc}}]}
+
     def __call__(self, body):
         headers = {"Authorization": f"Bearer {self.key}"}
         if self.provider == "openrouter":
             headers.update({"HTTP-Referer": "https://sadaqah-e-jariyah.pages.dev", "X-Title": "Sadaqah-e-Jariyah sorter"})
-        out = self._post(self.base + "/chat/completions", self.translate(body), headers)
+        req = self.translate(body)
+        for attempt in range(3):
+            try:
+                out = self._post(self.base + "/chat/completions", req, headers)
+                break
+            except RuntimeError as e:
+                fixed = self._repair(str(e))
+                if fixed is not None:     # the model named a tool "functions/x": take its call as meant
+                    out = fixed
+                    break
+                if "tool_use_failed" not in str(e) or attempt == 2:
+                    raise
         u = out.get("usage") or {}
         self.usage["input"] += u.get("prompt_tokens", 0)
         self.usage["output"] += u.get("completion_tokens", 0)
