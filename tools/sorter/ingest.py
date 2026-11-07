@@ -39,8 +39,9 @@ DATASET_DIR = re.compile(r"(?i)^(train|test|val|valid|validation|dataset|dataset
 
 
 def dataset_images(rels):
-    """Images that belong to a dataset: under a folder holding 300+ images that make up 80%+ of its files, or a
-    train/test/dataset-style folder holding 50+ images. Class sub-folders (train/cat, train/dog) count together."""
+    """Images that belong to a dataset: in a folder of 20+ images that sits under a folder holding 300+ images making
+    up 80%+ of its files, or under a train/test/dataset-style folder holding 50+ images. Class sub-folders (train/cat,
+    train/dog) count together; a few photos of notes next to a dataset are not caught."""
     imgs, files = {}, {}
     for rel in rels:
         is_img = util.ext_of(os.path.basename(rel)) in IMAGE_EXT
@@ -52,9 +53,13 @@ def dataset_images(rels):
             d = os.path.dirname(d)
     big = {d for d, n in imgs.items() if (n >= 300 and n >= 0.8 * files[d]) or
            (n >= 50 and DATASET_DIR.match(os.path.basename(d)))}
-    out = set()
+    direct = {}
     for rel in rels:
         if util.ext_of(os.path.basename(rel)) in IMAGE_EXT:
+            direct[os.path.dirname(rel)] = direct.get(os.path.dirname(rel), 0) + 1
+    out = set()
+    for rel in rels:
+        if util.ext_of(os.path.basename(rel)) in IMAGE_EXT and direct.get(os.path.dirname(rel), 0) >= 20:
             d = os.path.dirname(rel)
             while d:
                 if d in big:

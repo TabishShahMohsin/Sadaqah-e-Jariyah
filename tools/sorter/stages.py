@@ -79,6 +79,8 @@ def prepare(items, work, rules, budget, log=print, save=None):
             return False
         if it.get("path") and os.path.exists(it["path"]):
             evidence.inspect(it)
+            if not it.get("orig_sha") and it.get("orig_path") and os.path.exists(it["orig_path"]):
+                it["orig_sha"] = it["sha"] if it["orig_path"] == it["path"] else util.sha256(it["orig_path"])
             pages = (it.get("info") or {}).get("pages") or 1
             if it["ext"] in ("pdf", "jpg", "jpeg", "png"):
                 for p in range(1, min(PAGES, pages) + 1):
