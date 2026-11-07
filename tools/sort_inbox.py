@@ -191,24 +191,17 @@ def cmd_decide(a):
     call = llm.client()
     ctx = decide.Context(archive, rules, items, meta.get("permission"))
     ck_path = os.path.join(work, "checkpoint.json")
-    key = lambda it: f"{it.get('src')}|{it.get('sha', '')}"   # noqa: E731
     notes = []
     if os.path.exists(ck_path):
         with open(ck_path, encoding="utf-8") as fh:
             ck = json.load(fh)
-        for it in items:
-            o = ck.get("outcomes", {}).get(key(it))
-            if o and not it.get("outcome"):
-                it["outcome"] = o
-                if o.get("path"):
-                    ctx.taken.add(o["path"])
         notes = ck.get("notes", [])
+        print(f"  resumed {stages.ck_load(items, ck, ctx)} decisions from an earlier run")
 
     def save(_):
-        out = {key(it): it["outcome"] for it in items if (it.get("outcome") or {}).get("by_agent")}
         tmp = ck_path + ".tmp"
         with open(tmp, "w", encoding="utf-8") as fh:
-            json.dump({"outcomes": out, "notes": notes}, fh, ensure_ascii=False)
+            json.dump(stages.ck_dump(items, notes), fh, ensure_ascii=False)
         os.replace(tmp, ck_path)
 
     todo = [it for it in items if not it.get("outcome")]

@@ -92,3 +92,43 @@ def prepare(items, work, rules, budget, log=print):
         n += 1
     log(f"  prepared: {len(items)} items")
     return True
+
+
+def ck_key(it):
+    return f"{it.get('src')}|{it.get('sha', '')}"
+
+
+def ck_dump(items, notes):
+    """Checkpoint of the AI's decisions, keyed by file identity (not id), so it survives a re-collected upload."""
+    by_id = {it["id"]: ck_key(it) for it in items}
+    out = {}
+    for it in items:
+        o = it.get("outcome") or {}
+        if o.get("by_agent"):
+            o = dict(o)
+            if o.get("of") in by_id:
+                o["of_key"] = by_id[o["of"]]
+            out[ck_key(it)] = o
+    return {"outcomes": out, "notes": notes}
+
+
+def ck_load(items, ck, ctx=None):
+    """Re-apply checkpointed decisions; links to another file ('of') are re-pointed by identity."""
+    by_key = {ck_key(it): it["id"] for it in items}
+    n = 0
+    for it in items:
+        o = ck.get("outcomes", {}).get(ck_key(it))
+        if not o or it.get("outcome"):
+            continue
+        o = dict(o)
+        if "of_key" in o:
+            if o["of_key"] not in by_key:
+                continue                    # the file it pointed to is gone: decide again
+            o["of"] = by_key[o.pop("of_key")]
+        elif o.get("of") and o.get("action") == "twin":
+            continue                        # old checkpoint without identities: decide again
+        it["outcome"] = o
+        if ctx is not None and o.get("path"):
+            ctx.taken.add(o["path"])
+        n += 1
+    return n
