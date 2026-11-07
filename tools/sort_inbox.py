@@ -29,6 +29,7 @@ import os
 import re
 import shutil
 import sys
+import time
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
@@ -36,7 +37,7 @@ sys.path.insert(0, HERE)
 import rules  # noqa: E402
 import scrub  # noqa: E402
 import sej  # noqa: E402
-from sorter import agent, courses, decide, ingest, pipeline, report, util  # noqa: E402
+from sorter import agent, courses, decide, dedup, ingest, pipeline, report, stages, util  # noqa: E402
 
 WORK = os.path.join(REPO, ".sej-cache", "sort")
 KEEP = os.path.join(REPO, ".sej-cache", "inbox-merged-originals")
@@ -129,8 +130,7 @@ def cmd_plan(a):
                           conventions=load_conventions(), permission=a.permission, log=print)
     plan = {"slug": slug, "inputs": [os.path.abspath(p) for p in a.paths], "credit": a.credit, "note": a.note,
             "permission": a.permission, "notes": notes, "usage": call.usage, "items": items}
-    with open(os.path.join(work, "plan.json"), "w", encoding="utf-8") as fh:
-        json.dump(plan, fh, ensure_ascii=False, indent=1)
+    stages.save_json(os.path.join(work, "plan.json"), plan, REPO)
     md = report.markdown(items, f"{slug}: sorting plan", extra=[f"Credit: **{a.credit or '—'}**"] +
                          ([f"Permission: {a.permission}"] if a.permission else []) +
                          [usage_line(call)])
@@ -139,6 +139,97 @@ def cmd_plan(a):
     c = report.counts(items)
     print("  " + ", ".join(f"{v} {k}" for k, v in c.most_common()))
     print(f"Read {os.path.relpath(os.path.join(work, 'report.md'), REPO)}; then: python3 tools/sort_inbox.py apply {slug}")
+
+
+def cmd_prepare(a):
+    """Stage 1, where the files are: everything before the AI. Budgeted; run again to continue."""
+    slug = a.name or slug_of(a.paths)
+    work = os.path.join(WORK, slug)
+    os.makedirs(work, exist_ok=True)
+    ip = os.path.join(work, "items.json")
+    if os.path.exists(ip):
+        meta = stages.load_json(ip, REPO)
+        items = meta["items"]
+    else:
+        items = []
+        for p in a.paths:
+            if os.path.isdir(p):
+                ingest.from_folder(p, items)
+            elif os.path.isfile(p):
+                ingest.new_item(items, os.path.basename(p), p)
+            else:
+                sys.exit(f"not found: {p}")
+        meta = {"slug": slug, "inputs": [os.path.abspath(p) for p in a.paths], "credit": a.credit, "note": a.note,
+                "permission": a.permission, "items": items}
+        print(f"{slug}: {len(items)} files collected")
+    done = stages.prepare(items, work, rules, a.budget)
+    meta["prepared"] = done
+    stages.save_json(ip, meta, REPO)
+    left = sum(1 for it in items if not it.get("prep_inspected") and not it.get("outcome"))
+    c = report.counts(items)
+    print(f"{slug}: {'PREPARED' if done else 'in progress'} · {len(items)} items · {left} still to inspect · "
+          + ", ".join(f"{v} {k}" for k, v in c.most_common()))
+
+
+def cmd_decide(a):
+    """Stage 2, anywhere: AI decisions from the prepared evidence. Resumable; writes plan.json and report.md."""
+    work = os.path.join(WORK, a.name)
+    meta = stages.load_json(os.path.join(work, "items.json"), REPO)
+    if not meta.get("prepared"):
+        sys.exit("not prepared yet: run prepare until it says PREPARED")
+    items = meta["items"]
+    state = sej.load_state()
+    archive = courses.Archive(REPO, state, sej, rules, local_root=REPO)
+    dedup.exact(items, archive)
+    dedup.batch_lookalikes(items)
+    note = meta.get("note") or ""
+    if meta.get("credit"):
+        note += f"\n(Credit for this upload: {meta['credit']})"
+    if meta.get("permission"):
+        note += f"\n(The maintainer has permission from {meta['permission']} to publish this material, books included.)"
+    from sorter import llm
+    call = llm.client()
+    ctx = decide.Context(archive, rules, items, meta.get("permission"))
+    ck_path = os.path.join(work, "checkpoint.json")
+    key = lambda it: f"{it.get('src')}|{it.get('sha', '')}"   # noqa: E731
+    notes = []
+    if os.path.exists(ck_path):
+        with open(ck_path, encoding="utf-8") as fh:
+            ck = json.load(fh)
+        for it in items:
+            o = ck.get("outcomes", {}).get(key(it))
+            if o and not it.get("outcome"):
+                it["outcome"] = o
+                if o.get("path"):
+                    ctx.taken.add(o["path"])
+        notes = ck.get("notes", [])
+
+    def save(_):
+        out = {key(it): it["outcome"] for it in items if (it.get("outcome") or {}).get("by_agent")}
+        tmp = ck_path + ".tmp"
+        with open(tmp, "w", encoding="utf-8") as fh:
+            json.dump({"outcomes": out, "notes": notes}, fh, ensure_ascii=False)
+        os.replace(tmp, ck_path)
+
+    todo = [it for it in items if not it.get("outcome")]
+    print(f"{a.name}: {len(todo)} files for the AI ({len(items) - len(todo)} settled already)")
+    if todo:
+        agent.run(items, archive, ctx, call, load_conventions(), note.strip(), print, on_batch=save, notes=notes,
+                  jobs=a.jobs, work=work)
+    open_left = [it for it in items if not it.get("outcome")]
+    if open_left:
+        save(None)
+        sys.exit(f"{len(open_left)} files still undecided (a batch failed); run decide again to continue")
+    decide.resolve_twins(items)
+    plan = {**{k: meta.get(k) for k in ("slug", "inputs", "credit", "note", "permission")}, "notes": notes,
+            "usage": call.usage, "items": items, "staged": True}
+    stages.save_json(os.path.join(work, "plan.json"), plan, REPO)
+    md = report.markdown(items, f"{a.name}: sorting plan", extra=[f"Credit: **{meta.get('credit') or '—'}**"] + [usage_line(call)])
+    with open(os.path.join(work, "report.md"), "w", encoding="utf-8") as fh:
+        fh.write(md)
+    c = report.counts(items)
+    print("  " + ", ".join(f"{v} {k}" for k, v in c.most_common()))
+    print(f"Read {os.path.relpath(os.path.join(work, 'report.md'), REPO)}; then: python3 tools/sort_inbox.py apply {a.name}")
 
 
 def recheck(items, state, archive, permission):
@@ -234,8 +325,7 @@ def clear_workdir(work):
 
 def cmd_apply(a):
     work = os.path.join(WORK, a.slug)
-    with open(os.path.join(work, "plan.json"), encoding="utf-8") as fh:
-        plan = json.load(fh)
+    plan = stages.load_json(os.path.join(work, "plan.json"), REPO)
     if os.path.exists(os.path.join(work, "applied.json")):
         sys.exit("already applied")
     items = plan["items"]
@@ -247,30 +337,48 @@ def cmd_apply(a):
     bad = recheck(items, state, archive, plan.get("permission"))
     if bad:
         sys.exit("NOT APPLIED — fix these in plan.json:\n  " + "\n  ".join(bad))
+    # copy into the archive one file at a time; progress survives an interruption (re-run apply to continue)
+    prog_path = os.path.join(work, "apply-progress.json")
     finals = {}
-    for it in items:
-        if (it.get("outcome") or {}).get("action") == "place":
-            if not os.path.exists(it["path"]):
-                sys.exit(f"working file missing for {it['src']}; run plan again")
-            f = pipeline.finalize(it, work, scrub)
-            if f:
-                finals[it["id"]] = f
-    ops = pipeline.ops_for(items, state, finals, plan.get("credit"), plan.get("permission"))
+    if os.path.exists(prog_path):
+        with open(prog_path, encoding="utf-8") as fh:
+            finals = json.load(fh)
+    placed = [it for it in items if (it.get("outcome") or {}).get("action") == "place"]
     if a.dry_run:
-        print(json.dumps(ops[:20], indent=1, ensure_ascii=False))
-        print(f"{len(ops)} ops (dry run)")
+        print(f"{len(placed)} files would be placed (dry run)")
         return
+    t0 = time.time()
     cache = sej.HashCache()
-    for it in items:
-        o = it.get("outcome") or {}
-        if o.get("action") == "place" and it["id"] in finals:
-            dst = os.path.join(REPO, o["path"])
-            if os.path.exists(dst):
-                sys.exit(f"refusing to overwrite {o['path']}")
-            os.makedirs(os.path.dirname(dst), exist_ok=True)
-            shutil.copyfile(finals[it["id"]]["path"], dst)
-            cache.get(o["path"], dst)
+    for it in placed:
+        if it["id"] in finals:
+            continue
+        if a.budget and time.time() - t0 > a.budget:
+            break
+        o = it["outcome"]
+        if not os.path.exists(it["path"]):
+            sys.exit(f"working file missing for {it['src']}; run prepare again")
+        dst = os.path.join(REPO, o["path"])
+        if os.path.exists(dst):
+            sys.exit(f"refusing to overwrite {o['path']}")
+        f = pipeline.finalize(it, work, scrub)
+        if not f:
+            finals[it["id"]] = {"failed": True}
+            continue
+        os.makedirs(os.path.dirname(dst), exist_ok=True)
+        shutil.copyfile(f["path"], dst)
+        cache.get(o["path"], dst)
+        os.remove(f["path"])
+        finals[it["id"]] = {k: f[k] for k in ("size", "sha")}
+        with open(prog_path + ".tmp", "w", encoding="utf-8") as fh:
+            json.dump(finals, fh)
+        os.replace(prog_path + ".tmp", prog_path)
     cache.save()
+    left = [it for it in placed if it["id"] not in finals]
+    if left:
+        print(f"copied {len(placed) - len(left)}/{len(placed)} files into the archive; run apply again to continue")
+        return
+    finals = {k: v for k, v in finals.items() if not v.get("failed")}
+    ops = pipeline.ops_for(items, state, finals, plan.get("credit"), plan.get("permission"))
     source = {"kind": "local", "by": "maintainer", "sorted_by": "sorter"}
     for k in ("credit", "note", "permission"):
         if plan.get(k):
@@ -300,15 +408,30 @@ def main():
     p.add_argument("--link", action="append")
     p.add_argument("--name")
     p.add_argument("--limit", type=int)
+    s = sub.add_parser("prepare", help="stage 1 (where the files are): collect, convert, inspect; budgeted")
+    s.add_argument("paths", nargs="+")
+    s.add_argument("--name")
+    s.add_argument("--credit")
+    s.add_argument("--note")
+    s.add_argument("--permission")
+    s.add_argument("--budget", type=float, default=150, help="stop after N seconds (run again to continue); 0 = no limit")
+    s = sub.add_parser("decide", help="stage 2 (anywhere): AI decisions from the prepared evidence")
+    s.add_argument("name")
+    s.add_argument("--jobs", type=int, default=4, help="batches in parallel")
     s = sub.add_parser("apply")
     s.add_argument("slug")
     s.add_argument("--dry-run", action="store_true")
     s.add_argument("--keep-originals", action="store_true", help="move every inbox original aside instead of removing settled ones")
+    s.add_argument("--budget", type=float, default=0, help="stop copying after N seconds (run again to continue)")
     a = ap.parse_args()
     if a.cmd == "plan":
         if not a.paths and not a.link:
             ap.error("give a folder, file or --link")
         cmd_plan(a)
+    elif a.cmd == "prepare":
+        cmd_prepare(a)
+    elif a.cmd == "decide":
+        cmd_decide(a)
     else:
         cmd_apply(a)
 

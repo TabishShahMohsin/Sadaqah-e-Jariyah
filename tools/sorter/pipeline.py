@@ -51,7 +51,7 @@ def sort(items, *, archive, rules, workdir, upload_text, call, conventions, perm
                 json.dump({"outcomes": out, "notes": notes}, fh, ensure_ascii=False)
             os.replace(tmp, ck_path)
 
-        agent.run(items, archive, ctx, call, conventions, upload_text, log, on_batch=save, notes=notes)
+        agent.run(items, archive, ctx, call, conventions, upload_text, log, on_batch=save, notes=notes, work=workdir)
     decide.resolve_twins(items)
     for it in items:
         if not it.get("outcome"):

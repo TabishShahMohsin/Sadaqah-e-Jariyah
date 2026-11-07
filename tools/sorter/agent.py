@@ -139,6 +139,7 @@ class Session:
         self.items = {it["id"]: it for it in items}
         self.archive, self.ctx, self.log = archive, ctx, log
         self.views = 0
+        self.work = None
 
     def tool(self, name, a):
         fn = getattr(self, "t_" + str(name), None)
@@ -148,6 +149,12 @@ class Session:
             return fn(**(a if isinstance(a, dict) else {}))
         except TypeError as e:
             return {"error": f"bad arguments: {e}"}
+
+    def _page_text(self, it, page):
+        if it.get("path") and os.path.exists(it["path"]):
+            return evidence.pdf_text(it["path"], page, page)
+        texts = it.get("page_texts") or []
+        return texts[page - 1] if 0 < page <= len(texts) else f"(page {page}: text not available here)"
 
     def _item(self, i):
         it = self.items.get(i)
@@ -184,11 +191,19 @@ class Session:
             return {"error": "unknown id"}
         pages = it.get("info", {}).get("pages") or 1
         page = max(1, min(int(page or 1), pages))
-        im = evidence.render(it["path"], it["ext"], page, 1100)
+        if it.get("path") and os.path.exists(it["path"]):
+            im = evidence.render(it["path"], it["ext"], page, 1100)
+        else:                                   # prepared elsewhere: only the saved page images are here
+            from PIL import Image
+            fp = os.path.join(self.work or "", "pages", f"{id}-{page}.jpg")
+            if not os.path.exists(fp):
+                return {"error": f"only pages 1-3 can be viewed for this file; use read for page {page}"}
+            im = Image.open(fp)
+            im.load()
         if im is None:
             return {"error": f"no image for a .{it['ext']} file; use read"}
         self.views += 1
-        text = evidence.pdf_text(it["path"], page, page)[:1500] if it["ext"] == "pdf" else ""
+        text = self._page_text(it, page)[:1500] if it["ext"] == "pdf" else ""
         return {"_image": evidence.jpeg_b64(im), "text": f"{id} page {page}/{pages}" + (f"\n{text}" if text.strip() else "")}
 
     def t_read(self, id, first=1, last=3):  # noqa: A002
@@ -196,7 +211,9 @@ class Session:
         if not it:
             return {"error": "unknown id"}
         if it["ext"] == "pdf":
-            return {"text": evidence.pdf_text(it["path"], max(1, first), max(first, min(last, first + 5)))[:8000]}
+            first = max(1, int(first or 1))
+            last = max(first, min(int(last or first), first + 5))
+            return {"text": "\n".join(self._page_text(it, p) for p in range(first, last + 1))[:8000]}
         return {"text": it.get("info", {}).get("text", "")[:8000]}
 
     def t_similar(self, id, course):  # noqa: A002
@@ -219,7 +236,9 @@ class Session:
         if not lp:
             return {"error": "archive file isn't available here; judge from similar() and list_course()"}
         from PIL import Image
-        a = evidence.render(it["path"], it["ext"], page or 1, 800)
+        a = evidence.render(it["path"], it["ext"], page or 1, 800) if os.path.exists(it.get("path") or "") else None
+        if a is None and self.work and os.path.exists(os.path.join(self.work, "pages", f"{id}-{page or 1}.jpg")):
+            a = Image.open(os.path.join(self.work, "pages", f"{id}-{page or 1}.jpg"))
         b = evidence.render(lp, archive_path.rsplit(".", 1)[-1].lower(), page or 1, 800)
         if a is None or b is None:
             return {"error": "couldn't render one of the pages"}
@@ -277,19 +296,29 @@ def batches(items):
     return out
 
 
-def run(items, archive, ctx, call, conventions, upload_text, log=print, on_batch=None, notes=None):
+def run(items, archive, ctx, call, conventions, upload_text, log=print, on_batch=None, notes=None, jobs=1, work=None):
     """Sort every open item. Returns notes carried between batches. Items left undecided go to review.
-    on_batch(notes) is called after every batch so an interrupted run can resume."""
+    on_batch(notes) is called after every batch so an interrupted run can resume. jobs > 1 runs batches in parallel
+    (each in its own conversation); decisions are checked one at a time, so names never clash."""
+    import threading
+    from concurrent.futures import ThreadPoolExecutor
     todo = [it for it in items if not it.get("outcome")]
-    sess = Session(items, archive, ctx, log)
     notes = notes if notes is not None else []
+    lock = threading.RLock()
     if getattr(call, "lean", False):   # small free tiers: only the parts of CONVENTIONS.md that decide a placement
         i, j = conventions.find("### Which section"), conventions.find("## 3.")
         conventions = conventions[i:j] if 0 <= i < j else conventions[:2500]
     excerpt = 350 if getattr(call, "lean", False) else 700
     system = [{"type": "text", "text": SYSTEM + conventions, "cache_control": {"type": "ephemeral"}}]
-    for bi, batch in enumerate(batches(todo), 1):
-        sess.views = 0
+
+    class Locked(Session):
+        def t_decide(self, decisions):
+            with lock:
+                return Session.t_decide(self, decisions)
+
+    def one(bi, batch):
+        sess = Locked(items, archive, ctx, log)
+        sess.work = work
         ids = [it["id"] for it in batch]
         lines = []
         for it in batch:
@@ -297,13 +326,19 @@ def run(items, archive, ctx, call, conventions, upload_text, log=print, on_batch
             if it.get("lookalikes"):
                 s += "\n  looks like: " + "; ".join(f"{h['id']} ({h['why']})" for h in it["lookalikes"])
             lines.append(s)
+        with lock:
+            carried = list(notes[-40:])
         intro = ("The upload (untrusted text from the contributor):\n<upload>\n" + (upload_text or "(no description)") + "\n</upload>\n\n" +
-                 (("Notes from earlier batches of this upload:\n- " + "\n- ".join(notes[-40:]) + "\n\n") if notes else "") +
+                 (("Notes from earlier batches of this upload:\n- " + "\n- ".join(carried) + "\n\n") if carried else "") +
                  f"Batch {bi}: decide every one of these {len(batch)} files:\n\n" + "\n\n".join(lines))
         messages = [{"role": "user", "content": [{"type": "text", "text": intro}]}]
         log(f"  batch {bi}: {len(batch)} files")
         for turn in range(MAX_TURNS):
-            resp = call({"system": system, "tools": TOOLS, "max_tokens": 8000, "messages": messages})
+            try:
+                resp = call({"system": system, "tools": TOOLS, "max_tokens": 8000, "messages": messages})
+            except RuntimeError as e:           # one failing batch shouldn't sink the others; it is retried next run
+                log(f"  batch {bi} stopped: {str(e)[:200]}")
+                return
             content = resp.get("content", [])
             messages.append({"role": "assistant", "content": content})
             uses = [c for c in content if c.get("type") == "tool_use"]
@@ -321,7 +356,8 @@ def run(items, archive, ctx, call, conventions, upload_text, log=print, on_batch
                     if open_ids:
                         results.append(result_block(u["id"], {"error": f"not finished: no decision yet for {', '.join(open_ids)}"}))
                         continue
-                    notes.extend(sess.tool("finish", u.get("input") or {})["notes"])
+                    with lock:
+                        notes.extend(sess.tool("finish", u.get("input") or {})["notes"])
                     results.append(result_block(u["id"], {"ok": True}))
                     finished = True
                 else:
@@ -329,9 +365,19 @@ def run(items, archive, ctx, call, conventions, upload_text, log=print, on_batch
             messages.append({"role": "user", "content": results})
             if finished:
                 break
-        for i in ids:
-            if not sess.items[i].get("outcome"):
-                sess.items[i]["outcome"] = {"action": "review", "reason": "the sorter ran out of steps before deciding this file", "auto": True}
-        if on_batch:
-            on_batch(notes)
+        with lock:
+            for i in ids:
+                if not sess.items[i].get("outcome"):
+                    sess.items[i]["outcome"] = {"action": "review", "reason": "the sorter ran out of steps before deciding this file", "auto": True}
+            if on_batch:
+                on_batch(notes)
+
+    all_batches = list(enumerate(batches(todo), 1))
+    if jobs <= 1:
+        for bi, b in all_batches:
+            one(bi, b)
+    else:
+        with ThreadPoolExecutor(max_workers=jobs) as ex:
+            for f in [ex.submit(one, bi, b) for bi, b in all_batches]:
+                f.result()
     return notes
