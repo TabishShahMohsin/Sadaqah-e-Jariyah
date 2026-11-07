@@ -31,7 +31,7 @@ def _rebase(obj, old, new):
 def save_json(path, data, repo):
     tmp = path + ".tmp"
     with open(tmp, "w", encoding="utf-8") as fh:
-        json.dump(_rebase(data, repo.rstrip("/") + "/", ROOT), fh, ensure_ascii=False)
+        fh.write(json.dumps(_rebase(data, repo.rstrip("/") + "/", ROOT), ensure_ascii=False))   # one write, not millions
     os.replace(tmp, path)
 
 
@@ -48,6 +48,12 @@ def prepare(items, work, rules, budget, log=print, save=None):
     """Advance every item one step at a time until done or out of time. Returns True when everything is prepared."""
     t0 = time.time()
     out_of_time = lambda: budget and time.time() - t0 > budget   # noqa: E731
+    last = [time.time()]
+
+    def checkpoint():                           # save on a clock, not per item: a big upload's JSON takes seconds
+        if save and time.time() - last[0] > 25:
+            save()
+            last[0] = time.time()
     os.makedirs(os.path.join(work, "pages"), exist_ok=True)
     ingest.settle_junk(items)          # every run, so a newer junk rule also reaches a half-prepared upload
     if not any(it.get("prep_collected") for it in items):
@@ -60,6 +66,9 @@ def prepare(items, work, rules, budget, log=print, save=None):
         i += 1
         if it.get("prep_converted"):
             continue
+        if it.get("outcome"):                   # ignored or rejected already: nothing to convert
+            it["prep_converted"] = True
+            continue
         if out_of_time():
             return False
         sub = [it]
@@ -69,8 +78,7 @@ def prepare(items, work, rules, budget, log=print, save=None):
             extra["prep_collected"] = extra["prep_converted"] = True
             items.append(extra)
         it["prep_converted"] = True
-        if save and i % 20 == 0:
-            save()
+        checkpoint()
     n = 0
     for it in items:                            # evidence: text, OCR, profile, fingerprints, page images
         if it.get("prep_inspected") or it.get("outcome"):
@@ -94,8 +102,7 @@ def prepare(items, work, rules, budget, log=print, save=None):
                 it["page_texts"] = texts
         it["prep_inspected"] = True
         n += 1
-        if save and n % 20 == 0:
-            save()
+        checkpoint()
     log(f"  prepared: {len(items)} items")
     return True
 
