@@ -1,0 +1,28 @@
+{
+ "id": "20261110-135825-devanshkant-labs",
+ "created": "2026-11-10T13:58:25+00:00",
+ "source": {
+  "kind": "link",
+  "by": "maintainer"
+ },
+ "ops": [
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2942-AIC2912_Data-Structure-Lab/Books-and-Resources/Data-Structures-Lab_COC2942.link",
+   "url": "https://github.com/devanshkant/Data-Structures-Lab-COC2942",
+   "t": 1794319105,
+   "meta": {
+    "credit": "Devansh Kant Kashyap"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3932_Algorithms-and-OS-Lab/Books-and-Resources/Algorithms-OS-Lab_COC3932.link",
+   "url": "https://github.com/devanshkant/Algorithms-OS-Lab",
+   "t": 1794319105,
+   "meta": {
+    "credit": "Devansh Kant Kashyap"
+   }
+  }
+ ]
+}
