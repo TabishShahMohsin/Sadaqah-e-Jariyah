@@ -1,0 +1,28 @@
+{
+ "id": "20261110-142110-devanshkant-courses",
+ "created": "2026-11-10T14:21:10+00:00",
+ "source": {
+  "kind": "link",
+  "by": "maintainer"
+ },
+ "ops": [
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/OOP-Codes_COC2032.link",
+   "url": "https://github.com/devanshkant/COC2032",
+   "t": 1794320470,
+   "meta": {
+    "credit": "Devansh Kant Kashyap"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Books-and-Resources/DSA-Codes_COC2062.link",
+   "url": "https://github.com/devanshkant/COC2062",
+   "t": 1794320470,
+   "meta": {
+    "credit": "Devansh Kant Kashyap"
+   }
+  }
+ ]
+}
