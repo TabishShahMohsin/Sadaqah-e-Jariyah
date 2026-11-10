@@ -1,0 +1,45 @@
+{
+ "id": "20261110-145947-se-midsems",
+ "created": "2026-11-10T14:59:47+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/PYQs-and-Assignments/Mid-Sem-1_2023-24_COC2090.jpeg",
+   "s": 170103,
+   "h": "7762fe648e330ad3452c8e5c1d702044e3b5d76c516abc7870aeb2ff04bed962",
+   "t": 1794322787
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/PYQs-and-Assignments/Mid-Sem-2_2023-24_COC2090.jpeg",
+   "s": 164491,
+   "h": "0f321c328e8cb91a2f8a7179c7ff3c9e7b0c23738848605fc9989a9af0a63261",
+   "t": 1794322787
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/PYQs-and-Assignments/Mid-Sem-1_2025-26.jpeg",
+   "s": 120102,
+   "h": "0b249a13c1d3293d0f04f51dab28defbdeb7e4c8420b6296885e339688eabfed",
+   "t": 1794322787
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/PYQs-and-Assignments/Mid-Sem_2022-23_COC2090.jpeg",
+   "s": 206843,
+   "h": "4e69a0f410cd6b00e5ce50c87f034af046346ec3eeba5da4217beb9ef7518e40",
+   "t": 1794322787
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/PYQs-and-Assignments/Mid-Sem_2021-22_COC2090.jpeg",
+   "s": 94118,
+   "h": "664594c0c2bce54dce593a98534aeaa2f56f48768959f03736f676c527b31ba0",
+   "t": 1794322787
+  }
+ ]
+}
