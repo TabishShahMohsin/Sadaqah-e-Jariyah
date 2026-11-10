@@ -1,0 +1,19 @@
+{
+ "id": "20261110-134314-basic-computer",
+ "created": "2026-11-10T13:43:14+00:00",
+ "source": {
+  "kind": "link",
+  "by": "maintainer"
+ },
+ "ops": [
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2922_Digital-Design-and-Simulation-Lab/Books-and-Resources/Basic-Computer_Mano-Machine-Logisim.link",
+   "url": "https://github.com/tabishShahMohsin/basic-Computer/",
+   "t": 1794318194,
+   "meta": {
+    "credit": "Tabish Shah Mohsin"
+   }
+  }
+ ]
+}

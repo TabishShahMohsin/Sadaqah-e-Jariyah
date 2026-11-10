@@ -358,6 +358,22 @@
    "credit": "Dr. Kamran Khan",
    "covers": "Mathematics video lectures and notes",
    "status": "reference"
+  },
+  {
+   "title": "OhmNotes",
+   "url": "https://ohmnotes.netlify.app/",
+   "credit": "Ali Imam",
+   "covers": "Electrical Engineering notes, semesters 5-7: Power Electronics II, Power System Analysis, Instrumentation, High Voltage, Communication Engg, NanoPhysics, Numerical Techniques, PYQs",
+   "status": "reference",
+   "note": "by Ali Imam (aijafri on LinkedIn)"
+  },
+  {
+   "title": "Basic-Computer",
+   "url": "https://github.com/tabishShahMohsin/basic-Computer/",
+   "credit": "Tabish Shah Mohsin",
+   "covers": "COC2922 Digital Design & Simulation Lab — a 16-bit Mano machine built in Logisim (circuits, assembler, sample programs); also COC2072 Digital Logic and COC2082 Computer Architecture",
+   "status": "reference",
+   "note": "MIT licensed; pull requests welcomed"
   }
  ]
 }
