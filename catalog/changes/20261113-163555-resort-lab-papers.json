@@ -1,0 +1,23 @@
+{
+ "id": "20261113-163555-resort-lab-papers",
+ "created": "2026-11-13T16:35:55+00:00",
+ "source": {
+  "kind": "sort",
+  "by": "maintainer",
+  "note": "two theory papers that were filed under a lab course"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/PYQs-and-Assignments/Sem-End_2017-18_EME341.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_Industrial-Engineering/PYQs-and-Assignments/Sem-End_2017-18_EME341.pdf",
+   "reason": "B.E. Industrial Engineering (EME-341) paper"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/PYQs-and-Assignments/Sem-End_2018-19_MECC2410.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/Sem-End_2018-19_MEC2410.pdf",
+   "reason": "Manufacturing Technology-I (MEC2410) paper"
+  }
+ ]
+}
