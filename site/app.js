@@ -468,7 +468,7 @@ function openPreview(f) {
   $('#drExt').textContent = ext(f.n).slice(0, 5) || '—';
   $('#drName').textContent = prettyFile(f.n);
   $('#drName').title = f.n;
-  const by = f.meta ? [f.meta.author && 'notes by ' + f.meta.author, f.meta.professor && 'taught by ' + f.meta.professor, f.meta.source && 'from ' + f.meta.source, f.meta.credit && f.meta.credit !== f.meta.author && 'shared by ' + f.meta.credit].filter(Boolean).join(' · ') : '';
+  const by = f.meta ? [f.meta.author && 'notes by ' + f.meta.author, f.meta.professor && !(f.meta.author || '').includes(f.meta.professor) && 'taught by ' + f.meta.professor, f.meta.source && 'from ' + f.meta.source, f.meta.credit && f.meta.credit !== f.meta.author && 'shared by ' + f.meta.credit].filter(Boolean).join(' · ') : '';
   $('#drPath').textContent = `${context(f)}  ·  ${fmtSize(f.s)}`;
   $('#drBy').textContent = by ? by[0].toUpperCase() + by.slice(1) : '';
   $('#drBy').hidden = !by;

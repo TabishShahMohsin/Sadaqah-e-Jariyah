@@ -1,0 +1,71 @@
+{
+ "id": "20261113-172959-tausif-own-notes",
+ "created": "2026-11-13T17:29:59+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "Tausif Sir's notes are his own: named and credited as his"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Unit-1/Class-Notes_Unit-1_Handwritten.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Unit-1/Tausif-Sir_Handwritten-Notes_Unit-1.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Unit-1/Tausif-Sir_Handwritten-Notes_Unit-1.pdf",
+   "meta": {
+    "author": "Prof. Mohd Tausif",
+    "professor": "Mohd Tausif",
+    "title": "Tausif Sir's handwritten notes · Unit 1",
+    "note": "Unit 1 notes written by Prof. Mohd Tausif himself for his Communication Systems course."
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Unit-2/Class-Notes_Unit-2_Handwritten.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Unit-2/Tausif-Sir_Handwritten-Notes_Unit-2.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Unit-2/Tausif-Sir_Handwritten-Notes_Unit-2.pdf",
+   "meta": {
+    "author": "Prof. Mohd Tausif",
+    "professor": "Mohd Tausif",
+    "title": "Tausif Sir's handwritten notes · Unit 2",
+    "note": "Unit 2 notes written by Prof. Mohd Tausif himself for his Communication Systems course."
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Unit-3/Class-Notes_Unit-3_Handwritten.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Unit-3/Tausif-Sir_Handwritten-Notes_Unit-3.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Unit-3/Tausif-Sir_Handwritten-Notes_Unit-3.pdf",
+   "meta": {
+    "author": "Prof. Mohd Tausif",
+    "professor": "Mohd Tausif",
+    "title": "Tausif Sir's handwritten notes · Unit 3",
+    "note": "Unit 3 notes written by Prof. Mohd Tausif himself for his Communication Systems course."
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Unit-4/Class-Notes_Unit-4_Handwritten.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Unit-4/Tausif-Sir_Handwritten-Notes_Unit-4.pdf"
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Unit-4/Tausif-Sir_Handwritten-Notes_Unit-4.pdf",
+   "meta": {
+    "author": "Prof. Mohd Tausif",
+    "professor": "Mohd Tausif",
+    "title": "Tausif Sir's handwritten notes · Unit 4",
+    "note": "Unit 4 notes written by Prof. Mohd Tausif himself for his Communication Systems course."
+   }
+  }
+ ]
+}
