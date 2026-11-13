@@ -1,0 +1,551 @@
+{
+ "id": "20261113-162631-fix-doubled-section",
+ "created": "2026-11-13T16:26:31+00:00",
+ "source": {
+  "kind": "sort",
+  "by": "maintainer",
+  "note": "section folder was doubled (PYQs-and-Assignments/PYQs-and-Assignments)"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_PK312.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/PYQs-and-Assignments/Sem-End_2012-13_PK312.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2002_Process-Instrumentation/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2013-14_CH423.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2002_Process-Instrumentation/PYQs-and-Assignments/Sem-End_2013-14_CH423.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2002_Process-Instrumentation/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_CH423.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2002_Process-Instrumentation/PYQs-and-Assignments/Sem-End_2014-15_CH423.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2082_Mass-Transfer-Operations/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2025-26_CHC3080.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2082_Mass-Transfer-Operations/PYQs-and-Assignments/Sem-End_2025-26_CHC3080.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3122_Process-Equipment-Design/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_CH324.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3122_Process-Equipment-Design/PYQs-and-Assignments/Sem-End_2014-15_CH324.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3122_Process-Equipment-Design/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_CH324.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3122_Process-Equipment-Design/PYQs-and-Assignments/Sem-End_2015-16_CH324.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3122_Process-Equipment-Design/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_CH324.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3122_Process-Equipment-Design/PYQs-and-Assignments/Sem-End_2016-17_CH324.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHE4430_Petroleum-Processing/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_CH442.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHE4430_Petroleum-Processing/PYQs-and-Assignments/Sem-End_2018-19_CH442.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHE4430_Petroleum-Processing/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2019-20_CH442.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHE4430_Petroleum-Processing/PYQs-and-Assignments/Sem-End_2019-20_CH442.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem4/CEC2182_Surveying/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_CE218.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem4/CEC2182_Surveying/PYQs-and-Assignments/Sem-End_2012-13_CE218.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_CE216.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/Sem-End_2012-13_CE216.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_CE216.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/Sem-End_2014-15_CE216.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_ECE216.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/Sem-End_2014-15_ECE216.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_ECE216.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/Sem-End_2015-16_ECE216.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_CE216.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/Sem-End_2016-17_CE216.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_CE313.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/Sem-End_2012-13_CE313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2013-14_CE313.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/Sem-End_2013-14_CE313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_CE313.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/Sem-End_2015-16_CE313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_CE313.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/Sem-End_2016-17_CE313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_CE313.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/Sem-End_2017-18_CE313_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_CE313.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/Sem-End_2018-19_CE313_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2019-20_CE313.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/Sem-End_2019-20_CE313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2022-23_ECEC4120.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/Sem-End_2022-23_ECEC4120.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2023-24_ECEC4120.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/Sem-End_2023-24_ECEC4120.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2025-26_ECEC4120.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/Sem-End_2025-26_ECEC4120.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem6/CEC3172_Transportation-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_ECE317.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem6/CEC3172_Transportation-Engineering/PYQs-and-Assignments/Sem-End_2015-16_ECE317.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_CE318.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/PYQs-and-Assignments/Sem-End_2016-17_CE318.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem7/CEC4222_Elements-of-Earthquake-and-Wind-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2022-23_ECEE4730.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem7/CEC4222_Elements-of-Earthquake-and-Wind-Engineering/PYQs-and-Assignments/Sem-End_2022-23_ECEE4730.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2019-20_ECEC2160.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/PYQs-and-Assignments/Sem-End_2019-20_ECEC2160.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3140-ECEC3140_Engineering-Hydraulics-I/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2013-14_CE316.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3140-ECEC3140_Engineering-Hydraulics-I/PYQs-and-Assignments/Sem-End_2013-14_CE316.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660-ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_CE437.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660-ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/Sem-End_2016-17_CE437.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660-ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_CE437.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660-ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/Sem-End_2017-18_CE437.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660-ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_CE437.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660-ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/Sem-End_2018-19_CE437.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH2210-ECEH2210_Construction-Management-I/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_ECEH2210.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH2210-ECEH2210_Construction-Management-I/PYQs-and-Assignments/Sem-End_2018-19_ECEH2210.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Electives/EEE4212_Power-Semiconductor-Controllers/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2013-14_EE422.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Electives/EEE4212_Power-Semiconductor-Controllers/PYQs-and-Assignments/Sem-End_2013-14_EE422.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Electives/EEE4212_Power-Semiconductor-Controllers/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_EE422.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Electives/EEE4212_Power-Semiconductor-Controllers/PYQs-and-Assignments/Sem-End_2015-16_EE422.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Electives/EEE4312_Power-Station-Practice/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_EE435.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Electives/EEE4312_Power-Station-Practice/PYQs-and-Assignments/Sem-End_2016-17_EE435.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_AM223.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2016-17_AM223.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_EE277.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/PYQs-and-Assignments/Sem-End_2015-16_EE277.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_EE276.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/PYQs-and-Assignments/Sem-End_2016-17_EE276.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_EE282.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/PYQs-and-Assignments/Sem-End_2012-13_EE282_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_EE282.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/PYQs-and-Assignments/Sem-End_2014-15_EE282.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_EEE282.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/PYQs-and-Assignments/Sem-End_2014-15_EEE282.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_EE282.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/PYQs-and-Assignments/Sem-End_2015-16_EE282.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2312_Power-System-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_EE231.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2312_Power-System-Engineering/PYQs-and-Assignments/Sem-End_2012-13_EE231.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_EEL203.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/PYQs-and-Assignments/Sem-End_2017-18_EEL203.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_EE361.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/PYQs-and-Assignments/Sem-End_2014-15_EE361.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_EE361.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/PYQs-and-Assignments/Sem-End_2015-16_EE361.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_EE361.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/PYQs-and-Assignments/Sem-End_2017-18_EE361.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_EE361.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/PYQs-and-Assignments/Sem-End_2018-19_EE361.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2019-20_EE361.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/PYQs-and-Assignments/Sem-End_2019-20_EE361.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_EE333.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/PYQs-and-Assignments/Sem-End_2012-13_EE333_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_EE341.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/PYQs-and-Assignments/Sem-End_2017-18_EE341.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_AM252.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2016-17_AM252.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_EL241.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/PYQs-and-Assignments/Sem-End_2012-13_EL241.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_EL311.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/PYQs-and-Assignments/Sem-End_2018-19_EL311.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2019-20_EL311.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/PYQs-and-Assignments/Sem-End_2019-20_EL311.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_AP204.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Sem-End_2014-15_AP204.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_AP204.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Sem-End_2015-16_AP204.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_AP204.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Sem-End_2016-17_AP204.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_AP204.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Sem-End_2017-18_AP204.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3212_Control-Systems/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_EL223.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3212_Control-Systems/PYQs-and-Assignments/Sem-End_2016-17_EL223.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_EL315.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/PYQs-and-Assignments/Sem-End_2016-17_EL315.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_EL315.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/PYQs-and-Assignments/Sem-End_2018-19_EL315.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3622_Digital-System-Design/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_EL415.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3622_Digital-System-Design/PYQs-and-Assignments/Sem-End_2014-15_EL415.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3432_Digital-Signal-Processing/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_EL343.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3432_Digital-Signal-Processing/PYQs-and-Assignments/Sem-End_2017-18_EL343.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3311_Microprocessors-and-Microcontrollers/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_EL332.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3311_Microprocessors-and-Microcontrollers/PYQs-and-Assignments/Sem-End_2018-19_EL332.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3311_Microprocessors-and-Microcontrollers/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2019-20_ELC3310.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3311_Microprocessors-and-Microcontrollers/PYQs-and-Assignments/Sem-End_2019-20_ELC3310.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3311_Microprocessors-and-Microcontrollers/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2024-25_ELC3310.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3311_Microprocessors-and-Microcontrollers/PYQs-and-Assignments/Sem-End_2024-25_ELC3310.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_EL314.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/Sem-End_2012-13_EL314.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2013-14_EL314.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/Sem-End_2013-14_EL314.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_EL314.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/Sem-End_2014-15_EL314.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_EL314_2.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/Sem-End_2014-15_EL314_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_EL314_3.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/Sem-End_2014-15_EL314_3.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_EL314.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/Sem-End_2015-16_EL314.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_EL314.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/Sem-End_2016-17_EL314.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_EL314.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/Sem-End_2017-18_EL314.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2019-20_EME220.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Sem-End_2019-20_EME220.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_ME213.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2015-16_ME213.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_ME213.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2016-17_ME213.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_ME213.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2017-18_ME213.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_EME202.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/PYQs-and-Assignments/Sem-End_2015-16_EME202.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_ME202.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/PYQs-and-Assignments/Sem-End_2015-16_ME202.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_AM232.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Sem-End_2015-16_AM232.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_AM232.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Sem-End_2016-17_AM232.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_AM232.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Sem-End_2017-18_AM232.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_ME221.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Sem-End_2012-13_ME221.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2013-14_ME221.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Sem-End_2013-14_ME221.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_ME221.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/Sem-End_2014-15_ME221.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_ME214.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/Sem-End_2014-15_ME214.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_ME214.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/Sem-End_2016-17_ME214.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_ME214.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/Sem-End_2017-18_ME214.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_ME214.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/Sem-End_2018-19_ME214.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_ME323.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/PYQs-and-Assignments/Sem-End_2018-19_ME323.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2021-22_EMEC2440.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/PYQs-and-Assignments/Sem-End_2021-22_EMEC2440.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2021-22_MEC2440.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/PYQs-and-Assignments/Sem-End_2021-22_MEC2440.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2022-23_MEC2440.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/PYQs-and-Assignments/Sem-End_2022-23_MEC2440.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2023-24_EMEC2440.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/PYQs-and-Assignments/Sem-End_2023-24_EMEC2440.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2023-24_MEC2440.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/PYQs-and-Assignments/Sem-End_2023-24_MEC2440.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_EME315.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/PYQs-and-Assignments/Sem-End_2017-18_EME315.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_EME324.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/PYQs-and-Assignments/Sem-End_2015-16_EME324.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_EE305.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/Sem-End_2012-13_EE305.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_EE305.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/Sem-End_2014-15_EE305.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_EE305.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/Sem-End_2017-18_EE305.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME215-EME215_Kinematics-and-Design-of-Machines/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_EME215.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME215-EME215_Kinematics-and-Design-of-Machines/PYQs-and-Assignments/Sem-End_2017-18_EME215.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_ME451.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2016-17_ME451.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4230-EMEE4230_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2013-14_ME429.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4230-EMEE4230_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2013-14_ME429.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4430-EME453_Numerical-Control-of-Machine-Tools/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2019-20_EME453.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4430-EME453_Numerical-Control-of-Machine-Tools/PYQs-and-Assignments/Sem-End_2019-20_EME453.pdf"
+  }
+ ]
+}

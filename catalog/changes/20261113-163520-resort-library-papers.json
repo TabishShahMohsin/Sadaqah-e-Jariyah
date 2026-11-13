@@ -1,0 +1,1367 @@
+{
+ "id": "20261113-163520-resort-library-papers",
+ "created": "2026-11-13T16:35:20+00:00",
+ "source": {
+  "kind": "sort",
+  "by": "maintainer",
+  "note": "library papers re-sorted by reading each paper's course number and title: catch-all folders with misread names emptied, papers without a readable code checked, misread course folder names corrected"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2022-23.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/PYQs-and-Assignments/Z_Assignment-1_2019-20.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/PYQs-and-Assignments/Z_Assignment-1_2019-20.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/PYQs-and-Assignments/Z_Assignment-1_2019-20_Solution.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/PYQs-and-Assignments/Z_Assignment-1_2019-20_Solution.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/PYQs-and-Assignments/Z_Assignment-2_2019-20.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/PYQs-and-Assignments/Z_Assignment-2_2019-20.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/PYQs-and-Assignments/Z_Assignment-2_2019-20_Solution.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/PYQs-and-Assignments/Z_Assignment-2_2019-20_Solution.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/PYQs-and-Assignments/Z_Assignment-3_2019-20.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/PYQs-and-Assignments/Z_Assignment-3_2019-20.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/PYQs-and-Assignments/Z_Assignment-3_2019-20_Solution.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/PYQs-and-Assignments/Z_Assignment-3_2019-20_Solution.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/PYQs-and-Assignments/Z_Tutorial-1_2019-20_2.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/PYQs-and-Assignments/Z_Tutorial-1_2019-20_2.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/Syllabus/CHC3170_Syllabus.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/Syllabus/CHC3170_Syllabus.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/Unit-1/Class-Notes_Heterogeneous-Catalysis.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/Unit-1/Class-Notes_Heterogeneous-Catalysis.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/Unit-1/Class-Notes_Solid-Fluid-Reactions.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/Unit-1/Class-Notes_Solid-Fluid-Reactions.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/Unit-2/Lecture-Slides_Catalytic-Reaction-Kinetic-Model.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/Unit-2/Lecture-Slides_Catalytic-Reaction-Kinetic-Model.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/Unit-2/Lecture-Slides_Determination-of-Rate-Expression-from-Experimental-Data_2019-20.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/Unit-2/Lecture-Slides_Determination-of-Rate-Expression-from-Experimental-Data_2019-20.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/Unit-2/Lecture-Slides_Reactions-Involved-in-a-Catalytic-Reaction_2019-20.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/Unit-2/Lecture-Slides_Reactions-Involved-in-a-Catalytic-Reaction_2019-20.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/Unit-2/Lecture-Slides_Synthesizing-a-Rate-Law_2019-20.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/Unit-2/Lecture-Slides_Synthesizing-a-Rate-Law_2019-20.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/Unit-3/Lecture-Slides_Diffusion-and-Reaction-in-Spherical-Catalyst-Pellets.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/Unit-3/Lecture-Slides_Diffusion-and-Reaction-in-Spherical-Catalyst-Pellets.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/Unit-3/Lecture-Slides_Internal-Effectiveness-Factor.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/Unit-3/Lecture-Slides_Internal-Effectiveness-Factor.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/Unit-3/Lecture-Slides_Overall-Effectiveness-Factor.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/Unit-3/Lecture-Slides_Overall-Effectiveness-Factor.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Enainee-Ring-T/Unit-4/Lecture-Slides_Design-of-Catalytic-Reactors.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/Unit-4/Lecture-Slides_Design-of-Catalytic-Reactors.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/EE206_Chemical-Engineering-Ii-Year/PYQs-and-Assignments/Sem-End_2012-13_AC204.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/EE206_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2012-13_AC204.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/EE206_Chemical-Engineering-Ii-Year/PYQs-and-Assignments/Sem-End_2015-16_EE206.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/EE206_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2015-16_EE206.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/EE206_Chemical-Engineering-Ii-Year/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/EE206_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL431_Computer-Communic-Ation-Networks/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL431_Computer-Communication-Networks/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL431_Computer-Communic-Ation-Networks/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL431_Computer-Communication-Networks/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME231_Fe-Fluid-Meckanics-I/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME231_Fluid-Mechanics-I/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME231_Fe-Fluid-Meckanics-I/PYQs-and-Assignments/Sem-End_2014-15_ME231.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME231_Fluid-Mechanics-I/PYQs-and-Assignments/Sem-End_2014-15_ME231.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME231_Fe-Fluid-Meckanics-I/PYQs-and-Assignments/Sem-End_2015-16_ME231.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME231_Fluid-Mechanics-I/PYQs-and-Assignments/Sem-End_2015-16_ME231.pdf",
+   "reason": "course folder name was misread; title taken from the papers"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH322_Branch/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2092_Equilibrium-Stage-Processes/PYQs-and-Assignments/Sem-End_2012-13_CH322.pdf",
+   "reason": "same course title (Equilibrium Stage Processes) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH322_Branch/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2092_Equilibrium-Stage-Processes/PYQs-and-Assignments/Sem-End_2017-18_CH322.pdf",
+   "reason": "same course title (Equilibrium Stage Processes) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_Process-Engineering-and-Plant-Design-I/PYQs-and-Assignments/Sem-End_2017-18_CH415.pdf",
+   "reason": "old course CH415 (Process Engineering and Plant Design I) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434-ECE434_Bridge-Engineering/PYQs-and-Assignments/Sem-End_2015-16_CE434.pdf",
+   "reason": "old course CE434 (Bridge Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434-ECE434_Bridge-Engineering/PYQs-and-Assignments/Sem-End_2016-17_CE434.pdf",
+   "reason": "old course CE434 (Bridge Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECE415_B-E-Civil-Iv-Year/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering/PYQs-and-Assignments/Sem-End_2017-18_ECE415.pdf",
+   "reason": "same course title (Irrigation Engineering) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AM263_L-Computer-Engineering/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AM263_Discrete-Mathematics/PYQs-and-Assignments/Sem-End_2012-13_AM263.pdf",
+   "reason": "old course AM263 (Discrete Mathematics) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/NO3343_Ir-Code/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AM261_Higher-Mathematics-I/PYQs-and-Assignments/Sem-End_2018-19_AM261.pdf",
+   "reason": "code AM261 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE312_Electrical-Machine-Ti/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE312_Electrical-Machine-Ii/PYQs-and-Assignments/Sem-End_2013-14_EE312.pdf",
+   "reason": "old course RE312 (Electrical Machine-II) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/FL447_J-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL447_Multimedia-Systems-and-Networks/PYQs-and-Assignments/Sem-End_2013-14_EL447.pdf",
+   "reason": "old course EL447 (Multimedia Systems and Networks) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/EN101_Fnglish/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Sem-End_2015-16_EN101_2.pdf",
+   "reason": "same course title (English) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1130_R-All-Branches/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Sem-End_2023-24_MEA1130.pdf",
+   "reason": "same course title (Thermal Sciences) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_Industrial-Engineering/PYQs-and-Assignments/Sem-End_2014-15_ME341.pdf",
+   "reason": "old course ME341 (Industrial Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME449_I-Artificial-Intelligence-in-Man-Ufacturing/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME449_Artificial-Intelligence-in-Manufacturing/PYQs-and-Assignments/Sem-End_2012-13_ME449.pdf",
+   "reason": "old course ME449 (Artificial Intelligence in Manufacturing) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1130_R-All-Branches/PYQs-and-Assignments/Sem-End_2023-24_EMEA1130.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Sem-End_2023-24_EMEA1130.pdf",
+   "reason": "same course title (Thermal Sciences) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2014-15_PK214.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem4/PKC2242_Reaction-Kinetics-and-Reactor-Design/PYQs-and-Assignments/Sem-End_2014-15_PK214_2.pdf",
+   "reason": "code PK214 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2014-15_XN2014.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem3/PKC2132_Chemistry-of-Hydrocarbons/PYQs-and-Assignments/Sem-End_2014-15_PK231_2.pdf",
+   "reason": "code PK231 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2015-16_CH209.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH209_Social-Cultural-&-Educational-Movements-of-India/PYQs-and-Assignments/Sem-End_2014-15_CH209.pdf",
+   "reason": "old course CH209 (Social Cultural & Educational Movements of India) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2017-18_2.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/EE206_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2017-18_EE206.pdf",
+   "reason": "code EE206 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH322_Branch/PYQs-and-Assignments/Sem-End_2015-16_CH322.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2092_Equilibrium-Stage-Processes/PYQs-and-Assignments/Sem-End_2015-16_CH322.pdf",
+   "reason": "same course title (Equilibrium Stage Processes) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH322_Branch/PYQs-and-Assignments/Sem-End_2016-17_CH322.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2092_Equilibrium-Stage-Processes/PYQs-and-Assignments/Sem-End_2016-17_CH322.pdf",
+   "reason": "same course title (Equillibrium Stage Processes) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH322_Branch/PYQs-and-Assignments/Sem-End_2018-19_CH322.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2092_Equilibrium-Stage-Processes/PYQs-and-Assignments/Sem-End_2018-19_CH322.pdf",
+   "reason": "same course title (Equillibrium Stage Processes) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2019-20_CHC3110.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2092_Equilibrium-Stage-Processes/PYQs-and-Assignments/Sem-End_2019-20_CHC3110.pdf",
+   "reason": "same course title (Equillibrium Stage Processes) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2022-23_CHC3110.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2092_Equilibrium-Stage-Processes/PYQs-and-Assignments/Sem-End_2022-23_CHC3110.pdf",
+   "reason": "same course title (Equillibrium Stage Processes) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2023-24_CHC3110.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2092_Equilibrium-Stage-Processes/PYQs-and-Assignments/Sem-End_2023-24_CHC3110.pdf",
+   "reason": "same course title (Equillibrium Stage Processes) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2024-25_CHC3110.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2092_Equilibrium-Stage-Processes/PYQs-and-Assignments/Sem-End_2024-25_CHC3110.pdf",
+   "reason": "same course title (Equillibrium Stage Processes) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2025-26_CHC3110.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2092_Equilibrium-Stage-Processes/PYQs-and-Assignments/Sem-End_2025-26_CHC3110.pdf",
+   "reason": "same course title (Equillibrium Stage Processes) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH322_Branch/PYQs-and-Assignments/Sem-End_2015-16_CH322_2.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2092_Equilibrium-Stage-Processes/PYQs-and-Assignments/Sem-End_2015-16_CH322_2.pdf",
+   "reason": "same course title (Equillibrium Stage Processes) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2024-25_CHC3140.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3122_Process-Equipment-Design/PYQs-and-Assignments/Sem-End_2024-25_CHC3140.pdf",
+   "reason": "same course title (Process Equipment Design) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2015-16_CH415.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_Process-Engineering-and-Plant-Design-I/PYQs-and-Assignments/Sem-End_2015-16_CH415.pdf",
+   "reason": "old course CHA415 (Process Engineering and Plant Design I) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2016-17_CH415.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_Process-Engineering-and-Plant-Design-I/PYQs-and-Assignments/Sem-End_2016-17_CH415.pdf",
+   "reason": "old course CH415 (Process Engineering and Plant Design I) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2019-20_CH415.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_Process-Engineering-and-Plant-Design-I/PYQs-and-Assignments/Sem-End_2019-20_CH415.pdf",
+   "reason": "old course CH415 (Process Engineering and Plant Design I) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2019-20_CH456.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH456_Industrial-Safety-and-Hazard-Management/PYQs-and-Assignments/Sem-End_2019-20_CH456.pdf",
+   "reason": "old course CH456 (Industrial Safety and Hazard Management) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2015-16_CH456.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH456_Industrial-Safety-and-Hazard-Management/PYQs-and-Assignments/Sem-End_2015-16_CH456.pdf",
+   "reason": "old course CH456 (Industrial Safety and Hazard Management) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2015-16_GB711.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH466_Process-Heat-Transfer/PYQs-and-Assignments/Sem-End_2015-16_CH466.pdf",
+   "reason": "code CH466 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2016-17_CH456.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH456_Industrial-Safety-and-Hazard-Management/PYQs-and-Assignments/Sem-End_2016-17_CH456.pdf",
+   "reason": "old course CH456 (Industrial Safety and Hazard Management) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2022-23_CHE4610.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHE4610_Colloidal-and-Surface-Science/PYQs-and-Assignments/Sem-End_2022-23_CHE4610.pdf",
+   "reason": "old course CHE4610 (Colloidal and Surface Science) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2022-23_CHE4710.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHE4710_Cad-of-Process-Equipment/PYQs-and-Assignments/Sem-End_2022-23_CHE4710.pdf",
+   "reason": "old course CHE4710 (CAD of Process Equipments) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2023-24_CHE4710.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHE4710_Cad-of-Process-Equipment/PYQs-and-Assignments/Sem-End_2023-24_CHE4710.pdf",
+   "reason": "old course CHE4710 (CAD of Process Equipment) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2024-25_CHE4610.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHE4610_Colloidal-and-Surface-Science/PYQs-and-Assignments/Sem-End_2024-25_CHE4610.pdf",
+   "reason": "old course CHE4610 (Colloidal and Surface Science) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH415_J-Chemical-Engineering/PYQs-and-Assignments/Sem-End_2024-25_CHE4710.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHE4710_Cad-of-Process-Equipment/PYQs-and-Assignments/Sem-End_2024-25_CHE4710.pdf",
+   "reason": "old course CHE4710 (CAD of Process Equipment) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM212-EAM212_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2014-15_EAM212.pdf",
+   "reason": "code EAM212 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2018-19_COM811.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECE214_Water-Supply-and-Treatment/PYQs-and-Assignments/Sem-End_2018-19_ECE214.pdf",
+   "reason": "code ECE214 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2019-20_ECE437.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660-ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/Sem-End_2019-20_ECE437.pdf",
+   "reason": "same course title (Prestressed Concrete) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2022-23_ECEE4580.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4580-ECEE4580-CE428_Dam-Engineering/PYQs-and-Assignments/Sem-End_2022-23_ECEE4580.pdf",
+   "reason": "old course ECEE4580 (Dam Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2023-24_ECEE4580.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4580-ECEE4580-CE428_Dam-Engineering/PYQs-and-Assignments/Sem-End_2023-24_ECEE4580.pdf",
+   "reason": "old course ECEE4580 (Dam Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2024-25_ECEE4580.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4580-ECEE4580-CE428_Dam-Engineering/PYQs-and-Assignments/Sem-End_2024-25_ECEE4580.pdf",
+   "reason": "old course ECEE4580 (Dam Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2025-26_ECEE4580.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4580-ECEE4580-CE428_Dam-Engineering/PYQs-and-Assignments/Sem-End_2025-26_ECEE4580.pdf",
+   "reason": "old course ECEE4580 (Dam Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2017-18_ECE434.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434-ECE434_Bridge-Engineering/PYQs-and-Assignments/Sem-End_2017-18_ECE434.pdf",
+   "reason": "old course ECE434 (Bridge Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2017-18_ECE437.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660-ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/Sem-End_2017-18_ECE437.pdf",
+   "reason": "same course title (Pre-Stressed Concrete) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2017-18_ECE481.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/PYQs-and-Assignments/Sem-End_2017-18_ECE481.pdf",
+   "reason": "same course title (Advanced Environmental Engineering) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2018-19_ECE481.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/PYQs-and-Assignments/Sem-End_2018-19_ECE481.pdf",
+   "reason": "same course title (Advanced Environmental Engineering) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2022-23_ECEE4630.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4630-ECEE4630_Bridge-Engineering/PYQs-and-Assignments/Sem-End_2022-23_ECEE4630.pdf",
+   "reason": "old course ECEE4630 (Bridge Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2023-24_ECEE4630.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4630-ECEE4630_Bridge-Engineering/PYQs-and-Assignments/Sem-End_2023-24_ECEE4630.pdf",
+   "reason": "old course ECEE4630 (Bridge Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2024-25_ECEE4630.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4630-ECEE4630_Bridge-Engineering/PYQs-and-Assignments/Sem-End_2024-25_ECEE4630.pdf",
+   "reason": "old course ECEE4630 (Bridge Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/PYQs-and-Assignments/Sem-End_2013-14_CE220.pdf",
+   "reason": "same course title (Quantity Survey) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2014-15_2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211-EAM211_Mathematics-III/PYQs-and-Assignments/Sem-End_2014-15_AM2111.pdf",
+   "reason": "same course title (Mathematics-III) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2015-16_2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE218-ECE218_Surveying-I/PYQs-and-Assignments/Sem-End_2015-16_CE218.pdf",
+   "reason": "code CE218 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2015-16_CR216.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "reason": "same course title (Structural Mechanics) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2018-19_CODE3484.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/CE215_Engineering-Geology/PYQs-and-Assignments/Sem-End_2018-19_CE215.pdf",
+   "reason": "code CE215 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/PYQs-and-Assignments/Sem-End_2018-19_CEC2160.pdf",
+   "reason": "code CEC2160 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2018-19_2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE212_Civil-Engineering-Materials/PYQs-and-Assignments/Sem-End_2018-19_CE212.pdf",
+   "reason": "code CE212 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2018-19_3.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211-EAM211_Mathematics-III/PYQs-and-Assignments/Sem-End_2018-19_AM211.pdf",
+   "reason": "code AM211 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2022-23_TECH011.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/PYQs-and-Assignments/Sem-End_2022-23_CEC2160.pdf",
+   "reason": "code CEC2160 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2012-13_OO000.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/Sem-End_2012-13_CE216_2.pdf",
+   "reason": "same course title (Structural Mechanics) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM212-EAM212_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2012-13_AM212.pdf",
+   "reason": "code AM212 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2013-14_2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211-EAM211_Mathematics-III/PYQs-and-Assignments/Sem-End_2013-14_AM211.pdf",
+   "reason": "code AM211 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2015-16_QOIS2016.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE212_Civil-Engineering-Materials/PYQs-and-Assignments/Sem-End_2015-16_CE212.pdf",
+   "reason": "code CE212 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2015-16_3.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM212-EAM212_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2015-16_AM212.pdf",
+   "reason": "code AM212 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2012-13_CE428.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4580-ECEE4580-CE428_Dam-Engineering/PYQs-and-Assignments/Sem-End_2012-13_CE428.pdf",
+   "reason": "old course CE428 (Dam Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2012-13_CE413.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/Sem-End_2012-13_CE413.pdf",
+   "reason": "same course title (Foundation Engineering) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2012-13_NO2012.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE433_Advanced-Highway-Engineering/PYQs-and-Assignments/Sem-End_2012-13_CE433.pdf",
+   "reason": "code CE433 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2013-14_CE413.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/Sem-End_2013-14_CE413.pdf",
+   "reason": "same course title (Foundation Engineering) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2013-14_CE428.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4580-ECEE4580-CE428_Dam-Engineering/PYQs-and-Assignments/Sem-End_2013-14_CE428.pdf",
+   "reason": "old course CE428 (Dam Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2014-15_CE413.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/Sem-End_2014-15_CE413.pdf",
+   "reason": "same course title (Foundation Engineering) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2014-15_CE428.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4580-ECEE4580-CE428_Dam-Engineering/PYQs-and-Assignments/Sem-End_2014-15_CE428.pdf",
+   "reason": "old course CE428 (Dam Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2015-16_CE413.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/Sem-End_2015-16_CE413.pdf",
+   "reason": "same course title (Foundation Engineering) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2015-16_CE423.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4530-CE423_Traffic-Engineering/PYQs-and-Assignments/Sem-End_2015-16_CE423.pdf",
+   "reason": "old course CE423 (Traffic Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2015-16_CE428.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4580-ECEE4580-CE428_Dam-Engineering/PYQs-and-Assignments/Sem-End_2015-16_CE428.pdf",
+   "reason": "old course CE428 (Dam Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2016-17_CE413.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/Sem-End_2016-17_CE413.pdf",
+   "reason": "same course title (Foundation Engineering) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2016-17_CE423.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4530-CE423_Traffic-Engineering/PYQs-and-Assignments/Sem-End_2016-17_CE423.pdf",
+   "reason": "old course CE423 (Traffic Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2016-17_CE428.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4580-ECEE4580-CE428_Dam-Engineering/PYQs-and-Assignments/Sem-End_2016-17_CE428.pdf",
+   "reason": "old course CE428 (Dam Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2017-18_CE413.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/Sem-End_2017-18_CE413.pdf",
+   "reason": "same course title (Foundation Engineering) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2017-18_CE428.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4580-ECEE4580-CE428_Dam-Engineering/PYQs-and-Assignments/Sem-End_2017-18_CE428.pdf",
+   "reason": "old course CE428 (Dam Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2018-19_CE413.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/Sem-End_2018-19_CE413.pdf",
+   "reason": "same course title (Foundation Engineering) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2018-19_CE428.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4580-ECEE4580-CE428_Dam-Engineering/PYQs-and-Assignments/Sem-End_2018-19_CE428.pdf",
+   "reason": "old course CE428 (Dam Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2019-20_CE413.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/Sem-End_2019-20_CE413.pdf",
+   "reason": "same course title (Foundation Engineering) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2022-23_CEE4580.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4580-ECEE4580-CE428_Dam-Engineering/PYQs-and-Assignments/Sem-End_2022-23_CEE4580.pdf",
+   "reason": "old course CEE4580 (Dam Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2023-24_CEC4120.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/Sem-End_2023-24_CEC4120.pdf",
+   "reason": "same course title (Foundation Engineering) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2023-24_CEE4580.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4580-ECEE4580-CE428_Dam-Engineering/PYQs-and-Assignments/Sem-End_2023-24_CEE4580.pdf",
+   "reason": "old course CEE4580 (Dam Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2024-25_CEC4120.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/Sem-End_2024-25_CEC4120.pdf",
+   "reason": "same course title (Foundation Engineering) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2024-25_CEE4580.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4580-ECEE4580-CE428_Dam-Engineering/PYQs-and-Assignments/Sem-End_2024-25_CEE4580.pdf",
+   "reason": "old course CEE4580 (Dam Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2025-26_CEC4120.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/Sem-End_2025-26_CEC4120.pdf",
+   "reason": "same course title (Foundation Engineering) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2025-26_CEE4580.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4580-ECEE4580-CE428_Dam-Engineering/PYQs-and-Assignments/Sem-End_2025-26_CEE4580.pdf",
+   "reason": "old course CEE4580 (Dam Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2012-13_CE434.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434-ECE434_Bridge-Engineering/PYQs-and-Assignments/Sem-End_2012-13_CE434.pdf",
+   "reason": "old course CE434 (Bridge Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2013-14_CE413_2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/Sem-End_2013-14_CE413_2.pdf",
+   "reason": "same course title (Foundation Engineering) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2013-14_CE434.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434-ECE434_Bridge-Engineering/PYQs-and-Assignments/Sem-End_2013-14_CE434.pdf",
+   "reason": "old course CE434 (Bridge Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2014-15_CE434.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434-ECE434_Bridge-Engineering/PYQs-and-Assignments/Sem-End_2014-15_CE434.pdf",
+   "reason": "old course CE434 (Bridge Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2016-17_CE427.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE427_Geo-Engineering-of-Rocks-and-Rock-Masses/PYQs-and-Assignments/Sem-End_2016-17_CE427.pdf",
+   "reason": "old course CE427 (Geo-Engineering of Rocks and Rock Masses) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2017-18_CE427.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE427_Geo-Engineering-of-Rocks-and-Rock-Masses/PYQs-and-Assignments/Sem-End_2017-18_CE427.pdf",
+   "reason": "old course CE427 (Geo-Engineering of Rocks and Rock Masses) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2017-18_CE434.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434-ECE434_Bridge-Engineering/PYQs-and-Assignments/Sem-End_2017-18_CE434.pdf",
+   "reason": "old course CE434 (Bridge Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2022-23_CEE4630.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4630-ECEE4630_Bridge-Engineering/PYQs-and-Assignments/Sem-End_2022-23_CEE4630.pdf",
+   "reason": "old course CEE4630 (Bridge Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2023-24_CEE4530.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4530-CE423_Traffic-Engineering/PYQs-and-Assignments/Sem-End_2023-24_CEE4530.pdf",
+   "reason": "old course CEE4530 (Traffic Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2023-24_CEE4630.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4630-ECEE4630_Bridge-Engineering/PYQs-and-Assignments/Sem-End_2023-24_CEE4630.pdf",
+   "reason": "old course CEE4630 (Bridge Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2024-25_CEE4580_2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4580-ECEE4580-CE428_Dam-Engineering/PYQs-and-Assignments/Sem-End_2024-25_CEE4580_2.pdf",
+   "reason": "old course CEE4580 (Dam Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2024-25_CEE4630.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4630-ECEE4630_Bridge-Engineering/PYQs-and-Assignments/Sem-End_2024-25_CEE4630.pdf",
+   "reason": "old course CEE4630 (Bridge Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE312_Electrical-Machine-Ti/PYQs-and-Assignments/Sem-End_2012-13_NO3059.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/PYQs-and-Assignments/Sem-End_2012-13_EE214.pdf",
+   "reason": "same course title (Electrical Machines-I) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE312_Electrical-Machine-Ti/PYQs-and-Assignments/Sem-End_2015-16_RE211.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE211_Electrical-Machines/PYQs-and-Assignments/Sem-End_2015-16_EE211.pdf",
+   "reason": "code EE211 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE312_Electrical-Machine-Ti/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/PYQs-and-Assignments/Sem-End_2016-17_EE213.pdf",
+   "reason": "code EE213 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE312_Electrical-Machine-Ti/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2122_Electrical-Machines-II/PYQs-and-Assignments/Sem-End_2017-18_EE213.pdf",
+   "reason": "code EE213 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE312_Electrical-Machine-Ti/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE312_Electrical-Machine-Ii/PYQs-and-Assignments/Sem-End_2012-13_EE312.pdf",
+   "reason": "old course EE312 (Electrical Machine-II) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/FL447_J-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL222_Electronic-Instrumentation/PYQs-and-Assignments/Sem-End_2012-13_IL222.pdf",
+   "reason": "same course title (Electronic Instrumentation) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/FL447_J-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2013-14_FP2013.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL211_Electronic-Devices/PYQs-and-Assignments/Sem-End_2013-14_EL211.pdf",
+   "reason": "code EL211 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/FL447_J-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2017-18_LS2017.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/PYQs-and-Assignments/Sem-End_2017-18_EL212.pdf",
+   "reason": "same course title (Circuit Theory) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/FL447_J-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2022-23_EEA2010.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2022-23_EEA2010.pdf",
+   "reason": "code EEA2010 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/FL447_J-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2023-24_EEA2010.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2023-24_EEA2010.pdf",
+   "reason": "code EEA2010 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/FL447_J-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/PYQs-and-Assignments/Sem-End_2015-16_EL311.pdf",
+   "reason": "same course title (Digital Electronics) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2017-18_EME213.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2017-18_EME213.pdf",
+   "reason": "same course title (Mechanics of Solids) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2023-24.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4130-EMEE4130_Introduction-to-Composites/PYQs-and-Assignments/Sem-End_2023-24_EMEE4130.pdf",
+   "reason": "old course EMEE4130 (Introduction to Composites) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4130-EMEE4130_Introduction-to-Composites/PYQs-and-Assignments/Sem-End_2024-25_EMEE4130.pdf",
+   "reason": "old course EMEE4130 (Introduction to Composites) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2012-13_ME226.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/Sem-End_2012-13_ME226.pdf",
+   "reason": "same course title (Experimental Methods and Analysis) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2012-13_CODE3126.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/PYQs-and-Assignments/Sem-End_2012-13_ME314.pdf",
+   "reason": "same course title (Kinematics of Machines) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Sem-End_2013-14_AM331_2.pdf",
+   "reason": "same course title (Numerical Methods and Optimization) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2015-16_ME341.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_Industrial-Engineering/PYQs-and-Assignments/Sem-End_2015-16_ME341.pdf",
+   "reason": "old course ME341 (Industrial Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2016-17_ME341.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_Industrial-Engineering/PYQs-and-Assignments/Sem-End_2016-17_ME341.pdf",
+   "reason": "old course ME341 (Industrial Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2017-18_ME341.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_Industrial-Engineering/PYQs-and-Assignments/Sem-End_2017-18_ME341.pdf",
+   "reason": "old course ME341 (Industrial Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2018-19_ME341.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_Industrial-Engineering/PYQs-and-Assignments/Sem-End_2018-19_ME341.pdf",
+   "reason": "old course ME341 (Industrial Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2019-20_ME341.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_Industrial-Engineering/PYQs-and-Assignments/Sem-End_2019-20_ME341.pdf",
+   "reason": "old course ME341 (Industrial Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2012-13_ME341.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_Industrial-Engineering/PYQs-and-Assignments/Sem-End_2012-13_ME341.pdf",
+   "reason": "old course ME341 (Industrial Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2014-15_ME341.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_Industrial-Engineering/PYQs-and-Assignments/Sem-End_2014-15_ME341_2.pdf",
+   "reason": "old course ME341 (Industrial Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2012-13_NG3144.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME418_Advanced-Mechanics-of-Solids/PYQs-and-Assignments/Sem-End_2012-13_ME418.pdf",
+   "reason": "code ME418 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2013-14_MR404.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME464_Manufacturing-Engineering/PYQs-and-Assignments/Sem-End_2013-14_ME464.pdf",
+   "reason": "old course ME464 (Manufacturing Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2014-15_ME454.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME454_Six-Sigma-Quality-Engineering/PYQs-and-Assignments/Sem-End_2014-15_ME454.pdf",
+   "reason": "old course ME454 (Six Sigma Quality Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2015-16_ME443.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME443_Manufacturing-Systems-Engineering/PYQs-and-Assignments/Sem-End_2015-16_ME443.pdf",
+   "reason": "old course ME443 (Manufacturing Systems Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4130-EMEE4130_Introduction-to-Composites/PYQs-and-Assignments/Sem-End_2019-20_MEE4130.pdf",
+   "reason": "old course MEE4130 (Introduction to Composites) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2024-25_MEE4440.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4440_Non-Traditional-Machining/PYQs-and-Assignments/Sem-End_2024-25_MEE4440.pdf",
+   "reason": "old course MEE4440 (Non-Traditional Machining) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2024-25_2.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3292_Electric-and-Hybrid-Vehicles/PYQs-and-Assignments/Sem-End_2024-25_MEE4291.pdf",
+   "reason": "same course title (Electric and Hybrid Vehicles) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2013-14_ME463.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME463_Propulsion-Technology/PYQs-and-Assignments/Sem-End_2013-14_ME463.pdf",
+   "reason": "old course ME463 (Propulsion Technology) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2013-14_TERR015.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME445_Operation-Research/PYQs-and-Assignments/Sem-End_2013-14_ME445.pdf",
+   "reason": "old course ME445 (Operation Research) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2014-15_ME463.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME463_Propulsion-Technology/PYQs-and-Assignments/Sem-End_2014-15_ME463.pdf",
+   "reason": "old course ME463 (Propulsion Technology) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2015-16_ME463.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME463_Propulsion-Technology/PYQs-and-Assignments/Sem-End_2015-16_ME463.pdf",
+   "reason": "old course ME463 (Propulsion Technology) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2016-17_ME443.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME443_Manufacturing-Systems-Engineering/PYQs-and-Assignments/Sem-End_2016-17_ME443.pdf",
+   "reason": "old course ME443 (Manufacturing Systems Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME479_Introduction-to-Composite-Material/PYQs-and-Assignments/Sem-End_2017-18_ME479.pdf",
+   "reason": "old course ME479 (Introduction to Composite Material) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2017-18_ME443.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME443_Manufacturing-Systems-Engineering/PYQs-and-Assignments/Sem-End_2017-18_ME443.pdf",
+   "reason": "old course ME443 (Manufacturing Systems Engineering (DE)) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2017-18_ME478.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME478_Introduction-to-Aerospace-Structural-Analysis/PYQs-and-Assignments/Sem-End_2017-18_ME478.pdf",
+   "reason": "old course ME478 (Introduction to Aerospace Structural Analysis) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2022-23_MEE4740.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4740_Machine-Learning-for-Applications-in-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2022-23_MEE4740.pdf",
+   "reason": "old course MEE4740 (Machine Learning for Applications in Mechanical Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2023-24_MEE4740.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4740_Machine-Learning-for-Applications-in-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2023-24_MEE4740.pdf",
+   "reason": "old course MEE4740 (Machine Learning for Applications in Mechanical Engineering) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2023-24_MEE4810.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4810_Fundamental-of-Robotics/PYQs-and-Assignments/Sem-End_2023-24_MEE4810.pdf",
+   "reason": "old course MEE4810 (Fundamental of Robotics) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2024-25_MEE4280.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4280_Nanofluid-&-Its-Applications/PYQs-and-Assignments/Sem-End_2024-25_MEE4280.pdf",
+   "reason": "old course MEE4280 (Nanofluid & Its Applications) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Sem-End_2015-16_EN101.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Sem-End_2015-16_EEN101.pdf",
+   "reason": "same course title (English) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Sem-End_2014-15_EME111.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111-EME111_Applied-Mechanics/PYQs-and-Assignments/Sem-End_2014-15_EME111.pdf",
+   "reason": "code EME111 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Technology/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2012-13_PKC4112.pdf",
+   "to": "BTech-and-BE/Chemical-Technology/Sem7/PKC4112_Process-Dynamics-and-Control/PYQs-and-Assignments/Sem-End_2012-13_PK411_2.pdf",
+   "reason": "code PK411 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AMO3512-EAMO3510_Numerical-Techniques/PYQs-and-Assignments/Sem-End_2012-13_AM351.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/AM351_Numerical-Techniques/PYQs-and-Assignments/Sem-End_2012-13_AM351.pdf",
+   "reason": "old course AM351 (Numerical Techniques) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4750-CEO4850_Project-Management/PYQs-and-Assignments/Sem-End_2017-18_CE484.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE484_Project-Management/PYQs-and-Assignments/Sem-End_2017-18_CE484.pdf",
+   "reason": "old course CE484 (Project Management) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CH361_Heterogeneous-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2023-24_CODE2058.pdf",
+   "to": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHC3170_Chemical-Reaction-Engineering/PYQs-and-Assignments/Sem-End_2023-24_CHC3170.pdf",
+   "reason": "code CHC3170 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering/PYQs-and-Assignments/Sem-End_2019-20_NO2676.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering/PYQs-and-Assignments/Sem-End_2019-20_CE415_2.pdf",
+   "reason": "same course title (Irrigation Engineering) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH2210-ECEH2210_Construction-Management-I/PYQs-and-Assignments/Sem-End_2013-14_CODE1750.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE410-ECE410_Construction-Management/PYQs-and-Assignments/Sem-End_2013-14_CE410.pdf",
+   "reason": "code CE410 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering/PYQs-and-Assignments/Sem-End_2015-16_NO3656.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering/PYQs-and-Assignments/Sem-End_2015-16_CE415.pdf",
+   "reason": "same course title (Irrigation Engineering) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/AM221_Higher-Mathematics-I/PYQs-and-Assignments/Sem-End_2013-14_AM221.pdf",
+   "reason": "old course AM221 (Higher Mathematics - I) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2024-25.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2024-25_AM2230.pdf",
+   "reason": "same course title (Higher Mathematics) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/AM222_Higher-Mathematics-Ii/PYQs-and-Assignments/Sem-End_2012-13_AM222.pdf",
+   "reason": "old course AM222 (Higher Mathematics - II) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2013-14_2.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2013-14_AM223_2.pdf",
+   "reason": "same course title (Higher Mathematics) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/AM222_Higher-Mathematics-Ii/PYQs-and-Assignments/Sem-End_2014-15_AM222.pdf",
+   "reason": "old course AM222 (Higher Mathematics - I) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2015-16_AM223_2.pdf",
+   "reason": "same course title (Higher Mathematics) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE321_Power-Electronics/PYQs-and-Assignments/Sem-End_2012-13_NO3080.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/PYQs-and-Assignments/Sem-End_2012-13_EE322.pdf",
+   "reason": "same course title (Power Electronics II) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE321_Power-Electronics/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2212_Power-Electronics-I/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "reason": "same course title (Power Electronics I) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE321_Power-Electronics/PYQs-and-Assignments/Sem-End_2015-16_NO3519.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/PYQs-and-Assignments/Sem-End_2015-16_EE322.pdf",
+   "reason": "same course title (Power Electronics II) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE321_Power-Electronics/PYQs-and-Assignments/Sem-End_2016-17_NO3559.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/PYQs-and-Assignments/Sem-End_2016-17_EE322.pdf",
+   "reason": "same course title (Power Electronics II) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/PYQs-and-Assignments/Sem-End_2016-17_NO3559.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE321_Power-Electronics/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "reason": "power-electronics content (ac regulators), old-scheme paper; code not printed on this page"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE321_Power-Electronics/PYQs-and-Assignments/Sem-End_2017-18_NO3404.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/PYQs-and-Assignments/Sem-End_2017-18_EE322.pdf",
+   "reason": "same course title (Power Electronics II) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2012-13_2.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE436_Computer-Methods-in-Power-Systems/PYQs-and-Assignments/Sem-End_2012-13_EE436.pdf",
+   "reason": "code EE436 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/PYQs-and-Assignments/Sem-End_2013-14_NO1647.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Electives/EEE4522_Process-Instrumentation-and-Control/PYQs-and-Assignments/Sem-End_2013-14_EE453.pdf",
+   "reason": "same course title (Process Instrumentation and Control) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEE437_Course-Code/PYQs-and-Assignments/Sem-End_2017-18_NO3424.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE423-EEE423_Solar-Energy-and-Its-Applications/PYQs-and-Assignments/Sem-End_2017-18_EE423.pdf",
+   "reason": "code EE423 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM252_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM251_Higher-Mathematics-I/PYQs-and-Assignments/Sem-End_2014-15_AM251.pdf",
+   "reason": "code AM251 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM252_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2014-15_2.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM251_Higher-Mathematics-I/PYQs-and-Assignments/Sem-End_2014-15_AM251_2.pdf",
+   "reason": "code AM251 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3920_Communication-Lab-I/PYQs-and-Assignments/Sem-End_2012-13_NO3286.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL431_Computer-Communication-Networks/PYQs-and-Assignments/Sem-End_2012-13_EL431.pdf",
+   "reason": "code EL431 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3920_Communication-Lab-I/PYQs-and-Assignments/Sem-End_2013-14_BS1840.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL431_Computer-Communication-Networks/PYQs-and-Assignments/Sem-End_2013-14_EL431.pdf",
+   "reason": "code EL431 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/Sem7/ELA4342_Computer-Architecture/PYQs-and-Assignments/Sem-End_2013-14.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem7/ELA4342_Computer-Architecture/PYQs-and-Assignments/Sem-End_2013-14_CO460.pdf",
+   "reason": "same course title (Computer Architecture) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/Sem7/ELA4342_Computer-Architecture/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem7/ELA4342_Computer-Architecture/PYQs-and-Assignments/Sem-End_2015-16_CO460.pdf",
+   "reason": "same course title (Computer Architecture) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3920_Communication-Lab-I/PYQs-and-Assignments/Sem-End_2022-23_ODD2022.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4520_Mobile-Communication/PYQs-and-Assignments/Sem-End_2022-23_ELE4520.pdf",
+   "reason": "code ELE4520 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3982_DSP-Systems-Lab/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4110_RF-System-Design/PYQs-and-Assignments/Sem-End_2016-17_EL410.pdf",
+   "reason": "same course title (RF System Design) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Sem-End_2015-16_EAM232.pdf",
+   "reason": "same course title (Numerical Methods & Optimization) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3232_Energy-Conversion-Systems/PYQs-and-Assignments/Sem-End_2015-16_NO4014.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3232_Energy-Conversion-Systems/PYQs-and-Assignments/Sem-End_2015-16_EME322.pdf",
+   "reason": "same course title (Energy Conversion Systems) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/PYQs-and-Assignments/Sem-End_2017-18_NO3896.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/PYQs-and-Assignments/Sem-End_2017-18_EME332.pdf",
+   "reason": "same course title (Fluid Mechanics-II) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/PYQs-and-Assignments/Sem-End_2012-13_MU214.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/Sem-End_2012-13_ME214.pdf",
+   "reason": "same course title (Manufacturing Technology-I) as this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EAM231_Higher-Mathematics-I/PYQs-and-Assignments/Sem-End_2012-13.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/AM231_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2012-13_AM231.pdf",
+   "reason": "code AM231 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/PYQs-and-Assignments/Sem-End_2016-17_NO3570.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME231_Fluid-Mechanics-I/PYQs-and-Assignments/Sem-End_2016-17_ME231.pdf",
+   "reason": "code ME231 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/PYQs-and-Assignments/Sem-End_2017-18_NO3434.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME231_Fluid-Mechanics-I/PYQs-and-Assignments/Sem-End_2017-18_ME231.pdf",
+   "reason": "code ME231 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/PYQs-and-Assignments/Sem-End_2014-15_NO3249.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME231_Fluid-Mechanics-I/PYQs-and-Assignments/Sem-End_2014-15_ME231_2.pdf",
+   "reason": "code ME231 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EAM231_Higher-Mathematics-I/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/AM231_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2015-16_AM231.pdf",
+   "reason": "code AM231 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340-EME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2018-19_NO3437.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340-EME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2018-19_ME340.pdf",
+   "reason": "code ME340 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/PYQs-and-Assignments/Sem-End_2012-13_BSFC104.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME463_Propulsion-Technology/PYQs-and-Assignments/Sem-End_2012-13_ME463.pdf",
+   "reason": "old course ME463 (Propulsion Technology) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME438_Gas-Dynamics/PYQs-and-Assignments/Sem-End_2012-13_NO3149.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME438_Gas-Dynamics/PYQs-and-Assignments/Sem-End_2012-13_ME438.pdf",
+   "reason": "code ME438 matches this course"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME463_Propulsion-Technology/PYQs-and-Assignments/Sem-End_2016-17_ME463.pdf",
+   "reason": "old course ME463 (Propulsion Technology) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4520_Introduction-To-Microfluidics/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME476_Introduction-to-Acoustics/PYQs-and-Assignments/Sem-End_2015-16_ME476.pdf",
+   "reason": "old course ME476 (Introduction to Acoustics) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4520_Introduction-To-Microfluidics/PYQs-and-Assignments/Sem-End_2016-17_NO3632.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME476_Introduction-to-Acoustics/PYQs-and-Assignments/Sem-End_2016-17_ME476.pdf",
+   "reason": "old course ME476 (Introduction to Acoustics) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4520_Introduction-To-Microfluidics/PYQs-and-Assignments/Sem-End_2017-18_NO3494.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME476_Introduction-to-Acoustics/PYQs-and-Assignments/Sem-End_2017-18_ME476.pdf",
+   "reason": "old course ME476 (Introduction to Acoustics) has no folder yet"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME455_Applied-Computational-Fluid-Dynamics/PYQs-and-Assignments/Sem-End_2017-18_NO3498.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME455_Applied-Computational-Fluid-Dynamics/PYQs-and-Assignments/Sem-End_2017-18_ME455.pdf",
+   "reason": "code ME455 matches this course"
+  }
+ ]
+}
