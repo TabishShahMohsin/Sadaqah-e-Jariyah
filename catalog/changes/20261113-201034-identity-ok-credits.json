@@ -1,0 +1,1243 @@
+{
+ "id": "20261113-201034-identity-ok-credits",
+ "created": "2026-11-13T20:10:34+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "credits for the files placed from earlier uploads (identity-ok)"
+ },
+ "ops": [
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Z_Assignment_Working-of-Diodes.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/PYQs-and-Assignments/Z_Assignment_Complex-Analysis.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/PYQs-and-Assignments/Z_Assignment-2_Signals-and-Systems.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/PYQs-and-Assignments/Z_Assignment-2_Signals-and-Systems_2.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/PYQs-and-Assignments/Z_Assignment-1_Signals-and-Systems.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/PYQs-and-Assignments/Z_Assignment-2_EEC2110.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Records/Lab-Record_Experiments-1-to-8_2022-23.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Records/Experiment-4_Temperature-Profile-of-a-Flame.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Records/Experiment-5_Adiabatic-Saturator.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Records/Experiment-6_Reciprocating-Air-Compressor.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Records/Experiment-7_Cooling-Tower.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Records/Experiment-8_Bypass-Factor.pdf",
+   "meta": {
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/PYQs-and-Assignments/Z_Assignment_Machine-Design-II.pdf",
+   "meta": {
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice/Records/Experiment-3_Shaft-Design_2018-19.pdf",
+   "meta": {
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice/Records/Experiment-4_Coupling_2018-19.pdf",
+   "meta": {
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice/Records/Record_Knuckle-Joint.pdf",
+   "meta": {
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice/Records/Record_Machine-Design-Practice_2021-22.pdf",
+   "meta": {
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3962_Modeling-and-Simulation-of-Thermofluid-System/Records/Record_Thermofluid-Simulation-Slides_2024-25.pdf",
+   "meta": {
+    "credit": "Hasan"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/PYQs-and-Assignments/Z_Assignment_HMT_Unsteady-Conduction.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/PYQs-and-Assignments/Z_Tutorial_HMT_Solution.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/PYQs-and-Assignments/Z_Assignment_HMT_Fins.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Z_Assignment-1_2020-21_AMS2320_Solution.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Z_Assignment-1_2024-25_MEH3450.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3962_Modeling-and-Simulation-of-Thermofluid-System/Records/Record_Modelling-and-Simulation-of-ThermoFluids-Slides_2024-25.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3962_Modeling-and-Simulation-of-Thermofluid-System/Records/Experiment-1_Duct-Pipe-Modeling_Slides_2024-25.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3942-AEC3942_Solid-Modelling-and-Analysis-Lab/PYQs-and-Assignments/Z_Assignment-2_Solid-Modelling-and-Analysis-Lab.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3942-AEC3942_Solid-Modelling-and-Analysis-Lab/PYQs-and-Assignments/Z_Assignment-1_Solid-Modelling-and-Analysis-Lab.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Records/Record_Cam-Analysis.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Records/Record_Gyroscopic-Torque.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Records/Record_Balancing-of-Masses.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Records/Record_Strain-in-Cantilever.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Records/Record_Journal-Bearing-Pressure-Profile.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Records/Record_Friction-Coefficient-of-Lubricant.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Records/Record_Epicyclic-Gear-Train-Torque.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/PYQs-and-Assignments/Z_Assignment_Handwritten-Solution.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/PYQs-and-Assignments/Z_Assignment_Solution.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/PYQs-and-Assignments/Z_Assignment-1_2020-21.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/PYQs-and-Assignments/Sem-End_MEC3120_Handwritten-Answers.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Records/Experiment-1_Alignment-Tests.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Records/Experiment-3_Angle-of-Wedge.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Records/Experiment-2_Single-Point-Cutting-Tool.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Records/Experiment-4_Xbar-and-R-Control-Charts_2020-21.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Records/Experiment-5_Effect-of-Cutting-Parameters-on-Surface-Finish_2020-21.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Records/Experiment-6_NC-Machining_2020-21.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4510_Fundamentals-of-Robotics/PYQs-and-Assignments/Z_Assignment-3_Fundamentals-of-Robotics.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COO4460_Selected-Topics-in-Computer-Engineering-I/PYQs-and-Assignments/Z_Assignment_COO4460_Handwritten-Solutions.pdf",
+   "meta": {
+    "credit": "Md Yousuf"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3920_Communication-Lab-I/Records/Experiment-2_Sampling-and-Reconstruction_2023-24.pdf",
+   "meta": {
+    "credit": "Afzal Malik"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3920_Communication-Lab-I/Records/Experiment-3_Amplitude-Modulation-Demodulation_2023-24.pdf",
+   "meta": {
+    "credit": "Afzal Malik"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3920_Communication-Lab-I/Records/Experiment-4-5_Frequency-Modulation-and-PLL-Demodulation_2023-24.pdf",
+   "meta": {
+    "credit": "Afzal Malik"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/PYQs-and-Assignments/Z_Assignment-2_Solution.pdf",
+   "meta": {
+    "credit": "Afzal Malik"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/PYQs-and-Assignments/Z_Assignment-3_2022-23_Solution.pdf",
+   "meta": {
+    "credit": "Afzal Malik"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/PYQs-and-Assignments/Z_Assignment-4_2022-23_Solution.pdf",
+   "meta": {
+    "credit": "Afzal Malik"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/PYQs-and-Assignments/Z_Assignment-1_2022-23_Solution.pdf",
+   "meta": {
+    "credit": "Afzal Malik"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/PYQs-and-Assignments/Z_Assignment-4_Solution.pdf",
+   "meta": {
+    "credit": "Afzal Malik"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/PYQs-and-Assignments/Z_Assignment-3_Solution.pdf",
+   "meta": {
+    "credit": "Afzal Malik"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/PYQs-and-Assignments/Z_Assignment-1_2022-23.pdf",
+   "meta": {
+    "credit": "Afzal Malik"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/PYQs-and-Assignments/Z_Assignment-1_2022-23_Submission.pdf",
+   "meta": {
+    "credit": "Afzal Malik"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020-EEZH3020_Intellectual-Property-Rights-for-Engineers/PYQs-and-Assignments/Z_Assignment_2024-25_AI-in-IP-Management.pdf",
+   "meta": {
+    "credit": "Afzal Malik"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4520_Mobile-Communication/PYQs-and-Assignments/Z_Assignment-1_2023-24_Latest-Advancements-in-4G-Technologies.pdf",
+   "meta": {
+    "credit": "Afzal Malik"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4520_Mobile-Communication/PYQs-and-Assignments/Z_Assignment_2024-25_Overview-of-Long-Term-Evolution.pdf",
+   "meta": {
+    "credit": "Afzal Malik"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Assignment_CEA1110_Carbon-Footprint.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Assignment_CEA1110_Environmental-Communication.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Record_Project-P3_Screenshot.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Record_Project-P5.c",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Record_Project-P6.c",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Record_Project-P9.c",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Z_Assignment_MEA1110_Engineering-Thermodynamics-Project.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Record_Project-P3_Projection-of-Straight-Lines.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_CEA1110_Submission.jpg",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_Quiz_Mid-Sem_AMS1110_Handwritten-Answers.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Quiz_Mid-Sem_2020-21_CEA1110_Definition-and-Ozone-Layer.jpg",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Z_Quiz-1_2020-21_MEA1110_Pressure-Cooker.jpg",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Z_Assignment_AMS1120_Partial-Differentiation_Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_Assignment-1_Solution_Unit-3-4_3.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment-1_2020-21_Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment-1_2020-21_Solution_2.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment-3_Work-Energy-Method.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment-3_Work-Energy-Method_Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Experiment-1_Carpentry.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Experiment-5_Shaper_2021-22.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Experiment-3_Turning_2021-22.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Experiment-8_Fitting_2021-22.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Experiment-9_Welding-Electroplating_2021-22.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Records/Experiment-3_Modulus-of-Rigidity_2020-21.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_Assignment-1_2020-21_Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_Assignment-2_2020-21_Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Sem-End_2021-22_Sets-A-B-C.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Mid-Sem_2020-21_Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Mid-Sem_2020-21_Handwritten-Answers_2.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Assignment_2020-21_Home-Assignment.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Assignment_2020-21_Significance-of-Biosphere-Lithosphere-Hydrosphere-Atmosphere.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Assignment_2020-21_Dos-and-Donts-for-Conserving-Water.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Program_Project-8_Concatenate-Strings-and-Toggle-Case.c",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_Assignment_Set-1_2020-21_Principles-of-Electrical-Engineering.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_Assignment_Set-2_2020-21_Principles-of-Electrical-Engineering.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet_Projection-of-Planes_2020-21.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet_Sectional-Views-of-Machine-Parts_2020-21.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet_Projection-of-Isometric-Views_2020-21.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_End-Sem_2020-21_COA1910_Concatenate-Strings-Without-Vowels.c",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_End-Sem_2020-21_COA1910_Fahrenheit-to-Celsius-Above-Boiling.c",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_Mid-Sem_2020-21_COA1910_Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Z_Assignment_AMS1120_Handwritten-Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_Assignment_APS1110_Handwritten-Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment-1_CEA1120_Shear-Force-and-Bending-Moment.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment-2_CEA1120.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment_CEA1120_Section-Modulus_2020-21.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment-2_CEA1120_Section-Modulus.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment-3_MEA1120.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment-2_CEA1120_2.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment-2_MEA1120_Unit-2_Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment-2_MEA1120_Unit-2.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Record_Moulding-Job-4.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Record_Tin-Smithy.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment-1_MEA1120_Handwritten-Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Sem-End_APS1110_Handwritten-Answers.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/PYQs-and-Assignments/Z_Quiz_End-Sem_MEA1920_A1B.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Mid-Sem_2020-21_Handwritten-Answers.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Sem-End_2020-21_Handwritten-Answers.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Quiz_End-Sem_2020-21_CEA1120_Torsion-and-Bending.jpg",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/PYQs-and-Assignments/Z_Assignment-1_2020-21_Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_Assignment-1_2020-21_Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Record_Project-2-Output.jpg",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Z_Assignment_2020-21_Unit-3-Project.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet-1_2020-21.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_End-Sem_2020-21_COA1910_Character-Comparison.jpg",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_End-Sem_2020-21_COA1910_Printf-Format-Specifiers.jpg",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_Quiz_End-Sem_2020-21_EEA1110_Transformer-Flux-and-Alternator.jpg",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz-1_2020-21_C-Programming-Lab-Quiz-Response.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Mid-Sem_2020-21_Retest_Handwritten-Answers.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment-2_2020-21_Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_Assignment-Unit-2_2020-21_Handwritten-Answers.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_Assignment-Unit-1_2020-21_Handwritten-Answers.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Experiment-7_Slotter_2021-22.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Experiment-6_Smithy_2021-22.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment-2_2020-21_Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_CEA1120_Handwritten-Answers.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_MEA1120_Handwritten-Answers.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Mid-Sem_2020-21_APS1110_A1D_Handwritten-Answers.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Mid-Sem_2020-21_CEA1120_A1C.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Mid-Sem_2020-21_CEA1120_A1D_Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_MEA1120_MCQ-Answers.jpg",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/PYQs-and-Assignments/Z_Assignment-1_2020-21_Solution_2.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Project_Bhopal-Gas-Tragedy_2020-21.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Project-1_2020-21.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Record_Project-2_Screenshot.jpg",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Record_Project-4_Sum-of-Three-Numbers.c",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Record_Project-7_Matrix-Max-Min-Median.c",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_Project_2020-21_EEA1110_Winding-Terms.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Z_Project_2020-21_MEA1110_Unit-2.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet_Scales.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet_Projection-of-Machine-Parts.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet_Development-of-Surfaces.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_COA1910_Const-Increment_Solution.jpg",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_COA1910_Ternary-Expression_Solution.jpg",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_COA1910_Nested-Loop-Pattern_Solution.jpg",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_COA1910_Array-Size-Error_Solution.jpg",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_COA1910_Frequency-of-a-Number_Solution.c",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Records/Experiment-1_Moment-of-Inertia-of-Flywheel.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Z_Assignment-1_2020-21_AMS1120_Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment-1_CEA1120.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment-2_CEA1120_3.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_Assignment-1_ELA1110.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment-2_EZH1110.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment-1_EZH1110.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment_2021-22_MEA1120.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment-1_CEA1120_2.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_Assignment_ELA1110_Handwritten-Solutions.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment-2_EZH1110_2.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment_Unit-1_MEA1120.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Records/Experiment-4_Energy-Gap-of-Semiconductor_2.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_Assignment-3_ELA1110.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Mid-Sem_EZH1110_Solution.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Mid-Sem_2020-21_MEA1120_Handwritten-Answers.pdf",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Quiz_End-Sem_2020-21_MEA1120_MCQ-Answers.jpg",
+   "meta": {
+    "credit": "Mohammad Suhail"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHH2130_Social-Cultural-and-Educational-Movement-of-India/PYQs-and-Assignments/Z_Presentation_Abadi-Bano-Begum.pdf",
+   "meta": {
+    "credit": "Umar Iqbal"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3122_Process-Equipment-Design/PYQs-and-Assignments/Z_Assignment-1_2019-20_Handwritten-Answers_2.pdf",
+   "meta": {
+    "credit": "Umar Iqbal"
+   }
+  }
+ ]
+}

@@ -1,0 +1,2379 @@
+{
+ "id": "20261113-201025-identity-ok",
+ "created": "2026-11-13T20:10:25+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "note": "Files from earlier uploads that were held back only because a student's name, faculty or enrolment number is on them. Students' identities on their own study material are now allowed: place these (assignments, lab records, quiz papers and answer sheets, notes). The top folder is the earlier upload's slug: fy-suhail = Mohammad Suhail's first-year drive (quizzes collected from sections D,E,F), auto-yousuf = Md Yousuf (Automobile), auto-hasan = Hasan (Automobile), ece-afzal = Afzal Malik (Electronics sem 5-7), umar-chem = Umar Iqbal (Chemical), amupedia = AMUPedia, fy-farhan = Farhan Baig (first year), coe3 = Computer Engg sem 3, amucloud-* = AMU Cloud. Still reject: marks/attendance lists, admit cards, fee receipts, ID/registration cards, CVs, phone numbers."
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Z_Assignment_Working-of-Diodes.pdf",
+   "s": 2335360,
+   "h": "ff6e45b000ef0f734f24033b0644abb90c05b8f4813b883bcf7502f203854ff4",
+   "t": 1794600625,
+   "meta": {
+    "professor": "Mohd Kashif",
+    "title": "Assignment · Working of Diodes",
+    "summary": "Student assignment on the working of diodes for Electronic Devices and Circuits (ELC2110), with a cover page and written answers.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/PYQs-and-Assignments/Z_Assignment_Complex-Analysis.pdf",
+   "s": 10478550,
+   "h": "8b81e4179c3cdc40ff9441374f24a64b57bc5975914bd50f176e2f53ccc883a5",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohd Saifuddin Khan",
+    "title": "Home assignment · Complex analysis",
+    "summary": "Handwritten home assignment on analyticity and complex functions, with worked solutions for Higher Mathematics (AMS 2310).",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/PYQs-and-Assignments/Z_Assignment-2_Signals-and-Systems.pdf",
+   "s": 3194647,
+   "h": "ca2f58d8cde88315666d2d46b026ccf1dbb1b11e20e13381c865df6a90e905ea",
+   "t": 1794600625,
+   "meta": {
+    "title": "Home Assignment 2 · Signals and Systems",
+    "summary": "Submission for ELC2410 Signals and Systems Home Assignment 2, with a signed declaration cover page and worked answers.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/PYQs-and-Assignments/Z_Assignment-2_Signals-and-Systems_2.pdf",
+   "s": 4614177,
+   "h": "72ec455b0e42cd6b8c0befd2980956525aaf318a58cbbdd00d0146bdb8408150",
+   "t": 1794600625,
+   "meta": {
+    "title": "Home Assignment 2 · Signals and Systems (Fourier transform)",
+    "summary": "A second student's submission of ELC2410 Home Assignment 2 on Fourier transforms, with worked answers.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/PYQs-and-Assignments/Z_Assignment-1_Signals-and-Systems.pdf",
+   "s": 4516364,
+   "h": "19341f432253db413a27ae0ed91881dfba552b56fd611d33865ed89811445540",
+   "t": 1794600625,
+   "meta": {
+    "title": "Home Assignment 1 · Signals and Systems",
+    "summary": "Submission for ELC2410 Signals and Systems Home Assignment 1 with a signed declaration cover page and worked answers.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/PYQs-and-Assignments/Z_Assignment-2_EEC2110.pdf",
+   "s": 5775148,
+   "h": "4d068bea0154a21fbbda8af6ca0e0626ed1b973d40e4642a7fa109f1e6bc819a",
+   "t": 1794600625,
+   "meta": {
+    "title": "Assignment 2 · Electrical Machines I",
+    "summary": "Student submission of Assignment 2 for Electrical Machines I (EEC2110/20EEB149), scanned with a cover page.",
+    "kind": "scan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Records/Lab-Record_Experiments-1-to-8_2022-23.pdf",
+   "s": 16760187,
+   "h": "5fb5849fed0ca3b898f76665597d8eaf7640d3fd838c95e038b95003c99ff515",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mahboob Ah",
+    "title": "Applied Physics Lab record · Experiments 1–8 (2022-23)",
+    "summary": "First-year applied physics lab record with index and eight experiments, from Hall coefficient through the He-Ne laser, dated Nov 2022 to Jan 2023.",
+    "kind": "scan-handwritten",
+    "year": "2022-23"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Records/Experiment-4_Temperature-Profile-of-a-Flame.pdf",
+   "s": 3527456,
+   "h": "9ad604c5bfedfcc6a5646e1be852aeef598f21547b24340ddb155f951398cfdc",
+   "t": 1794600625,
+   "meta": {
+    "author": "Praveen Verma",
+    "title": "Experiment 4 · Temperature profile of a flame",
+    "summary": "Lab record for experiment 4 of Thermodynamics Lab (MEC2940): obtaining the temperature profile of a flame from an automatic LPG burner.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Records/Experiment-5_Adiabatic-Saturator.pdf",
+   "s": 2824484,
+   "h": "fd5ce83e4bae862aca665dcead894d2880c539be3ef7fb3635ce64dcb3b31581",
+   "t": 1794600625,
+   "meta": {
+    "author": "Praveen Verma",
+    "title": "Experiment 5 · Adiabatic saturator",
+    "summary": "Lab record for experiment 5 of Thermodynamics Lab: the adiabatic saturator experiment, with observations and calculations.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Records/Experiment-6_Reciprocating-Air-Compressor.pdf",
+   "s": 3640814,
+   "h": "547d3c30294998c8bd05560a653786b05f1963b7e196897f8d3b87352da9c0c0",
+   "t": 1794600625,
+   "meta": {
+    "author": "Praveen Verma",
+    "title": "Experiment 6 · Reciprocating air compressor",
+    "summary": "Lab record for experiment 6 of Thermodynamics Lab on the reciprocating air compressor, with readings and results.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Records/Experiment-7_Cooling-Tower.pdf",
+   "s": 2723620,
+   "h": "a88a820ffc3d73096b897152724d9a0aa3c4186c4d620997e29b9695ae973ae1",
+   "t": 1794600625,
+   "meta": {
+    "author": "Praveen Verma",
+    "title": "Experiment 7 · Cooling tower",
+    "summary": "Lab record for experiment 7 of Thermodynamics Lab on the cooling tower, with observations and computed results.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2942_Thermodynamics-Lab/Records/Experiment-8_Bypass-Factor.pdf",
+   "s": 1333660,
+   "h": "29b23644564d43acae9e2a2e13a9bd5c2f8f5fb2a646453d83052de096623871",
+   "t": 1794600625,
+   "meta": {
+    "author": "Praveen Verma",
+    "title": "Experiment 8 · Bypass factor",
+    "summary": "Lab record for experiment 8 of Thermodynamics Lab on the bypass factor, with observations and calculations.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/PYQs-and-Assignments/Z_Assignment_Machine-Design-II.pdf",
+   "s": 7057276,
+   "h": "3e007b93e31b3ae95a52e6706e1c174de1c3160ca50b507d82561975158c64d6",
+   "t": 1794600625,
+   "meta": {
+    "professor": "Prof. M. Naushad Alam",
+    "title": "Machine Design II · Assignment (handwritten solutions)",
+    "summary": "Handwritten assignment solutions for Machine Design II (MEC3110), including journal bearing design numericals.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice/Records/Experiment-3_Shaft-Design_2018-19.pdf",
+   "s": 3843282,
+   "h": "fe600fda32014378d25e5ad2b55ad8f8d0abad87ef76887c9c96349b687d3686",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohd. Faizaan Ansari",
+    "title": "Experiment 3 · Shaft Design",
+    "summary": "Handwritten Machine Design Practice record: design of a shaft for a pulley–pinion drive, with bearing reactions and torque calculations.",
+    "kind": "scan",
+    "year": "2018-19"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice/Records/Experiment-4_Coupling_2018-19.pdf",
+   "s": 2232055,
+   "h": "87e8c7365417c46d3b437394e342a93ba59e803bd39aa26e7c86a166d1a3a4d1",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohd. Faizaan Ansari",
+    "title": "Experiment 4 · Coupling",
+    "summary": "Handwritten Machine Design Practice record on shaft couplings: types, rigid flange couplings and design of the coupling for the given drive.",
+    "kind": "scan",
+    "year": "2018-19"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice/Records/Record_Knuckle-Joint.pdf",
+   "s": 5478467,
+   "h": "635144997e6bc1af5bd141cf3b1ef932055cb14c903e1f2d04ca022ffb86c3db",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "professor": "Prof. M. Naushad Alam",
+    "title": "Knuckle Joint · machine design lab record",
+    "summary": "Scanned lab record on designing a knuckle joint, with theory, applications, advantages and design calculations.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3922_Machine-Design-Practice/Records/Record_Machine-Design-Practice_2021-22.pdf",
+   "s": 9104090,
+   "h": "2ade4463d4c522a5a181bafa0268ecfbe8528499e2e2c4b4a9258ab6bd0b8179",
+   "t": 1794600625,
+   "meta": {
+    "author": "Rohit Varshney",
+    "title": "Machine Design Practice · experiment records",
+    "summary": "Twenty-four-page handwritten lab record covering several Machine Design Practice experiments, beginning with the cotter joint.",
+    "kind": "scan-handwritten",
+    "year": "2021-22"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3962_Modeling-and-Simulation-of-Thermofluid-System/Records/Record_Thermofluid-Simulation-Slides_2024-25.pdf",
+   "s": 975610,
+   "h": "5daa96131fceaeb3fc73917f5c07bc99c3c9535b277e730dce9611971e81d82a",
+   "t": 1794600625,
+   "meta": {
+    "title": "Modelling and simulation of thermo-fluid · slides",
+    "summary": "Five-slide student presentation on modelling and simulation of a thermo-fluid problem, with ANSYS Fluent setup and mesh screenshots.",
+    "kind": "slides",
+    "year": "2024-25"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/PYQs-and-Assignments/Z_Assignment_HMT_Unsteady-Conduction.pdf",
+   "s": 1056881,
+   "h": "741784b8cca6e1d17a70598c9feca6540ac5def93135ec023b21cd80ea66a108",
+   "t": 1794600625,
+   "meta": {
+    "title": "Heat and Mass Transfer · unsteady conduction problems",
+    "summary": "Typed problem set on transient conduction: quenching of an aluminium tube, steel ingot through a furnace, thermocouple time constant and a 2-D plate.",
+    "kind": "typed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/PYQs-and-Assignments/Z_Tutorial_HMT_Solution.pdf",
+   "s": 1468129,
+   "h": "b0e8d916c23f44f26334e3b50141f5c1ba69fad6984c42693ee3b90a193d58d4",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "professor": "Naiem Akhtar",
+    "title": "Tutorial sheet · Heat and Mass Transfer (with handwritten solutions)",
+    "summary": "Heat and Mass Transfer tutorial sheet on radiation problems with handwritten worked solutions, including a glow-plug radiation question.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/PYQs-and-Assignments/Z_Assignment_HMT_Fins.pdf",
+   "s": 1774011,
+   "h": "8ddfbe4272fd91045e455d45e8742afb8ee350e45666f2d217d432f1027e6f7f",
+   "t": 1794600625,
+   "meta": {
+    "title": "Heat and Mass Transfer · fin and rod conduction problems",
+    "summary": "Typed assignment problems on fin heat transfer and conduction in rods, including a turbine blade and a copper rod between two walls.",
+    "kind": "typed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Z_Assignment-1_2020-21_AMS2320_Solution.pdf",
+   "s": 5048447,
+   "h": "d34c9e55675051a0f16068a40e9cd8a346465a6e8b219afed63068ecd86def43",
+   "t": 1794600625,
+   "meta": {
+    "professor": "Dr. Kamran Khan",
+    "title": "Assignment 1 · AMS2320 Numerical Methods (with solutions)",
+    "summary": "Handwritten first assignment on iterative solution of equations by fixed-point iteration, with full worked solutions.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Z_Assignment-1_2024-25_MEH3450.pdf",
+   "s": 1401162,
+   "h": "838e1b6ec576d25a59f17ce8dc020f8f1e1bb4919f96f92ccbd8d633d3e8ba69",
+   "t": 1794600625,
+   "meta": {
+    "title": "Assignment 1 · Engineering Economy and Management",
+    "summary": "Handwritten first assignment on present-worth and equivalent annual cost comparisons of alternatives, with worked numerical solutions.",
+    "kind": "scan",
+    "year": "2024-25"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3962_Modeling-and-Simulation-of-Thermofluid-System/Records/Record_Modelling-and-Simulation-of-ThermoFluids-Slides_2024-25.pdf",
+   "s": 1628760,
+   "h": "cfbd9f67070c0d1db81b411fa7478ba77c2d47456bd9ee837114d917fff2ca48",
+   "t": 1794600625,
+   "meta": {
+    "title": "Modelling and simulation of thermofluids · slides",
+    "summary": "Eight-slide student presentation of a thermofluid simulation exercise with ANSYS Fluent meshing and solution screenshots.",
+    "kind": "slides",
+    "year": "2024-25"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3962_Modeling-and-Simulation-of-Thermofluid-System/Records/Experiment-1_Duct-Pipe-Modeling_Slides_2024-25.pdf",
+   "s": 3506636,
+   "h": "3a12553ca701410eaf1d17f03beb9d9f82045e9b1e376ef25bbb124b12f74945",
+   "t": 1794600625,
+   "meta": {
+    "author": "Md Yousuf",
+    "title": "Experiment 1 · Duct pipe modeling",
+    "summary": "Slide deck walking through the duct-pipe modelling and simulation exercise, step by step, with geometry and meshing screenshots.",
+    "kind": "slides",
+    "year": "2024-25"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3942-AEC3942_Solid-Modelling-and-Analysis-Lab/PYQs-and-Assignments/Z_Assignment-2_Solid-Modelling-and-Analysis-Lab.pdf",
+   "s": 5821239,
+   "h": "ae4ee3b0bf07a177840805ea5c2f0e91e6da20625330bb8cde4ec074ebc5d77c",
+   "t": 1794600625,
+   "meta": {
+    "author": "Md Yousuf",
+    "professor": "Azhar Jamil",
+    "title": "Assignment 2 · Solid Modelling and Analysis Lab (Abaqus beam)",
+    "summary": "Step-by-step Abaqus CAE assignment on modelling and analysing a simply supported beam under a 50 N load, with analytical validation.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3942-AEC3942_Solid-Modelling-and-Analysis-Lab/PYQs-and-Assignments/Z_Assignment-1_Solid-Modelling-and-Analysis-Lab.pdf",
+   "s": 6093637,
+   "h": "095f1ec084f7de6e9c9c5e9f11691a9890cd72bb00b7fb672398a8333d93cd12",
+   "t": 1794600625,
+   "meta": {
+    "author": "Md Yousuf",
+    "professor": "Azhar Jamil",
+    "title": "Assignment 1 · Solid Modelling and Analysis Lab (Abaqus beam)",
+    "summary": "Longer version of the Abaqus beam-deflection lab assignment (10 N load) with step-by-step procedure, screenshots and analytical comparison.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Records/Record_Cam-Analysis.pdf",
+   "s": 12725879,
+   "h": "a6490d5de7bc1107a5953bdf04850a6545bb4c845423b7454132c18bb26fd3de",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "source": "Md Yousuf",
+    "professor": "Asif Sami, Reyaz Arif",
+    "title": "Lab record · Cam analysis (follower displacement, velocity and acceleration)",
+    "summary": "Typed Kinematics and Stress Analysis Lab report on plotting follower characteristics for eccentric and circular arc cams, with theory, apparatus sketch, observations and graphs.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Records/Record_Gyroscopic-Torque.pdf",
+   "s": 702808,
+   "h": "7c15fa4c687c0cb1a790e7e8e04851dd5e0ba5087e19738ed10d2a4aa1cfc6d8",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "source": "Md Yousuf",
+    "professor": "Asif Sami, Reyaz Arif",
+    "title": "Lab record · Verification of the gyroscopic torque equation",
+    "summary": "Four-page lab report verifying the gyroscopic torque equation, with formula used, theory, technical data of the disc and observations.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Records/Record_Balancing-of-Masses.pdf",
+   "s": 1047561,
+   "h": "1f73e88790aa766bed7a2f6aceca42a1f8eebfa117d8039f739a77837bfe948f",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "source": "Md Yousuf",
+    "professor": "Asif Sami, Reyaz Arif",
+    "title": "Lab record · Verification of balancing mass positions in a rotating mass system",
+    "summary": "Lab report verifying analytically determined balancing mass positions with the dynamic balancing apparatus, including observation table and calculations.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Records/Record_Strain-in-Cantilever.pdf",
+   "s": 1351047,
+   "h": "0ef16d947a59a96c1fd66a725e8090fb4b1e616aa7b2752f9ceba0f716c9e1a8",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "source": "Md Yousuf",
+    "professor": "Asif Sami, Reyaz Arif",
+    "title": "Lab record · Strain in a cantilever beam with digital strain indicator",
+    "summary": "Lab report measuring strain in a cantilever beam with a digital strain indicator and comparing it with the analytical bending-stress result.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Records/Record_Journal-Bearing-Pressure-Profile.pdf",
+   "s": 2333002,
+   "h": "38ad10e40fc0cad64e6e890e3510bec7c89b7d7df23e4411e779901c0c06c72d",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "source": "Md Yousuf",
+    "professor": "Asif Sami, Reyaz Arif",
+    "title": "Lab record · Pressure profile of a journal bearing",
+    "summary": "Lab report drawing the pressure profile of a journal bearing for a given lubricating oil, with hydrodynamic lubrication theory and constant observations.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Records/Record_Friction-Coefficient-of-Lubricant.pdf",
+   "s": 635580,
+   "h": "cd68d5fa79980ca55315572d0ab4d0fd87491da59970731a21fb1528ff9310d8",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "source": "Md Yousuf",
+    "professor": "Asif Sami, Reyaz Arif",
+    "title": "Lab record · Coefficient of friction of a lubricating oil (pendulum tester)",
+    "summary": "Lab report determining the coefficient of friction of a lubricating oil on the torsion pendulum friction tester, with friction theory and formulas.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3952-AEC3952_Kinematics-and-Stress-Analysis-Lab/Records/Record_Epicyclic-Gear-Train-Torque.pdf",
+   "s": 707275,
+   "h": "a42550d878ca77cfce6aca015eb7b9d403bc87ffbaf9167ebfb1b91d87f7caf9",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "source": "Md Yousuf",
+    "professor": "Asif Sami, Reyaz Arif",
+    "title": "Lab record · Torques in an epicyclic gear train",
+    "summary": "Lab report finding input, output and holding torque of an epicyclic gear train and verifying the torque equation.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/PYQs-and-Assignments/Z_Assignment_Handwritten-Solution.pdf",
+   "s": 4145102,
+   "h": "d862049c7b65cbe3ee6a9ccd2d08f90a5c2033e5c2561deea63a49344de18d6b",
+   "t": 1794600625,
+   "meta": {
+    "author": "Vishal Kumar",
+    "source": "Md Yousuf",
+    "professor": "Mohd Yaqoob Yasin",
+    "title": "Handwritten assignment · Machinery Dynamics (MEC3120)",
+    "summary": "Handwritten Machinery Dynamics assignment with cover sheet and worked answers on cam analysis, force polygons and governor power.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/PYQs-and-Assignments/Z_Assignment_Solution.pdf",
+   "s": 2058334,
+   "h": "93120a982f08f57d82c800c8a4e89e89b787fdbaa241ab780af3154a3a8400fb",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "source": "Md Yousuf",
+    "professor": "Raisuddin Ansari",
+    "title": "Submitted assignment · Machinery Dynamics (MEC3120)",
+    "summary": "Scanned Machinery Dynamics assignment submitted to Prof. Raisuddin Ansari, with typed cover sheet and the student's worked pages.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/PYQs-and-Assignments/Z_Assignment-1_2020-21.pdf",
+   "s": 759129,
+   "h": "ef5c41957498887700eba2c667a4375888a61836605e8c04e8affae3d18504a8",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "source": "Md Yousuf",
+    "title": "Assignment 1 · Machinery Dynamics (15-04-2021)",
+    "summary": "Typed home assignment 1 of Dynamics of Machinery dated 15 April 2021, with dynamic-force and four-bar linkage problems to solve analytically and graphically.",
+    "kind": "typed",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/PYQs-and-Assignments/Sem-End_MEC3120_Handwritten-Answers.pdf",
+   "s": 871854,
+   "h": "ccf51671290070a1590babacdb92635a0d6ce11dbce1e432e8d28fcb7cad59c2",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "source": "Md Yousuf",
+    "professor": "Mohd Yaqoob Yasin",
+    "title": "Sem-End answer sheet · Machinery Dynamics (MEC3120)",
+    "summary": "End-semester examination answer sheet of Machinery Dynamics MEC3120, submitted to Dr. Mohd Yaqoob Yasin, with handwritten solutions to the numerical questions.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Records/Experiment-1_Alignment-Tests.pdf",
+   "s": 2480197,
+   "h": "eaf9286608929d84babcd4fbc4d4b83f5475402767a5f0e6dc58d59e632f3628",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "source": "Md Yousuf",
+    "title": "Experiment 1 · Alignment tests on lathe and milling machines",
+    "summary": "Lab record of experiment 1 on acceptance and alignment tests for lathe and milling machines using dial gauges, mandrels and spirit levels.",
+    "kind": "typed",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Records/Experiment-3_Angle-of-Wedge.pdf",
+   "s": 902126,
+   "h": "cb2342c18cb1fb78acb97149f030f2757a5081e1714953e0d8fd51b494a8b10b",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "source": "Md Yousuf",
+    "title": "Experiment 3(i) · Angle of a wedge with bevel protractor and sine bar",
+    "summary": "Lab record measuring the angle of a wedge with a bevel protractor and a sine bar, with apparatus list, observations and results; the file was named Experiment-2 but the content is experiment 3(i).",
+    "kind": "typed",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Records/Experiment-2_Single-Point-Cutting-Tool.pdf",
+   "s": 639829,
+   "h": "9881d1c5e4c84d98e85662fb81297abb467076c4414b873af779b37fa926ede4",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "source": "Md Yousuf",
+    "title": "Experiment 2 · Single point cutting tool signature and its measurement",
+    "summary": "Lab record on producing a single point cutting tool of given signature and measuring its angles on an optical projector.",
+    "kind": "typed",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Records/Experiment-4_Xbar-and-R-Control-Charts_2020-21.pdf",
+   "s": 1010973,
+   "h": "8e9377d101d969b75b4014024f99d2f0d3f47c3b3f7871b2990839a36d322f13",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "title": "Experiment 4 · x̄ and R control charts for variables",
+    "summary": "Lab record building x̄ and R control charts from pin-diameter samples to study variability from assignable causes.",
+    "kind": "typed",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Records/Experiment-5_Effect-of-Cutting-Parameters-on-Surface-Finish_2020-21.pdf",
+   "s": 266565,
+   "h": "f8c904238af51e7136fd8e342fcc2a44f29a42181c309e9325a8b8eaa5c32b0c",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "title": "Experiment 5 · Cutting speed, feed and depth of cut vs surface finish",
+    "summary": "Lab record on turning tests studying how cutting speed, feed rate and depth of cut affect the surface finish of a turned specimen.",
+    "kind": "typed",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/Records/Experiment-6_NC-Machining_2020-21.pdf",
+   "s": 822338,
+   "h": "7866cbfa37161cea6c34f65a0f93523451d84d36c66202692053e7c07ee01edd",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Ghufran",
+    "title": "Experiment 6 · Producing a component by NC machining",
+    "summary": "Lab record on producing a component to given dimensions on an NC lathe, with theory on NC/CNC evolution, advantages and applications.",
+    "kind": "typed",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4510_Fundamentals-of-Robotics/PYQs-and-Assignments/Z_Assignment-3_Fundamentals-of-Robotics.pdf",
+   "s": 307151,
+   "h": "e490ffc4d7f8a9a7d5f5c43815252c801095eee5b817cffe72378bd89a925249",
+   "t": 1794600625,
+   "meta": {
+    "author": "Md Yousuf",
+    "professor": "Saleem A. Khan",
+    "title": "Assignment 3 · Fundamentals of Robotics",
+    "summary": "Assignment covering hydrogen storage and conversion, submitted for the Robotics course of the Automobile fourth-year class.",
+    "kind": "typed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COO4460_Selected-Topics-in-Computer-Engineering-I/PYQs-and-Assignments/Z_Assignment_COO4460_Handwritten-Solutions.pdf",
+   "s": 2389237,
+   "h": "e9ae52bd71efe3a1fa2beafb020ae51f80d6bcbf56c0dfc0d3141b7d509af56d",
+   "t": 1794600625,
+   "meta": {
+    "author": "Adnan Husain",
+    "professor": "Tanzeem Fatima",
+    "title": "Assignment · Selected Topics in Computer Engineering I (handwritten)",
+    "summary": "27 pages of handwritten solutions to assignment questions on data structures and algorithm complexity for C004460 (Selected Topics in Computer Engineering I).",
+    "kind": "scan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3920_Communication-Lab-I/Records/Experiment-2_Sampling-and-Reconstruction_2023-24.pdf",
+   "s": 2120987,
+   "h": "eeaa83a50cdee7197f53abe62c7985f2b7842e256f0a14582e776ca214d5aba7",
+   "t": 1794600625,
+   "meta": {
+    "title": "Experiment 2 · Sampling and reconstruction of a signal",
+    "summary": "Six-page handwritten Communication Lab-I record on sampling and reconstruction of a signal, with block diagrams and results.",
+    "kind": "scan-printed",
+    "year": "2023-24"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3920_Communication-Lab-I/Records/Experiment-3_Amplitude-Modulation-Demodulation_2023-24.pdf",
+   "s": 1889496,
+   "h": "f7ce390f32a8e6fe65f2c799426f46a260b0f86dd5382085996fc17d9f4dfcb0",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammed Musayyeb Sherwani",
+    "title": "Experiment 3 · Amplitude Modulation and Demodulation",
+    "summary": "Handwritten Communication Lab-I record for experiment 3 on amplitude modulation and demodulation, with circuit details, observations and marks.",
+    "kind": "scan-printed",
+    "year": "2023-24"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3920_Communication-Lab-I/Records/Experiment-4-5_Frequency-Modulation-and-PLL-Demodulation_2023-24.pdf",
+   "s": 3513946,
+   "h": "128aa177c789d9553991473bde8d9c8ffdb760ddd334f5a2eddbc0db2ef9330e",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammed Musayyeb Sherwani",
+    "title": "Experiments 4-5 · Frequency Modulation and PLL Demodulation",
+    "summary": "Communication Lab-I record covering experiment 4 (FM generation/demodulation and modulation characteristics) and experiment 5 (FM demodulation with a PLL), with readings and scope plots.",
+    "kind": "scan-printed",
+    "year": "2023-24"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/PYQs-and-Assignments/Z_Assignment-2_Solution.pdf",
+   "s": 318238,
+   "h": "a817349fe1f3e9d84628029d6861b8279c4f6c29fae108c2a3742692529fac8c",
+   "t": 1794600625,
+   "meta": {
+    "author": "Gaurav Dev",
+    "title": "Assignment 2 · Solving Linear and Non-linear Equations in MATLAB",
+    "summary": "Completed CHO-4260 assignment 2: solving simultaneous linear equations with backslash and a non-linear system, with MATLAB commands and outputs.",
+    "kind": "typed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/PYQs-and-Assignments/Z_Assignment-3_2022-23_Solution.pdf",
+   "s": 257036,
+   "h": "521d40b57af94bf76c248edcf6da9dc0aef169606c44c525e69108d6ddcc5981",
+   "t": 1794600625,
+   "meta": {
+    "author": "Munazir Reza",
+    "professor": "Mohammad Abdul Hakeem",
+    "title": "Assignment 3 · Symbolic Math Commands in MATLAB",
+    "summary": "Completed CHO-4260 assignment 3 explaining vpa, poly2sym, diff, pretty, int, solve and dsolve with worked MATLAB examples.",
+    "kind": "typed",
+    "year": "2022-23"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/PYQs-and-Assignments/Z_Assignment-4_2022-23_Solution.pdf",
+   "s": 173834,
+   "h": "43e9041402f11771aa7c420fd5c9f93cdea48fb3cec5b8d68d1739a0ca77bc6f",
+   "t": 1794600625,
+   "meta": {
+    "author": "Munazir Reza",
+    "professor": "Mohammad Abdul Hakeem",
+    "title": "Assignment 4 · Simulink Library Blocks",
+    "summary": "Completed CHO-4260 assignment 4 tabulating commonly used Simulink blocks, their libraries and purpose.",
+    "kind": "typed",
+    "year": "2022-23"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/PYQs-and-Assignments/Z_Assignment-1_2022-23_Solution.pdf",
+   "s": 985182,
+   "h": "b64b49647dbf1925572c2c774d2411735bb27d1bf779ca0e324173adf05ab2ce",
+   "t": 1794600625,
+   "meta": {
+    "author": "Munazir Reza",
+    "professor": "Mohammad Abdul Hakeem",
+    "title": "Assignment 1 · MATLAB Elementary Math Functions",
+    "summary": "Completed CHO-4260 assignment 1 comparing trigonometric, hyperbolic and inverse functions such as sin/sind, sinh and asin, with MATLAB outputs.",
+    "kind": "typed",
+    "year": "2022-23"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/PYQs-and-Assignments/Z_Assignment-4_Solution.pdf",
+   "s": 166141,
+   "h": "63d311823e600cf33fb19418baaae333fd7e1852cc00c763d71380dedf113bba",
+   "t": 1794600625,
+   "meta": {
+    "author": "Gaurav Dev",
+    "title": "Home Assignment 4 · Simulink Library Blocks",
+    "summary": "Completed CHO-4260 home assignment 4 listing commonly used Simulink blocks, their libraries and purpose.",
+    "kind": "typed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/PYQs-and-Assignments/Z_Assignment-3_Solution.pdf",
+   "s": 171782,
+   "h": "c1a066787eb615f996fa180d274f4945a58aa647aafd5620413431958b1314e5",
+   "t": 1794600625,
+   "meta": {
+    "author": "Gaurav Dev",
+    "title": "Home Assignment 3 · Symbolic Math Commands in MATLAB",
+    "summary": "Completed CHO-4260 home assignment 3 explaining vpa, poly2sym, diff, pretty, int, solve and dsolve with MATLAB examples.",
+    "kind": "typed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/PYQs-and-Assignments/Z_Assignment-1_2022-23.pdf",
+   "s": 716402,
+   "h": "4751bb65ca247626cf6acd558341e876ee847a6023ee88e6de3455e41682ef29",
+   "t": 1794600625,
+   "meta": {
+    "professor": "Prof. M. Naushad Alam",
+    "title": "Assignment 1 · VLSI Design & Technology (ELC3610)",
+    "summary": "Assignment-I sheet for VLSI Design & Technology 2022-23 giving each student a Boolean function to implement in CMOS with stick diagram, schematic and ELECTRIC layout.",
+    "kind": "typed",
+    "year": "2022-23"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/PYQs-and-Assignments/Z_Assignment-1_2022-23_Submission.pdf",
+   "s": 633437,
+   "h": "9773961501c3f77f6b0b73ad1440d7dd39dcdfe60c53c9d76c4f56b4db870fff",
+   "t": 1794600625,
+   "meta": {
+    "author": "Munazir Reza",
+    "professor": "Prof. M. Naushad Alam",
+    "title": "Assignment 1 submission · CMOS implementation and layout",
+    "summary": "Munazir Reza's submission for VLSI assignment 1: cover page plus SPICE output waveforms for the assigned CMOS function with the ELECTRIC layout results.",
+    "kind": "typed",
+    "year": "2022-23"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020-EEZH3020_Intellectual-Property-Rights-for-Engineers/PYQs-and-Assignments/Z_Assignment_2024-25_AI-in-IP-Management.pdf",
+   "s": 780319,
+   "h": "e3199df9fc08e24f8843ff8f24da1310c7494be233ba028122bfec0dfdab17c2",
+   "t": 1794600625,
+   "meta": {
+    "author": "Afzal Malik",
+    "title": "Assignment · The AI Revolution in IP Management",
+    "summary": "Essay assignment for Intellectual Property Rights for Engineers on how artificial intelligence is transforming IP management, with benefits, challenges and future considerations.",
+    "kind": "typed",
+    "year": "2024-25"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4520_Mobile-Communication/PYQs-and-Assignments/Z_Assignment-1_2023-24_Latest-Advancements-in-4G-Technologies.pdf",
+   "s": 721686,
+   "h": "a5fd61f0491f0f61899a09eaf0d8d588dbbdd958b8b26e166718e582fc824411",
+   "t": 1794600625,
+   "meta": {
+    "professor": "M. Salim Beg",
+    "title": "Assignment 1 · Latest Advancements in 4G Technologies",
+    "summary": "Submitted assignment report on the limitations of 4G systems and the latest advancements in 4G technology for Mobile Communication.",
+    "kind": "typed",
+    "year": "2023-24"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4520_Mobile-Communication/PYQs-and-Assignments/Z_Assignment_2024-25_Overview-of-Long-Term-Evolution.pdf",
+   "s": 1817235,
+   "h": "994319e11afb83361a96ef3a9e82a99633d3c5fac83781db30d292d7c71c2e2a",
+   "t": 1794600625,
+   "meta": {
+    "title": "Assignment · Overview of Long-Term Evolution (LTE)",
+    "summary": "Student report on LTE as part of 4G: OFDMA air interface, data rates, capacity and latency compared with earlier generations.",
+    "kind": "typed",
+    "year": "2024-25"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Assignment_CEA1110_Carbon-Footprint.pdf",
+   "s": 1141473,
+   "h": "5323ab481ce6aa1ec25ced61d4db74ba6fa9248caa96e8aa35101eb856563fb8",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "professor": "Mossarat",
+    "title": "CEA1110 home assignment · Carbon Footprint",
+    "summary": "Typed student home-assignment report on carbon footprints: definition, sources of greenhouse-gas emissions and the idea of a personal carbon footprint.",
+    "kind": "typed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Assignment_CEA1110_Environmental-Communication.pdf",
+   "s": 401334,
+   "h": "ec3f0b1c2d97d5e374bf8720ca3101f451e3b25b06debaf96cac3f2f4475d0f1",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "professor": "Mossarat",
+    "title": "CEA1110 home assignment · Environmental Communication",
+    "summary": "Typed student report on environmental communication: what it means, how hazards and environmental issues are communicated, and its role in public debate.",
+    "kind": "typed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Record_Project-P3_Screenshot.pdf",
+   "s": 131984,
+   "h": "74d80fc89ab28c23ed0699022aeb0f4c099f911e40713e1f1debf9c3db5731f1",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "C project P3 · Largest and smallest of three numbers",
+    "summary": "Screenshot of an online-compiler session for the project program that finds the largest and smallest of three numbers using logical and conditional operators.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Record_Project-P5.c",
+   "s": 855,
+   "h": "193fc60942bce02aa4573b0704108a61f03df527e552e5622cbc071e1592ec2e",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "C project P5 · Maximum of five integers",
+    "summary": "C program that reads five integers and prints the maximum using nested conditional operators."
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Record_Project-P6.c",
+   "s": 1279,
+   "h": "bf4e5c6d41049abe5e87e7ef12dc83a76ee11ab1f934a5d213371019ba000a34",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "C project P6 · Max, min and median of an array",
+    "summary": "C program that sorts five input integers in an array and prints the maximum, minimum and median."
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Record_Project-P9.c",
+   "s": 1237,
+   "h": "f2949da4e5adc75838b727451f6c3abff102fd462e9eded7bd188c63d4501f05",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "C project P9 · Square and square root using functions",
+    "summary": "C program that computes the square and square root of the first n natural numbers using separate functions and math.h."
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Z_Assignment_MEA1110_Engineering-Thermodynamics-Project.pdf",
+   "s": 119254429,
+   "h": "c1d19e193c7a7703f01aecbc4e585dfb462b8bd34f2adc6f62a1e5d9ca0aa460",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Engineering Thermodynamics project · piston and water-tank pressure",
+    "summary": "Handwritten 15-page thermodynamics project solving for gas and gauge pressures when a loaded piston sits in equilibrium between air chambers and a water tank.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Record_Project-P3_Projection-of-Straight-Lines.pdf",
+   "s": 9179411,
+   "h": "30f5a63abd7838ed01ee119ebc2d9a7bb5a81271d8927ea50699101ac4c3a775",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Engineering Graphics project P3 · Projection of straight lines",
+    "summary": "Hand-drawn drawing sheet with two straight-line projection problems worked in elevation, plan and side view.",
+    "kind": "scan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_CEA1110_Submission.jpg",
+   "s": 260385,
+   "h": "11e358404db53efa8c2e7ddfeb3f9c402dc9043cc387a561f662cfcf9c228628",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "End-sem quiz 2020-21 · Google Form exam page",
+    "summary": "Phone screenshot of the start of the online end-semester quiz for Environmental Studies (CEA1110/CE111), showing the instructions and the candidate's form entry.",
+    "kind": "photo",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_Quiz_Mid-Sem_AMS1110_Handwritten-Answers.pdf",
+   "s": 3564525,
+   "h": "647c1235c658b75b5c1bf17b4aa0897eb16d9f30d24bdad6827b880c463aaf82",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Mid-sem quiz (AMS1110) · handwritten answers",
+    "summary": "Eight pages of handwritten answers to a mid-semester Applied Mathematics quiz, beginning with solving a 3x3 system by augmented matrix and row operations.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Quiz_Mid-Sem_2020-21_CEA1110_Definition-and-Ozone-Layer.jpg",
+   "s": 69616,
+   "h": "dc53238c4e829a6f04cc8b8666436a0969e1574e79b39841e1e7e01d43244d5b",
+   "t": 1794600625,
+   "meta": {
+    "title": "Mid-sem quiz 2020-21 · first questions (definition, ozone layer)",
+    "summary": "Photo of the start of the online mid-semester Environmental Studies quiz, showing the question defining environmental studies and the ozone-layer question.",
+    "kind": "photo",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Z_Quiz-1_2020-21_MEA1110_Pressure-Cooker.jpg",
+   "s": 98368,
+   "h": "36893e817122cc34f32c29d541f1b714eeff56d08ad3834a6b8bc35df17386b6",
+   "t": 1794600625,
+   "meta": {
+    "title": "Quiz 1 2020-21 · pressure-cooker gauge pressure",
+    "summary": "Photo of an on-screen Engineering Thermodynamics quiz question asking for the mass of a pressure-cooker petcock for an 80 kPa gauge pressure, with the four options.",
+    "kind": "photo",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Z_Assignment_AMS1120_Partial-Differentiation_Solution.pdf",
+   "s": 3196114,
+   "h": "98a4e554f405ddba62870cdf52d2650714e9b03fd5b0d3e19b33f8fa0a149b58",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammad Hashir",
+    "title": "Applied Mathematics assignment · partial differentiation solutions",
+    "summary": "Handwritten 28-page solution set to an Applied Mathematics (AMS1120) assignment, starting with Euler-theorem problems on partial differentiation and second derivatives.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_Assignment-1_Solution_Unit-3-4_3.pdf",
+   "s": 21294899,
+   "h": "fa0bdfaa9a7e65ffb8c6e818597b3c7c1f8982f1ca543fe5ab17ccde5c0dded8",
+   "t": 1794600625,
+   "meta": {
+    "author": "Sanskriti",
+    "professor": "Pushpendra",
+    "title": "Applied Physics home assignment 1 · solutions (Units 3-4)",
+    "summary": "Student's 27-page handwritten/printed solution set for APS1110 Home Assignment 1, largely quantum-mechanics problems such as normalising a wavefunction.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment-1_2020-21_Solution.pdf",
+   "s": 751940,
+   "h": "d24c7171657233258a11089a468a635d417039924f9bff83c0ebce409a43409e",
+   "t": 1794600625,
+   "meta": {
+    "author": "Wakkar Alam",
+    "title": "Assignment 1 · English · typed answers (A1C, 2020-21)",
+    "summary": "Typed answers to the EZH1110 Assignment-1 questions on curiosity in scientists and scientific attitude.",
+    "kind": "typed",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment-1_2020-21_Solution_2.pdf",
+   "s": 22959910,
+   "h": "4e253351089229e74581b608144e272fc0068ac370c233b4c041f11a27c664c8",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Assignment 1 · English · handwritten answers (A1C, 2020-21)",
+    "summary": "Handwritten answers of another A1C student to the English Assignment-1 questions.",
+    "kind": "scan",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment-3_Work-Energy-Method.pdf",
+   "s": 194443,
+   "h": "f9297d6e851126b60623bd5ddb31dcd39bf579339b7ec2021d1c9544b3ba1794",
+   "t": 1794600625,
+   "meta": {
+    "title": "Assignment 3 · Work-Energy Method (instructions page)",
+    "summary": "Google-Classroom post for MEA1120 Assignment 3: Unit 4, due 24 September, with the work-energy-method problem sheet attached.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment-3_Work-Energy-Method_Solution.pdf",
+   "s": 46586487,
+   "h": "3156cc17384187be689114f0d3caeb8f1e453a6e6edc7897a1995fd91da9476c",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Assignment 3 · Work-Energy Method · handwritten answers",
+    "summary": "Handwritten worked answers to the MEA1120 Assignment-3 work-energy-method problems.",
+    "kind": "scan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Experiment-1_Carpentry.pdf",
+   "s": 6817921,
+   "h": "b05f42870739246e8428a7615827a59f733a546dcdacad647aeb87426763c2cd",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Experiment 1 · Carpentry (tenon and mortise joint)",
+    "summary": "Workshop record of Job 1 (carpentry): tools, kailwood material, planning operations and sketches for a tenon-and-mortise joint.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Experiment-5_Shaper_2021-22.pdf",
+   "s": 573896,
+   "h": "bae50b4c5e24950bd66e8105bee17abb5205319596bd94c5a037935c6871ab58",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Experiment 5 · Shaper (planning operation)",
+    "summary": "Workshop record of Job 5 (shaper): machine parts sketch, CI cube job and planning operations, dated 10 Aug 2021.",
+    "kind": "scan-handwritten",
+    "year": "2021-22"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Experiment-3_Turning_2021-22.pdf",
+   "s": 816552,
+   "h": "e3978866ef01e09f6a66e79a62a686af0dbcef875c580f55e56b9e762dfac513",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Experiment 3 · Turning and knurling on lathe",
+    "summary": "Workshop record of Job 3 (turning): facing, turning and knurling of a mild-steel rod on the lathe, dated 01/09/21.",
+    "kind": "scan-handwritten",
+    "year": "2021-22"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Experiment-8_Fitting_2021-22.pdf",
+   "s": 25689000,
+   "h": "31e0507d9cc46a1e3350c4ba1842def34fc70cd6c1ac8019283e35a9898b38d7",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Experiment 8 · Fitting (filing, drilling, tapping)",
+    "summary": "Workshop record of Job 8 (fitting): tools, MS flat job and filing, drilling and tapping operations, dated 07/09/21.",
+    "kind": "scan",
+    "year": "2021-22"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Experiment-9_Welding-Electroplating_2021-22.pdf",
+   "s": 42255023,
+   "h": "4173d6966b4cc1222799d7948b9442cd8e3fb967ced63e1d950e26f609f54184",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Experiment 9 · Welding and electroplating",
+    "summary": "Workshop record of Job 9(a) (welding) with electrode and shield sketches, single-V butt joint by arc welding, and electroplating, dated 14 Sep 2021.",
+    "kind": "scan",
+    "year": "2021-22"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Records/Experiment-3_Modulus-of-Rigidity_2020-21.pdf",
+   "s": 3160262,
+   "h": "c697c39d661e47b43f2a276dc17226a2744eb4e447a49c2c88deeae3647f74b5",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohd Afzal Khan",
+    "title": "Experiment 3 · Modulus of Rigidity of a Wire",
+    "summary": "Physics-lab record of Experiment 3: statical method for the modulus of rigidity of a wire, with apparatus diagram, formula, observation table and calculations.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_Assignment-1_2020-21_Solution.pdf",
+   "s": 8211452,
+   "h": "2202f65d7b8ebaadcbc597263e6b1d9ec82e509cc1b1fc6be41d336d99fdbedc",
+   "t": 1794600625,
+   "meta": {
+    "author": "Shubham Maity",
+    "title": "Assignment 1 · Electronics · handwritten answers (A1-F, 2020-21)",
+    "summary": "Handwritten solutions to the ELA1110 Assignment-1 diode/circuit problems, with input-output waveforms.",
+    "kind": "scan",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_Assignment-2_2020-21_Solution.pdf",
+   "s": 6075234,
+   "h": "b740fdf4564bb151a69cc3790ba4a2dcaf37e570027b7ddaacd7443795a57ffd",
+   "t": 1794600625,
+   "meta": {
+    "author": "Shubham Maity",
+    "title": "Assignment 2 · Electronics · handwritten answers (2020-21)",
+    "summary": "Handwritten solutions to the ELA1110 Assignment-2 transistor problems (current gains, alpha/beta, bias values).",
+    "kind": "scan",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Sem-End_2021-22_Sets-A-B-C.pdf",
+   "s": 1698076,
+   "h": "8910062929986050fa5531f946a0601ffd8f0598a78e9f19b1158a26ab24454c",
+   "t": 1794600625,
+   "meta": {
+    "title": "Sem-End 2021-22 · Strength of Materials · question sets A, B, C",
+    "summary": "Screenshots of the CEA1120 end-semester Google-Form question paper, showing the section choice and question sets A, B and C.",
+    "kind": "scan-printed",
+    "year": "2021-22"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Mid-Sem_2020-21_Solution.pdf",
+   "s": 43872018,
+   "h": "8da57b0d4977d059005e7e10e2694a8a03c3fcab2483f1069d2c95fedeab2ed3",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Mid-Sem 2020-21 · Engineering Mechanics · handwritten answers",
+    "summary": "Six pages of handwritten worked solutions to the MEA1120 mid-semester paper (resultant force and moment calculations).",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Mid-Sem_2020-21_Handwritten-Answers_2.pdf",
+   "s": 3471404,
+   "h": "e2d1b00a89332ceb4265048105f967653538ab1fe2d82f48674f2c3833abb7c6",
+   "t": 1794600625,
+   "meta": {
+    "title": "Mid-Sem 2020-21 · Engineering Mechanics · handwritten answers (A1C)",
+    "summary": "Twelve pages of a student's handwritten solutions to the MEA1120 mid-semester paper: moment about a point, force components, forces in space.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Assignment_2020-21_Home-Assignment.pdf",
+   "s": 17649616,
+   "h": "e2c9e51abb889d9021ca3b927c98b9104a1e99ef86b37133887284c58e02d1bf",
+   "t": 1794600625,
+   "meta": {
+    "professor": "Mossarat",
+    "title": "Home Assignment · Environmental Science",
+    "summary": "Printed home-assignment compilation on environmental communication and related topics, with the student's cover page.",
+    "kind": "scan-printed",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Assignment_2020-21_Significance-of-Biosphere-Lithosphere-Hydrosphere-Atmosphere.pdf",
+   "s": 2969910,
+   "h": "d7e77c4f83af9a803d68511a4f389a40d76454654e686e343d729d83bac6b387",
+   "t": 1794600625,
+   "meta": {
+    "professor": "Parvez",
+    "title": "Assignment · Significance of Biosphere, Lithosphere, Hydrosphere and Atmosphere",
+    "summary": "Printed student assignment explaining the significance of the biosphere, lithosphere, hydrosphere and atmosphere within environmental studies.",
+    "kind": "scan-printed",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Assignment_2020-21_Dos-and-Donts-for-Conserving-Water.pdf",
+   "s": 714300,
+   "h": "f673699afd4883d4355311981ea31bda9f4cfd18a35771e53ee25446b4d715ff",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "professor": "Dr. Salim",
+    "title": "Assignment · Do's and Don'ts for Conserving Water",
+    "summary": "Handwritten answers to the environmental-studies assignment question listing do's and don'ts for conserving water in India.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Program_Project-8_Concatenate-Strings-and-Toggle-Case.c",
+   "s": 1977,
+   "h": "648757f5a238ea53b05d40d7ef2ee6c476fd92233329057ba9e49433b740dcf6",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Project 8 · Concatenate strings and toggle character case",
+    "summary": "C program that concatenates three strings and toggles the case of every character, printing the result through printString().",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_Assignment_Set-1_2020-21_Principles-of-Electrical-Engineering.pdf",
+   "s": 4177865,
+   "h": "b488b8029b39408740eb738a9d04c069e27fbe57ca7c149dc2794775d1c5d17c",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Home Assignment I · Principles of Electrical Engineering (part 1)",
+    "summary": "Handwritten worked solutions to the first home assignment: amplitude, period and frequency of sinusoids and further AC circuit questions.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_Assignment_Set-2_2020-21_Principles-of-Electrical-Engineering.pdf",
+   "s": 1567129,
+   "h": "6ecd38de7a60ef5bfe1dc3d1a64fd45ce83fbd658e5131cc52610560b6a336ad",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Electrical assignment · induction motor and machine questions",
+    "summary": "Handwritten solutions starting with the derivation of induction-motor speed, from an electrical-engineering assignment set.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet_Projection-of-Planes_2020-21.pdf",
+   "s": 399757,
+   "h": "42ef995252bf15f5e4fcabc2460b7e88a03f5eba76676f77a0ede6be68ab708d",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Drawing sheet · Projection of planes",
+    "summary": "Lab drawing sheet with two solved projection-of-planes problems (pentagon and hexagon) drawn in plan and elevation.",
+    "kind": "scan",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet_Sectional-Views-of-Machine-Parts_2020-21.pdf",
+   "s": 487669,
+   "h": "4f579da600d04fb40e20c6f65e0be32b7901e0f78ee10cf8fad7a7afa6550891",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Drawing sheet · Sectional views of machine parts",
+    "summary": "Lab drawing sheet showing full and half sectional views (Fig 16, Fig 17) of machine parts with dimensions.",
+    "kind": "scan",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet_Projection-of-Isometric-Views_2020-21.pdf",
+   "s": 166034,
+   "h": "853726926120686c19b425ffabcb0da87fbf4b01e0a88319ec0ead0be6937293",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Drawing sheet · Projection of isometric views",
+    "summary": "Lab drawing sheet with two isometric-view problems (Fig 02, Fig 06) plus true-length and isometric scale construction.",
+    "kind": "scan",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_End-Sem_2020-21_COA1910_Concatenate-Strings-Without-Vowels.c",
+   "s": 1989,
+   "h": "ab034eec443ec8b737ea28f02c8361431f19e7d30a26830d623cc1c8857d8783",
+   "t": 1794600625,
+   "meta": {
+    "author": "Muniba Rahman",
+    "title": "End-sem lab quiz · concatenate strings dropping vowels (answer)",
+    "summary": "Student's C solution to the end-semester lab quiz: concatenate two strings without using library functions, omitting all vowels.",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_End-Sem_2020-21_COA1910_Fahrenheit-to-Celsius-Above-Boiling.c",
+   "s": 1355,
+   "h": "65718d138415945edd07df82772a46f2f089ee4606eb8874f1d156620a0088bc",
+   "t": 1794600625,
+   "meta": {
+    "author": "Sajid Javid",
+    "title": "End-sem lab quiz · Fahrenheit to Celsius above boiling (answer)",
+    "summary": "Student's C solution to the end-semester lab quiz: convert five Fahrenheit values to Celsius and count those above 100 °C.",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_Mid-Sem_2020-21_COA1910_Solution.pdf",
+   "s": 358369,
+   "h": "8f408eb37c19c81c62e0b5f018e1a37322af4093357731209a3fa7b36a077e9d",
+   "t": 1794600625,
+   "meta": {
+    "author": "Muniba Rahman",
+    "title": "Mid-sem C Programming Lab quiz · filled answer sheet",
+    "summary": "Google Forms printout of a student's completed C Programming Lab mid-semester quiz, showing the questions and the answers given.",
+    "kind": "typed",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Z_Assignment_AMS1120_Handwritten-Solution.pdf",
+   "s": 40723334,
+   "h": "08b269d17690c57b73a8c99e548a5bb44590c30d500a61b7d1f4427fe575ea49",
+   "t": 1794600625,
+   "meta": {
+    "title": "AMS1120 assignment · handwritten solutions",
+    "summary": "Handwritten solutions to the Higher Mathematics II (AMS1120) assignment, starting with the normalization constant of a wave function.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_Assignment_APS1110_Handwritten-Solution.pdf",
+   "s": 7767580,
+   "h": "1590a9150ae80f8e2f5087e8f709761dbfa8aa77f483b7323a90653487416ef5",
+   "t": 1794600625,
+   "meta": {
+    "professor": "Pushpendra",
+    "title": "APS1110 assignment · handwritten solutions",
+    "summary": "Handwritten solutions to the Applied Physics (APS1110) assignment given in class, starting with normalization and integration problems.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment-1_CEA1120_Shear-Force-and-Bending-Moment.pdf",
+   "s": 5480408,
+   "h": "e8296c046d7461a03fd7f515f796f630db0b8232d2b92eaf69e8935bf641c666",
+   "t": 1794600625,
+   "meta": {
+    "title": "CEA1120 Assignment 1 · shear force and bending moment",
+    "summary": "Handwritten Strength of Materials Assignment 1 with shear force and bending moment diagrams worked out for beams.",
+    "kind": "scan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment-2_CEA1120.pdf",
+   "s": 4260601,
+   "h": "1afbd7d7d82d93511f6db06ee3d255bf8abbddc545a7b7da804f204d19ae71e2",
+   "t": 1794600625,
+   "meta": {
+    "title": "CEA1120 Assignment 2 · handwritten solutions",
+    "summary": "Handwritten solutions to the second Strength of Materials assignment, submitted with a signed cover page.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment_CEA1120_Section-Modulus_2020-21.pdf",
+   "s": 5532610,
+   "h": "f7f5e1e4d20eb7ef176580b02b6b46514b427bdcb941a4d068ae6938a5d6c854",
+   "t": 1794600625,
+   "meta": {
+    "title": "Strength of Materials assignment · section modulus, 2020-21",
+    "summary": "Strength of Materials assignment (session 2020-21) solving the section modulus of solid versus hollow circular beams.",
+    "kind": "scan-printed",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment-2_CEA1120_Section-Modulus.pdf",
+   "s": 4032769,
+   "h": "772e5960d840db2be4c840612d1d2356c559fa67c95af3bfcc954fd9cf80cac8",
+   "t": 1794600625,
+   "meta": {
+    "title": "CEA1120 Assignment 2 · section modulus of beams",
+    "summary": "Handwritten solutions to Strength of Materials Assignment 2 on section modulus of solid and hollow circular beams.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment-3_MEA1120.pdf",
+   "s": 15503918,
+   "h": "27d8a44cc655cb48899111104a2b63c80a9ca60039e6dc48066cf921ae115fef",
+   "t": 1794600625,
+   "meta": {
+    "title": "MEA1120 Home Assignment 3",
+    "summary": "Handwritten solutions to Engineering Mechanics (MEA1120) home assignment 3, with a signed cover page.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment-2_CEA1120_2.pdf",
+   "s": 51423843,
+   "h": "10d040eb414c869d348a7489497c4cae72558bc6549d0e7f2ecb5ff211804606",
+   "t": 1794600625,
+   "meta": {
+    "title": "CEA1120 Assignment 2 · handwritten solutions (second copy)",
+    "summary": "Handwritten solutions to the second Strength of Materials assignment for B.Tech second semester.",
+    "kind": "scan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment-2_MEA1120_Unit-2_Solution.pdf",
+   "s": 75945715,
+   "h": "053aa64a3d63b8927f72dd0983eccaafb1f9e5af506e1ccb0120f9731727f10f",
+   "t": 1794600625,
+   "meta": {
+    "title": "MEA1120 Assignment 2 · Unit 2 dynamics solutions",
+    "summary": "Handwritten worked solutions to the Engineering Mechanics Unit 2 assignment on dynamics of single and multi-particle systems.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment-2_MEA1120_Unit-2.pdf",
+   "s": 216250,
+   "h": "7d4483a1d1aa8b53f8ef6365b0e47490ac4ce5673668e969817fed87a25ed092",
+   "t": 1794600625,
+   "meta": {
+    "title": "MEA1120 Assignment 2 · Unit 2 question sheet",
+    "summary": "Screenshot of the Engineering Mechanics assignment brief listing practice-sheet problems 2, 10, 13, 15, 19 and 22 from Unit 2.",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Record_Moulding-Job-4.pdf",
+   "s": 959901,
+   "h": "8d4806646fd2579c7c42db02948e522eb30d00c2fbf1a84d3983d06795cf57b1",
+   "t": 1794600625,
+   "meta": {
+    "title": "Manufacturing lab record · Job 4 Moulding",
+    "summary": "Lab record for job 4 on green sand moulding: tools and equipment used, introduction and procedure notes.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Record_Tin-Smithy.pdf",
+   "s": 710998,
+   "h": "8979faf38ec1433621d7574f58ce198d84ef4a5d6bcb43f2126cdfdaa46c3837",
+   "t": 1794600625,
+   "meta": {
+    "title": "Manufacturing lab record · Tin Smithy job",
+    "summary": "Lab record for the tin smithy job with sketches of the GI sheet, snip scissor, hatchat stake and funnel stake.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment-1_MEA1120_Handwritten-Solution.pdf",
+   "s": 5383615,
+   "h": "186ee9392c3848821675b51e2cb53176355fa3fccb71c13660540af686597299",
+   "t": 1794600625,
+   "meta": {
+    "title": "Engineering Mechanics Assignment 1 · handwritten solutions",
+    "summary": "Handwritten solutions to Engineering Mechanics Assignment 1, starting with normal and tangential acceleration of a robot arm.",
+    "kind": "scan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Sem-End_APS1110_Handwritten-Answers.pdf",
+   "s": 3163003,
+   "h": "ee56641719765e43933523f875681e7cef812102dbaaf0b2ba4015929a60dba0",
+   "t": 1794600625,
+   "meta": {
+    "title": "APS1110 end-semester paper · handwritten answers",
+    "summary": "Handwritten answers to the Applied Physics APS1110 end-semester (even semester) examination.",
+    "kind": "scan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/PYQs-and-Assignments/Z_Quiz_End-Sem_MEA1920_A1B.pdf",
+   "s": 1350112,
+   "h": "b67f99901244e9a3ec207fda7733e80217d87d23fceac66414d50535433022e2",
+   "t": 1794600625,
+   "meta": {
+    "title": "MEA1920 end-semester quiz (section A1B)",
+    "summary": "Google-form end-semester quiz paper for Manufacturing Process Lab section A1B on lathe, carpentry, moulding and smithy tools.",
+    "kind": "slides"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Mid-Sem_2020-21_Handwritten-Answers.pdf",
+   "s": 8692103,
+   "h": "8156d8520e3e55fc06d1c2131e0500fc08bdf3c40f07dc9f99339c790215f7fd",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammed Safdar Khan",
+    "title": "Mid-Sem 2020-21 · Handwritten answers (Section A1C)",
+    "summary": "Handwritten solutions to the MEA1120 Engineering Mechanics mid-semester paper: force resultants, moments and equilibrium problems.",
+    "kind": "scan",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Sem-End_2020-21_Handwritten-Answers.pdf",
+   "s": 1568308,
+   "h": "a80d11eabc7c650fb99e2c6f9c202198dbffdbc60ad6dea3418b5be50b33c3cc",
+   "t": 1794600625,
+   "meta": {
+    "author": "Arfeba Mirza",
+    "title": "Sem-End 2020-21 · Handwritten answers (Section A1E)",
+    "summary": "Handwritten answers to the APS1110 Applied Physics end-semester paper, starting with effective mass and band theory of solids.",
+    "kind": "scan",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Quiz_End-Sem_2020-21_CEA1120_Torsion-and-Bending.jpg",
+   "s": 71205,
+   "h": "3688a8518efa4ef21d0621e480b93ff6b547917ce6f807dc96c891e31779b3f7",
+   "t": 1794600625,
+   "meta": {
+    "title": "End-Sem quiz 2020-21 · Hollow shaft torque and cantilever bending",
+    "summary": "Phone photo of online end-semester quiz questions on torque in a hollow circular shaft and the bending moment of a cantilever.",
+    "kind": "photo",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/PYQs-and-Assignments/Z_Assignment-1_2020-21_Solution.pdf",
+   "s": 1831165,
+   "h": "c8875a134401cd4aa77d60e3531c7d8b3f063a2f6f99dee8d0d65ee0dcd169c4",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "professor": "Musheer",
+    "title": "Assignment 1 2020-21 · Handwritten home assignment on water softening",
+    "summary": "Handwritten answers to Applied Chemistry Home Assignment 1: chemical reactions and lime-soda requirements for softening hard water.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_Assignment-1_2020-21_Solution.pdf",
+   "s": 5017600,
+   "h": "a3a2d9ec33b2a690bad51fe39e5c29d07a801d287156f6d1751a28c84d857521",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Assignment 1 2020-21 · Handwritten home assignment (matrices)",
+    "summary": "Handwritten 30-page solution of Applied Mathematics-I Home Assignment 1: augmented matrices, Gauss elimination and consistency of linear systems.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Record_Project-2-Output.jpg",
+   "s": 121326,
+   "h": "2e0cdf1a783b28adfdd181bd50f0016351cbcd8e4d14f5ea14fec3c6777343d3",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Project 2 · OnlineGDB output screenshot",
+    "summary": "Screenshot of a running C program in OnlineGDB printing the student's name, faculty number, enrolment number and branch.",
+    "kind": "photo",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Z_Assignment_2020-21_Unit-3-Project.pdf",
+   "s": 2857442,
+   "h": "cd7638f6407ba493173c451e7761c244e1599c9e66c294646253cd1e017f79aa",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Assignment 2020-21 · Engineering Thermodynamics project, Unit 3",
+    "summary": "Handwritten worked solutions to a Unit-3 thermodynamics project: steam-table properties, dryness fraction, pressure and mass of mixture.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet-1_2020-21.pdf",
+   "s": 176569,
+   "h": "c440129994ba7d4af1a4851ff655d21e7bdea82c528b4de4549ba7f4f39df1b0",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Drawing sheet 1 · Conventional lines and technical lettering",
+    "summary": "First Engineering Graphics drawing sheet: conventional lines, technical lettering practice and a drawing-board figure with the student's details.",
+    "kind": "scan",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_End-Sem_2020-21_COA1910_Character-Comparison.jpg",
+   "s": 117383,
+   "h": "e96ed6e423b18167291c2bf193168b3755d702fb21b0f07d9e28c5c7f649e99a",
+   "t": 1794600625,
+   "meta": {
+    "title": "End-Sem quiz 2020-21 · Character and integer comparison program",
+    "summary": "Screenshot of a C quiz question run in OnlineGDB: comparing int i = 65 with char j = 'A' and printing the resulting message.",
+    "kind": "photo",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_End-Sem_2020-21_COA1910_Printf-Format-Specifiers.jpg",
+   "s": 177404,
+   "h": "e8d5f7960fc088f0894d4c3adcf1cd74c6ee186189a040dde869053556a89327",
+   "t": 1794600625,
+   "meta": {
+    "title": "End-Sem quiz 2020-21 · printf format specifiers and C output",
+    "summary": "Mobile screenshot of online end-semester C quiz questions: printf character/string formats and the output of a small integer program.",
+    "kind": "photo",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_Quiz_End-Sem_2020-21_EEA1110_Transformer-Flux-and-Alternator.jpg",
+   "s": 503208,
+   "h": "7efe62a1fdd379dfaad8de58daada816e4a310d4a34efd4e43b81cd0d266f5ff",
+   "t": 1794600625,
+   "meta": {
+    "title": "End-Sem quiz 2020-21 · Transformer flux path and alternator frequency",
+    "summary": "Screenshot of online end-semester electrical engineering quiz questions on transformer flux path, cooling in a steam plant and alternator frequency.",
+    "kind": "photo",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz-1_2020-21_C-Programming-Lab-Quiz-Response.pdf",
+   "s": 240812,
+   "h": "dd999f8302b434b88e8af3169bc633c70a4e29dd81a9de7d6345fd2bbbc21a78",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "C Programming Lab Quiz · Mid-Sem 2020-21 response",
+    "summary": "Google Forms receipt of the C Programming Lab Quiz of 22 April 2021, listing the questions with the student's selected answers.",
+    "kind": "typed",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Mid-Sem_2020-21_Retest_Handwritten-Answers.pdf",
+   "s": 1341383,
+   "h": "540dd6187e7c73d46cfa0189fd133017307d60c0c346320d51d5400b2b8c3d1c",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Mid-Sem 2020-21 retest · Handwritten answers",
+    "summary": "Handwritten answers to the EEA1110 mid-semester retest: inductance, current lag/lead in an inductor and AC circuit diagrams.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment-2_2020-21_Solution.pdf",
+   "s": 2040016,
+   "h": "ed3dc4f96abb38ff65c2be91ccecf8f78306d65c469d36de42c80e29b2688eff",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mursaleen",
+    "title": "Assignment 2 · Strength of Materials (2020-21) — handwritten solutions",
+    "summary": "Handwritten worked solutions to CEA1120 Assignment 2, covering section modulus of solid versus hollow circular beams and related problems.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_Assignment-Unit-2_2020-21_Handwritten-Answers.pdf",
+   "s": 4143447,
+   "h": "fd0948d211e3843e90aff4d00b99efe0feb204e9ac72732bf7b0c54bb3f52a12",
+   "t": 1794600625,
+   "meta": {
+    "author": "Areeba Mirza",
+    "title": "APS1110 Assignment Unit 2 · Lasers and their applications (handwritten answers)",
+    "summary": "Handwritten answers to the APS1110 Unit 2 assignment on laser radiation: monochromaticity, directionality and applications.",
+    "kind": "scan",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_Assignment-Unit-1_2020-21_Handwritten-Answers.pdf",
+   "s": 937996,
+   "h": "3ec2c40c0d56c041b1635112a73ce00c620ca51d0915f09f3565531e8d08b8a9",
+   "t": 1794600625,
+   "meta": {
+    "author": "Areeba Mirza",
+    "title": "APS1110 Assignment Unit 1 · Effective mass and crystal physics (handwritten answers)",
+    "summary": "Handwritten answers to the APS1110 Unit 1 assignment, including the effective mass of an electron in a crystal lattice.",
+    "kind": "scan",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Experiment-7_Slotter_2021-22.pdf",
+   "s": 21580184,
+   "h": "ee8f908dc8b1d6a792650e8a9468e82d197bc4428593f92fb5dd94300de2e1ea",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "summary": "Workshop job 7 record: planning and slot cutting on a shaper/slotter machine, with labelled diagram, tools, theory and dated job sheet.",
+    "kind": "scan-handwritten",
+    "year": "2021-22"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Experiment-6_Smithy_2021-22.pdf",
+   "s": 26505154,
+   "h": "e38fd97e9265730da2e9ed59778b9dff16bd1bc068459d0c725b3b39293f8113",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "summary": "Workshop job 6 record: preparing a square-headed bolt by smithy, with tools, theory and dated job sheet.",
+    "kind": "scan-handwritten",
+    "year": "2021-22"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment-2_2020-21_Solution.pdf",
+   "s": 9072038,
+   "h": "c765f8285c50e0f3c479460d25533bc78373148a6921f8a04b3784d06aab539b",
+   "t": 1794600625,
+   "meta": {
+    "author": "Shubham Maity",
+    "title": "Mechanics Assignment 2 · three-dimensional equilibrium and cables (worked solutions)",
+    "summary": "Worked Engineering Mechanics Assignment 2 problems: force components from a cable over a frictionless ring and 3-D equilibrium of a frame.",
+    "kind": "scan",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_CEA1120_Handwritten-Answers.pdf",
+   "s": 29082720,
+   "h": "e3d77d3628033c2a89f2d466087c0b1df4f49d26f29da60d1e997e9be3e2fd31",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "summary": "Handwritten answers to the CEA1120 end-semester quiz of 2020-21: two-hinged arch thrust under UDL and further SOM problems.",
+    "kind": "scan-printed",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_MEA1120_Handwritten-Answers.pdf",
+   "s": 1293065,
+   "h": "ba6bf3fd43ccd43a5bc2beec7928f5fbd96969882a38baae62765a15b0b9fe1c",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "summary": "Handwritten answers to the MEA1120 end-semester examination 2020-21, worked from the paper's 3-D equilibrium problem on space forces.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Mid-Sem_2020-21_APS1110_A1D_Handwritten-Answers.pdf",
+   "s": 4578721,
+   "h": "9f7fe0374ce120ed1ead48ae5f9d51aa33de5526402ec47b59c1febd1c03cefe",
+   "t": 1794600625,
+   "meta": {
+    "summary": "Handwritten answers to the APS1110 mid-semester paper of section A1D, covering laser and semiconductor-physics questions.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Mid-Sem_2020-21_CEA1120_A1C.pdf",
+   "s": 3166563,
+   "h": "5f6ef18a2d7e120de155c37bd258e0176756de64aeb5e0403402f6aab3c0144d",
+   "t": 1794600625,
+   "meta": {
+    "summary": "CEA1120 mid-semester question paper for section A1C conducted as a Google Form quiz, captured page by page with the submitter's chosen options.",
+    "kind": "scan-printed",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Mid-Sem_2020-21_CEA1120_A1D_Solution.pdf",
+   "s": 670458,
+   "h": "ab172b4a7fe751d016f083dc5a41f6eed00545ad2289158c39a041cc53d19902",
+   "t": 1794600625,
+   "meta": {
+    "summary": "Handwritten solutions to the CEA1120 section A1D mid-semester paper, starting with the relation between elastic constants from a sheared cube.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_MEA1120_MCQ-Answers.jpg",
+   "s": 48711,
+   "h": "6f17547c1f91a758251c0791ce75239703e9d62342347c39880de7686b2269e7",
+   "t": 1794600625,
+   "meta": {
+    "summary": "Photo of one student's MCQ answer list (option letters) for the MEA1120 2020-21 end-semester quiz, with an unavailable question noted.",
+    "kind": "photo",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/PYQs-and-Assignments/Z_Assignment-1_2020-21_Solution_2.pdf",
+   "s": 1205246,
+   "h": "42aa543e5ccb71b951de48c058326c816f9d9a0d2e7396a953be9d55bf47ea56",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "professor": "Mossarat",
+    "summary": "Handwritten answers to ACS1110 Home Assignment 1, including determination of calorific value with a bomb calorimeter.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Z_Project_Bhopal-Gas-Tragedy_2020-21.pdf",
+   "s": 617282,
+   "h": "af75b7283d3ac44e0357f6c4504ac745853c4935b0a6a1d8fb3968c3ab4c7f0b",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "professor": "Dr. Salim",
+    "title": "Project · Bhopal Gas Tragedy (student presentation)",
+    "summary": "Nine-slide student project on the Bhopal gas tragedy: the UCIL plant, methyl isocyanate leak, casualties and aftermath.",
+    "kind": "slides",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Project-1_2020-21.pdf",
+   "s": 14746608,
+   "h": "9f13b900ecaffb39349c789542aed44d0ffa8ecd9f5b3a1cb1eee34127a5d6bc",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Project 1 · Applications of computers and Von Neumann architecture",
+    "summary": "Handwritten COA1910 project answers on the three main applications of computers, Von Neumann architecture and the five classic components of a computer.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Record_Project-2_Screenshot.jpg",
+   "s": 143816,
+   "h": "6d2e788caf6a2bbc197a93cb687781b77d92eb9862b47b1649aa8a6583e37cff",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Project 2 · First C program in OnlineGDB (name output)",
+    "summary": "Screenshot of an OnlineGDB session running a first C program that prints the student's name, enrolment and faculty number.",
+    "kind": "photo",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Record_Project-4_Sum-of-Three-Numbers.c",
+   "s": 740,
+   "h": "bea2060ec64d9aef20f32f962a289e41976b238007616627ad5371ee506fb07d",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Project 4 · Sum of three numbers",
+    "summary": "C program that reads three integers through a helper function and prints their sum.",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Records/Record_Project-7_Matrix-Max-Min-Median.c",
+   "s": 3168,
+   "h": "245888379a7aed5a5f59c735e89c03f5f4fe61f584091a201cc583f42369af8d",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Project 7 · Row and column max, min and median of a matrix",
+    "summary": "C program that computes the maximum, minimum and median of each row and column of a matrix.",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_Project_2020-21_EEA1110_Winding-Terms.pdf",
+   "s": 562101,
+   "h": "a09666c94ca2e36d94e121250dc0f02d679eb529f24590aeb231494dad72a72b",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Project · Winding terms in electrical machines",
+    "summary": "Two handwritten pages answering questions on armature versus rotor windings and on field and stator windings.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Z_Project_2020-21_MEA1110_Unit-2.pdf",
+   "s": 4151460,
+   "h": "f61e9ba6527c9250ecdc6dcb32319935866fb50b9747485e149b657f9509cd6a",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Project · Engineering Thermodynamics Unit 2 numericals",
+    "summary": "22 handwritten pages of worked Unit-2 project numericals, starting with pressure–volume work for a linear pressure relation.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet_Scales.pdf",
+   "s": 7483840,
+   "h": "9f08fceb988d5200d4db88f2bb138942a459dda7f7cd6ebf06d7cc153cb72bd7",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Drawing sheet · Scales",
+    "summary": "Engineering graphics sheet with plain, diagonal, vernier and comparative scale constructions and their RF values.",
+    "kind": "scan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet_Projection-of-Machine-Parts.pdf",
+   "s": 370775,
+   "h": "0238a0b3e88a35adf23b38b460a313bfc51df1604c86d19e4928aa13d9c11446",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Drawing sheet · Projection of machine parts",
+    "summary": "Two-page orthographic projection sheet with plan, elevation and side view of machine parts, dimensioned.",
+    "kind": "scan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Records/Drawing-Sheet_Development-of-Surfaces.pdf",
+   "s": 3863764,
+   "h": "4006a32b668fa05965a705bf50fd30662ab409e4eaea7e6f034de0b64c8d0f52",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Drawing sheet · Development of surfaces",
+    "summary": "Five-page engineering graphics sheet on development of surfaces of prisms, cylinders and cones.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_COA1910_Const-Increment_Solution.jpg",
+   "s": 115043,
+   "h": "ac849f277f25a03f2d2736402801bde6e32ea2a6f66887324e25d18b0efa8421",
+   "t": 1794600625,
+   "meta": {
+    "title": "End-sem quiz answer · Incrementing a const int",
+    "summary": "Screenshot of a C program doing i++ on a const int, with the compiler error shown — an answer to the COA1910 end-semester lab quiz.",
+    "kind": "photo",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_COA1910_Ternary-Expression_Solution.jpg",
+   "s": 116869,
+   "h": "49ff1750c8e3abdacff10cf136596072a8571499befd5a527fc4fb0f2f85efcd",
+   "t": 1794600625,
+   "meta": {
+    "title": "End-sem quiz answer · Nested ternary expression",
+    "summary": "Screenshot of a nested ternary-expression C program printing 30 in OnlineGDB — an answer to the COA1910 end-semester lab quiz.",
+    "kind": "photo",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_COA1910_Nested-Loop-Pattern_Solution.jpg",
+   "s": 117582,
+   "h": "cb87919e514ebb69275d4adf1a92240d01d02dea2ce403c7b66296d594913826",
+   "t": 1794600625,
+   "meta": {
+    "title": "End-sem quiz answer · Nested-loop pattern output",
+    "summary": "Screenshot of a nested-loop C program printing 1 / 3 3 / 5 5 5 / 7 7 7 7 — an answer to the COA1910 end-semester lab quiz.",
+    "kind": "photo",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_COA1910_Array-Size-Error_Solution.jpg",
+   "s": 120790,
+   "h": "c1dd6a86d651b27de80c0457fdc23f11a7d03ccee2aea16478d54111580b6d3f",
+   "t": 1794600625,
+   "meta": {
+    "title": "End-sem quiz answer · Array declared without size",
+    "summary": "Screenshot of a C program declaring an array with no size and initialising it, with the compiler errors shown.",
+    "kind": "photo",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/PYQs-and-Assignments/Z_Quiz_2020-21_End-Sem_COA1910_Frequency-of-a-Number_Solution.c",
+   "s": 1137,
+   "h": "54f433efe17cf9bee7844d88ffd922f09735dec92aba87c0af4bc58d878aaffb",
+   "t": 1794600625,
+   "meta": {
+    "author": "Syed Imaduddin",
+    "title": "End-sem exam code · Frequency of a number in an array",
+    "summary": "C answer file for the COA1910 end-semester code question that counts the frequency of a user-given number in an array of ten integers.",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Records/Experiment-1_Moment-of-Inertia-of-Flywheel.pdf",
+   "s": 644931,
+   "h": "9a9a42104b901028a22e32c9fdd2451cf8d25270feb5c98f9151a9757d68c679",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "Experiment 1 · Moment of inertia of a flywheel",
+    "summary": "Six-page lab record for Experiment 1, showing the flywheel apparatus and the readings to determine its moment of inertia.",
+    "kind": "scan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Z_Assignment-1_2020-21_AMS1120_Solution.pdf",
+   "s": 5064592,
+   "h": "088679ebf1c5eb87fd365dba9d9ffb411c60e40138ef8d25929f52452c3b62f7",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohit Verma",
+    "title": "Assignment 1 · Applied Mathematics II (handwritten solutions)",
+    "summary": "23 handwritten pages solving Applied Mathematics II Assignment 1 — partial differentiation and Euler's theorem problems.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment-1_CEA1120.pdf",
+   "s": 2497415,
+   "h": "9033445c0d51f012b2be20b7f848c952d8037d528aa16e142db4b8fdc442250c",
+   "t": 1794600625,
+   "meta": {
+    "author": "Saad Ahmad",
+    "title": "CEA1120 Assignment 1 (Saad Ahmad)",
+    "summary": "Handwritten Strength of Materials Assignment-1 solutions: shear force and bending moment diagrams for beams.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment-2_CEA1120_3.pdf",
+   "s": 10304726,
+   "h": "39f5a7b9b07dc669a256f89e73d9f89684eedb4020d8e71a66b94393bd16ae5b",
+   "t": 1794600625,
+   "meta": {
+    "author": "Afraz Shamim",
+    "title": "CEA1120 Assignment 2 (Afraz Shamim)",
+    "summary": "Handwritten Strength of Materials Assignment-II: section modulus of solid vs hollow circular beams, shear and bending problems.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_Assignment-1_ELA1110.pdf",
+   "s": 5211699,
+   "h": "04263ebc833d07d9a53dc01776c790a6472fc1a41d49ebe7d932281b8972eaee",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mursaleen",
+    "title": "ELA1110 Assignment 1 (Mursaleen)",
+    "summary": "Typed and printed solutions of Principles of Electronics Engineering Assignment 1 (ELA1110).",
+    "kind": "scan-printed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment-2_EZH1110.pdf",
+   "s": 2229300,
+   "h": "d6ee8344ec2097425de75300ffbaa099c3d67277db6eadb2f3ce83a3bff88c43",
+   "t": 1794600625,
+   "meta": {
+    "author": "Khadija Ahmad",
+    "title": "EZH1110 Assignment 2 (Khadija Ahmad)",
+    "summary": "Handwritten English assignment on the difference between pure and applied science, with examples.",
+    "kind": "scan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment-1_EZH1110.pdf",
+   "s": 2991507,
+   "h": "2ea2e94d12a3976eb8d32cd3d3527cbced1d80a60c529b61ca2dcb51d39583a2",
+   "t": 1794600625,
+   "meta": {
+    "author": "Khadija Ahmad",
+    "title": "EZH1110 Assignment 1 (Khadija Ahmad)",
+    "summary": "Handwritten English assignment answering whether applied research began as pure science, with examples.",
+    "kind": "scan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment_2021-22_MEA1120.pdf",
+   "s": 10105332,
+   "h": "138035ed927f6e2bc4ec79787d46302a0e3de169d257c084d5b988236b81f3d9",
+   "t": 1794600625,
+   "meta": {
+    "author": "Utsav Bhatnagar",
+    "title": "MEA1120 Home Assignment, August 2021 (Utsav Bhatnagar)",
+    "summary": "Typed Engineering Mechanics home assignment of August 2021: 32 pages of worked statics and equilibrium problems.",
+    "kind": "scan-printed",
+    "year": "2021-22"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/PYQs-and-Assignments/Z_Assignment-1_CEA1120_2.pdf",
+   "s": 84893742,
+   "h": "c29c8803e289c3e9187df428b207e2ce2b99abed9e6a58034a635f76332d6721",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "CEA1120 Assignment 1 (Prabhat Kumar Gupta)",
+    "summary": "Handwritten Strength of Materials Assignment-1 solutions: bending moment, shear force and stress problems.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_Assignment_ELA1110_Handwritten-Solutions.pdf",
+   "s": 2213251,
+   "h": "973f4517757cd4f52a91a8eaa22d1ed652b133a7bd17f8bbda18662033c0466e",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "ELA1110 handwritten assignment solutions (Prabhat Kumar Gupta)",
+    "summary": "Handwritten solutions to electronics assignments: diode networks, KVL calculations and op-amp summing circuits.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment-2_EZH1110_2.pdf",
+   "s": 24347760,
+   "h": "c703693ada555c6e81c5637a03e583aa1c987acea2039607bcebc9f3edc1bb4a",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "EZH1110 Assignment 2 (Prabhat Kumar Gupta)",
+    "summary": "Handwritten English assignment on scientific thinking and curiosity as part of the scientific temper.",
+    "kind": "scan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment_Unit-1_MEA1120.pdf",
+   "s": 2330031,
+   "h": "9f072698d7e5ff70644150bc107637c9882dcf189c5a6ace801c6f8d8a573cdf",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "MEA1120 Unit 1 assignment (Prabhat Kumar Gupta)",
+    "summary": "Handwritten Engineering Mechanics Unit 1 assignment: equivalent force-couple systems, 3D moments and vector statics.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Records/Experiment-4_Energy-Gap-of-Semiconductor_2.pdf",
+   "s": 1350651,
+   "h": "54518831b1e830c4e7920f9cecb0f031bb5792c509814a84fcfab6c4eea17a80",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohd Afzal Khan",
+    "title": "Experiment 4 · Energy Gap of a Semiconductor",
+    "summary": "Handwritten Applied Physics lab record of Experiment 4, energy gap of a semiconductor by the resistance-temperature method.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_Assignment-3_ELA1110.pdf",
+   "s": 3817236,
+   "h": "d83c7257c12063320b9ee2093c33fbb9ca1c63b5fd1309fb417777498ecb8f9b",
+   "t": 1794600625,
+   "meta": {
+    "author": "Shubham Maity",
+    "title": "Electronics Assignment 3.0 (Shubham Maity)",
+    "summary": "Handwritten solutions of Electronics Assignment 3: op-amp amplifier gains and circuit calculations.",
+    "kind": "scan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Mid-Sem_EZH1110_Solution.pdf",
+   "s": 13388200,
+   "h": "ddcb7280ed644121d8009641a612a994003dc66390f33e10cdc51689daae42e9",
+   "t": 1794600625,
+   "meta": {
+    "author": "Prabhat Kumar Gupta",
+    "title": "EZH1110 mid-semester solutions (Prabhat Kumar Gupta)",
+    "summary": "Handwritten answers to a first-year English mid-semester paper covering scientific temper and essay questions.",
+    "kind": "scan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Mid-Sem_2020-21_MEA1120_Handwritten-Answers.pdf",
+   "s": 3064962,
+   "h": "bb5d3c6cca7fd0a48e2124aace8b25a9f80c3d8f7251da4c05f05cee8c2ad77e",
+   "t": 1794600625,
+   "meta": {
+    "author": "Muniba Rahman",
+    "title": "MEA1120 mid-semester handwritten answers (Muniba Rahman)",
+    "summary": "Handwritten mid-semester answer script for Engineering Mechanics: resultant force, moments and equilibrium problems, dated 31-07-2021.",
+    "kind": "scan-handwritten",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Quiz_End-Sem_2020-21_MEA1120_MCQ-Answers.jpg",
+   "s": 71652,
+   "h": "ac3b47b71dd323b5428222655a197348336231cf7c1720628243552fa42d07cc",
+   "t": 1794600625,
+   "meta": {
+    "title": "MEA1120 end-semester MCQ answer list (June 2021)",
+    "summary": "Photo of a student's answer list for the Engineering Mechanics end-semester multiple-choice quiz, questions 1 to 16.",
+    "kind": "photo",
+    "year": "2020-21"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHH2130_Social-Cultural-and-Educational-Movement-of-India/PYQs-and-Assignments/Z_Presentation_Abadi-Bano-Begum.pdf",
+   "s": 269634,
+   "h": "6a8187a8b2ce00d73151db72f3a9a3d1fd4425c0d8f78f914e7eaec9f27923a8",
+   "t": 1794600625,
+   "meta": {
+    "author": "Mohammed Uzair Khan",
+    "title": "Presentation · Abadi Bano Begum (Bi Amma)",
+    "summary": "Eight slides on Abadi Bano Begum (Bi Amma): her early life, role in the Indian freedom movement and her stand on women's education.",
+    "kind": "slides"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem5/CHC3122_Process-Equipment-Design/PYQs-and-Assignments/Z_Assignment-1_2019-20_Handwritten-Answers_2.pdf",
+   "s": 2383165,
+   "h": "4eaff0773765443b41553b8542756b8eee4c6ade890c558b69cb6e41c6a9b3e9",
+   "t": 1794600625,
+   "meta": {
+    "author": "Jeba Jameel",
+    "title": "Assignment 1 · Process Equipment Design (handwritten answers)",
+    "summary": "Handwritten answers to Process Equipment Design (CHC-3140) Assignment 1, starting with plate heat exchanger types, submitted April 2020.",
+    "kind": "scan",
+    "year": "2019-20"
+   }
+  }
+ ]
+}
