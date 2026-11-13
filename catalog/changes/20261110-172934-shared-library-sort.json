@@ -1,0 +1,110 @@
+{
+ "id": "20261110-172934-shared-library-sort",
+ "created": "2026-11-10T17:29:34+00:00",
+ "source": {
+  "kind": "sort",
+  "by": "maintainer"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BE_OE-Even_S0_2017-18_ECE483_p3-5.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4740-ECEO4740_Water-Resources-and-Watershed-Management/PYQs-and-Assignments/Sem-End_2017-18_ECE483.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BE_OE-Even_S0_2018-19_ECE483_p1-2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4740-ECEO4740_Water-Resources-and-Watershed-Management/PYQs-and-Assignments/Sem-End_2018-19_ECE483.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BE_OE-Even_S0_2018-19_EME461_p3-5.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/MEO4210_Heating-Ventilation-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2018-19_EME461.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BE_OE-Even_S0_2022-23_ECEO4720_p2-3.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/PYQs-and-Assignments/Sem-End_2022-23_ECEO4720.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BE_OE-Odd_S0_2022-23_EMEO4210_p2-3.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/MEO4210_Heating-Ventilation-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2022-23_EMEO4210.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BE_OE-Odd_S0_2025-26_EAMO3510_p1-2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AMO3512-EAMO3510_Numerical-Techniques/PYQs-and-Assignments/Sem-End_2025-26_EAMO3510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BT_OE-Even_S0_2022-23_CEO4720_p8-9.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/PYQs-and-Assignments/Sem-End_2022-23_CEO4720.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BT_OE-Even_S0_2023-24_TECH111_p6-9.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020-EEZH3020_Intellectual-Property-Rights-for-Engineers/PYQs-and-Assignments/Sem-End_2023-24_EZH3020.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BT_OE-Odd_S0_2012-13_EE301_p5-11.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EE3018_Power-Electronics-Applications/PYQs-and-Assignments/Sem-End_2012-13_EE301.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BT_OE-Odd_S0_2012-13_unread_p1-3.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AMO3512-EAMO3510_Numerical-Techniques/PYQs-and-Assignments/Sem-End_2012-13_AM351.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BT_OE-Odd_S0_2015-16_AC308_p1-2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/PYQs-and-Assignments/Sem-End_2015-16_AC308.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BT_OE-Odd_S0_2015-16_AC308_p15-16.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/PYQs-and-Assignments/Sem-End_2015-16_AC308_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BT_OE-Odd_S0_2016-17_AC308_p1-2.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/PYQs-and-Assignments/Sem-End_2016-17_AC308.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BT_OE-Odd_S0_2016-17_OE3572_p7-7.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/HU301_Inteleectual-Property-Rights-Ipr/PYQs-and-Assignments/Sem-End_2016-17_OE3572.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BT_OE-Odd_S0_2017-18_CODE3538_p8-9.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CEO4750-CEO4850_Project-Management/PYQs-and-Assignments/Sem-End_2017-18_CE484.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BT_OE-Odd_S0_2017-18_ME461_p24-26.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/MEO4210_Heating-Ventilation-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2017-18_ME461.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BT_OE-Odd_S0_2019-20_ME461_p18-19.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/MEO4210_Heating-Ventilation-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2019-20_ME461.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BT_OE-Odd_S0_2022-23_ME461_p14-16.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/MEO4210_Heating-Ventilation-and-Air-Conditioning/PYQs-and-Assignments/Sem-End_2022-23_ME461.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BT_OE-Odd_S0_2025-26_AEE305_p9-9.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AEE305_Design-of-Electric-Motor/PYQs-and-Assignments/Sem-End_2025-26_AEE305.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Shared-Courses/_Library-Papers-Unsorted/BT_OE-Odd_S0_2025-26_CHO4260_p17-21.pdf",
+   "to": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/PYQs-and-Assignments/Sem-End_2025-26_CHO4260.pdf"
+  }
+ ]
+}

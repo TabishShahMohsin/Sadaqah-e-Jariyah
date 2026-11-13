@@ -1,0 +1,295 @@
+{
+ "id": "20261110-174905-electricalengine-lib",
+ "created": "2026-11-10T17:49:05+00:00",
+ "source": {
+  "kind": "sort",
+  "by": "maintainer"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BE_EE_S4_2014-15_EEE282_p7-12.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_EEE282.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BE_EE_S4_2017-18_EEL203_p1-2.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_EEL203.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BE_EE_S6_2015-16_EEE381_p14-15.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE251_Electrical/PYQs-and-Assignments/Sem-End_2015-16_EEE381.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BE_EE_S8_2018-19_EEE477_p9-10.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2018-19_EEE477.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S3_2012-13_EE231_p7-11.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2312_Power-System-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_EE231.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S3_2012-13_EE282_p18-21.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_EE282.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S3_2012-13_FE277_p12-13.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2012-13_FE277.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S3_2012-13_NO3059_p5-6.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE312_Electrical-Machine-Ti/PYQs-and-Assignments/Sem-End_2012-13_NO3059.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S3_2013-14_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S3_2014-15_EF276_p10-12.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE281_Circuit-Theory-I/PYQs-and-Assignments/Sem-End_2014-15_EF276.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S3_2015-16_EE277_p11-12.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_EE277.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S3_2015-16_RE211_p3-6.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE312_Electrical-Machine-Ti/PYQs-and-Assignments/Sem-End_2015-16_RE211.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S3_2016-17_AM223_p1-2.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_AM223.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S3_2016-17_EE211_p3-4.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE211_Electrical-Machines/PYQs-and-Assignments/Sem-End_2016-17_EE211.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S3_2016-17_EE276_p7-10.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_EE276.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S3_2024-25_unread_p1-4.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S4_2012-13_JO768_p20-21.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2012-13_JO768.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S4_2012-13_unread_p1-4.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S4_2013-14_EE202_p3-4.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEE437_Course-Code/PYQs-and-Assignments/Sem-End_2013-14_EE202.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S4_2013-14_EE232_p9-10.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE232_Electrical-Power-Generation/PYQs-and-Assignments/Sem-End_2013-14_EE232.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S4_2013-14_EE284_p18-19.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE284_Circult-Theory-Il/PYQs-and-Assignments/Sem-End_2013-14_EE284.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S4_2013-14_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2013-14_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S4_2014-15_EE282_p14-18.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_EE282.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S4_2014-15_unread_p1-6.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S4_2015-16_EE282_p12-13.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_EE282.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S4_2015-16_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S4_2016-17_EL203_p12-13.pdf",
+   "reason": "duplicate of BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/PYQs-and-Assignments/PYQ-Collection_Digital-Logic.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S4_2016-17_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE312_Electrical-Machine-Ti/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S4_2017-18_EL203_p11-12.pdf",
+   "reason": "duplicate of BTech-and-BE/Electrical-Engineering/Sem4/ELA2012_Logic-and-Digital-Circuit/PYQs-and-Assignments/PYQ-Collection_Digital-Logic.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S4_2017-18_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE312_Electrical-Machine-Ti/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S4_2024-25_EEA2012_p1-2.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2024-25_EEA2012.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S5_2012-13_EE333_p7-7.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_EE333.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S5_2012-13_NO3080_p5-6.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE321_Power-Electronics/PYQs-and-Assignments/Sem-End_2012-13_NO3080.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S5_2012-13_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE312_Electrical-Machine-Ti/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S5_2014-15_EE361_p9-10.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_EE361.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S5_2015-16_EE361_p7-8.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_EE361.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S5_2015-16_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE321_Power-Electronics/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S5_2017-18_EE361_p7-8.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_EE361.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S5_2018-19_EE361_p12-13.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_EE361.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S5_2019-20_EE361_p11-12.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2019-20_EE361.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S6_2012-13_EE334_p4-6.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE334_Electrical-Power-Utilization/PYQs-and-Assignments/Sem-End_2012-13_EE334.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S6_2015-16_NO3519_p1-3.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE321_Power-Electronics/PYQs-and-Assignments/Sem-End_2015-16_NO3519.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S6_2016-17_NO3559_p1-4.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE321_Power-Electronics/PYQs-and-Assignments/Sem-End_2016-17_NO3559.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S6_2016-17_NO3559_p5-5.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/PYQs-and-Assignments/Sem-End_2016-17_NO3559.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S6_2017-18_EE341_p10-11.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_EE341.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S6_2017-18_NO3404_p1-5.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE321_Power-Electronics/PYQs-and-Assignments/Sem-End_2017-18_NO3404.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S7_2012-13_EL440_p10-11.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EL440_Principles-of-Communication-Engineering/PYQs-and-Assignments/Sem-End_2012-13_EL440.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S7_2012-13_unread_p1-7.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Sem-End_2012-13_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S7_2014-15_EE434_p7-7.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE434_Energy-Management-and-Automation/PYQs-and-Assignments/Sem-End_2014-15_EE434.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S7_2016-17_EE435_p4-5.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Electives/EEE4312_Power-Station-Practice/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_EE435.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S7_2017-18_BAIS2017_p9-9.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/PYQs-and-Assignments/Sem-End_2017-18_BAIS2017.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S7_2017-18_TALS245_p10-10.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/PYQs-and-Assignments/Sem-End_2017-18_TALS245.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S8_2013-14_EE422_p4-5.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Electives/EEE4212_Power-Semiconductor-Controllers/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2013-14_EE422.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S8_2013-14_LE435_p6-8.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EE251_Electrical/PYQs-and-Assignments/Sem-End_2013-14_LE435.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S8_2013-14_NO1647_p13-15.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/PYQs-and-Assignments/Sem-End_2013-14_NO1647.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S8_2015-16_EE422_p3-4.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/Electives/EEE4212_Power-Semiconductor-Controllers/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_EE422.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electrical-Engineering/_Library-Papers-Unsorted/BT_EE_S8_2017-18_NO3424_p3-4.pdf",
+   "to": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEE437_Course-Code/PYQs-and-Assignments/Sem-End_2017-18_NO3424.pdf"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "id": "20261110-174931-foodtechnology-lib",
+ "created": "2026-11-10T17:49:31+00:00",
+ "source": {
+  "kind": "sort",
+  "by": "maintainer"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Library-Papers-Unsorted/BT_FT_S3_2024-25_MICR0810_p14-15.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/ACS3011_Food-Technology/PYQs-and-Assignments/Sem-End_2024-25_MICR0810.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Library-Papers-Unsorted/BT_FT_S3_2025-26_MICR0810_p16-17.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/ACS3011_Food-Technology/PYQs-and-Assignments/Sem-End_2025-26_MICR0810.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Library-Papers-Unsorted/BT_FT_S3_unknown_ME214_p5-6.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC4010_Dairy-Process-Technology/PYQs-and-Assignments/Sem-End_x.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Library-Papers-Unsorted/BT_FT_S3_unknown_MECC2410_p19-20.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC3080_Process-Equipment-Design/PYQs-and-Assignments/Sem-End_x.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Library-Papers-Unsorted/BT_FT_S4_2021-22_FOOD810_p10-11.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/ACS3011_Food-Technology/PYQs-and-Assignments/Sem-End_2021-22_FOOD810.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Library-Papers-Unsorted/BT_FT_S4_2021-22_MICR0810_p9-9.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/ACS3011_Food-Technology/PYQs-and-Assignments/Sem-End_2021-22_MICR0810.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Library-Papers-Unsorted/BT_FT_S4_2022-23_FOOD810_p10-11.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/ACS3011_Food-Technology/PYQs-and-Assignments/Sem-End_2022-23_FOOD810.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Library-Papers-Unsorted/BT_FT_S4_2022-23_MICR0810_p9-9.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/ACS3011_Food-Technology/PYQs-and-Assignments/Sem-End_2022-23_MICR0810.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Library-Papers-Unsorted/BT_FT_S4_2023-24_FOOD810_p6-7.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/ACS3011_Food-Technology/PYQs-and-Assignments/Sem-End_2023-24_FOOD810.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Library-Papers-Unsorted/BT_FT_S4_2023-24_MICR0810_p8-8.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/ACS3011_Food-Technology/PYQs-and-Assignments/Sem-End_2023-24_MICR0810.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Library-Papers-Unsorted/BT_FT_S4_2024-25_EXTRU510_p7-7.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/ACS3011_Food-Technology/PYQs-and-Assignments/Sem-End_2024-25_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Library-Papers-Unsorted/BT_FT_S5_2023-24_AND810_p8-9.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/ACS3011_Food-Technology/PYQs-and-Assignments/Sem-End_2023-24_AND810.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Library-Papers-Unsorted/BT_FT_S5_2024-25_AND810_p10-11.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/ACS3011_Food-Technology/PYQs-and-Assignments/Sem-End_2024-25_AND810.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Food-Technology/_Library-Papers-Unsorted/BT_FT_S6_2024-25_FTC3080_p10-22.pdf",
+   "to": "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC3080_Process-Equipment-Design/PYQs-and-Assignments/Sem-End_2024-25_FTC3080.pdf"
+  }
+ ]
+}

@@ -1,0 +1,705 @@
+{
+ "id": "20261110-175023-mechanicalengine-lib",
+ "created": "2026-11-10T17:50:23+00:00",
+ "source": {
+  "kind": "sort",
+  "by": "maintainer"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S3_2019-20_EME220_p3-5.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2019-20_EME220.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S4_2015-16_EME202_p3-4.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_EME202.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S4_2015-16_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S4_2017-18_EME213_p13-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2017-18_EME213.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S4_2017-18_EME215_p9-12.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME215-EME215_Kinematics-and-Design-of-Machines/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_EME215.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S4_2021-22_EMEC2440_p13-14.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2021-22_EMEC2440.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S4_2023-24_EMEC2440_p9-11.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2023-24_EMEC2440.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S5_2019-20_EEE305_p1-2.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/Sem-End_2019-20_EEE305.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S6_2015-16_EME324_p7-8.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_EME324.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S6_2015-16_NO4014_p5-6.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3232_Energy-Conversion-Systems/PYQs-and-Assignments/Sem-End_2015-16_NO4014.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S6_2017-18_EME315_p1-3.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_EME315.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S6_2017-18_EME317_p13-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME317-ME316_Machine-Design/PYQs-and-Assignments/Sem-End_2017-18_EME317.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S6_2017-18_EME340_p11-12.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340-EME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2017-18_EME340.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S6_2017-18_EME341_p17-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/PYQs-and-Assignments/Sem-End_2017-18_EME341.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S6_2017-18_NO3896_p16-16.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/PYQs-and-Assignments/Sem-End_2017-18_NO3896.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S6_2018-19_EME340_p8-9.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340-EME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2018-19_EME340.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S7_2019-20_EME426_p5-5.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/PYQs-and-Assignments/Sem-End_2019-20_EME426.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S7_2019-20_EME453_p6-7.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4430-EME453_Numerical-Control-of-Machine-Tools/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2019-20_EME453.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S7_2024-25_EMEE4240_p4-5.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem7/AEC4212_Automotive-System/PYQs-and-Assignments/Sem-End_2024-25_EMEE4240.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S8_2023-24_COMP051_p4-5.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2023-24.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BE_ME_S8_2024-25_COMP051_p1-2.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2024-25.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_Auto_S4_2023-24_ACE2450_p1-2.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/Sem-End_2023-24_ACE2450.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2012-13_ME201_p4-5.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME201_Manufacturing-Processes/PYQs-and-Assignments/Sem-End_2012-13_ME201.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2012-13_ME221_p12-13.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_ME221.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2012-13_ME226_p10-11.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2012-13_ME226.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2012-13_MU214_p8-9.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/PYQs-and-Assignments/Sem-End_2012-13_MU214.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2012-13_unread_p1-3.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EAM231_Higher-Mathematics-I/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2013-14_ME221_p20-22.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2013-14_ME221.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2014-15_ME214_p11-13.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_ME214.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2014-15_ME221_p18-19.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_ME221.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2014-15_ME231_p20-24.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME231_Fe-Fluid-Meckanics-I/PYQs-and-Assignments/Sem-End_2014-15_ME231.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2015-16_EE887_p3-4.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/CE212_Civil-Engineering-Materials/PYQs-and-Assignments/Sem-End_2015-16_EE887.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2015-16_VV3620_p13-14.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/CE212_Civil-Engineering-Materials/PYQs-and-Assignments/Sem-End_2015-16_VV3620.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2016-17_ME213_p3-4.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_ME213.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2016-17_ME214_p5-6.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_ME214.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2016-17_NO3570_p13-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/PYQs-and-Assignments/Sem-End_2016-17_NO3570.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2017-18_ME213_p3-5.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_ME213.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2017-18_ME214_p6-7.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_ME214.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2017-18_NO3434_p16-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/PYQs-and-Assignments/Sem-End_2017-18_NO3434.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2018-19_ME214_p5-6.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_ME214.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2018-19_MECC2410_p19-20.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/PYQs-and-Assignments/Sem-End_2018-19_MECC2410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2012-13_ME215_p15-17.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME215-EME215_Kinematics-and-Design-of-Machines/PYQs-and-Assignments/Sem-End_2012-13_ME215.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2014-15_ME2112_p14-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME317-ME316_Machine-Design/PYQs-and-Assignments/Sem-End_2014-15_ME2112.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2014-15_ME215_p16-17.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME215-EME215_Kinematics-and-Design-of-Machines/PYQs-and-Assignments/Sem-End_2014-15_ME215.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2014-15_ME240_p23-24.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340-EME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2014-15_ME240.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2014-15_NO3249_p18-22.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/PYQs-and-Assignments/Sem-End_2014-15_NO3249.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2014-15_OL3284_p1-2.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EAM231_Higher-Mathematics-I/PYQs-and-Assignments/Sem-End_2014-15_OL3284.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2015-16_AM232_p3-4.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_AM232.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2015-16_ME202_p7-9.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_ME202.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2015-16_ME213_p13-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2112-AEC2112_Mechanics-of-Solids/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_ME213.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2015-16_ME215_p16-17.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME215-EME215_Kinematics-and-Design-of-Machines/PYQs-and-Assignments/Sem-End_2015-16_ME215.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2015-16_ME231_p22-25.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME231_Fe-Fluid-Meckanics-I/PYQs-and-Assignments/Sem-End_2015-16_ME231.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2015-16_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EAM231_Higher-Mathematics-I/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2016-17_AM232_p2-4.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_AM232.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2017-18_AM232_p1-3.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_AM232.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2017-18_ME215_p8-9.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME215-EME215_Kinematics-and-Design-of-Machines/PYQs-and-Assignments/Sem-End_2017-18_ME215.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2021-22_MEC2440_p10-11.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2021-22_MEC2440.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2022-23_MEC2440_p16-17.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2022-23_MEC2440.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S4_2023-24_MEC2440_p17-20.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2023-24_MEC2440.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S5_2012-13_CODE3126_p4-12.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2012-13_CODE3126.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S5_2013-14_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S5_2014-15_EE305_p4-6.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_EE305.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S5_2015-16_ME341_p28-30.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2015-16_ME341.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S5_2015-16_RE305_p3-5.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/Sem-End_2015-16_RE305.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S5_2016-17_ME341_p18-21.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2016-17_ME341.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S5_2017-18_EE305_p1-2.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_EE305.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S5_2017-18_ME317_p6-8.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME317-ME316_Machine-Design/PYQs-and-Assignments/Sem-End_2017-18_ME317.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S5_2017-18_ME341_p19-22.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2017-18_ME341.pdf"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S5_2018-19_EE305_p1-2.pdf",
+   "reason": "duplicate of BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/Sem-End_2018-19_EE305.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S5_2018-19_ME323_p6-7.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_ME323.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S5_2018-19_ME341_p13-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2018-19_ME341.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S5_2018-19_NO3437_p11-12.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340-EME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2018-19_NO3437.pdf"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S5_2019-20_EE305_p1-2.pdf",
+   "reason": "duplicate of BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/Sem-End_2019-20_EE305.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S5_2019-20_ME341_p15-17.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2019-20_ME341.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S6_2012-13_EE305_p1-3.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_EE305.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S6_2012-13_ME341_p19-21.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2012-13_ME341.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S6_2014-15_ME240_p4-5.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340-EME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2014-15_ME240_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S6_2014-15_ME341_p28-30.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2014-15_ME341.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S6_2015-16_ME340_p18-20.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340-EME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2015-16_ME340.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S6_2016-17_CE511_p14-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME340-EME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2016-17_CE511.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2012-13_BSFC104_p15-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/PYQs-and-Assignments/Sem-End_2012-13_BSFC104.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2012-13_ME404_p1-4.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME404_Mechanical-Engg/PYQs-and-Assignments/Sem-End_2012-13_ME404.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2012-13_NG3144_p6-9.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2012-13_NG3144.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2012-13_NO3149_p10-11.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME438_Gas-Dynamics/PYQs-and-Assignments/Sem-End_2012-13_NO3149.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2013-14_ME426_p7-8.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/PYQs-and-Assignments/Sem-End_2013-14_ME426.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2013-14_ME428_p9-9.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME428_Power-Plant-Engineering/PYQs-and-Assignments/Sem-End_2013-14_ME428.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2013-14_ME446_p12-13.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME446_Ergonomics/PYQs-and-Assignments/Sem-End_2013-14_ME446.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2013-14_MR404_p1-4.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2013-14_MR404.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2014-15_ME426_p11-12.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/PYQs-and-Assignments/Sem-End_2014-15_ME426.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2014-15_ME454_p18-32.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2014-15_ME454.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2015-16_ME426_p9-10.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem7/AEC4212_Automotive-System/PYQs-and-Assignments/Sem-End_2015-16_ME426.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2015-16_ME443_p15-17.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2015-16_ME443.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2016-17_ME426_p6-6.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem7/AEC4212_Automotive-System/PYQs-and-Assignments/Sem-End_2016-17_ME426.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2016-17_NO3613_p16-17.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3932-AEC3932_Manufacturing-Technology-Lab-II/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2017-18_ME426_p6-6.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/PYQs-and-Assignments/Sem-End_2017-18_ME426.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2018-19_MAC111_p15-17.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/Sem-End_2018-19_MAC111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2018-19_ME426_p8-9.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/PYQs-and-Assignments/Sem-End_2018-19_ME426.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2018-19_PRD2018_p10-11.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME428_Power-Plant-Engineering/PYQs-and-Assignments/Sem-End_2018-19_PRD2018.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2018-19_unread_p1-5.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME406-EMEE4410_Powder-Metallurgy/PYQs-and-Assignments/Sem-End_2018-19.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2019-20_COMP051_p27-28.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2019-20.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2019-20_ME426_p8-9.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3222-AEC3222_I-C-Engines/PYQs-and-Assignments/Sem-End_2019-20_ME426.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2022-23_MEE4410_p14-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME406-EMEE4410_Powder-Metallurgy/PYQs-and-Assignments/Sem-End_2022-23_MEE4410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2023-24_MEE4150_p5-8.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2023-24_MEE4150.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2023-24_MEE4240_p13-16.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem7/AEC4212_Automotive-System/Syllabus/PYQs-and-Assignments/Sem-End_2023-24_MEE4240.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2023-24_MEE4440_p17-22.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE305_Control-Engineering/PYQs-and-Assignments/Sem-End_2023-24_MEE4440.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2024-25_MEE4150_p7-9.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2024-25_MEE4150.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2024-25_MEE4240_p15-16.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem7/AEC4212_Automotive-System/Syllabus/PYQs-and-Assignments/Sem-End_2024-25_MEE4240.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2024-25_MEE4440_p25-27.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2024-25_MEE4440.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2024-25_ODD2024_p17-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2024-25_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2025-26_MEE4240_p12-13.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem7/AEC4212_Automotive-System/Syllabus/PYQs-and-Assignments/Sem-End_2025-26_MEE4240.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S7_2025-26_MEE4340_p14-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME438_Gas-Dynamics/PYQs-and-Assignments/Sem-End_2025-26_MEE4340.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2013-14_ME407_p1-1.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME407-EME407_Processing-of-Plastics-Polymers-and-Ceramics/PYQs-and-Assignments/Sem-End_2013-14_ME407.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2013-14_ME427_p11-13.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME438_Gas-Dynamics/PYQs-and-Assignments/Sem-End_2013-14_ME427.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2013-14_ME429_p14-15.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4230-EMEE4230_Refrigeration-and-Air-Conditioning/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2013-14_ME429.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2013-14_ME463_p21-23.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2013-14_ME463.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2013-14_TERR015_p18-20.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2013-14_TERR015.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2014-15_ME463_p27-29.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2014-15_ME463.pdf"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2015-16_ME404_p1-3.pdf",
+   "reason": "duplicate of BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME404_Mechanical-Engg/PYQs-and-Assignments/Sem-End_2015-16_ME404.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2015-16_ME407_p4-4.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME407-EME407_Processing-of-Plastics-Polymers-and-Ceramics/PYQs-and-Assignments/Sem-End_2015-16_ME407.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2015-16_ME463_p25-27.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2015-16_ME463.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2015-16_NO3613_p31-31.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4520_Introduction-To-Microfluidics/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2016-17_ME407_p1-1.pdf",
+   "reason": "duplicate of BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME407-EME407_Processing-of-Plastics-Polymers-and-Ceramics/PYQs-and-Assignments/Sem-End_2016-17_ME407.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2016-17_ME443_p6-9.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2016-17_ME443.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2016-17_ME451_p10-12.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_ME451.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2016-17_NO3632_p19-19.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4520_Introduction-To-Microfluidics/PYQs-and-Assignments/Sem-End_2016-17_NO3632.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2017-18_COMP051_p27-28.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2017-18.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2017-18_ME407_p1-1.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME407-EME407_Processing-of-Plastics-Polymers-and-Ceramics/PYQs-and-Assignments/Sem-End_2017-18_ME407.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2017-18_ME443_p10-13.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2017-18_ME443.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2017-18_ME478_p23-26.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2017-18_ME478.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2017-18_NO3494_p22-22.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4520_Introduction-To-Microfluidics/PYQs-and-Assignments/Sem-End_2017-18_NO3494.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2017-18_NO3498_p21-21.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME455_Applied-Computational-Fluid-Dynamics/PYQs-and-Assignments/Sem-End_2017-18_NO3498.pdf"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2022-23_MEE4150_p1-3.pdf",
+   "reason": "duplicate of BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4150-EMEE4152_Computer-Aided-Design/PYQs-and-Assignments/Sem-End_2022-23_MEE4150.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2022-23_MEE4220_p4-5.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME428_Power-Plant-Engineering/PYQs-and-Assignments/Sem-End_2022-23_MEE4220.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2022-23_MEE4440_p16-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4112_Mechanical-Vibrations/PYQs-and-Assignments/Sem-End_2022-23_MEE4440.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2022-23_MEE4740_p19-20.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2022-23_MEE4740.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2023-24_MEE4740_p17-18.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2023-24_MEE4740.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2023-24_MEE4810_p19-22.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2023-24_MEE4810.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2024-25_MEE4280_p11-12.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/ME341_F-Mechanical-Engineering/PYQs-and-Assignments/Sem-End_2024-25_MEE4280.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S8_2024-25_MEEF4120_p4-5.pdf",
+   "to": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4120-EMEE4120_Introduction-to-Finite-Element-Method/PYQs-and-Assignments/Sem-End_2024-25_MEEF4120.pdf"
+  }
+ ]
+}

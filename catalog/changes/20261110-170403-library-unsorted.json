@@ -1,0 +1,225 @@
+{
+ "id": "20261110-170403-library-unsorted",
+ "created": "2026-11-10T17:04:03+00:00",
+ "source": {
+  "kind": "cleanup",
+  "by": "maintainer"
+ },
+ "ops": [
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S3_2012-13_EL211_p9-11.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S3_2012-13_unread_p1-2.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S3_2015-16_CODF3825_p8-10.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S3_2015-16_unread_p1-7.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S3_2016-17_CODE3857_p5-6.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S3_2016-17_EL211_p10-12.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S3_2016-17_EL211_p7-9.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S3_2017-18_EL211_p9-11.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S4_2012-13_CO209_p7-8.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S4_2012-13_unread_p1-2.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S4_2013-14_unread_p1-12.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S4_2014-15_MET110_p1-3.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S4_2015-16_CO209_p10-11.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S4_2016-17_CO209_p9-10.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S4_2017-18_CO209_p9-10.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S4_2018-19_AM262_p9-10.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S4_2018-19_COC2090_p3-4.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S4_2021-22_COC2090_p7-8.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S4_2022-23_COC2090_p8-9.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S4_2024-25_COC2090_p10-11.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S5_2012-13_CO302_p3-4.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S5_2012-13_EL340_p9-10.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S5_2013-14_EL340_p6-7.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S5_2014-15_unread_p1-2.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S5_2016-17_EL340_p6-7.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S5_2017-18_EL340_p8-9.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S5_2018-19_EL340_p7-9.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S6_2013-14_unread_p1-2.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S6_2014-15_CO209_p8-8.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S6_2015-16_ME340_p16-18.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S6_2016-17_unread_p1-2.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S7_2012-13_OS555_p11-12.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S7_2013-14_unread_p1-6.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S7_2014-15_unread_p1-3.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S7_2015-16_unread_p1-2.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S7_2016-17_unread_p1-2.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S7_2017-18_unread_p1-1.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S7_2018-19_unread_p1-2.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S7_2019-20_unread_p1-2.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S8_2012-13_unread_p1-2.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S8_2015-16_CO450_p7-8.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S8_2016-17_CO450_p8-9.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Library-Papers-Unsorted/BT_CoE_S8_2017-18_CO450_p9-11.pdf",
+   "reason": "duplicate of an existing published paper (same scan, page-for-page)"
+  }
+ ]
+}

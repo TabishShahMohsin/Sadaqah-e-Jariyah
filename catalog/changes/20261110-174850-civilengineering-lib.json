@@ -1,0 +1,745 @@
+{
+ "id": "20261110-174850-civilengineering-lib",
+ "created": "2026-11-10T17:48:50+00:00",
+ "source": {
+  "kind": "sort",
+  "by": "maintainer"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S3_2019-20_ECEC2160_p7-8.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2019-20_ECEC2160.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S3_2022-23_ECEC2150_p6-7.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/PYQs-and-Assignments/Sem-End_2022-23_ECEC2150.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S3_2023-24_ECEC2150_p6-7.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/PYQs-and-Assignments/Sem-End_2023-24_ECEC2150.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S4_2014-15_ECE216_p3-4.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_ECE216.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S4_2014-15_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S4_2015-16_ECE216_p3-5.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_ECE216.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S4_2018-19_COM811_p1-2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2018-19_COM811.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S4_2018-19_ECEC2170_p5-6.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2170-ECEC2170_Environmental-Engineering-I/PYQs-and-Assignments/Sem-End_2018-19_ECEC2170.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S4_2018-19_ECEH2210_p16-16.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH2210-ECEH2210_Construction-Management-I/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_ECEH2210.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S4_2021-22_ECEC2170_p3-4.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2170-ECEC2170_Environmental-Engineering-I/PYQs-and-Assignments/Sem-End_2021-22_ECEC2170.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S4_2022-23_ECEC2170_p3-5.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2170-ECEC2170_Environmental-Engineering-I/PYQs-and-Assignments/Sem-End_2022-23_ECEC2170.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S6_2015-16_ECE317_p9-11.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem6/CEC3172_Transportation-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_ECE317.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S7_2019-20_ECE437_p10-11.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2019-20_ECE437.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S7_2019-20_NO2676_p4-7.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering/PYQs-and-Assignments/Sem-End_2019-20_NO2676.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S7_2022-23_ECEC4120_p1-2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2022-23_ECEC4120.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S7_2022-23_ECEE4580_p5-5.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2022-23_ECEE4580.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S7_2023-24_ECEC4120_p1-2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2023-24_ECEC4120.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S7_2023-24_ECEE4580_p6-7.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2023-24_ECEE4580.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S7_2024-25_ECEE4580_p6-7.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2024-25_ECEE4580.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S7_2025-26_ECEC4120_p1-2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2025-26_ECEC4120.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S7_2025-26_ECEE4580_p5-5.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2025-26_ECEE4580.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S8_2017-18_ECE414_p3-4.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem6/CEC3392_Open-Channel-Hydraulics/PYQs-and-Assignments/Sem-End_2017-18_ECE414.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S8_2017-18_ECE434_p7-11.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2017-18_ECE434.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S8_2017-18_ECE437_p12-13.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2017-18_ECE437.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S8_2017-18_ECE481_p14-15.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2017-18_ECE481.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S8_2018-19_ECE414_p4-5.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem6/CEC3392_Open-Channel-Hydraulics/PYQs-and-Assignments/Sem-End_2018-19_ECE414.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S8_2018-19_ECE481_p6-7.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2018-19_ECE481.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S8_2022-23_ECEE4630_p5-11.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2022-23_ECEE4630.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S8_2022-23_ECEE4730_p14-16.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem7/CEC4222_Elements-of-Earthquake-and-Wind-Engineering/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2022-23_ECEE4730.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S8_2023-24_ECEE4530_p3-4.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEE4530_Is-Civil-Engineering/PYQs-and-Assignments/Sem-End_2023-24_ECEE4530.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S8_2023-24_ECEE4570_p5-5.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/PYQs-and-Assignments/Sem-End_2023-24_ECEE4570.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S8_2023-24_ECEE4630_p6-10.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2023-24_ECEE4630.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S8_2024-25_ECEE4530_p3-4.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/ECEE4530_Is-Civil-Engineering/PYQs-and-Assignments/Sem-End_2024-25_ECEE4530.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S8_2024-25_ECEE4570_p5-6.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/PYQs-and-Assignments/Sem-End_2024-25_ECEE4570.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BE_CE_S8_2024-25_ECEE4630_p7-11.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2024-25_ECEE4630.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S3_2012-13_CE216_p12-13.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_CE216.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S3_2013-14_OOO000_p8-9.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S3_2014-15_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2014-15_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S3_2015-16_CO0000_p11-12.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2015-16_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S3_2015-16_CR216_p8-10.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2015-16_CR216.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S3_2018-19_CODE3484_p10-10.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2018-19_CODE3484.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S3_2018-19_TECH111_p16-17.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2018-19.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S3_2018-19_TECH111_p5-6.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2018-19_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S3_2018-19_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2018-19_3.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S3_2022-23_TECH011_p9-9.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2022-23_TECH011.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S4_2012-13_CE218_p9-10.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem4/CEC2182_Surveying/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_CE218.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S4_2012-13_OO000_p5-8.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2012-13_OO000.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S4_2012-13_unread_p1-4.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S4_2013-14_CE214_p5-6.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE214_Environmental-Science/PYQs-and-Assignments/Sem-End_2013-14_CE214.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S4_2013-14_unread_p1-4.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2013-14_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S4_2014-15_CE216_p5-7.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_CE216.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S4_2014-15_COCO0000_p3-4.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/AM211-EAM211_Mathematics-III/PYQs-and-Assignments/Sem-End_2014-15_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S4_2015-16_QOIS2016_p3-3.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2015-16_QOIS2016.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S4_2015-16_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2015-16_3.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S4_2016-17_CE214_p4-5.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE214_Environmental-Science/PYQs-and-Assignments/Sem-End_2016-17_CE214.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S4_2016-17_CE216_p6-8.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_CE216.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S4_2017-18_CE214_p3-4.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE214_Environmental-Science/PYQs-and-Assignments/Sem-End_2017-18_CE214.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S4_2021-22_CEC2170_p3-8.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2170-ECEC2170_Environmental-Engineering-I/PYQs-and-Assignments/Sem-End_2021-22_CEC2170.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S4_2022-23_CEC2170_p3-6.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2170-ECEC2170_Environmental-Engineering-I/PYQs-and-Assignments/Sem-End_2022-23_CEC2170.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S4_2023-24_CEC2170_p3-5.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2170-ECEC2170_Environmental-Engineering-I/PYQs-and-Assignments/Sem-End_2023-24_CEC2170.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S4_2023-24_CEH2210_p15-15.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH2210-ECEH2210_Construction-Management-I/PYQs-and-Assignments/Sem-End_2023-24_CEH2210.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S5_2012-13_CE313_p5-9.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_CE313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S5_2012-13_CE428_p11-12.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2012-13_CE428.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S5_2012-13_CE429_p13-14.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering/PYQs-and-Assignments/Sem-End_2012-13_CE429.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S5_2013-14_CE313_p5-7.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2013-14_CE313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S5_2013-14_CE314_p8-10.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE314_Surveying-I/PYQs-and-Assignments/Sem-End_2013-14_CE314.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S5_2014-15_CE314_p9-10.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE314_Surveying-I/PYQs-and-Assignments/Sem-End_2014-15_CE314.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S5_2015-16_CE313_p3-6.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_CE313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S5_2016-17_CE313_p5-6.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_CE313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S5_2017-18_CE313_p9-10.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_CE313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S5_2017-18_CE423_p11-12.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem6/CEC3962_Transportation-Engineering-Lab/PYQs-and-Assignments/Sem-End_2017-18_CE423.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S5_2018-19_CE313_p11-12.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_CE313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S5_2018-19_CE423_p13-14.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem6/CEC3962_Transportation-Engineering-Lab/PYQs-and-Assignments/Sem-End_2018-19_CE423.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S5_2019-20_CE313_p5-7.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3222_Waste-Management/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2019-20_CE313.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S6_2012-13_CE317_p7-8.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem6/CEC3962_Transportation-Engineering-Lab/PYQs-and-Assignments/Sem-End_2012-13_CE317.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S6_2013-14_CE314_p13-15.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE314_Surveying-I/PYQs-and-Assignments/Sem-End_2013-14_CE314_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S6_2013-14_CE316_p7-8.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3140-ECEC3140_Engineering-Hydraulics-I/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2013-14_CE316.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S6_2013-14_CE317_p9-10.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem6/CEC3962_Transportation-Engineering-Lab/PYQs-and-Assignments/Sem-End_2013-14_CE317.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S6_2014-15_CE317_p6-8.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem6/CEC3962_Transportation-Engineering-Lab/PYQs-and-Assignments/Sem-End_2014-15_CE317.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S6_2015-16_CE317_p7-9.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem6/CEC3962_Transportation-Engineering-Lab/PYQs-and-Assignments/Sem-End_2015-16_CE317.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S6_2016-17_CE317_p8-10.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem6/CEC3962_Transportation-Engineering-Lab/PYQs-and-Assignments/Sem-End_2016-17_CE317.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S6_2016-17_CE318_p11-12.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_CE318.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S6_2017-18_CE317_p7-8.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem6/CEC3962_Transportation-Engineering-Lab/PYQs-and-Assignments/Sem-End_2017-18_CE317.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S6_2022-23_IS456_p1-2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem6/CEC3162_Design-of-Concrete-Structure-II/Books-and-Resources/PYQs-and-Assignments/Sem-End_2022-23_IS456.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2012-13_CE413_p4-6.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2012-13_CE413.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2012-13_NO2012_p12-12.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2012-13_NO2012.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2013-14_CE413_p3-4.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2013-14_CE413.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2013-14_CE428_p6-7.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2013-14_CE428.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2014-15_CE413_p4-5.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2014-15_CE413.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2014-15_CE428_p7-8.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2014-15_CE428.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2014-15_CE429_p9-10.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2014-15_CE429.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2015-16_CE413_p4-6.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2015-16_CE413.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2015-16_CE423_p8-9.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2015-16_CE423.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2015-16_CE428_p10-11.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2015-16_CE428.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2015-16_CE429_p12-14.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2015-16_CE429.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2016-17_CE413_p6-8.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2016-17_CE413.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2016-17_CE423_p10-11.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2016-17_CE423.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2016-17_CE428_p12-13.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2016-17_CE428.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2017-18_CE413_p3-5.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2017-18_CE413.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2017-18_CE428_p7-8.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2017-18_CE428.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2017-18_CE429_p9-11.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2017-18_CE429.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2018-19_CE413_p3-4.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2018-19_CE413.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2018-19_CE415_p5-8.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering/PYQs-and-Assignments/Sem-End_2018-19_CE415.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2018-19_CE428_p10-11.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2018-19_CE428.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2018-19_CE429_p12-13.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2018-19_CE429.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2018-19_CE437_p20-21.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660-ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_CE437.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2019-20_CE413_p4-5.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2019-20_CE413.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2019-20_CE415_p6-9.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering/PYQs-and-Assignments/Sem-End_2019-20_CE415.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2022-23_CEC4120_p1-2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/PYQs-and-Assignments/Sem-End_2022-23_CEC4120.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2022-23_CEE4580_p7-8.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2022-23_CEE4580.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2022-23_CEE4590_p9-10.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2022-23_CEE4590.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2023-24_CEC4120_p1-2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2023-24_CEC4120.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2023-24_CEE4580_p7-8.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2023-24_CEE4580.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2023-24_CEE4590_p9-10.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4590-ECEE4590_Industrial-Pollution-Control/PYQs-and-Assignments/Sem-End_2023-24_CEE4590.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2024-25_CEC4120_p1-2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2024-25_CEC4120.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2024-25_CEE4580_p6-7.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2024-25_CEE4580.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2025-26_CEC4120_p1-2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2025-26_CEC4120.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S7_2025-26_CEE4580_p7-8.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2025-26_CEE4580.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2012-13_CE415_p6-11.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering/PYQs-and-Assignments/Sem-End_2012-13_CE415.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2012-13_CE434_p19-22.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2012-13_CE434.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2013-14_CE413_p4-5.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2013-14_CE413_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2013-14_CE415_p8-12.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering/PYQs-and-Assignments/Sem-End_2013-14_CE415.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2013-14_CE434_p13-14.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2013-14_CE434.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2013-14_CODE1750_p1-3.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH2210-ECEH2210_Construction-Management-I/PYQs-and-Assignments/Sem-End_2013-14_CODE1750.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2014-15_CE410_p1-4.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE410-ECE410_Construction-Management/PYQs-and-Assignments/Sem-End_2014-15_CE410.pdf"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2014-15_CE415_p7-12.pdf",
+   "reason": "duplicate of BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering/PYQs-and-Assignments/Sem-End_Papers-Collection.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2014-15_CE434_p15-17.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2014-15_CE434.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2015-16_CE410_p1-2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE410-ECE410_Construction-Management/PYQs-and-Assignments/Sem-End_2015-16_CE410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2015-16_NO3656_p5-10.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering/PYQs-and-Assignments/Sem-End_2015-16_NO3656.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2016-17_CE415_p5-8.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering/PYQs-and-Assignments/Sem-End_2016-17_CE415.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2016-17_CE427_p9-9.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2016-17_CE427.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2016-17_CE437_p15-16.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660-ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_CE437.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2017-18_CE415_p6-9.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem7/CEC4132_Irrigation-Engineering/PYQs-and-Assignments/Sem-End_2017-18_CE415.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2017-18_CE427_p10-10.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2017-18_CE427.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2017-18_CE434_p11-15.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2017-18_CE434.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2017-18_CE437_p16-17.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660-ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_CE437.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2022-23_CEE4530_p1-2.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem6/CEC3962_Transportation-Engineering-Lab/PYQs-and-Assignments/Sem-End_2022-23_CEE4530.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2022-23_CEE4630_p5-10.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2022-23_CEE4630.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2022-23_CEE4660_p11-13.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4660-ECEE4660_Pre-Stressed-Concrete/PYQs-and-Assignments/Sem-End_2022-23_CEE4660.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2023-24_CEE4530_p2-3.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2023-24_CEE4530.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2023-24_CEE4570_p4-4.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/Syllabus/PYQs-and-Assignments/Sem-End_2023-24_CEE4570.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2023-24_CEE4630_p5-8.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2023-24_CEE4630.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2023-24_CEO4720_p15-16.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/PYQs-and-Assignments/Sem-End_2023-24_CEO4720.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2024-25_CEE4530_p2-3.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem6/CEC3962_Transportation-Engineering-Lab/PYQs-and-Assignments/Sem-End_2024-25_CEE4530.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2024-25_CEE4570_p4-5.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/Syllabus/PYQs-and-Assignments/Sem-End_2024-25_CEE4570.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2024-25_CEE4580_p6-7.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2024-25_CEE4580_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Civil-Engineering/_Library-Papers-Unsorted/BT_CE_S8_2024-25_CEE4630_p8-12.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CE434_J-Civil/PYQs-and-Assignments/Sem-End_2024-25_CEE4630.pdf"
+  }
+ ]
+}

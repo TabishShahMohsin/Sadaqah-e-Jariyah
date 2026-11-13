@@ -1,0 +1,385 @@
+{
+ "id": "20261110-174924-electronicsengin-lib",
+ "created": "2026-11-10T17:49:24+00:00",
+ "source": {
+  "kind": "sort",
+  "by": "maintainer"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S3_2012-13_CC0000_p14-15.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/FL447_J-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2012-13.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S3_2012-13_EL211_p6-8.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL211_Electronic-Devices/PYQs-and-Assignments/Sem-End_2012-13_EL211.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S3_2012-13_EL241_p16-19.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_EL241.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S3_2013-14_FP2013_p5-7.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/FL447_J-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2013-14_FP2013.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S3_2014-15_EL211_p5-12.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL211_Electronic-Devices/PYQs-and-Assignments/Sem-End_2014-15_EL211.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S3_2014-15_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM252_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2014-15.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S3_2015-16_CODH378_p1-4.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM252_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2015-16_CODH378.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S3_2016-17_AM252_p1-2.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_AM252.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S3_2016-17_EL211_p3-5.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL211_Electronic-Devices/PYQs-and-Assignments/Sem-End_2016-17_EL211.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S3_2017-18_EL211_p5-6.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL211_Electronic-Devices/PYQs-and-Assignments/Sem-End_2017-18_EL211.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S3_2017-18_FE2017_p11-13.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3982_DSP-Systems-Lab/PYQs-and-Assignments/Sem-End_2017-18_FE2017.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S3_2017-18_LS2017_p7-9.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/FL447_J-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2017-18_LS2017.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S4_2014-15_AP204_p3-4.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_AP204.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S4_2014-15_EE202_p5-6.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EE202_Course-Code/PYQs-and-Assignments/Sem-End_2014-15_EE202.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S4_2014-15_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM252_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2014-15_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S4_2015-16_AP204_p1-2.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_AP204.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S4_2016-17_AP204_p1-2.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_AP204.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S4_2016-17_EL223_p8-10.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3212_Control-Systems/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_EL223.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S4_2016-17_EL242_p13-14.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL242_Principles-of-Communication-Engineering/PYQs-and-Assignments/Sem-End_2016-17_EL242.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S4_2017-18_AP204_p1-2.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_AP204.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S4_2022-23_EEA2010_p1-2.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/FL447_J-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2022-23_EEA2010.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S4_2023-24_EEA2010_p1-2.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/FL447_J-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2023-24_EEA2010.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S4_2023-24_ELC2420_p12-14.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC2420_Principles-of-Communication-Engineering-I/PYQs-and-Assignments/Sem-End_2023-24_ELC2420.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S4_2024-25_ELC2420_p22-24.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC2420_Principles-of-Communication-Engineering-I/PYQs-and-Assignments/Sem-End_2024-25_ELC2420.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S5_2012-13_EL341_p6-7.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL341_Principles-of-Communication-Engineering/PYQs-and-Assignments/Sem-End_2012-13_EL341.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S5_2014-15_EL314_p5-7.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_EL314.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S5_2015-16_EL341_p14-15.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL341_Principles-of-Communication-Engineering/PYQs-and-Assignments/Sem-End_2015-16_EL341.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S5_2015-16_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/FL447_J-Electronics-Engineering/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S5_2016-17_EL315_p5-6.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_EL315.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S5_2018-19_EL311_p1-2.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_EL311.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S5_2018-19_EL315_p5-6.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_EL315.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S5_2018-19_EL332_p7-9.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3311_Microprocessors-and-Microcontrollers/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2018-19_EL332.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S5_2019-20_EL311_p1-1.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2019-20_EL311.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S5_2019-20_ELC3310_p13-15.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3311_Microprocessors-and-Microcontrollers/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2019-20_ELC3310.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S5_2024-25_ELC3310_p6-7.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3311_Microprocessors-and-Microcontrollers/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2024-25_ELC3310.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S5_2024-25_ELC3311_p8-9.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3311_Microprocessors-and-Microcontrollers/PYQs-and-Assignments/Sem-End_2024-25_ELC3311.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S5_2025-26_ELC3410_p6-8.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3410_Principles-of-Communication-Engineering-Ii/Syllabus/PYQs-and-Assignments/Sem-End_2025-26_ELC3410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S6_2012-13_EL314_p4-7.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2012-13_EL314.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S6_2013-14_EL314_p3-5.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2013-14_EL314.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S6_2014-15_EL314_p3-5.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_EL314_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S6_2015-16_EL314_p1-2.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2015-16_EL314.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S6_2015-16_ME340_p16-18.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2015-16_ME340.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S6_2016-17_EL314_p1-2.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2016-17_EL314.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S6_2016-17_EL341_p6-7.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL341_Principles-of-Communication-Engineering/PYQs-and-Assignments/Sem-End_2016-17_EL341.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S6_2017-18_EL314_p1-2.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_EL314.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S6_2017-18_EL343_p8-9.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3432_Digital-Signal-Processing/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2017-18_EL343.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2012-13_NO3286_p7-13.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3920_Communication-Lab-I/PYQs-and-Assignments/Sem-End_2012-13_NO3286.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2012-13_OE3285_p5-6.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3652_RF-IC-Design/PYQs-and-Assignments/Sem-End_2012-13_OE3285.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2013-14_BS1840_p10-11.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3920_Communication-Lab-I/PYQs-and-Assignments/Sem-End_2013-14_BS1840.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2013-14_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem7/ELA4342_Computer-Architecture/PYQs-and-Assignments/Sem-End_2013-14.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2014-15_EL314_p4-6.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4120_Semiconductor-Device-Modelling/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_EL314_3.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2014-15_EL447_p17-18.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3982_DSP-Systems-Lab/PYQs-and-Assignments/Sem-End_2014-15_EL447.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2014-15_EL458_p21-22.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL458_TV-and-Radar-Engineering/PYQs-and-Assignments/Sem-End_2014-15_EL458.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2015-16_EL458_p18-19.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL458_TV-and-Radar-Engineering/PYQs-and-Assignments/Sem-End_2015-16_EL458.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2015-16_unread_p1-5.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem7/ELA4342_Computer-Architecture/PYQs-and-Assignments/Sem-End_2015-16.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2016-17_EL447_p9-10.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3982_DSP-Systems-Lab/PYQs-and-Assignments/Sem-End_2016-17_EL447.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2017-18_EEO555_p1-4.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem7/ELA4342_Computer-Architecture/PYQs-and-Assignments/Sem-End_2017-18_EEO555.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2017-18_EL447_p11-13.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3982_DSP-Systems-Lab/PYQs-and-Assignments/Sem-End_2017-18_EL447.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2018-19_EL447_p7-10.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3982_DSP-Systems-Lab/PYQs-and-Assignments/Sem-End_2018-19_EL447.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2019-20_EL447_p6-10.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3982_DSP-Systems-Lab/PYQs-and-Assignments/Sem-End_2019-20_EL447.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2022-23_ODD2022_p5-6.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3920_Communication-Lab-I/PYQs-and-Assignments/Sem-End_2022-23_ODD2022.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2023-24_ELE4510_p6-8.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4510_Fiber-Optic-Communications/PYQs-and-Assignments/Sem-End_2023-24_ELE4510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2023-24_ELE4620_p11-12.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3642_DIgital-IC-Design/Syllabus/PYQs-and-Assignments/Sem-End_2023-24_ELE4620.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2024-25_ELE4510_p3-5.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4510_Fiber-Optic-Communications/PYQs-and-Assignments/Sem-End_2024-25_ELE4510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2024-25_ELE4620_p8-9.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3642_DIgital-IC-Design/Syllabus/PYQs-and-Assignments/Sem-End_2024-25_ELE4620.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2025-26_ELE4510_p3-5.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4510_Fiber-Optic-Communications/PYQs-and-Assignments/Sem-End_2025-26_ELE4510.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S7_2025-26_ELE4620_p9-10.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3642_DIgital-IC-Design/Syllabus/PYQs-and-Assignments/Sem-End_2025-26_ELE4620.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S8_2013-14_EL458_p16-17.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/EL458_TV-and-Radar-Engineering/PYQs-and-Assignments/Sem-End_2013-14_EL458.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S8_2014-15_EL415_p6-8.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3622_Digital-System-Design/PYQs-and-Assignments/PYQs-and-Assignments/Sem-End_2014-15_EL415.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S8_2015-16_EL447_p7-8.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3982_DSP-Systems-Lab/PYQs-and-Assignments/Sem-End_2015-16_EL447.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S8_2016-17_EO2016_p3-5.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3652_RF-IC-Design/PYQs-and-Assignments/Sem-End_2016-17_EO2016.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S8_2016-17_unread_p1-2.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3982_DSP-Systems-Lab/PYQs-and-Assignments/Sem-End_2016-17.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S8_2022-23_ELE4410_p8-9.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3982_DSP-Systems-Lab/PYQs-and-Assignments/Sem-End_2022-23_ELE4410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S8_2023-24_ELE4410_p7-8.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3982_DSP-Systems-Lab/PYQs-and-Assignments/Sem-End_2023-24_ELE4410.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Electronics-Engineering/_Library-Papers-Unsorted/BT_ECE_S8_2024-25_ELE4410_p6-9.pdf",
+   "to": "BTech-and-BE/Electronics-Engineering/Sem6/ELC3982_DSP-Systems-Lab/PYQs-and-Assignments/Sem-End_2024-25_ELE4410.pdf"
+  }
+ ]
+}

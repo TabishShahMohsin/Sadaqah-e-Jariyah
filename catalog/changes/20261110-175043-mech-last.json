@@ -1,0 +1,15 @@
+{
+ "id": "20261110-175043-mech-last",
+ "created": "2026-11-10T17:50:43+00:00",
+ "source": {
+  "kind": "sort",
+  "by": "maintainer"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Mechanical-Engineering/_Library-Papers-Unsorted/BT_ME_S3_2015-16_CE216_p10-12.pdf",
+   "to": "BTech-and-BE/Civil-Engineering/Sem4/CEC2202_Structural-Mechanics/PYQs-and-Assignments/Sem-End_2015-16_CE216_2.pdf"
+  }
+ ]
+}

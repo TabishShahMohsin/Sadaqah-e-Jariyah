@@ -1,0 +1,310 @@
+{
+ "id": "20261110-172343-fy-library-sort",
+ "created": "2026-11-10T17:23:43+00:00",
+ "source": {
+  "kind": "sort",
+  "by": "maintainer"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BE_FY_S1_2018-19_ECEAI110_p14-14.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Sem-End_2018-19_ECEAI110.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BE_FY_S2_2017-18_ECE111_p3-3.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Sem-End_2017-18_ECE111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BE_FY_S2_2018-19_ECE111_p1-1.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Sem-End_2018-19_ECE111_Winter.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BE_FY_S1_2018-19_ECE111_p1-1.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Sem-End_2018-19_ECE111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BE_FY_S1_2018-19_EEE111_p10-11.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Sem-End_2018-19_EEE111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BE_FY_S2_2015-16_unread_p1-2.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Sem-End_2015-16_EN101.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BE_FY_S2_2017-18_WS2017_p26-26.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Sem-End_2017-18_AP111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BE_FY_S2_2018-19_EAPSI110_p10-11.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Sem-End_2018-19_AP111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BE_FY_S2_2023-24_EELA110_p4-7.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Sem-End_2023-24_ELA110.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BE_FY_S1_2018-19_EME101_p12-13.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Sem-End_2018-19_EME101.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BE_FY_S1_2023-24_EMEA1130_p12-13.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1130_R-All-Branches/PYQs-and-Assignments/Sem-End_2023-24_EMEA1130.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BE_FY_S2_2014-15_NO3613_p5-8.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Sem-End_2014-15_EME111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BE_FY_S2_2015-16_EME111_p5-9.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Sem-End_2015-16_EME111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BE_FY_S2_2024-25_EMEAI122_p12-13.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Sem-End_2024-25_EME111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2017-18_AM111_p5-6.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Sem-End_2017-18_AM111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2019-20_AM111_p3-4.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Sem-End_2019-20_AM111.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2017-18_AP511_p7-8.pdf",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Sem-End_2017-18_AP111_2.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S2_2023-24_MEAI110_p22-24.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2023-24_MEAI110.pdf"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S2_2024-25_MEAI110_p26-28.pdf",
+   "to": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Sem-End_2024-25_MEAI110.pdf"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2012-13_ME101_p23-25.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2012-13_NO3024_p31-34.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2012-13_NO3026_p15-17.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2012-13_PHIL050_p12-12.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2012-13_unread_p1-1.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2013-14_AW1555_p13-14.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2013-14_EE111_p25-29.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2013-14_ME101_p30-33.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2013-14_ME111_p40-44.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2013-14_unread_p1-1.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2014-15_EE101_p14-15.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2014-15_EE111_p16-18.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2014-15_PHIL050_p11-11.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2015-16_AC308_p3-4.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2015-16_PHIL050_p15-17.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2015-16_unread_p1-2.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2016-17_CE111_p10-13.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2016-17_PHIL050_p9-9.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2017-18_FE111_p20-20.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2018-19_AM111_p3-4.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2018-19_ME111_p28-32.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2018-19_PHIL050_p11-11.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2024-25_MEAI112_p44-46.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2024-25_ODD2024_p25-28.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2025-26_EEA110_p17-18.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S2_2012-13_AC102_p1-1.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S2_2012-13_CEI111_p19-22.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S2_2012-13_EE111_p23-25.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S2_2014-15_ME103_p41-44.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S2_2017-18_AMI111_p3-4.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S2_2017-18_CE111_p19-19.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S2_2017-18_EEAIL110_p26-27.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S2_2022-23_EEATI110_p17-18.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S2_2023-24_MEAI112_p25-28.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S2_2024-25_MEAI112_p29-31.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2017-18_PHIL050_p9-9.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2019-20_PHIL050_p11-11.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2023-24_PHIL050_p7-7.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S1_2024-25_PHIL050_p9-9.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S2_2017-18_CODE3366_p18-18.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Library-Papers-Unsorted/BT_FY_S2_2023-24_EXAM2023_p10-10.pdf",
+   "reason": "duplicate of an existing paper, or out-of-scope (B.Arch)"
+  }
+ ]
+}
