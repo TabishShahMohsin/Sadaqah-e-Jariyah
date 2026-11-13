@@ -423,7 +423,7 @@ def build_index(state, scan, repo_id, root=REPO):
             view[p] = e
     idx = {"name": "Sadaqah-e-Jariyah", "version": 1, "generated": sej.now_iso(),
            "fileBase": f"https://huggingface.co/datasets/{repo_id}/resolve/main/",
-           "programmes": bi.programmes(root), "root": sej.build_tree(view)}
+           "programmes": bi.programmes(root), "sources": bi.sources(root), "root": sej.build_tree(view)}
     return idx, pub, left, unscanned
 
 
