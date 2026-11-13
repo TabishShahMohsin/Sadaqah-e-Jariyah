@@ -1,6 +1,6 @@
 {
  "about": "Every place material came from or was offered from. credit = the name shown on the site; confirm = the name is a guess from the Drive owner's email and should be checked before use. status: merged | to-review | dead (link no longer opens) | reference (site; not a file source).",
- "checked": "2026-11-06",
+ "checked": "2026-11-13",
  "sources": [
   {
    "title": "B.Tech (Civil) 20-24 Sabahat Ahmad Khan Notes",
@@ -46,9 +46,10 @@
    "owner": "fbaig123amu@gmail.com",
    "credit": "Farhan Baig",
    "covers": "First year (all branches)",
-   "status": "to-review",
+   "status": "merged",
    "shared_by": "Adnan Yunus",
-   "note": "same person as the Mechanical drive (a file inside is owned by mr.farhanbaig.786); listed on its own as source 5 in the forwarded list"
+   "note": "same person as the Mechanical drive (a file inside is owned by mr.farhanbaig.786); listed on its own as source 5 in the forwarded list",
+   "change": "20261107-122940-fy-farhan"
   },
   {
    "title": "Sem4",
@@ -66,9 +67,10 @@
    "owner": "afzalmalik.el@gmail.com",
    "credit": "Afzal Malik",
    "covers": "Electronics, semester 5: Analog, Control Systems, VLSI, Microprocessor, Microwave, POC 2, LTspice/MATLAB/Comm labs",
-   "status": "to-review",
+   "status": "merged",
    "shared_by": "Adnan Yunus",
-   "note": "top level also holds personal files (Student Result.pdf, RESULT.jpg, 5 Sem Marks.txt, 20220828 Registration List.xlsx, GM6541.pdf, front page.docx) - leave these out"
+   "note": "top level also holds personal files (Student Result.pdf, RESULT.jpg, 5 Sem Marks.txt, 20220828 Registration List.xlsx, GM6541.pdf, front page.docx) - leave these out",
+   "change": "20261107-115140-ece-afzal"
   },
   {
    "title": "@SEM6",
@@ -76,8 +78,9 @@
    "owner": "afzalmalik.el@gmail.com",
    "credit": "Afzal Malik",
    "covers": "Electronics, semester 6",
-   "status": "to-review",
-   "shared_by": "Adnan Yunus"
+   "status": "merged",
+   "shared_by": "Adnan Yunus",
+   "change": "20261107-115140-ece-afzal"
   },
   {
    "title": "@SEM7",
@@ -85,8 +88,9 @@
    "owner": "afzalmalik.el@gmail.com",
    "credit": "Afzal Malik",
    "covers": "Electronics, semester 7",
-   "status": "to-review",
-   "shared_by": "Adnan Yunus"
+   "status": "merged",
+   "shared_by": "Adnan Yunus",
+   "change": "20261107-115140-ece-afzal"
   },
   {
    "title": "2nd Year",
@@ -94,8 +98,9 @@
    "owner": "amupedia2021@gmail.com",
    "credit": "AMUPedia",
    "covers": "Mechanical, semesters 3-4 (2021-22): Mechanics of Solids, Kinematics, Thermodynamics, Machine Design, Material Science, Numerical Methods, Manufacturing, labs, mid/end-sem papers",
-   "status": "to-review",
-   "shared_by": "Adnan Yunus"
+   "status": "merged",
+   "shared_by": "Adnan Yunus",
+   "change": "20261107-120933-amupedia"
   },
   {
    "title": "semester 3",
@@ -103,9 +108,10 @@
    "owner": "amupedia2021@gmail.com",
    "credit": "AMUPedia",
    "covers": "AI / Computer, semester 3: AIC2070",
-   "status": "to-review",
+   "status": "merged",
    "shared_by": "Adnan Yunus",
-   "note": "linked from amucloud.in/secondyearnotes/elc"
+   "note": "linked from amucloud.in/secondyearnotes/elc",
+   "change": "20261107-120933-amupedia"
   },
   {
    "title": "3RD SEMESTER NOTES",
@@ -113,7 +119,8 @@
    "owner": "alquamahaider404@gmail.com",
    "credit": "Alquama Haider",
    "covers": "Chemical, semester 3 (2026): CHC2012/2032/2042/2052/2062/2072, CHC2902 lab, course structure, complete PYQs",
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-092305-chem3"
   },
   {
    "title": "AMU",
@@ -121,7 +128,8 @@
    "owner": "sayyedaribhussain321@gmail.com",
    "credit": "Sayyed Arib Hussain",
    "covers": "AI (AIC courses), semesters 4-8 plus syllabus and curriculum",
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-150918-ai-arib"
   },
   {
    "title": "First_Year",
@@ -129,8 +137,9 @@
    "owner": "mohammadsuhailking555@gmail.com",
    "credit": "Mohammad Suhail",
    "covers": "First year",
-   "status": "to-review",
-   "note": "posted as 'ENGINEERING NOTES' with the three Computer Engineering semester links below"
+   "status": "merged",
+   "note": "posted as 'ENGINEERING NOTES' with the three Computer Engineering semester links below",
+   "change": "20261107-134449-fy-suhail"
   },
   {
    "title": "Semester_3",
@@ -139,8 +148,9 @@
    "credit": null,
    "confirm": true,
    "covers": "Computer Engineering, semester 3 (one 'Notes' folder)",
-   "status": "to-review",
-   "note": "owner name unknown - ask whoever posted the ENGINEERING NOTES list"
+   "status": "merged",
+   "note": "owner name unknown - ask whoever posted the ENGINEERING NOTES list",
+   "change": "20261107-135825-coe3"
   },
   {
    "title": "4th Sem",
@@ -149,7 +159,8 @@
    "owner": "gn8042@myamu.ac.in",
    "credit": "Md Yousuf",
    "shared_by": "Arsalan",
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-111359-auto-yousuf"
   },
   {
    "title": "5th Sem",
@@ -159,7 +170,8 @@
    "owner": "gn8042@myamu.ac.in",
    "credit": "Md Yousuf",
    "shared_by": "Arsalan",
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-111359-auto-yousuf"
   },
   {
    "title": "6th Sem",
@@ -169,7 +181,8 @@
    "owner": "gn8042@myamu.ac.in",
    "credit": "Md Yousuf",
    "shared_by": "Arsalan",
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-111359-auto-yousuf"
   },
   {
    "title": "7th Sem",
@@ -179,7 +192,8 @@
    "owner": "gn8042@myamu.ac.in",
    "credit": "Md Yousuf",
    "shared_by": "Arsalan",
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-111359-auto-yousuf"
   },
   {
    "title": "3RD & 5TH SEMESTER",
@@ -187,9 +201,10 @@
    "owner": "hassantech6933@gmail.com",
    "credit": "Hasan",
    "covers": "Automobile Engineering, semesters 3 and 5",
-   "status": "to-review",
+   "status": "merged",
    "shared_by": "Arsalan",
-   "note": "credit name given by the maintainer"
+   "note": "credit name given by the maintainer",
+   "change": "20261107-111214-auto-hasan"
   },
   {
    "title": "All notes 1st semester",
@@ -198,7 +213,8 @@
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
    "confirm": true,
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-103456-umar-chem"
   },
   {
    "title": "All notes 2nd semester",
@@ -207,7 +223,8 @@
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
    "confirm": true,
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-103456-umar-chem"
   },
   {
    "title": "All notes 3rd semester",
@@ -216,7 +233,8 @@
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
    "confirm": true,
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-103456-umar-chem"
   },
   {
    "title": "All notes 4th semester",
@@ -225,7 +243,8 @@
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
    "confirm": true,
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-103456-umar-chem"
   },
   {
    "title": "All notes 5th semester",
@@ -234,7 +253,8 @@
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
    "confirm": true,
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-103456-umar-chem"
   },
   {
    "title": "All notes 6th semester",
@@ -243,7 +263,8 @@
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
    "confirm": true,
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-103456-umar-chem"
   },
   {
    "title": "All notes 7th semester",
@@ -252,7 +273,8 @@
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
    "confirm": true,
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-103456-umar-chem"
   },
   {
    "title": "All notes 8th semester",
@@ -261,7 +283,8 @@
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
    "confirm": true,
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-103456-umar-chem"
   },
   {
    "title": "Mid sem and end sem papers",
@@ -270,7 +293,8 @@
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
    "confirm": true,
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-103456-umar-chem"
   },
   {
    "title": "Computation books",
@@ -279,7 +303,8 @@
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
    "confirm": true,
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-103456-umar-chem"
   },
   {
    "title": "Gate previous year papers, books and notes",
@@ -288,7 +313,8 @@
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
    "confirm": true,
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-103456-umar-chem"
   },
   {
    "title": "Total syllabus .pdf",
@@ -297,7 +323,8 @@
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
    "confirm": true,
-   "status": "to-review"
+   "status": "merged",
+   "change": "20261107-103456-umar-chem"
   },
   {
    "title": "4th Semester Computer Engineering",
@@ -333,7 +360,7 @@
    "title": "Engineering College Library - previous exam papers",
    "url": "https://amu.ac.in/libraries/engineering-college-library/downlaod-previous-exam-papers",
    "credit": "Engineering College Library",
-   "covers": "End-semester PYQs, all branches",
+   "covers": "End-semester question papers of every branch, 2012-13 onwards",
    "status": "merged"
   },
   {
@@ -372,8 +399,73 @@
    "url": "https://github.com/tabishShahMohsin/basic-Computer/",
    "credit": "Tabish Shah Mohsin",
    "covers": "COC2922 Digital Design & Simulation Lab — a 16-bit Mano machine built in Logisim (circuits, assembler, sample programs); also COC2072 Digital Logic and COC2082 Computer Architecture",
-   "status": "reference",
-   "note": "MIT licensed; pull requests welcomed"
+   "status": "merged",
+   "note": "MIT licensed; pull requests welcomed",
+   "change": "20261110-134314-basic-computer"
+  },
+  {
+   "title": "Data Structures Lab (COC2942)",
+   "url": "https://github.com/devanshkant/Data-Structures-Lab-COC2942",
+   "credit": "Devansh Kant Kashyap",
+   "covers": "Computer Engineering, Data Structures Lab programs",
+   "status": "merged",
+   "kind": "link",
+   "change": "20261110-135825-devanshkant-labs"
+  },
+  {
+   "title": "Algorithms & OS Lab (COC3932)",
+   "url": "https://github.com/devanshkant/Algorithms-OS-Lab",
+   "credit": "Devansh Kant Kashyap",
+   "covers": "Computer Engineering, Algorithms and OS Lab programs",
+   "status": "merged",
+   "kind": "link",
+   "change": "20261110-135825-devanshkant-labs"
+  },
+  {
+   "title": "OOP codes (COC2032)",
+   "url": "https://github.com/devanshkant/COC2032",
+   "credit": "Devansh Kant Kashyap",
+   "covers": "Computer Engineering, Object Oriented Programming code",
+   "status": "merged",
+   "kind": "link",
+   "change": "20261110-142110-devanshkant-courses"
+  },
+  {
+   "title": "DSA codes (COC2062)",
+   "url": "https://github.com/devanshkant/COC2062",
+   "credit": "Devansh Kant Kashyap",
+   "covers": "Computer Engineering, Data Structures and Algorithms code",
+   "status": "merged",
+   "kind": "link",
+   "change": "20261110-142110-devanshkant-courses"
+  },
+  {
+   "title": "AMU DRIVE",
+   "url": "https://amudrive.tech/",
+   "credit": "AMU DRIVE (Asif Kamal)",
+   "covers": "Entrance and semester question papers and study material for AMU school, UG and PG programmes (collection still being built)",
+   "status": "reference"
+  },
+  {
+   "title": "Academistan",
+   "url": "https://academistan.com/",
+   "credit": "Academistan",
+   "covers": "PYQ-based online tests; AMU entrance papers (Class 6/9/11, Diploma in Engineering, BA LLB)",
+   "status": "reference"
+  },
+  {
+   "title": "AMU Notes",
+   "url": "https://amunotes.github.io/",
+   "credit": "AMU Notes (Hasan Faraz Khan, Abdullah Tahir, Mohsin Khan, Zamam Farhat)",
+   "covers": "Class notes, books, syllabi and past papers by faculty (run by Computer Science students)",
+   "status": "reference"
+  },
+  {
+   "title": "AMU BATCH X",
+   "url": "https://www.amubatchx.app/",
+   "credit": "AMU BATCH X (Ali Saqulain, Sameer Ahmad)",
+   "covers": "Android app for the Department of Computer Science (MCA): notes, lab programs, PYQs 2021-25",
+   "status": "reference"
   }
  ]
 }

@@ -1,0 +1,59 @@
+{
+ "id": "20261113-164532-tausif-notes",
+ "created": "2026-11-13T16:45:32+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "Unit 1-4 handwritten class notes from Prof. Mohd Tausif's Communication Systems lectures"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Unit-1/Class-Notes_Unit-1_Handwritten.pdf",
+   "s": 7701884,
+   "h": "e44367e79ef62d4a155415c9fed1b286ec805a674a09e4d173d3219ac8c6ef49",
+   "t": 1794588332,
+   "meta": {
+    "professor": "Mohd Tausif",
+    "title": "Handwritten class notes · Unit 1",
+    "note": "Complete handwritten notes of Unit 1 from Prof. Mohd Tausif's Communication Systems lectures."
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Unit-2/Class-Notes_Unit-2_Handwritten.pdf",
+   "s": 12337674,
+   "h": "f7e81f4736880ecebf370569fd04ffaf590eeef2ba967b516bf3ec7b9f7c0e72",
+   "t": 1794588332,
+   "meta": {
+    "professor": "Mohd Tausif",
+    "title": "Handwritten class notes · Unit 2",
+    "note": "Complete handwritten notes of Unit 2 from Prof. Mohd Tausif's Communication Systems lectures."
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Unit-3/Class-Notes_Unit-3_Handwritten.pdf",
+   "s": 5602601,
+   "h": "eb06ccab4f36ca2a1791da67efa2865957332a02f35853f04908bf4d38fe10cf",
+   "t": 1794588332,
+   "meta": {
+    "professor": "Mohd Tausif",
+    "title": "Handwritten class notes · Unit 3",
+    "note": "Complete handwritten notes of Unit 3 from Prof. Mohd Tausif's Communication Systems lectures."
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Unit-4/Class-Notes_Unit-4_Handwritten.pdf",
+   "s": 7392883,
+   "h": "b97cade1051f818f247f23ecac584e061e1ed07b37ec5ee71282e073e6c8a5ee",
+   "t": 1794588332,
+   "meta": {
+    "professor": "Mohd Tausif",
+    "title": "Handwritten class notes · Unit 4",
+    "note": "Complete handwritten notes of Unit 4 from Prof. Mohd Tausif's Communication Systems lectures."
+   }
+  }
+ ]
+}

@@ -89,6 +89,22 @@ def programmes(repo=REPO):
         return None
 
 
+def sources(repo=REPO):
+    """catalog/sources.json for the credits page: public fields only (never the Drive owners' e-mail addresses)."""
+    try:
+        with open(os.path.join(repo, "catalog", "sources.json"), encoding="utf-8") as fh:
+            src = json.load(fh).get("sources", [])
+    except (OSError, ValueError):
+        return []
+    out = []
+    for s in src:
+        if s.get("status") == "dead" or not s.get("url"):
+            continue
+        out.append({"t": s.get("title") or "", "u": s["url"], "c": s.get("credit") or "", "w": s.get("covers") or "",
+                    "s": "in" if s.get("status") == "merged" else "out"})
+    return out
+
+
 def build(repo=REPO, file_base="files/"):
     return {
         "name": "Sadaqah-e-Jariyah",
@@ -96,6 +112,7 @@ def build(repo=REPO, file_base="files/"):
         "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "fileBase": file_base,
         "programmes": programmes(repo),
+        "sources": sources(repo),
         "root": walk(repo, top=True),
     }
 

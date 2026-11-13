@@ -109,6 +109,7 @@ function currentPath() {
 function route() {
   const p = currentPath();
   if (p === 'contribute') { closePreview(); contributeView(); return; }
+  if (p === 'credits') { closePreview(); creditsView(); return; }
   if (p.startsWith('status/')) { closePreview(); statusView(p.slice(7)); return; }
   const f = S.files.get(p);
   if (f) {
@@ -147,30 +148,6 @@ function render(node) {
   document.title = node === S.root ? 'Sadaqah-e-Jariyah' : `${label(node.n)} — Sadaqah-e-Jariyah`;
   window.scrollTo(0, 0);
   bindView(v);
-  if (node === S.root) playIntro(v);
-}
-
-// Intro: a transparent animated image (a notebook dropped into the box, 1.9 s, plays once) over the title block,
-// then it sinks away while the title rises in. The search below it is never covered.
-// If the image is slow or fails, the title shows straight away.
-const INTRO_MS = 1875;
-function playIntro(v) {
-  const hero = $('.hero.intro-on', v), img = hero && $('.intro img', hero);
-  if (!img) return;
-  let done = false;
-  const finish = () => {
-    if (done) return;
-    done = true;
-    hero.classList.add('intro-out');
-    setTimeout(() => { hero.classList.remove('intro-on', 'intro-out'); $('.intro', hero)?.remove(); }, 1400);
-  };
-  const start = () => setTimeout(finish, INTRO_MS + 120);
-  const slow = setTimeout(finish, 1500);
-  if (img.complete && img.naturalWidth) { clearTimeout(slow); start(); }
-  else {
-    img.addEventListener('load', () => { clearTimeout(slow); if (!done) start(); }, { once: true });
-    img.addEventListener('error', finish, { once: true });
-  }
 }
 
 function crumbs(node) {
@@ -247,14 +224,10 @@ function homeView() {
   const branches = tops.filter(d => !umbrellas.includes(d));
   const others = r.d.filter(d => d.n.startsWith('_'));
   const recent = [...S.all].sort((a, b) => b.m - a.m).slice(0, 8);
-  // the intro (a notebook dropped into the box) plays once per visit, then hands over to the title
-  const intro = !S.introDone && !EMBED && !matchMedia('(prefers-reduced-motion: reduce)').matches;
-  S.introDone = true;
   return `
-  <section class="hero${intro ? ' intro-on' : ''}">
+  <section class="hero">
     <div class="ripples" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
     <div class="hero-reveal">
-      ${intro ? `<div class="intro" aria-hidden="true"><img src="brand/intro.webp" alt="" decoding="sync"></div>` : ''}
       <h1 class="display">Sadaqah-e-Jariyah</h1>
       <p class="arabic" lang="ar">صدقة جارية</p>
       <p class="lede">Notes, past papers, syllabi and lab work for every B.Tech semester at AMU, laid out so the next student never has to hunt for them.</p>
@@ -810,6 +783,19 @@ function pageShell(key, crumbLabel, html) {
   window.scrollTo(0, 0);
 }
 
+// Where the material came from: every source we collected from, and the ones not collected yet
+function creditsView() {
+  const host = u => { try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return ''; } };
+  const row = x => `<li class="src-row"><a class="src-t" href="${esc(x.u)}" target="_blank" rel="noopener">${esc(x.t)} <span class="src-h">${esc(host(x.u))} ↗</span></a>
+    ${x.c ? `<div class="src-c">${esc(x.c)}</div>` : ''}${x.w ? `<div class="src-w">${esc(x.w)}</div>` : ''}</li>`;
+  const group = (title, note, xs) => xs.length ? `<h2 class="label">${title} <b>${xs.length}</b></h2>${note ? `<p class="lede-sm">${note}</p>` : ''}<ul class="src-list">${xs.map(row).join('')}</ul>` : '';
+  const all = S.sources || [];
+  pageShell('credits', 'Sources & credits', `<header class="page-head"><div class="eyebrow">Sources & credits</div><h1>Where everything came from</h1>
+    <p class="lede-sm">Nearly everything here was shared by students, teachers and the Engineering College Library. These are the collections it was gathered from, with the people who made them. Each file also shows its own credit when you open it.</p></header>
+    ${group('In the archive', '', all.filter(x => x.s === 'in'))}
+    ${group('Not collected yet', 'Other AMU collections worth knowing about. Their material is not (or not yet) in this archive, so visit them directly.', all.filter(x => x.s !== 'in'))}`);
+}
+
 function contributeView() {
   if (S.rendered === 'contribute') return;
   clearInterval(C.pollTimer);
@@ -1182,6 +1168,7 @@ async function boot() {
     S.generated = idx.generated;
     S.root = idx.root;
     S.pg = idx.programmes || null;
+    S.sources = idx.sources || [];
     if (S.pg) Object.assign(NAMES, S.pg.labels || {}, { [S.pg.umbrella]: 'B.Tech & B.E.' });
     prep(S.root, '', null);
   } catch (e) {
