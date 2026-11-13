@@ -927,7 +927,8 @@ function showVisitors() {
   const el = $('#footStatus'), base = el.textContent;
   const put = n => { if (Number.isFinite(n) && n > 0) el.textContent = `${base} · ${plural(n, 'visit')}`; };
   try { put(+localStorage.getItem('sej.visits')); } catch { /* storage blocked */ }
-  VISITS.then(n => { put(n); try { if (n > 0) localStorage.setItem('sej.visits', n); } catch { /* storage blocked */ } });
+  // a count that can't be refreshed isn't shown: a stale number from this device's cache would look stuck
+  VISITS.then(n => { if (Number.isFinite(n) && n > 0) { put(n); try { localStorage.setItem('sej.visits', n); } catch { /* storage blocked */ } } else el.textContent = base; });
 }
 function showErr(msg) { const e = $('#cerr'); if (!e) return; e.textContent = msg; e.hidden = !msg; if (msg) e.scrollIntoView({ block: 'center', behavior: 'smooth' }); }
 

@@ -1,8 +1,25 @@
 # Sadaqah-e-Jariyah — Archive Conventions
 
-These rules decide where every file lives and what it is called. People follow them when adding files by hand;
-the contribution pipeline gives them to Claude and then **checks every placement against them in code**
-(`tools/rules.py`). If you change a rule here, change it there too.
+These rules decide what the archive accepts, where every file lives and what it is called. People follow them when
+adding files by hand; the contribution pipeline gives them to Claude and then **checks every placement against them in
+code** (`tools/rules.py`). If you change a rule here, change it there too. `python3 tools/conform.py` lists every file
+that breaks a rule (older material is brought in line over time; the rules are not bent to fit it).
+
+## 0. Principles
+1. **The official curriculum is the structure.** Degree → Branch → Programme → Semester → Course → Section.
+   Programmes, semesters, course codes and syllabi come from AMU's published curricula (`catalog/programmes.json`,
+   built from `_Sources/AMU-Official/`). Folders are only storage: each file is stored once and every programme that
+   takes the course shows it under its own code.
+2. **Specialisations are full programmes** (AI in Computer, VLSI in Electronics, Automobile in Mechanical, B.E. in its
+   branch): their own semester lists, their own codes, the same navigation as the main programme.
+3. **Course relationships are recorded, not guessed at display time.** B.E. code = B.Tech code with `E` in front
+   (`MEC2112` ↔ `EMEC2112`). An old-scheme course maps to its current equivalent by title and syllabus, with the
+   evidence kept in the catalog; an old course with no successor stays in `_Old-Syllabus-Subjects`.
+4. **Scope:** B.Tech and B.E. at ZHCET. Other programmes (B.Arch, diploma, M.Tech) get their own umbrella later.
+5. **Contributors only dump; the archive does the sorting.** Any naming, any mess, files, folders, zips or links.
+   The pipeline converts, de-duplicates, names, places and credits, and a maintainer approves every change.
+6. **Every uploaded file gets exactly one recorded outcome:** placed, credited to an existing copy, duplicate,
+   link entry, or rejected with a reason. Nothing disappears silently.
 
 ## 1. Folder tree
 
@@ -103,13 +120,45 @@ The site shows them when a file is opened: *notes by … · taught by … · sha
 - A batch imported with `source.credit` in its change set credits every file it adds.
 - The maintainer is never credited and never named anywhere.
 
-## 4. What we never publish
-- **Copyrighted books or book chapters** (textbooks, Schaum's, publisher PDFs, scanned books). Link the library
-  catalogue entry instead. Lecture slides and notes by teachers and students are fine. Exception: material the
-  maintainer adds directly has already been cleared with its library, author or teacher, so it is published as provided.
-- Personal data: phone numbers, attendance sheets, marks lists, ID cards, anything with another student's details.
-- Executables, archives, HTML/SVG, or anything that isn't study material.
+## 4. What may be contributed
+**Yes:** your own notes and solutions; handouts, slides, tutorial and assignment sheets a teacher gave the class;
+question papers (mid-sem, sem-end, quizzes); syllabi and course outlines; lab manuals and your lab records.
 
-## 5. Formats accepted from contributors
-`pdf png jpg jpeg webp pptx ppt docx doc xlsx xls mp4 mov webm txt md c cpp h hpp java py ipynb csv`
-— up to 500 MB per file, 20 files per contribution. Bigger videos: share a Google Drive link.
+**No:**
+- **Piracy is haram.** No published books or chapters, solution manuals, paid course material (Unacademy, etc.).
+  Point to the library catalogue instead.
+- **Personal records:** marks or attendance lists, admit cards, fee receipts, ID or registration cards, CVs, phone
+  numbers. A student's name, faculty or enrolment number on notes, assignments, lab records or answer sheets is fine.
+- **Answers to work that is still due.** Assignment, tutorial, lab and test solutions only after the deadline.
+- Anything that isn't AMU B.Tech/B.E. study material (notices, forms, memes, software installers).
+
+**Closed sources** (AMU Cloud, AMU Pedia, AMU library sites): say where it came from in the contribution message;
+the source is credited. Obtaining permission is the contributor's responsibility.
+**Material the maintainer adds** has been cleared with its library, author or teacher; the catalog records that with
+`rights` (e.g. `permission: Engineering College Library`). Published books are allowed only with such a record.
+
+**Takedowns** from a teacher, student or rights holder are honoured without argument.
+
+## 5. Formats
+| Kind | Stored and published as |
+|---|---|
+| Documents and slides (`pptx ppt docx doc odt odp pages key`) | **PDF** (converted by the pipeline) |
+| Spreadsheets (`xlsx xls ods numbers`) | **CSV** (one per sheet) |
+| Photos and scans (`heic png webp jpg`) | **JPEG**; PNG only for screenshots and diagrams |
+| Video | **MP4** |
+| Code and tool files (`c cpp h java py ipynb asm v vhd circ m sql`, …) | as they are |
+| Program output inside lab `Records` | `.txt` |
+| Links (Drive, YouTube, websites) | a **link entry** in the catalog, shown on the site like a file (no `.md` / `.url` files) |
+
+No `.md`, `.txt` (outside lab records), `.html`, executables (`exe out class`) or archives in the published archive;
+archives are unpacked. Contributors may upload any of the left-hand formats; conversion is the pipeline's job.
+Up to 500 MB per file. There is no limit on how many files or links one contribution may carry.
+
+## 6. Licence
+- **Code** in this repository: GPL-3.0 (`LICENSE`).
+- **Catalog, structure and metadata** (`catalog/`, the index): CC0, free for any use, including as a dataset
+  (e.g. on Hugging Face).
+- **Contributors' own work** (their notes, solutions, records): contributed under CC BY 4.0, credited by the name
+  they choose.
+- **Third-party material** (teachers' slides, question papers, library scans) belongs to its owners. It is shared as
+  provided, with `rights` and `credit` in the catalog, and is not relicensed by us. A dataset export carries those tags.

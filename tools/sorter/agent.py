@@ -80,9 +80,11 @@ Every file you are given must end with exactly one decision. Work like a careful
    different scan or photo, → duplicate (of = that archive path). A different year, edition or extra pages → place it.
    Files in this upload marked as look-alikes of each other: view them; real copies → twin.
 6. Reject only for: copyright (published books, chapters, solution manuals, paid course material like Unacademy),
-   personal_data (other people's enrolment/faculty numbers, phone numbers, marks or attendance lists, ID cards, filled
-   forms), not_study_material, out_of_scope (not B.Tech/B.E. at AMU), unreadable, still_due (answers to work still due).
-   A student's own name on their own notes is fine. When unsure, choose review and say what to check.
+   personal_data (documents that are personal records rather than study material: marks or attendance lists, admit
+   cards, fee receipts, ID or registration cards, CVs, phone numbers), not_study_material, out_of_scope (not
+   B.Tech/B.E. at AMU), unreadable, still_due (answers to work still due). A student's name, faculty or enrolment
+   number on notes, assignments, lab records, quiz or answer sheets is fine: place the file (the published copy has
+   enrolment numbers taken out of its file name). When unsure, choose review and say what to check.
 7. Metadata: professor = who taught it (from slides, headers, or the upload's words such as "Rashid Sir"). Each file's
    'profile' line lists names already found on its first pages; check them with the teachers tool and use the canonical
    name it returns. A name on a slide that is a cited book author is not the professor. A name that isn't in the

@@ -134,3 +134,13 @@ git add catalog && git commit -m "Add files" && git push
 - Claude only proposes. `tools/rules.py` rejects any folder or name that breaks CONVENTIONS.md, and
   publishing re-checks every entry before copying.
 - Files are served from a separate domain, and HTML/SVG are never accepted, so a file can't run code on the site.
+
+## Visit counter
+
+`functions/api/visitors.js` keeps the count in a Cloudflare KV namespace bound to the Pages project as `VISITORS`
+(it falls back to hits.sh when the binding is missing). One-time setup:
+
+1. `npx wrangler kv namespace create sej-visitors`
+2. Cloudflare dashboard → Workers & Pages → sadaqah-e-jariyah → Settings → Bindings → Add → KV namespace:
+   variable name `VISITORS`, namespace `sej-visitors` (Production).
+3. Deploy again. The count continues from 345, the last number hits.sh showed.
