@@ -1,0 +1,1374 @@
+{
+ "about": "Link tree of amucloud.in (site now down), from the maintainer's saved crawl.",
+ "tree": {
+  "About Us": {},
+  "Notes": {
+   "First Year": {
+    "Semester 1": {
+     "Electronics": {
+      "_links": {
+       "Syllabus": "https://drive.google.com/file/d/1jw1H8NBffXwiJOXKNppdi7d120nr865B/view?usp=sharing"
+      },
+      "BJT": {
+       "_links": {
+        "Handwritten Notes": "https://drive.google.com/file/d/1bnbgyCqAwtNO-mBBh8h7CgI4vHNgBQ30/view?usp=sharing",
+        "PPT": "https://drive.google.com/file/d/1e48WP3TKCu3rbo45FbdZl9y4Hq3lNUSF/view?usp=sharing"
+       }
+      },
+      "Diode": {
+       "_links": {
+        "Handwritten Notes": "https://drive.google.com/file/d/1Kae-KXWc-zfO6piddGoJKGABraDaf_dh/view?usp=sharing",
+        "PPT": "https://drive.google.com/drive/u/2/folders/1sUYP5i69AeFViO9WsMYZOX2X-pf4mN3Q"
+       }
+      },
+      "OPAMP": {
+       "_links": {
+        "Handwritten Notes": "https://drive.google.com/file/d/1H5S1KK3aOG2zgrzW-363h7huMTvhIE9W/view?usp=sharing",
+        "PPT": "https://drive.google.com/file/d/1KsJllpNuPCziyALyzkQhiwXxs9JI3ctM/view?usp=sharing"
+       }
+      },
+      "Mosfet": {
+       "_links": {
+        "Handwritten Notes": "https://drive.google.com/file/d/1hkIT997q4jYTOou76KquTVaA3owmrtD3/view?usp=sharing",
+        "PPT": "https://drive.google.com/file/d/1BJcMLYKqM4tlasA5wPz4LTyJADPUaWJy/view?usp=sharing"
+       }
+      }
+     },
+     "English": {
+      "_links": {
+       "Syllabus": "https://drive.google.com/file/d/17cNUZR3yP9MKXUKvFQyf2JN4xxcaMv5n/view?usp=sharing"
+      },
+      "Animal Farm": {
+       "_links": {
+        "Book": "https://drive.google.com/file/d/1RSG8WkXTFz9xIpvcxYwTVw6m9T7UbaqE/view?usp=sharing"
+       }
+      },
+      "Format": {
+       "_links": {
+        "All Materials": "https://drive.google.com/drive/u/2/folders/1eMxlOsRfhVcq43DKf7PZLBcwTV8y9WEA"
+       }
+      },
+      "Scientific Mind": {
+       "_links": {
+        "Notes": "https://drive.google.com/file/d/1dZiw0fCHi2tymeY3U94fniD1BODq8RKJ/view?usp=sharing"
+       }
+      },
+      "Time Machine": {
+       "_links": {
+        "Book": "https://drive.google.com/file/d/18f0lGfkB9F9FIluI_SxjzGP1MaWuw4eJ/view?usp=sharing"
+       }
+      }
+     },
+     "Maths 2": {
+      "_links": {
+       "Syllabus": "https://drive.google.com/file/d/1peckWaTlBR0OUqLHCTqu_D5lh1BWW1oH/view?usp=drive_link",
+       "Assignment 1": "https://drive.google.com/file/d/1mjozeIFpNF78kq-hiXoym9ciG9vAP3q7/view?usp=drive_link",
+       "Assignment 2": "https://drive.google.com/file/d/1dEeWbz-YnLurtT_4OAN1o8XSYYy6uGwf/view?usp=drive_link"
+      },
+      "Fourier": {
+       "_links": {
+        "Lecture Plan": "https://drive.google.com/file/d/1ZuBWOky9DW6GNqa7piaTZL6lqwE7aDn3/view?usp=sharing",
+        "Handwritten Notes": "https://drive.google.com/file/d/1GWqtXJZV7j7giyKvY2x6xTe2feX0Pl68/view?usp=sharing",
+        "Teacher Notes": "https://drive.google.com/drive/u/2/folders/1gREF6Q3zjfGXEifiRbogV--GHAq_vCf6"
+       }
+      },
+      "Laplace": {
+       "_links": {
+        "Lecture Plan": "https://drive.google.com/file/d/193-Ywb65ne8bQs-xaIFwjwWtcPyZjY7c/view?usp=sharing",
+        "Handwritten Notes": "https://drive.google.com/file/d/1Cdwuo8kgrt9cf-YGVPy3XN19A2PX_W9o/view?usp=sharing",
+        "Teacher Notes": "https://drive.google.com/drive/u/2/folders/1azEXu7B2yamqkz9aIrrKFTEtvP_5ghW2"
+       }
+      },
+      "Partial Differentiation": {
+       "_links": {
+        "Lecture Plan": "https://drive.google.com/file/d/1glDVhBSTm93dHwvgUDESGzF3agm3gmDu/view?usp=sharing",
+        "Handwritten Notes": "https://drive.google.com/file/d/1lms1BGDDyegNzqCK9OGMd79CaOn-00Vh/view?usp=sharing",
+        "Teacher Notes": "https://drive.google.com/drive/u/2/folders/1sfl7vvlxKEz65HZ3U9kT56Mj1UW-xaYm"
+       }
+      },
+      "Triple Integral": {
+       "_links": {
+        "Lecture Plan": "https://drive.google.com/file/d/1adQGZU8DXu5MnKKcWAm8_1XMSWe_--yM/view?usp=sharing",
+        "Handwritten Notes": "https://drive.google.com/file/d/1ctbdau4XFT9i7XXa-NO1YiSjXsguNyET/view?usp=sharing",
+        "Teacher Notes": "https://drive.google.com/drive/u/2/folders/1gIjlXfHdXrQgB2lTcEJjs9QidIXKxCQn"
+       }
+      }
+     },
+     "Mechanics": {
+      "Statics": {
+       "_links": {
+        "All Materials": "https://drive.google.com/drive/u/2/folders/1x2N6EMI2CTDUGWlfzjI5YrzqvUO47GO1"
+       }
+      },
+      "Dynamics": {
+       "_links": {
+        "All Material": "https://drive.google.com/drive/u/2/folders/1I594vtbtf5ZEXTzsiHOjbocPw-C9vbOs"
+       }
+      }
+     },
+     "Physics": {
+      "_links": {
+       "Syllabus": "https://drive.google.com/file/d/15b40UeCIct9iajPKed4tPvsr9p3mcg7h/view?usp=sharing"
+      },
+      "Semiconductor": {
+       "_links": {
+        "Handwritten Notes": "https://drive.google.com/file/d/1XuIwFZGoWs3MqnbD-cI7Il__quKmGefm/view?usp=sharing",
+        "Teacher Notes": "https://drive.google.com/file/d/16hT_n0VdLsHrMXMRkdG6RWljie7e9aHH/view?usp=sharing"
+       }
+      },
+      "Unit 2": {
+       "_links": {
+        "Fibre Optics": "https://drive.google.com/file/d/1sZBcqxvbo9m8a3dDPqx0P6xKfAuVRWEH/view?usp=sharing",
+        "Laser": "https://drive.google.com/drive/u/2/folders/1MnCwQrTk7YgiPOpECvX7W1a8ezqfvn5W"
+       }
+      },
+      "Unit 3": {
+       "_links": {
+        "Handwritten Notes": "https://drive.google.com/file/d/1F4_MQ6-Lae6nC4svkey-7n_sRCaUjeF7/view?usp=sharing",
+        "Teacher Notes": "https://drive.google.com/file/d/13ATZ98OoEefmFeGQEMw9VH2-aMECMr4m/view?usp=sharing"
+       }
+      },
+      "Unit 4": {
+       "_links": {
+        "Handwritten Notes": "https://drive.google.com/file/d/1dlhNfVLHGDPgMs1_-Mg6-MAFmMop7GJM/view?usp=sharing",
+        "Teacher Notes": "https://drive.google.com/file/d/1JM5mXBf9kPZIwRsYQpUfWtSyZV56J96j/view?usp=sharing"
+       }
+      }
+     }
+    },
+    "Semester 2": {
+     "Chemistry": {
+      "_links": {
+       "Syllabus": "https://drive.google.com/file/d/1ewhE-TLZhvB7fkk0x2gzmoUj1SFUVWDu/view?usp=sharing"
+      },
+      "Unit 1": {
+       "_links": {
+        "Notes": "https://drive.google.com/file/d/1mdwu6b3ataqWEjUDvFTOwIztvaE-qxIO/view?usp=sharing"
+       }
+      },
+      "Unit 2": {
+       "_links": {
+        "Handwritten Notes": "https://drive.google.com/file/d/1sXCD-hqC0H0TTBRs-OuZz0jWf5lm8wUu/view?usp=sharing",
+        "PPT": "https://drive.google.com/file/d/1MnDVGox_W0G2HzmzZisd2p0PqEGCkb92/view?usp=sharing"
+       }
+      },
+      "Unit 3": {
+       "_links": {
+        "Handwritten Notes": "https://drive.google.com/file/d/13Naef2k43rLK6nvLPa9wLSRJrroAI4Ip/view?usp=sharing",
+        "PPT": "https://drive.google.com/file/d/1JufvcPd4RqmH6GCv7XZHbU55vzMd0yR3/view?usp=sharing"
+       }
+      },
+      "Unit 4": {
+       "_links": {
+        "Notes": "https://drive.google.com/file/d/1KYW7Ztccsv0n2gmk7y5aqWlkt8Jnr7Fp/view?usp=sharing"
+       }
+      }
+     },
+     "Electrical": {
+      "_links": {
+       "Syllabus": "https://drive.google.com/file/d/18I9sZ_UdS94VSZ_JsoPo1xLFQ_Py5X69/view?usp=sharing"
+      },
+      "Unit 1": {
+       "_links": {
+        "Handwritten Notes": "https://drive.google.com/file/d/18lI95p1uQ0YwWe47IIbDgQyDdsFFgF_3/view?usp=sharing",
+        "All Material": "https://drive.google.com/drive/u/2/folders/15__L48ps2qH7CyuTbqmu5hMXgEzmnG5F"
+       }
+      },
+      "Unit 2": {
+       "_links": {
+        "Handwritten Notes": "https://drive.google.com/file/d/1acKFLeVL_2xe-tfcoUV5JLOyoW5NNM7U/view?usp=sharing",
+        "All Material": "https://drive.google.com/drive/u/2/folders/1WjNEUkJRMQ7jBmPRZZ1d89Emx3EiUh_P"
+       }
+      },
+      "Unit 3": {
+       "_links": {
+        "Handwritten Notes": "https://drive.google.com/file/d/16W8Xx8iu9iVXrlUzXUe4FiHtlM9k9khj/view?usp=sharing",
+        "All Material": "https://drive.google.com/drive/u/2/folders/1To3GUjACdWVTTw0v6etP3JLF_ac17t1M"
+       }
+      },
+      "Unit 4": {
+       "_links": {
+        "Handwritten Notes": "https://drive.google.com/file/d/16W8Xx8iu9iVXrlUzXUe4FiHtlM9k9khj/view?usp=sharing",
+        "All Materials": "https://drive.google.com/drive/u/2/folders/1To3GUjACdWVTTw0v6etP3JLF_ac17t1M"
+       }
+      }
+     },
+     "EVS": {
+      "Components Of Environment": {
+       "_links": {
+        "Class Notes": "https://drive.google.com/file/d/1SJTxlGJnwHBPM7QbkHHohdQUqGvDvDNX/view?usp=sharing"
+       }
+      },
+      "Disaster Management": {
+       "_links": {
+        "Class Notes": "https://drive.google.com/file/d/14BCdX78xawA1Ga2EhXBY3d_5q-b_VX9l/view?usp=sharing"
+       }
+      },
+      "Human Population": {
+       "_links": {
+        "Class Notes": "https://drive.google.com/file/d/1HIfc4UEecJtagxSjIgPGKLoiWMPZbLEv/view?usp=sharing"
+       }
+      },
+      "SWM": {
+       "_links": {
+        "Class Notes": "https://drive.google.com/file/d/1f-dh9r-X9eIlISEtsQSjgWwtdNmrjFXX/view?usp=sharing"
+       }
+      },
+      "Biodiversity": {
+       "_links": {
+        "Class Notes": "https://drive.google.com/file/d/1F8ZDNgoj4gx46Hfp3Rbs6W2dWJWcGi5V/view?usp=sharing"
+       }
+      }
+     },
+     "Thermal Science": {
+      "_links": {
+       "Syllabus": "https://drive.google.com/file/d/1iJL_OJxTvUs61Tm_RK1QCLUYVeAmvpxJ/view?usp=sharing"
+      },
+      "Unit 1": {
+       "_links": {
+        "Handwritten Notes": "https://drive.google.com/file/d/1TAEszAKGVLMy-HSmNnZQUcSvrvR_m1rM/view?usp=sharing",
+        "PPT": "https://drive.google.com/file/d/1P0hmuoNAqqluq2q9Y30a50lsjCOFbF7B/view?usp=sharing"
+       }
+      },
+      "Unit 2": {
+       "_links": {
+        "Handwritten Notes": "https://drive.google.com/file/d/17CTT895J1829vlAVzTsHgvn06MGJTVzB/view?usp=sharing",
+        "PPT": "https://drive.google.com/file/d/1c9t6RycRSwKVnHJJnFrOZmxD6FAAhVsd/view?usp=sharing"
+       }
+      },
+      "Unit 3": {
+       "_links": {
+        "PPT": "https://drive.google.com/file/d/1qDtKARV9itYyUrZ81VRTSj0nTHE68IPX/view?usp=sharing"
+       }
+      },
+      "Unit 4": {
+       "_links": {
+        "PPT": "https://drive.google.com/drive/u/2/folders/1seYzYYg64mxO5ZVdH6sEKGcK7HIUqFRC"
+       }
+      }
+     }
+    }
+   },
+   "Second Year": {
+    "Computer Engineering": {
+     "Third Sem": {
+      "Digital logic and system Design": {
+       "_links": {
+        "Syllabus": "https://drive.google.com/drive/folders/1BPxIBCsNWPPO5xSy06Mkv-0CEa-IhiXz?usp=sharing",
+        "Unit 1": "https://drive.google.com/file/d/1xl7laCB1Zb3xbD1rt1L7-gIO84DS4U15/view?usp=sharing",
+        "Unit 2": "https://drive.google.com/file/d/1WAk6-pMiPCx9eeDWsiJxp8IT8fdcveCF/view?usp=sharing",
+        "Unit 3": "https://drive.google.com/file/d/1IajPg_1bBcOU6jRVVj2CLsZ81Ro1vmUe/view?usp=sharing",
+        "Unit 4": "https://drive.google.com/file/d/1qGsQqC2oNahOys9czGabisWoc9LnkU9Y/view?usp=sharing"
+       }
+      },
+      "Data Structures and Algorithms (DSA)": {
+       "_links": {
+        "Syllabus": "https://drive.google.com/drive/folders/1KlvUJsDsAtxMGLAqzBjIPj2ll4gH1cl-?usp=sharing",
+        "Books": "https://drive.google.com/drive/folders/1qKZRleq9RlHOuiUYqoAU9EubV6ui8gmc?usp=sharing",
+        "PPT": "https://drive.google.com/drive/folders/1eWOubpUV_wPQGIrNga-3elQ1EEfQsSgQ?usp=sharing"
+       }
+      },
+      "Object Oriented Programming (oop)": {
+       "_links": {
+        "Syllabus": "https://drive.google.com/file/d/1wP-JFx7BUinMCfN42x5VpdNlatHVSkgC/view?usp=sharing",
+        "C++": "https://drive.google.com/drive/folders/1jgroyuHeH8SyStehlwq7DQYWpVgv5Ca5?usp=sharing",
+        "JAVA": "https://drive.google.com/drive/folders/1IlbdWG1VOhuLaFV9tirxGAlEOipPANdS?usp=sharing"
+       }
+      },
+      "Electronic Devices and Circuits (EDC)": {
+       "_links": {
+        "Syllabus": "https://drive.google.com/drive/folders/1eUCSbhlOZlbwMRYRNcS7ftOKjzGa90KA?usp=sharing",
+        "Books": "https://drive.google.com/drive/folders/1-39Bi1XLcR9eUIGShm1x3diS2hHSVMtt?usp=sharing",
+        "Handwritten Notes": "https://drive.google.com/drive/folders/1DeSPEZyVeJLT8ctbpu48yW5qDNrQRKF9?usp=sharing",
+        "Practice Sheets": "https://drive.google.com/drive/folders/1kZCw2kGy8EV0YWaQsQrd-ACj-n99jtoI?usp=sharing"
+       }
+      }
+     },
+     "Fourth Sem": {
+      "Software Engineering": {
+       "_links": {
+        "Unit 1": "https://drive.google.com/file/d/1YHVfIaGUiif13opY6WJfD7fqM8oJBusM/view?usp=sharing",
+        "Unit 2": "https://drive.google.com/file/d/1eGqRTdbVsfdrCdglY7U-_dCYx28wRoSW/view?usp=sharing",
+        "Teachers's": "https://drive.google.com/drive/folders/11i150MCo7-AZ7YQqxZlesmpJCaCYmt4z?usp=sharing",
+        "Books": "https://drive.google.com/drive/folders/1eAog2hrOCjMUYsvqr347_Us8eaPt-7ca?usp=sharing"
+       }
+      },
+      "Computer Architecture": {
+       "_links": {
+        "Notes": "https://drive.google.com/drive/folders/1jZUYrV1pqecoVPHZR9FsLoYoS86lsfuT?usp=sharing",
+        "Books": "https://drive.google.com/drive/folders/1G9kVvb2Rbwd5KHd0Yf5W1p88Y24zKxh_?usp=sharing"
+       }
+      },
+      "Design and Analysis of Algorithms (DAA)": {
+       "_links": {
+        "Unit 1": "https://drive.google.com/file/d/12YHIfBbVek3ee0lO_oYF8mfDUOIxC0nQ/view?usp=sharing",
+        "Unit 2": "https://drive.google.com/file/d/1Y-MOszCrvzb0eCXJwSFHKeP7AWMZIdbu/view?usp=sharing",
+        "Unit 3": "https://drive.google.com/file/d/1FZYUxre0I8kVlSdAH_lHwgVEIQxe4PUr/view?usp=sharing",
+        "Books": "https://drive.google.com/drive/folders/1R0-MS_d07ChWp2R8DjqS8A7pj478h0Xu?usp=sharing"
+       }
+      },
+      "Discrete Structures": {
+       "_links": {
+        "Unit 1": "https://drive.google.com/file/d/1gKnQnuSH81haoYSnb8lL8sdSNeYh4rG8/view?usp=sharing",
+        "Unit 2": "https://drive.google.com/file/d/1k-a-coN1DY_sjnPIjnlq-tn-jVfRtmi5/view?usp=sharing",
+        "Unit 3": "https://drive.google.com/file/d/1Wu9SiS9XM-8Po3pd6VzWbgpfZE6fVXPZ/view?usp=sharing",
+        "Unit 4": "https://drive.google.com/file/d/1aW5b15-FsTzsGTUmEFoabPdrvcyXP46X/view?usp=sharing"
+       }
+      },
+      "Numerical Analysis": {
+       "_links": {
+        "Unit 1": "https://drive.google.com/file/d/1vwZlXODdzQgqIeSuH5aGEwoVdG1bAMVr/view?usp=sharing",
+        "Unit 2": "https://drive.google.com/file/d/1t-Zg5JhPpg_ppTltdg4VBYXBY-YMS7x3/view?usp=sharing",
+        "Unit 3": "https://drive.google.com/file/d/1KX2TG3jIQtqT1886CmdaK8Wa2dzZWEIH/view?usp=sharing",
+        "Unit 4": "https://drive.google.com/file/d/1P9CTgXAzbI4yXLKBmDfR_67ibbDmNDFb/view?usp=sharing"
+       }
+      },
+      "Signals and Systems": {
+       "_links": {
+        "Notes": "https://drive.google.com/drive/folders/1pTIwluUdLJcpu0rhCr6Czx5wXJGroBlV?usp=sharing",
+        "Problem Sheets": "https://drive.google.com/drive/folders/1aHmB4itunBNBHnPj-KiiPylB1C9Uxezd?usp=sharing",
+        "Books": "https://drive.google.com/drive/folders/1rbQWlZWhv30cb9A0WXHAGqC-NQyOnSt1?usp=sharing"
+       }
+      }
+     }
+    },
+    "Electronics Engineering": {
+     "Circuit Theory": {
+      "_links": {
+       "Syllabus": "https://drive.google.com/file/d/1ZD-Gqac5Kfv3F_ZcsGoq5rhQ0w9WdPuc/view?usp=drive_link",
+       "Unit 1": "https://drive.google.com/drive/folders/1SXbm7S2aViziNd8PE6JfjHv9vDQWLmEO?usp=drive_link",
+       "Unit 2": "https://drive.google.com/drive/folders/11P9mbrfdQatz6WP8uTXPd7mRM9xpvdSG?usp=drive_link",
+       "Unit 3": "https://drive.google.com/drive/folders/1jxVO4i1TveyU5v6n0CkZCIULJOsFriET?usp=drive_link",
+       "Unit 4": "https://drive.google.com/drive/folders/1QSiXa-mEDnFOyGxsR9Oo7OL2Gc4Ti9AX?usp=drive_link",
+       "PYQ": "https://drive.google.com/drive/folders/1Iod0YyxKoE0CvLcyeXZd5R84v9hD-1XR?usp=drive_link",
+       "Extra Material": "https://drive.google.com/drive/folders/1X-ZkdAMwWywo4fk6W9n8eEVDTG38-kev?usp=drive_link",
+       "Tutorial Sheets": "https://drive.google.com/drive/folders/12rCSjUBzROfQ5-X2yFF0xF-nzJAgbm7j?usp=drive_link",
+       "Assignment": "https://drive.google.com/drive/folders/1n1vhzFZ-P8DUmLwjjhOmApZK3hpreiF9?usp=drive_link"
+      }
+     },
+     "Electronic Devices & Circuits": {
+      "_links": {
+       "Syllabus": "https://drive.google.com/file/d/1CyxlVwLZ6_sA39Qds9mdQkXhTYWMvZ7X/view?usp=drive_link",
+       "Unit 1": "https://drive.google.com/drive/folders/1GzEOwn-Q1mvCoK83lErjb1J5W7ZqMqSi?usp=sharing",
+       "Unit 2": "https://drive.google.com/drive/folders/1l6HgMX_zOeVaDxDYyji-kOcLeP-xz0uS?usp=drive_link",
+       "Unit 3": "https://drive.google.com/drive/folders/1UB7jmICS5DndZWJZ7ZnWUQw2yyQLaC7F?usp=sharing",
+       "Unit 4": "https://drive.google.com/drive/folders/1tyf-pNIjZlkTS15O80cmB98786e3p0Pe?usp=sharing",
+       "PYQ": "https://drive.google.com/drive/folders/1IztGELVcPZh9Y5ruWbUqqvaW83cYce7V?usp=drive_link",
+       "Extra Material": "https://drive.google.com/drive/folders/1HDmoGxXFX3zlAhgyYwzDOind5kdQp-VD?usp=drive_link"
+      }
+     },
+     "Logic Circuits": {
+      "_links": {
+       "Syllabus": "https://drive.google.com/file/d/1Rjt--jCkRWS1A36pwiKEoBREAmZkedhW/view?usp=drive_link",
+       "Unit 1": "https://drive.google.com/drive/folders/13WGPslmEX97W3n5pRrlBXqz78dR0IObd?usp=drive_link",
+       "Unit 2": "https://drive.google.com/drive/folders/1gscJaItps4Kdyh_IbDVYSX47vFT4EHcD?usp=drive_link",
+       "Unit 3": "https://drive.google.com/drive/folders/1LmDLcjYAjYelXcf0xXybkTvR9SlDQSY7?usp=drive_link",
+       "Unit 4": "https://drive.google.com/drive/folders/1XAHkjU03Ic1CgOeISQbEB57njm1RpN5K?usp=drive_link",
+       "PYQ": "https://drive.google.com/drive/folders/1Edro2_0sUTruSZKtmux--MqiYkxVgbnI?usp=sharing",
+       "Extra Material": "https://drive.google.com/drive/folders/1QgJ7oOBJHAiVbcx1mhowHT0sRC4ub8-7?usp=drive_link",
+       "Assignment": "https://drive.google.com/drive/folders/1Ae1K7vecfI5yw_KH3sSG-xWpNpuf5EKX?usp=sharing"
+      }
+     },
+     "Maths 1": {
+      "_links": {
+       "Syllabus": "https://drive.google.com/drive/folders/1f9bEdVks7geb5j4GqePZ008aVUM161kD?usp=sharing",
+       "Unit 1": "https://drive.google.com/drive/folders/1GfbJqhgyufRaof5yewQvBcI9EMF1Fiw1?usp=sharing",
+       "Unit 2": "https://drive.google.com/drive/folders/1ziEZa_kYGs8WXulX1Tg4U1UkiPZhtDUA?usp=sharing",
+       "PYQ": "https://drive.google.com/drive/folders/1u_tBNXkMI5UuVRMvb3-bhR0EUyX3ILG8?usp=sharing",
+       "Extra Material": "https://drive.google.com/drive/folders/1IsywdbiG7QWIrX5Se2Wx2tbXtoOye10U?usp=sharing",
+       "Assignment": "https://drive.google.com/drive/folders/1BMNLwBeYsKVJbm9qbCAQ2egHiMCNA0C5?usp=sharing"
+      }
+     },
+     "Maths 2": {
+      "_links": {
+       "Syllabus": "https://drive.google.com/file/d/1VCO4uT7gbsxC__Gi1vwtEkPRJdPya2WN/view?usp=sharing",
+       "Unit 1": "https://drive.google.com/drive/folders/1TF00dEshiLG2JkiQ8mp8RufltMwFGPP4?usp=sharing",
+       "Unit 2": "https://drive.google.com/drive/folders/1KNJGZHC_YFRr0ptKOIQ4hbdP9lqqG9eQ?usp=sharing",
+       "Unit 3": "https://drive.google.com/drive/folders/13pk331iAaFrRSXsbLnbF4WOHG6dyE11O?usp=sharing",
+       "Unit 4": "https://drive.google.com/drive/folders/1gNA8_oKuY4hHW_el6k9Pvi25ulL_qV51?usp=sharing",
+       "PYQ": "https://drive.google.com/drive/folders/1qHlRUBFY3LukU8yX1bJOJgKqMcL663Gp?usp=sharing",
+       "Extra Material": "https://drive.google.com/drive/folders/1b12adMrJuUG0cgIVT1yXXqAE8j1jtsPq?usp=sharing",
+       "Assignment": "https://drive.google.com/drive/folders/1sceIqtDN7jlrvUIP93opiVLEjVqUbvCK?usp=sharing"
+      }
+     },
+     "Signals and Systems": {
+      "_links": {
+       "Syllabus": "https://drive.google.com/drive/folders/1Qc03cmJVSHWvmAv7s4J3iE522sJ56098?usp=sharing",
+       "Unit 1": "https://drive.google.com/drive/folders/124YvvmCqDD5dkzKukD9XnJrFo4Lf7e4D?usp=sharing",
+       "Unit 2": "https://drive.google.com/drive/folders/117-vpEAv1xJH53Dx8SzgcHRw-Q8d4a_F?usp=sharing",
+       "Unit 3": "https://drive.google.com/drive/folders/1_fMuP0tn7qPcZYi_CfCs0NNkGmrgycj3?usp=sharing",
+       "Unit 4": "https://drive.google.com/drive/folders/1klWrbjN2jSdfh2NQQXaLL0JBAuoKHdq2?usp=sharing",
+       "PYQ": "https://drive.google.com/drive/folders/1oGfnhXBVvMxgNI9IS4_JJKe6XVpD7mfG?usp=sharing",
+       "Extra Material": "https://drive.google.com/drive/folders/1p2gvAvk7C-t31DzJ97TNmN3ReiG0REQD?usp=sharing",
+       "Assignment": "https://drive.google.com/drive/folders/1V4HA40sTzBeNhssVPCV-XX9Jhgxnq64R?usp=sharing"
+      }
+     }
+    },
+    "Electrical Engineering": {
+     "Circuit Theory": {
+      "_links": {
+       "Syllabus": "https://drive.google.com/drive/folders/1ibD1h5ndIb--DRLaB60YX07mOpXl7IBP?usp=sharing",
+       "All Material": "https://drive.google.com/drive/folders/1EqTG55pxDji-rJ7QUDCWIk72BamMZOHo?usp=sharing"
+      }
+     },
+     "Electrical Machines 1": {
+      "_links": {
+       "Syllabus": "https://drive.google.com/drive/folders/1k6W_c7spDqtHjNdUY25z_mMGQzj9hQyj?usp=sharing",
+       "Unit 1": "https://drive.google.com/drive/folders/1lekTYzUCDvb8CTJpCMmemgHJRehROTkI?usp=sharing",
+       "Unit 2": "https://drive.google.com/drive/folders/1XkyljOM2pnfQ0iNvjU4qEXfrEr9U4HWM?usp=sharing",
+       "Unit 3": "https://drive.google.com/drive/folders/1R3HIGW6u371ZD37IQs1XcI18VLOVNTyh?usp=sharing",
+       "Unit 4": "https://drive.google.com/drive/folders/1mUNd2befzgZJqKUL3PrEa8zR_szv4Amm?usp=sharing",
+       "All Material": "https://drive.google.com/drive/folders/1r8G-88VW4zR2NAF0ZXToHIa1-_1iZF3G?usp=sharing"
+      }
+     },
+     "Electrical Engineering Materials": {
+      "_links": {
+       "Syllabus": "https://drive.google.com/drive/folders/1UVt-1iPiTlQE1byUSwvmyfaSKSO_nWri?usp=sharing",
+       "Unit 1": "https://drive.google.com/drive/folders/1JYYl-uf24drqBON7iY4FjSGS_OhICP9B?usp=sharing",
+       "Unit 3": "https://drive.google.com/drive/folders/1acj9WDRqofcq8aiyPDkmioVZrH8nucMk?usp=sharing",
+       "Unit 4": "https://drive.google.com/drive/folders/1TsXc_c-QrDObY3C7yhN171Zifj6TpBB5?usp=sharing",
+       "All Material": "https://drive.google.com/drive/folders/1Zj89y2zVlqAcPTq9FDEiGGTk3OFz3p4X?usp=sharing"
+      }
+     },
+     "Signals and Systems": {
+      "_links": {
+       "Syllabus": "https://drive.google.com/drive/folders/1HLb2s2lD_YbeR2lnz5bQ7Ulhz1Q9ElXO?usp=sharing",
+       "All Material": "https://drive.google.com/drive/folders/1LQ5mDXB0rGYaGqoZwDAE8sOKhYYDphx-?usp=sharing"
+      }
+     }
+    },
+    "Civil Engineering": {
+     "_links": {
+      "Engineering Geology": "https://drive.google.com/drive/folders/1TV-4zAOFkSoGXdfzgW3dbAV1hVghvowN?usp=sharing",
+      "FLuid Mechanics": "https://drive.google.com/drive/folders/1SJ7WTgJcCrfH2A4M3-h3jC1gY0rI3MZG?usp=sharing",
+      "M & C Practices": "https://drive.google.com/drive/folders/1e-2op15ftyIHoUOOeBTqsHx3a-NSmWeu?usp=sharing",
+      "Mathematics": "https://drive.google.com/drive/folders/132tW6RLq5boRP8P-wb9EcDnk3DHKfVZk?usp=sharing",
+      "Quantity Survey": "https://drive.google.com/drive/folders/1c4SjlzJMjBeiiOr50uQXihw6hvWDyqDo?usp=sharing",
+      "Fluid Mechanics Lab": "https://drive.google.com/drive/folders/1N8ZzoOEU_NhzTKQaMVwPRVuulDRuCHUO?usp=sharing",
+      "Materials Lab": "https://drive.google.com/drive/folders/188vUxxKZfJx2sCSSzKjLEFQ4Ef1sZcAy?usp=sharing",
+      "Geology Lab and Maps": "https://drive.google.com/drive/folders/1yRhlhYBPlrLdzT7m6CrMpvyI971GvnwZ?usp=sharing"
+     }
+    }
+   },
+   "Labs (First Year)": {
+    "_links": {
+     "Applied Physics": "https://drive.google.com/drive/folders/1eZYFJSBQAuXuc2LfYTOf7lAdmv4YSS69?usp=drive_link",
+     "Applied Chemistry": "https://drive.google.com/drive/folders/1D73SQe6LUD144TCTWb9Ur3Pw15WcAwS4?usp=drive_link",
+     "Computer Programming": "https://drive.google.com/drive/folders/1Pbk2_H1IyEHkjLNUixMNjEc8Uqri7p40?usp=drive_link",
+     "Engineering Workshop": "https://drive.google.com/drive/folders/1ViMtU36AmoKzWxqQs01bA3R8odOy8-fc?usp=drive_link",
+     "Engineering Graphics": "https://drive.google.com/drive/folders/1y9ZCw8jq2VAfxD3ZkI4WJXaPl-TAlzuc?usp=drive_link",
+     "English Communication": "https://drive.google.com/drive/folders/1AberrZYIfJgYkjcNrai5YieZ4sihhpd-?usp=drive_link"
+    }
+   }
+  },
+  "PYQ": {
+   "_links": {
+    "Pyq's (First Year)": "https://drive.google.com/drive/folders/12B68ghGX7GpjG33Ww8SW5P74A-WWp2wG?usp=sharing"
+   }
+  },
+  "Contributors": {},
+  "Contact Us": {}
+ },
+ "links": [
+  {
+   "path": "Notes / First Year / Semester 1 / Electronics",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/file/d/1jw1H8NBffXwiJOXKNppdi7d120nr865B/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Electronics / BJT",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/1bnbgyCqAwtNO-mBBh8h7CgI4vHNgBQ30/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Electronics / BJT",
+   "name": "PPT",
+   "url": "https://drive.google.com/file/d/1e48WP3TKCu3rbo45FbdZl9y4Hq3lNUSF/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Electronics / Diode",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/1Kae-KXWc-zfO6piddGoJKGABraDaf_dh/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Electronics / Diode",
+   "name": "PPT",
+   "url": "https://drive.google.com/drive/u/2/folders/1sUYP5i69AeFViO9WsMYZOX2X-pf4mN3Q"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Electronics / OPAMP",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/1H5S1KK3aOG2zgrzW-363h7huMTvhIE9W/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Electronics / OPAMP",
+   "name": "PPT",
+   "url": "https://drive.google.com/file/d/1KsJllpNuPCziyALyzkQhiwXxs9JI3ctM/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Electronics / Mosfet",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/1hkIT997q4jYTOou76KquTVaA3owmrtD3/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Electronics / Mosfet",
+   "name": "PPT",
+   "url": "https://drive.google.com/file/d/1BJcMLYKqM4tlasA5wPz4LTyJADPUaWJy/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / English",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/file/d/17cNUZR3yP9MKXUKvFQyf2JN4xxcaMv5n/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / English / Animal Farm",
+   "name": "Book",
+   "url": "https://drive.google.com/file/d/1RSG8WkXTFz9xIpvcxYwTVw6m9T7UbaqE/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / English / Format",
+   "name": "All Materials",
+   "url": "https://drive.google.com/drive/u/2/folders/1eMxlOsRfhVcq43DKf7PZLBcwTV8y9WEA"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / English / Scientific Mind",
+   "name": "Notes",
+   "url": "https://drive.google.com/file/d/1dZiw0fCHi2tymeY3U94fniD1BODq8RKJ/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / English / Time Machine",
+   "name": "Book",
+   "url": "https://drive.google.com/file/d/18f0lGfkB9F9FIluI_SxjzGP1MaWuw4eJ/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Maths 2",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/file/d/1peckWaTlBR0OUqLHCTqu_D5lh1BWW1oH/view?usp=drive_link"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Maths 2",
+   "name": "Assignment 1",
+   "url": "https://drive.google.com/file/d/1mjozeIFpNF78kq-hiXoym9ciG9vAP3q7/view?usp=drive_link"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Maths 2",
+   "name": "Assignment 2",
+   "url": "https://drive.google.com/file/d/1dEeWbz-YnLurtT_4OAN1o8XSYYy6uGwf/view?usp=drive_link"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Maths 2 / Fourier",
+   "name": "Lecture Plan",
+   "url": "https://drive.google.com/file/d/1ZuBWOky9DW6GNqa7piaTZL6lqwE7aDn3/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Maths 2 / Fourier",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/1GWqtXJZV7j7giyKvY2x6xTe2feX0Pl68/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Maths 2 / Fourier",
+   "name": "Teacher Notes",
+   "url": "https://drive.google.com/drive/u/2/folders/1gREF6Q3zjfGXEifiRbogV--GHAq_vCf6"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Maths 2 / Laplace",
+   "name": "Lecture Plan",
+   "url": "https://drive.google.com/file/d/193-Ywb65ne8bQs-xaIFwjwWtcPyZjY7c/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Maths 2 / Laplace",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/1Cdwuo8kgrt9cf-YGVPy3XN19A2PX_W9o/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Maths 2 / Laplace",
+   "name": "Teacher Notes",
+   "url": "https://drive.google.com/drive/u/2/folders/1azEXu7B2yamqkz9aIrrKFTEtvP_5ghW2"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Maths 2 / Partial Differentiation",
+   "name": "Lecture Plan",
+   "url": "https://drive.google.com/file/d/1glDVhBSTm93dHwvgUDESGzF3agm3gmDu/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Maths 2 / Partial Differentiation",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/1lms1BGDDyegNzqCK9OGMd79CaOn-00Vh/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Maths 2 / Partial Differentiation",
+   "name": "Teacher Notes",
+   "url": "https://drive.google.com/drive/u/2/folders/1sfl7vvlxKEz65HZ3U9kT56Mj1UW-xaYm"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Maths 2 / Triple Integral",
+   "name": "Lecture Plan",
+   "url": "https://drive.google.com/file/d/1adQGZU8DXu5MnKKcWAm8_1XMSWe_--yM/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Maths 2 / Triple Integral",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/1ctbdau4XFT9i7XXa-NO1YiSjXsguNyET/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Maths 2 / Triple Integral",
+   "name": "Teacher Notes",
+   "url": "https://drive.google.com/drive/u/2/folders/1gIjlXfHdXrQgB2lTcEJjs9QidIXKxCQn"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Mechanics / Statics",
+   "name": "All Materials",
+   "url": "https://drive.google.com/drive/u/2/folders/1x2N6EMI2CTDUGWlfzjI5YrzqvUO47GO1"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Mechanics / Dynamics",
+   "name": "All Material",
+   "url": "https://drive.google.com/drive/u/2/folders/1I594vtbtf5ZEXTzsiHOjbocPw-C9vbOs"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Physics",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/file/d/15b40UeCIct9iajPKed4tPvsr9p3mcg7h/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Physics / Semiconductor",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/1XuIwFZGoWs3MqnbD-cI7Il__quKmGefm/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Physics / Semiconductor",
+   "name": "Teacher Notes",
+   "url": "https://drive.google.com/file/d/16hT_n0VdLsHrMXMRkdG6RWljie7e9aHH/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Physics / Unit 2",
+   "name": "Fibre Optics",
+   "url": "https://drive.google.com/file/d/1sZBcqxvbo9m8a3dDPqx0P6xKfAuVRWEH/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Physics / Unit 2",
+   "name": "Laser",
+   "url": "https://drive.google.com/drive/u/2/folders/1MnCwQrTk7YgiPOpECvX7W1a8ezqfvn5W"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Physics / Unit 3",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/1F4_MQ6-Lae6nC4svkey-7n_sRCaUjeF7/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Physics / Unit 3",
+   "name": "Teacher Notes",
+   "url": "https://drive.google.com/file/d/13ATZ98OoEefmFeGQEMw9VH2-aMECMr4m/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Physics / Unit 4",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/1dlhNfVLHGDPgMs1_-Mg6-MAFmMop7GJM/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 1 / Physics / Unit 4",
+   "name": "Teacher Notes",
+   "url": "https://drive.google.com/file/d/1JM5mXBf9kPZIwRsYQpUfWtSyZV56J96j/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Chemistry",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/file/d/1ewhE-TLZhvB7fkk0x2gzmoUj1SFUVWDu/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Chemistry / Unit 1",
+   "name": "Notes",
+   "url": "https://drive.google.com/file/d/1mdwu6b3ataqWEjUDvFTOwIztvaE-qxIO/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Chemistry / Unit 2",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/1sXCD-hqC0H0TTBRs-OuZz0jWf5lm8wUu/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Chemistry / Unit 2",
+   "name": "PPT",
+   "url": "https://drive.google.com/file/d/1MnDVGox_W0G2HzmzZisd2p0PqEGCkb92/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Chemistry / Unit 3",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/13Naef2k43rLK6nvLPa9wLSRJrroAI4Ip/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Chemistry / Unit 3",
+   "name": "PPT",
+   "url": "https://drive.google.com/file/d/1JufvcPd4RqmH6GCv7XZHbU55vzMd0yR3/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Chemistry / Unit 4",
+   "name": "Notes",
+   "url": "https://drive.google.com/file/d/1KYW7Ztccsv0n2gmk7y5aqWlkt8Jnr7Fp/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Electrical",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/file/d/18I9sZ_UdS94VSZ_JsoPo1xLFQ_Py5X69/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Electrical / Unit 1",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/18lI95p1uQ0YwWe47IIbDgQyDdsFFgF_3/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Electrical / Unit 1",
+   "name": "All Material",
+   "url": "https://drive.google.com/drive/u/2/folders/15__L48ps2qH7CyuTbqmu5hMXgEzmnG5F"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Electrical / Unit 2",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/1acKFLeVL_2xe-tfcoUV5JLOyoW5NNM7U/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Electrical / Unit 2",
+   "name": "All Material",
+   "url": "https://drive.google.com/drive/u/2/folders/1WjNEUkJRMQ7jBmPRZZ1d89Emx3EiUh_P"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Electrical / Unit 3",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/16W8Xx8iu9iVXrlUzXUe4FiHtlM9k9khj/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Electrical / Unit 3",
+   "name": "All Material",
+   "url": "https://drive.google.com/drive/u/2/folders/1To3GUjACdWVTTw0v6etP3JLF_ac17t1M"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Electrical / Unit 4",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/16W8Xx8iu9iVXrlUzXUe4FiHtlM9k9khj/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Electrical / Unit 4",
+   "name": "All Materials",
+   "url": "https://drive.google.com/drive/u/2/folders/1To3GUjACdWVTTw0v6etP3JLF_ac17t1M"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / EVS / Components Of Environment",
+   "name": "Class Notes",
+   "url": "https://drive.google.com/file/d/1SJTxlGJnwHBPM7QbkHHohdQUqGvDvDNX/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / EVS / Disaster Management",
+   "name": "Class Notes",
+   "url": "https://drive.google.com/file/d/14BCdX78xawA1Ga2EhXBY3d_5q-b_VX9l/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / EVS / Human Population",
+   "name": "Class Notes",
+   "url": "https://drive.google.com/file/d/1HIfc4UEecJtagxSjIgPGKLoiWMPZbLEv/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / EVS / SWM",
+   "name": "Class Notes",
+   "url": "https://drive.google.com/file/d/1f-dh9r-X9eIlISEtsQSjgWwtdNmrjFXX/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / EVS / Biodiversity",
+   "name": "Class Notes",
+   "url": "https://drive.google.com/file/d/1F8ZDNgoj4gx46Hfp3Rbs6W2dWJWcGi5V/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Thermal Science",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/file/d/1iJL_OJxTvUs61Tm_RK1QCLUYVeAmvpxJ/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Thermal Science / Unit 1",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/1TAEszAKGVLMy-HSmNnZQUcSvrvR_m1rM/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Thermal Science / Unit 1",
+   "name": "PPT",
+   "url": "https://drive.google.com/file/d/1P0hmuoNAqqluq2q9Y30a50lsjCOFbF7B/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Thermal Science / Unit 2",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/file/d/17CTT895J1829vlAVzTsHgvn06MGJTVzB/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Thermal Science / Unit 2",
+   "name": "PPT",
+   "url": "https://drive.google.com/file/d/1c9t6RycRSwKVnHJJnFrOZmxD6FAAhVsd/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Thermal Science / Unit 3",
+   "name": "PPT",
+   "url": "https://drive.google.com/file/d/1qDtKARV9itYyUrZ81VRTSj0nTHE68IPX/view?usp=sharing"
+  },
+  {
+   "path": "Notes / First Year / Semester 2 / Thermal Science / Unit 4",
+   "name": "PPT",
+   "url": "https://drive.google.com/drive/u/2/folders/1seYzYYg64mxO5ZVdH6sEKGcK7HIUqFRC"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Third Sem / Digital logic and system Design",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/drive/folders/1BPxIBCsNWPPO5xSy06Mkv-0CEa-IhiXz?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Third Sem / Digital logic and system Design",
+   "name": "Unit 1",
+   "url": "https://drive.google.com/file/d/1xl7laCB1Zb3xbD1rt1L7-gIO84DS4U15/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Third Sem / Digital logic and system Design",
+   "name": "Unit 2",
+   "url": "https://drive.google.com/file/d/1WAk6-pMiPCx9eeDWsiJxp8IT8fdcveCF/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Third Sem / Digital logic and system Design",
+   "name": "Unit 3",
+   "url": "https://drive.google.com/file/d/1IajPg_1bBcOU6jRVVj2CLsZ81Ro1vmUe/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Third Sem / Digital logic and system Design",
+   "name": "Unit 4",
+   "url": "https://drive.google.com/file/d/1qGsQqC2oNahOys9czGabisWoc9LnkU9Y/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Third Sem / Data Structures and Algorithms (DSA)",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/drive/folders/1KlvUJsDsAtxMGLAqzBjIPj2ll4gH1cl-?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Third Sem / Data Structures and Algorithms (DSA)",
+   "name": "Books",
+   "url": "https://drive.google.com/drive/folders/1qKZRleq9RlHOuiUYqoAU9EubV6ui8gmc?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Third Sem / Data Structures and Algorithms (DSA)",
+   "name": "PPT",
+   "url": "https://drive.google.com/drive/folders/1eWOubpUV_wPQGIrNga-3elQ1EEfQsSgQ?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Third Sem / Object Oriented Programming (oop)",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/file/d/1wP-JFx7BUinMCfN42x5VpdNlatHVSkgC/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Third Sem / Object Oriented Programming (oop)",
+   "name": "C++",
+   "url": "https://drive.google.com/drive/folders/1jgroyuHeH8SyStehlwq7DQYWpVgv5Ca5?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Third Sem / Object Oriented Programming (oop)",
+   "name": "JAVA",
+   "url": "https://drive.google.com/drive/folders/1IlbdWG1VOhuLaFV9tirxGAlEOipPANdS?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Third Sem / Electronic Devices and Circuits (EDC)",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/drive/folders/1eUCSbhlOZlbwMRYRNcS7ftOKjzGa90KA?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Third Sem / Electronic Devices and Circuits (EDC)",
+   "name": "Books",
+   "url": "https://drive.google.com/drive/folders/1-39Bi1XLcR9eUIGShm1x3diS2hHSVMtt?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Third Sem / Electronic Devices and Circuits (EDC)",
+   "name": "Handwritten Notes",
+   "url": "https://drive.google.com/drive/folders/1DeSPEZyVeJLT8ctbpu48yW5qDNrQRKF9?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Third Sem / Electronic Devices and Circuits (EDC)",
+   "name": "Practice Sheets",
+   "url": "https://drive.google.com/drive/folders/1kZCw2kGy8EV0YWaQsQrd-ACj-n99jtoI?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Software Engineering",
+   "name": "Unit 1",
+   "url": "https://drive.google.com/file/d/1YHVfIaGUiif13opY6WJfD7fqM8oJBusM/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Software Engineering",
+   "name": "Unit 2",
+   "url": "https://drive.google.com/file/d/1eGqRTdbVsfdrCdglY7U-_dCYx28wRoSW/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Software Engineering",
+   "name": "Teachers's",
+   "url": "https://drive.google.com/drive/folders/11i150MCo7-AZ7YQqxZlesmpJCaCYmt4z?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Software Engineering",
+   "name": "Books",
+   "url": "https://drive.google.com/drive/folders/1eAog2hrOCjMUYsvqr347_Us8eaPt-7ca?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Computer Architecture",
+   "name": "Notes",
+   "url": "https://drive.google.com/drive/folders/1jZUYrV1pqecoVPHZR9FsLoYoS86lsfuT?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Computer Architecture",
+   "name": "Books",
+   "url": "https://drive.google.com/drive/folders/1G9kVvb2Rbwd5KHd0Yf5W1p88Y24zKxh_?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Design and Analysis of Algorithms (DAA)",
+   "name": "Unit 1",
+   "url": "https://drive.google.com/file/d/12YHIfBbVek3ee0lO_oYF8mfDUOIxC0nQ/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Design and Analysis of Algorithms (DAA)",
+   "name": "Unit 2",
+   "url": "https://drive.google.com/file/d/1Y-MOszCrvzb0eCXJwSFHKeP7AWMZIdbu/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Design and Analysis of Algorithms (DAA)",
+   "name": "Unit 3",
+   "url": "https://drive.google.com/file/d/1FZYUxre0I8kVlSdAH_lHwgVEIQxe4PUr/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Design and Analysis of Algorithms (DAA)",
+   "name": "Books",
+   "url": "https://drive.google.com/drive/folders/1R0-MS_d07ChWp2R8DjqS8A7pj478h0Xu?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Discrete Structures",
+   "name": "Unit 1",
+   "url": "https://drive.google.com/file/d/1gKnQnuSH81haoYSnb8lL8sdSNeYh4rG8/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Discrete Structures",
+   "name": "Unit 2",
+   "url": "https://drive.google.com/file/d/1k-a-coN1DY_sjnPIjnlq-tn-jVfRtmi5/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Discrete Structures",
+   "name": "Unit 3",
+   "url": "https://drive.google.com/file/d/1Wu9SiS9XM-8Po3pd6VzWbgpfZE6fVXPZ/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Discrete Structures",
+   "name": "Unit 4",
+   "url": "https://drive.google.com/file/d/1aW5b15-FsTzsGTUmEFoabPdrvcyXP46X/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Numerical Analysis",
+   "name": "Unit 1",
+   "url": "https://drive.google.com/file/d/1vwZlXODdzQgqIeSuH5aGEwoVdG1bAMVr/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Numerical Analysis",
+   "name": "Unit 2",
+   "url": "https://drive.google.com/file/d/1t-Zg5JhPpg_ppTltdg4VBYXBY-YMS7x3/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Numerical Analysis",
+   "name": "Unit 3",
+   "url": "https://drive.google.com/file/d/1KX2TG3jIQtqT1886CmdaK8Wa2dzZWEIH/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Numerical Analysis",
+   "name": "Unit 4",
+   "url": "https://drive.google.com/file/d/1P9CTgXAzbI4yXLKBmDfR_67ibbDmNDFb/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Signals and Systems",
+   "name": "Notes",
+   "url": "https://drive.google.com/drive/folders/1pTIwluUdLJcpu0rhCr6Czx5wXJGroBlV?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Signals and Systems",
+   "name": "Problem Sheets",
+   "url": "https://drive.google.com/drive/folders/1aHmB4itunBNBHnPj-KiiPylB1C9Uxezd?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Computer Engineering / Fourth Sem / Signals and Systems",
+   "name": "Books",
+   "url": "https://drive.google.com/drive/folders/1rbQWlZWhv30cb9A0WXHAGqC-NQyOnSt1?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Circuit Theory",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/file/d/1ZD-Gqac5Kfv3F_ZcsGoq5rhQ0w9WdPuc/view?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Circuit Theory",
+   "name": "Unit 1",
+   "url": "https://drive.google.com/drive/folders/1SXbm7S2aViziNd8PE6JfjHv9vDQWLmEO?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Circuit Theory",
+   "name": "Unit 2",
+   "url": "https://drive.google.com/drive/folders/11P9mbrfdQatz6WP8uTXPd7mRM9xpvdSG?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Circuit Theory",
+   "name": "Unit 3",
+   "url": "https://drive.google.com/drive/folders/1jxVO4i1TveyU5v6n0CkZCIULJOsFriET?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Circuit Theory",
+   "name": "Unit 4",
+   "url": "https://drive.google.com/drive/folders/1QSiXa-mEDnFOyGxsR9Oo7OL2Gc4Ti9AX?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Circuit Theory",
+   "name": "PYQ",
+   "url": "https://drive.google.com/drive/folders/1Iod0YyxKoE0CvLcyeXZd5R84v9hD-1XR?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Circuit Theory",
+   "name": "Extra Material",
+   "url": "https://drive.google.com/drive/folders/1X-ZkdAMwWywo4fk6W9n8eEVDTG38-kev?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Circuit Theory",
+   "name": "Tutorial Sheets",
+   "url": "https://drive.google.com/drive/folders/12rCSjUBzROfQ5-X2yFF0xF-nzJAgbm7j?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Circuit Theory",
+   "name": "Assignment",
+   "url": "https://drive.google.com/drive/folders/1n1vhzFZ-P8DUmLwjjhOmApZK3hpreiF9?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Electronic Devices & Circuits",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/file/d/1CyxlVwLZ6_sA39Qds9mdQkXhTYWMvZ7X/view?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Electronic Devices & Circuits",
+   "name": "Unit 1",
+   "url": "https://drive.google.com/drive/folders/1GzEOwn-Q1mvCoK83lErjb1J5W7ZqMqSi?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Electronic Devices & Circuits",
+   "name": "Unit 2",
+   "url": "https://drive.google.com/drive/folders/1l6HgMX_zOeVaDxDYyji-kOcLeP-xz0uS?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Electronic Devices & Circuits",
+   "name": "Unit 3",
+   "url": "https://drive.google.com/drive/folders/1UB7jmICS5DndZWJZ7ZnWUQw2yyQLaC7F?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Electronic Devices & Circuits",
+   "name": "Unit 4",
+   "url": "https://drive.google.com/drive/folders/1tyf-pNIjZlkTS15O80cmB98786e3p0Pe?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Electronic Devices & Circuits",
+   "name": "PYQ",
+   "url": "https://drive.google.com/drive/folders/1IztGELVcPZh9Y5ruWbUqqvaW83cYce7V?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Electronic Devices & Circuits",
+   "name": "Extra Material",
+   "url": "https://drive.google.com/drive/folders/1HDmoGxXFX3zlAhgyYwzDOind5kdQp-VD?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Logic Circuits",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/file/d/1Rjt--jCkRWS1A36pwiKEoBREAmZkedhW/view?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Logic Circuits",
+   "name": "Unit 1",
+   "url": "https://drive.google.com/drive/folders/13WGPslmEX97W3n5pRrlBXqz78dR0IObd?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Logic Circuits",
+   "name": "Unit 2",
+   "url": "https://drive.google.com/drive/folders/1gscJaItps4Kdyh_IbDVYSX47vFT4EHcD?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Logic Circuits",
+   "name": "Unit 3",
+   "url": "https://drive.google.com/drive/folders/1LmDLcjYAjYelXcf0xXybkTvR9SlDQSY7?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Logic Circuits",
+   "name": "Unit 4",
+   "url": "https://drive.google.com/drive/folders/1XAHkjU03Ic1CgOeISQbEB57njm1RpN5K?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Logic Circuits",
+   "name": "PYQ",
+   "url": "https://drive.google.com/drive/folders/1Edro2_0sUTruSZKtmux--MqiYkxVgbnI?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Logic Circuits",
+   "name": "Extra Material",
+   "url": "https://drive.google.com/drive/folders/1QgJ7oOBJHAiVbcx1mhowHT0sRC4ub8-7?usp=drive_link"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Logic Circuits",
+   "name": "Assignment",
+   "url": "https://drive.google.com/drive/folders/1Ae1K7vecfI5yw_KH3sSG-xWpNpuf5EKX?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Maths 1",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/drive/folders/1f9bEdVks7geb5j4GqePZ008aVUM161kD?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Maths 1",
+   "name": "Unit 1",
+   "url": "https://drive.google.com/drive/folders/1GfbJqhgyufRaof5yewQvBcI9EMF1Fiw1?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Maths 1",
+   "name": "Unit 2",
+   "url": "https://drive.google.com/drive/folders/1ziEZa_kYGs8WXulX1Tg4U1UkiPZhtDUA?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Maths 1",
+   "name": "PYQ",
+   "url": "https://drive.google.com/drive/folders/1u_tBNXkMI5UuVRMvb3-bhR0EUyX3ILG8?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Maths 1",
+   "name": "Extra Material",
+   "url": "https://drive.google.com/drive/folders/1IsywdbiG7QWIrX5Se2Wx2tbXtoOye10U?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Maths 1",
+   "name": "Assignment",
+   "url": "https://drive.google.com/drive/folders/1BMNLwBeYsKVJbm9qbCAQ2egHiMCNA0C5?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Maths 2",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/file/d/1VCO4uT7gbsxC__Gi1vwtEkPRJdPya2WN/view?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Maths 2",
+   "name": "Unit 1",
+   "url": "https://drive.google.com/drive/folders/1TF00dEshiLG2JkiQ8mp8RufltMwFGPP4?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Maths 2",
+   "name": "Unit 2",
+   "url": "https://drive.google.com/drive/folders/1KNJGZHC_YFRr0ptKOIQ4hbdP9lqqG9eQ?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Maths 2",
+   "name": "Unit 3",
+   "url": "https://drive.google.com/drive/folders/13pk331iAaFrRSXsbLnbF4WOHG6dyE11O?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Maths 2",
+   "name": "Unit 4",
+   "url": "https://drive.google.com/drive/folders/1gNA8_oKuY4hHW_el6k9Pvi25ulL_qV51?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Maths 2",
+   "name": "PYQ",
+   "url": "https://drive.google.com/drive/folders/1qHlRUBFY3LukU8yX1bJOJgKqMcL663Gp?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Maths 2",
+   "name": "Extra Material",
+   "url": "https://drive.google.com/drive/folders/1b12adMrJuUG0cgIVT1yXXqAE8j1jtsPq?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Maths 2",
+   "name": "Assignment",
+   "url": "https://drive.google.com/drive/folders/1sceIqtDN7jlrvUIP93opiVLEjVqUbvCK?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Signals and Systems",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/drive/folders/1Qc03cmJVSHWvmAv7s4J3iE522sJ56098?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Signals and Systems",
+   "name": "Unit 1",
+   "url": "https://drive.google.com/drive/folders/124YvvmCqDD5dkzKukD9XnJrFo4Lf7e4D?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Signals and Systems",
+   "name": "Unit 2",
+   "url": "https://drive.google.com/drive/folders/117-vpEAv1xJH53Dx8SzgcHRw-Q8d4a_F?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Signals and Systems",
+   "name": "Unit 3",
+   "url": "https://drive.google.com/drive/folders/1_fMuP0tn7qPcZYi_CfCs0NNkGmrgycj3?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Signals and Systems",
+   "name": "Unit 4",
+   "url": "https://drive.google.com/drive/folders/1klWrbjN2jSdfh2NQQXaLL0JBAuoKHdq2?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Signals and Systems",
+   "name": "PYQ",
+   "url": "https://drive.google.com/drive/folders/1oGfnhXBVvMxgNI9IS4_JJKe6XVpD7mfG?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Signals and Systems",
+   "name": "Extra Material",
+   "url": "https://drive.google.com/drive/folders/1p2gvAvk7C-t31DzJ97TNmN3ReiG0REQD?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electronics Engineering / Signals and Systems",
+   "name": "Assignment",
+   "url": "https://drive.google.com/drive/folders/1V4HA40sTzBeNhssVPCV-XX9Jhgxnq64R?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electrical Engineering / Circuit Theory",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/drive/folders/1ibD1h5ndIb--DRLaB60YX07mOpXl7IBP?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electrical Engineering / Circuit Theory",
+   "name": "All Material",
+   "url": "https://drive.google.com/drive/folders/1EqTG55pxDji-rJ7QUDCWIk72BamMZOHo?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electrical Engineering / Electrical Machines 1",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/drive/folders/1k6W_c7spDqtHjNdUY25z_mMGQzj9hQyj?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electrical Engineering / Electrical Machines 1",
+   "name": "Unit 1",
+   "url": "https://drive.google.com/drive/folders/1lekTYzUCDvb8CTJpCMmemgHJRehROTkI?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electrical Engineering / Electrical Machines 1",
+   "name": "Unit 2",
+   "url": "https://drive.google.com/drive/folders/1XkyljOM2pnfQ0iNvjU4qEXfrEr9U4HWM?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electrical Engineering / Electrical Machines 1",
+   "name": "Unit 3",
+   "url": "https://drive.google.com/drive/folders/1R3HIGW6u371ZD37IQs1XcI18VLOVNTyh?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electrical Engineering / Electrical Machines 1",
+   "name": "Unit 4",
+   "url": "https://drive.google.com/drive/folders/1mUNd2befzgZJqKUL3PrEa8zR_szv4Amm?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electrical Engineering / Electrical Machines 1",
+   "name": "All Material",
+   "url": "https://drive.google.com/drive/folders/1r8G-88VW4zR2NAF0ZXToHIa1-_1iZF3G?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electrical Engineering / Electrical Engineering Materials",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/drive/folders/1UVt-1iPiTlQE1byUSwvmyfaSKSO_nWri?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electrical Engineering / Electrical Engineering Materials",
+   "name": "Unit 1",
+   "url": "https://drive.google.com/drive/folders/1JYYl-uf24drqBON7iY4FjSGS_OhICP9B?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electrical Engineering / Electrical Engineering Materials",
+   "name": "Unit 3",
+   "url": "https://drive.google.com/drive/folders/1acj9WDRqofcq8aiyPDkmioVZrH8nucMk?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electrical Engineering / Electrical Engineering Materials",
+   "name": "Unit 4",
+   "url": "https://drive.google.com/drive/folders/1TsXc_c-QrDObY3C7yhN171Zifj6TpBB5?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electrical Engineering / Electrical Engineering Materials",
+   "name": "All Material",
+   "url": "https://drive.google.com/drive/folders/1Zj89y2zVlqAcPTq9FDEiGGTk3OFz3p4X?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electrical Engineering / Signals and Systems",
+   "name": "Syllabus",
+   "url": "https://drive.google.com/drive/folders/1HLb2s2lD_YbeR2lnz5bQ7Ulhz1Q9ElXO?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Electrical Engineering / Signals and Systems",
+   "name": "All Material",
+   "url": "https://drive.google.com/drive/folders/1LQ5mDXB0rGYaGqoZwDAE8sOKhYYDphx-?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Civil Engineering",
+   "name": "Engineering Geology",
+   "url": "https://drive.google.com/drive/folders/1TV-4zAOFkSoGXdfzgW3dbAV1hVghvowN?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Civil Engineering",
+   "name": "FLuid Mechanics",
+   "url": "https://drive.google.com/drive/folders/1SJ7WTgJcCrfH2A4M3-h3jC1gY0rI3MZG?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Civil Engineering",
+   "name": "M & C Practices",
+   "url": "https://drive.google.com/drive/folders/1e-2op15ftyIHoUOOeBTqsHx3a-NSmWeu?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Civil Engineering",
+   "name": "Mathematics",
+   "url": "https://drive.google.com/drive/folders/132tW6RLq5boRP8P-wb9EcDnk3DHKfVZk?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Civil Engineering",
+   "name": "Quantity Survey",
+   "url": "https://drive.google.com/drive/folders/1c4SjlzJMjBeiiOr50uQXihw6hvWDyqDo?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Civil Engineering",
+   "name": "Fluid Mechanics Lab",
+   "url": "https://drive.google.com/drive/folders/1N8ZzoOEU_NhzTKQaMVwPRVuulDRuCHUO?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Civil Engineering",
+   "name": "Materials Lab",
+   "url": "https://drive.google.com/drive/folders/188vUxxKZfJx2sCSSzKjLEFQ4Ef1sZcAy?usp=sharing"
+  },
+  {
+   "path": "Notes / Second Year / Civil Engineering",
+   "name": "Geology Lab and Maps",
+   "url": "https://drive.google.com/drive/folders/1yRhlhYBPlrLdzT7m6CrMpvyI971GvnwZ?usp=sharing"
+  },
+  {
+   "path": "Notes / Labs (First Year)",
+   "name": "Applied Physics",
+   "url": "https://drive.google.com/drive/folders/1eZYFJSBQAuXuc2LfYTOf7lAdmv4YSS69?usp=drive_link"
+  },
+  {
+   "path": "Notes / Labs (First Year)",
+   "name": "Applied Chemistry",
+   "url": "https://drive.google.com/drive/folders/1D73SQe6LUD144TCTWb9Ur3Pw15WcAwS4?usp=drive_link"
+  },
+  {
+   "path": "Notes / Labs (First Year)",
+   "name": "Computer Programming",
+   "url": "https://drive.google.com/drive/folders/1Pbk2_H1IyEHkjLNUixMNjEc8Uqri7p40?usp=drive_link"
+  },
+  {
+   "path": "Notes / Labs (First Year)",
+   "name": "Engineering Workshop",
+   "url": "https://drive.google.com/drive/folders/1ViMtU36AmoKzWxqQs01bA3R8odOy8-fc?usp=drive_link"
+  },
+  {
+   "path": "Notes / Labs (First Year)",
+   "name": "Engineering Graphics",
+   "url": "https://drive.google.com/drive/folders/1y9ZCw8jq2VAfxD3ZkI4WJXaPl-TAlzuc?usp=drive_link"
+  },
+  {
+   "path": "Notes / Labs (First Year)",
+   "name": "English Communication",
+   "url": "https://drive.google.com/drive/folders/1AberrZYIfJgYkjcNrai5YieZ4sihhpd-?usp=drive_link"
+  },
+  {
+   "path": "PYQ",
+   "name": "Pyq's (First Year)",
+   "url": "https://drive.google.com/drive/folders/12B68ghGX7GpjG33Ww8SW5P74A-WWp2wG?usp=sharing"
+  }
+ ]
+}

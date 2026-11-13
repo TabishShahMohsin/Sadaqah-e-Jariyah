@@ -1,0 +1,63 @@
+{
+ "id": "20261113-173908-coe-general-pyqs",
+ "created": "2026-11-13T17:39:08+00:00",
+ "source": {
+  "kind": "sort",
+  "by": "maintainer",
+  "note": "Computer Engineering _General-PYQs: four semester-5 bundles whose papers are all filed already; the one missing paper (ME340 2019-20) kept; two duplicates and a misread folder name"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/ME340_Economics-and-Management/PYQs-and-Assignments/Sem-End_2019-20_ME340.pdf",
+   "s": 1482385,
+   "h": "0da18450d1bc80c06d0308ec77b102b08c307b3fa1733e8941a19e7c96ccf4b5",
+   "t": 1794591548,
+   "meta": {
+    "credit": "Sayyed Arib Hussain"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_General-PYQs/Sem-End_2017-18_Computer-Engineering-Sem5.pdf",
+   "reason": "paper bundle: every paper in it is already filed under its own course"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_General-PYQs/Sem-End_2019-20_Computer-Engineering-Sem5.pdf",
+   "reason": "paper bundle: every paper in it is already filed under its own course"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_General-PYQs/Sem-End_2018-19_Computer-Engineering-Sem5.pdf",
+   "reason": "paper bundle: every paper in it is already filed under its own course"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_General-PYQs/Sem-End_2015-16_Computer-Engineering-Sem5.pdf",
+   "reason": "paper bundle: every paper in it is already filed under its own course"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/CO209_Computer-Enginerring/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "reason": "duplicate of COC3162 Sem-End_2014-15 (same CO-209 paper)"
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/EL340_Communication-Enginnering/PYQs-and-Assignments/Sem-End_2014-15.pdf",
+   "reason": "duplicate of ELA3402 Sem-End_2014-15 (same EL-340 paper)"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AM262_Course-Code/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AM262_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2016-17.pdf",
+   "reason": "course folder name was misread: AM-262 Higher Mathematics-II (Numerical Analysis, Transforms & Probability)"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AM262_Course-Code/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "to": "BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AM262_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "reason": "course folder name was misread: AM-262 Higher Mathematics-II (Numerical Analysis, Transforms & Probability)"
+  }
+ ]
+}
