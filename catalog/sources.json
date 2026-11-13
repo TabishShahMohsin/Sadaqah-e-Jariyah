@@ -352,7 +352,7 @@
    "title": "AMU Cloud",
    "url": "https://www.amucloud.in/",
    "credit": "AMU Cloud",
-   "covers": "Notes by year and branch (Drive-backed)",
+   "covers": "Notes, slides, assignments and PYQs: first year, and second-year Computer, Electronics, Electrical and Civil (site now offline; its Drive links are in catalog/amucloud-tree.json)",
    "status": "merged",
    "note": "first-year notes taken earlier; see _Inbox/AMU-Cloud-manifest.tsv"
   },

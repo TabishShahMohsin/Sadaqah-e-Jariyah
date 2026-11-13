@@ -1,0 +1,767 @@
+{
+ "id": "20261113-190454-amucloud-ee",
+ "created": "2026-11-13T19:04:54+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "credit": "AMU Cloud",
+  "note": "From AMU Cloud (amucloud.in, now offline), a student-run site of Drive folders. B.Tech Electrical Engineering, 2nd year: Circuit Theory, Electrical Machines 1, Electrical Engineering Materials, Signals and Systems (Unit folders and 'All Material' folders). The 'All Material' folders mix in published textbooks (Hayt, Ashfaq Hussain, Haykin), which are not published here."
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-1/Lecture-02_Review-of-Fundamental-Concepts.pdf",
+   "s": 209061,
+   "h": "b40a18c3b47bee89b08466dd7531355c3d29ea23f0d5d83c0e5158078ce7205f",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Lecture 2 · Review of Fundamental Concepts",
+    "summary": "Handwritten class notes dated 8 August 2020 starting the Circuit Theory course with a review of fundamental concepts.",
+    "kind": "slides",
+    "year": "2020-21",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-1/Lecture-03_Inductors-and-Capacitors.pdf",
+   "s": 551768,
+   "h": "e1be0297d2c63dc5d208c65e5a252c6b00b7ddab219fa0621c76a38acf776610",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Mohammad Zaid",
+    "title": "Lecture 3 · Inductors and Capacitors",
+    "summary": "Slides after a review of ideal/non-ideal, active/passive and lumped/distributed elements, introducing the inductor and capacitor.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-1/Lecture-04_Capacitors.pdf",
+   "s": 787218,
+   "h": "9bf79342d457c952a85f31d55ef528e1dc9da3ac8caee7a26f48c899965e99e8",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Mohammad Zaid",
+    "title": "Lecture 4 · Capacitors",
+    "summary": "Slides on capacitors: capacitor types such as radial/electrolytic, behaviour and basic relations, following Alexander & Sadiku.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-1/Lecture-05_First-Order-Circuits-Source-Free-RC-RL.pdf",
+   "s": 400556,
+   "h": "ed2aa437aeafadc0256bbaa7d2b8e2f7ff35e31184bc517fc2c6d7da63fada60",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Mohammad Zaid",
+    "title": "Lecture 5 · First Order Circuits (Source-Free RC/RL)",
+    "summary": "First of the first-order circuits lectures: source-free RC and RL circuits and their natural responses.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-1/Lecture-06_First-Order-Circuits-Forced-Response.pdf",
+   "s": 316349,
+   "h": "4f5b8e8e5faf4de0f9ce41352742c8e059c114e3822b8d1243f752ed479d9257",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Mohammad Zaid",
+    "title": "Lecture 6 · First Order Circuits — Forced Response",
+    "summary": "Slides on the forced (step) response of first-order RC and RL circuits.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-1/Lecture-07_First-Order-Circuits-Source-Free-RC-RL.pdf",
+   "s": 162618,
+   "h": "068c51d9c27bcbe373416c9071687cf78b565893a2ab18f9f0d83df7f7eab42d",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Mohammad Zaid",
+    "title": "Lecture 7 · First Order Circuits (Source-Free RC/RL)",
+    "summary": "Further slides on source-free RC/RL first-order circuits; deck header reads Lecture 7 although the file metadata says Lecture 6.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-1/Lecture-08_First-Order-Circuits-Forced-Response.pdf",
+   "s": 183277,
+   "h": "40b59064f5d3a30fef60fc002efed255f6eaef5a709a9d90c3cd099b0eb7da3f",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Mohammad Zaid",
+    "title": "Lecture 8 · First Order Circuits — Forced Response",
+    "summary": "More slides on forced response of first-order circuits with worked examples; deck metadata title still says Lecture 6.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-1/Lecture-09_Second-Order-Circuits.pdf",
+   "s": 160073,
+   "h": "6326a80687bdb663fb4bfd6e3dee3c37ff32492d52ef9ab259df515436d34fb1",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Mohammad Zaid",
+    "title": "Lecture 9 · Second Order Circuits (Transient and Forced Response)",
+    "summary": "Slides on second-order RLC circuits: transient and forced response, damping cases and initial/final conditions.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-2/Class-Notes_Unit-2_Filters.pdf",
+   "s": 570067,
+   "h": "0d852909f37284bd5bf8aeadcbd8ff782a8e9530894d18a65e7c3894102caff7",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 2 notes · Filters",
+    "summary": "Typed Unit 2 notes on wave filters: pass/stop bands, cut-off frequency, decibels and nepers, filter types, T and π sections, attenuation and phase constant.",
+    "kind": "typed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-2/Class-Notes_Filters_2023-24.jpg",
+   "s": 54533,
+   "h": "458694877cde824fca990dcf050ec73e3ff18220794d075549662a0b5fa6d707",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Filters — design formulae notes (page)",
+    "summary": "One handwritten notebook page on filter design: pass/stop band sketch, characteristic impedance Zo, cut-off frequency fc and formulae for L and C.",
+    "kind": "photo",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Unit-2/Class-Notes_Filters_2023-24_2.jpg",
+   "s": 199788,
+   "h": "a3fbb0cb0f6baf7cee5b20bc2fff964f87a440c3049ccbb464ad86e04121ac2b",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Filters — T and π sections notes (page)",
+    "summary": "One handwritten notebook page on low-pass and high-pass filters in T and π sections, with Zo, fc, L, C, attenuation and phase-constant formulae.",
+    "kind": "photo",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Syllabus/EEC2710_Old-Syllabus.pdf",
+   "s": 107598,
+   "h": "e42709a9dd2e3dd90d60882f9be91b2596c2098e8ba3655d10f874fb8fbea9c1",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "EEC2710 syllabus · Circuit Theory",
+    "summary": "Official EEC2710 (2021-scheme) Circuit Theory syllabus: credits, assessment weightings, course objectives and outcomes.",
+    "kind": "typed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Unit-4/Lecture-Slides_Paramagnetism-Classical-Treatment.pdf",
+   "s": 1794813,
+   "h": "7ca8cff8486a9c16eae7296acf56ff93c67cb266b54f786c1a8076232edf3057",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Paramagnetism · classical treatment in the canonical ensemble",
+    "summary": "Slides on the classical statistical-mechanics treatment of paramagnetism: permanent magnetic moments from electron spin, canonical ensemble derivation and Curie behaviour.",
+    "kind": "slides",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Unit-2/Lecture-15_Local-Electric-Field.pdf",
+   "s": 541622,
+   "h": "bc06483e8dfd8e1474fddd8a5ea3b1ef39a8fb84a935b79ebbc26189b30dd307",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Shakeel Khan",
+    "title": "Lecture 15 · Local Electric Field",
+    "summary": "Local (effective) field at an atomic site, the contribution of neighbouring dipoles and the Lorentz field used to treat dielectric properties of solids and liquids.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Unit-2/Lecture-Slides_Dipolar-Relaxation.pdf",
+   "s": 717909,
+   "h": "58d8fc3d731fcf5a81b645c2b0a2f1c76106fcc9854789453752afaf0b6c3784",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Shakeel Khan",
+    "title": "Dipolar relaxation and dielectric losses",
+    "summary": "Frequency dependence of orientational polarisation: Debye relaxation of permanent dipoles, relaxation time and the resulting dielectric losses.",
+    "kind": "slides",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Unit-1/Lecture-Slides_Resistivity-and-Electron-Scattering.pdf",
+   "s": 882193,
+   "h": "0a8fa8b3bc8501b9e2a1a62969208ba7e7775891940ef335b6b6d2e192c6cc55",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Shakeel Khan",
+    "title": "Factors affecting resistivity and electron scattering",
+    "summary": "Why lattice-vibration theory fails for alloys: impurity scattering, scattering cross-section and the factors that govern the resistivity of conducting materials.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Unit-3/Lecture-Slides_Insulating-Materials.pdf",
+   "s": 3013182,
+   "h": "e9472a69aaf836cd1013d7eace3a789ceacdc07dbec45628cd11113f60a92239",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Insulating materials · properties and applications",
+    "summary": "Long slide deck on insulating materials: general physical, electrical, thermal, chemical and mechanical properties, and applications of plastics, natural and gaseous insulants.",
+    "kind": "slides",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Unit-1/Lecture-Slides_Superconductivity-and-Electrical-Contact-Materials.pdf",
+   "s": 775849,
+   "h": "3a16c5b5feb6d8b479b9ce1b406cb91576a1b6a2bfc4920c4ef693a8eb17c26e",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Shakeel Khan",
+    "title": "Superconductivity and electrical contact materials",
+    "summary": "Slides on superconductivity (Meissner effect, type I/II, BCS, Josephson junctions, SQUIDs, high-Tc materials) followed by solder, brazing and electrical contact materials.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Unit-1/Lecture-Slides_Course-Outline-and-Free-Electron-Theory.pdf",
+   "s": 878120,
+   "h": "1ea47b0b744b8ef362579ced14758a1ceb590c81909ec038cfbe23c9d723613c",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Shakeel Khan",
+    "title": "Course outline and introduction · free-electron theory of metals",
+    "summary": "Opening lecture of APS2050: course number, credits, assessment and outcomes, reference books, then classification of materials by resistivity and the Drude free-electron model.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Unit-2/Lecture-Slides_Dielectrics-in-Alternating-Fields.pdf",
+   "s": 439959,
+   "h": "1e8567b3ef12d35412cd4d59d214c42b469331577eefe58d30a43acdfca862ba",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Shakeel Khan",
+    "title": "Behaviour of dielectrics in alternating fields",
+    "summary": "Electronic polarisability and its frequency dependence, dielectric constant and losses of materials in alternating fields.",
+    "kind": "slides",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Unit-4/Lecture-Slides_Magnetic-Properties-of-Materials.pdf",
+   "s": 1393674,
+   "h": "070ec04943c5b6832be4b63abe798e11baa8c833d105395b3b98a75461300966",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Magnetic properties of materials",
+    "summary": "Short slide set on measuring magnetic properties, the atomic origins of magnetism, applied field and induction, susceptibility and classification of magnetic materials.",
+    "kind": "slides",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Unit-2/Notes_Polyatomic-Dielectric_2023-24.pdf",
+   "s": 452590,
+   "h": "5ee8a300a9003a187bae1f21dfdb4d41d856129a3ab3a776275867952ee9a069",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Shakeel Khan",
+    "title": "Dielectric constant of polyatomic molecules",
+    "summary": "Notes on the dielectric constant of polyatomic molecules: temperature dependence, electronegativity of bonded atoms and molecular dipole moments.",
+    "kind": "slides",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/PYQs-and-Assignments/Z_Question-Bank_APS2050.pdf",
+   "s": 40420,
+   "h": "d5fb26567881a0f479bdd236137bd0c2c5801de8ee536998ef81fc1cbdaee99e",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Question bank · numericals on magnetic properties",
+    "summary": "Set of practice numericals on magnetic materials: magnetisation, susceptibility, Curie law and Weiss field, plus a question on Langevin theory of paramagnetism.",
+    "kind": "typed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Unit-3/Lecture-Slides_Transformer-Oil-Testing-and-Analysis.pdf",
+   "s": 3101932,
+   "h": "2ebb95764aba56cb47331a0e12cfe1955034024c646d50dce08884d61ebd1e8c",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Transformer oil · testing and analysis",
+    "summary": "Slides on transformer oil: chemistry and composition, ageing, dielectric and degradation diagnostics and oil testing parameters.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Complete-Notes/Class-Notes_Magnetic-Properties-of-Materials.pdf",
+   "s": 10895068,
+   "h": "a2148d8af08ffcefdcb763eaeed414e7f68ec06e635578d4162f9930d1ebe3d3",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Class notes · magnetic properties of materials",
+    "summary": "Handwritten notes on magnetism in materials: magnetization, permeability and susceptibility, domains and hysteresis, ferro-, ferri- and paramagnetism.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Books-and-Resources/Physical-Constants.png",
+   "s": 555543,
+   "h": "7e0564ad2a675c8c176bae4e0c2aaaab0bde82b5d0ca3f0cd7a6c74a850f37ae",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Physical constants chart",
+    "summary": "One-page chart of physical constants (speed of light, Planck, Boltzmann, electron charge and mass, and others) used in the course.",
+    "kind": "photo",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Syllabus/APS2050_Old-Syllabus_2018-19.pdf",
+   "s": 400383,
+   "h": "075e1b0830ba625d592c8fad13955df02c322fcbbbdc1c7fa787ce51a0ea8f1e",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "APS2050 syllabus (old scheme)",
+    "summary": "Official APS2050 Electrical Engineering Materials course outline approved by the B.O.S. in 2018, with units 1-4 and the reference books.",
+    "kind": "typed",
+    "year": "2018-19",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Unit-1/Class-Notes_Unit-1_Conductivity-and-Free-Electron-Theory.pdf",
+   "s": 4175093,
+   "h": "317ac9efab898466522e14bfff3aa64ec11fe0c7c7ed1a44a108c3e1845f73c9",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 1 notes · conductivity and free electron theory",
+    "summary": "Handwritten Unit 1 notes: resistivity of conductors, semiconductors and insulators, Drude model and its assumptions, relaxation time and conductivity.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Unit-3/Class-Notes_Unit-3_Insulating-Materials.pdf",
+   "s": 5346994,
+   "h": "8a8e146261ef3cc8b592fef4c17e9ad5dad644578d3f2e232706a6b36dd46c50",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 3 notes · insulating materials and their applications",
+    "summary": "Handwritten Unit 3 notes on insulating materials: required characteristics, classification by substance and temperature, solid, liquid and gaseous insulators.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Unit-4/Class-Notes_Unit-4_Magnetic-Properties.pdf",
+   "s": 9384779,
+   "h": "d3a56d200cb505e9ca3a4d42f1b551d145e249d7e274c25269dd633ffdbd3a93",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 4 notes · magnetic properties of materials",
+    "summary": "Handwritten Unit 4 notes: magnetization and susceptibility, atomic origin of magnetism, para-, ferro-, antiferro- and ferrimagnetism, ferrites, domains and hysteresis.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Unit-2/Lecture-Slides_Ideal-Transformer.pdf",
+   "s": 412743,
+   "h": "95c6598c44d30929811ed0edaa8815ffed2b0c4b238bdb830561ca296b0c1599",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Slides · ideal transformer",
+    "summary": "Short slide set on the ideal transformer, prepared as Electrical Machines-1 class material with reference to P.S. Bimbhra.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Unit-3/Notes_Induction-Motors-Lec-1-16.pdf",
+   "s": 60638538,
+   "h": "b19b97295490354cc0dc69db81565bc836738e0b8f04d079ea1f6c1b75fd9d1b",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Induction motors · lectures 1-16",
+    "summary": "Printed lecture notes IM 01-16 on three-phase induction motors: rotating field, revolving-field theory, windings and rotors, equivalent circuit, torque and slip characteristics, no-load, blocked-rotor and circle diagram.",
+    "kind": "scan-printed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Unit-3/Notes_Induction-Motors-Lec-17-29.pdf",
+   "s": 49848327,
+   "h": "81e5a9e27bd8d007d6c8119e3a0f3597a7dd7f718a065bd6c3ff3c776351a675",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Induction motors · lectures 17-29",
+    "summary": "Printed lecture notes IM 17-29: starting methods, speed control (stator voltage, frequency, pole changing, rotor resistance, slip-power recovery) and harmonic torques, skewing and slot harmonics.",
+    "kind": "scan-printed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Unit-2/Lecture-Slides_Operation-and-Types-of-Transformer.pdf",
+   "s": 695199,
+   "h": "d4747b34cd967aa459dc65866df548fe36ccf990eb042c73c770e0b6e37d7ca5",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Slides · operation and types of transformer",
+    "summary": "Slide set on how a transformer works and the types of transformers, prepared as Electrical Machines class material with reference to P.S. Bimbhra.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Complete-Notes/Class-Notes_Transformers-Lec-1-14.pdf",
+   "s": 19171689,
+   "h": "9443340c7d0deacb48167fd3c467623d8760800a8bf1cd54879991aae9e21524",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Transformers notes · Lectures 1–14",
+    "summary": "Handwritten notes for fourteen lectures on transformers: construction and types, equivalent circuit, losses, tests, efficiency, regulation, switching transients, auto-transformers, parallel operation, open-delta and Scot",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Unit-2/Class-Notes_Lec-12A-12C_Parallel-Operation-of-Transformers.pdf",
+   "s": 360044,
+   "h": "ace1f31100168b2ffb37de48fd3c9e053c4578601564cd89e6d36ef1631502f3",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 2 notes · Parallel operation of transformers (Lectures 12A–12C)",
+    "summary": "Handwritten notes on parallel operation of transformers: reasons for paralleling, no-load circulating current, essential conditions and load sharing.",
+    "kind": "typed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Syllabus/EEC2110_Syllabus_Official.pdf",
+   "s": 189182,
+   "h": "211c2e462f2121f784d1a305c8103cf0c457ee1e0cada7addf6a9c901e886da3",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Dr. Mohd Tariq",
+    "title": "EEC2110 syllabus · Electrical Machines – I",
+    "summary": "Official course outline for EEC2110 Electrical Machines – I: objectives, outcomes, unit-wise syllabus (transformers, induction machines) and suggested reading.",
+    "kind": "typed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Complete-Notes/Lecture-Slides_Signals-and-Systems_2.pdf",
+   "s": 32047999,
+   "h": "444efb63e76d94cbe1387721fd7c9cb44476b5086ed5511cfd5cd055974e9c08",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Athar Ali Moinuddin",
+    "title": "Signals and Systems · full course slides",
+    "summary": "Lecture slides for the whole ELC2410 Signals and Systems course: signal representation and classification, time-domain analysis, convolution, Fourier, Laplace and z-transform material.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/PYQs-and-Assignments/Z_Tutorial-1_2021-22.pdf",
+   "s": 310985,
+   "h": "6d8cbfdff2f4b5537d9448af9da20d9cd12a5c540b405d911b3c1d3171c2ae28",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Tutorial 1 · 2021-22",
+    "summary": "Tutorial sheet 1 on complex numbers, Euler's formula, polar form and sketching of signals.",
+    "kind": "typed",
+    "year": "2021-22",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/PYQs-and-Assignments/Z_Tutorial-2.pdf",
+   "s": 284404,
+   "h": "6397958a6ef5b32f2b6063fb3af39b152c0a3bbd571dd04a380494b2d2f160b7",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Tutorial · Unit 2 problems",
+    "summary": "Tutorial sheet on time-domain analysis: superposition, discrete- and continuous-time convolution, and block-diagram realisation of difference equations.",
+    "kind": "typed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Unit-1/Class-Notes_Unit-1-Part-1.pdf",
+   "s": 3391269,
+   "h": "37e30bdc5377a88d10bf38e1998d4db99b4112d558138ae5c4faaf26905f3852",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Unit 1 notes · Introduction to Signals and Systems (Part 1)",
+    "summary": "Typed notes introducing signals and systems: definitions, classification of continuous- and discrete-time signals, basic operations and system properties.",
+    "kind": "typed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Unit-1/Class-Notes_Unit-1-Part-2.pdf",
+   "s": 373208,
+   "h": "70294ccb324e21afa26702db2da6ba36b2f9a3cd6bd77336525a490d6837960d",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Unit 1 notes · Ramp function and system classification (Part 2)",
+    "summary": "Typed notes continuing Unit 1: ramp and impulse functions, and the representation and classification of continuous- and discrete-time systems.",
+    "kind": "typed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Unit-2/Class-Notes_Unit-2-Part-1.pdf",
+   "s": 378496,
+   "h": "83d03c4cabf50a4dff91f0badc843b3d8a0e84e744f32a24865b4333e497d15d",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Unit 2 notes · Time-domain analysis (Part 1)",
+    "summary": "Typed notes on time-domain analysis of LTI systems: decomposition into basic signals, delayed impulses, convolution and complex exponentials.",
+    "kind": "typed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Unit-2/Class-Notes_Unit-2-Part-2.pdf",
+   "s": 1529473,
+   "h": "5b393730f2f5b525a16e5bf002724f20d7aaf83dc42e4e52a593d2da71262d24",
+   "t": 1794596694,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Unit 2 notes · Convolution integral and LTI properties (Part 2)",
+    "summary": "Typed notes continuing Unit 2: worked convolution integral with interval overlap, and properties of linear time-invariant systems.",
+    "kind": "typed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Complete-Notes/Notes_Circuit-Theory_2022-23.pdf",
+   "meta": {
+    "credit": "gk7093, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Books-and-Resources/Alexander-Sadiku_Fundamentals-of-Electric-Circuits_Solutions-Manual-4e.pdf",
+   "meta": {
+    "credit": "gk7093, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Books-and-Resources/Dekker_Electrical-Engineering-Materials.pdf",
+   "meta": {
+    "credit": "gk7093, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Books-and-Resources/Solymar-Walsh_Electrical-Properties-of-Materials.pdf",
+   "meta": {
+    "credit": "gk7093, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/Complete-Notes/Notes_Magnetic-Properties-of-Materials_2022-23.pdf",
+   "meta": {
+    "credit": "gk7093, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Complete-Notes/Class-Notes_Condition-for-Max-Efficiency_2022-23.jpeg",
+   "meta": {
+    "credit": "gk7093, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Books-and-Resources/Objective-Questions_Transformers_Book-Appendix.pdf",
+   "meta": {
+    "credit": "gk7093, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Complete-Notes/Class-Notes_Parallel-Operation-of-Transformers_2022-23.jpeg",
+   "meta": {
+    "credit": "gk7093, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Books-and-Resources/Short-Answer-Questions_Transformers_Book-Appendix.pdf",
+   "meta": {
+    "credit": "gk7093, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Complete-Notes/Class-Notes_Electrical-Machines-I_2022-23.pdf",
+   "meta": {
+    "credit": "gk7093, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Books-and-Resources/Haykin_Signals-and-Systems_Unit-1-Extract.pdf",
+   "meta": {
+    "credit": "gk7093, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Books-and-Resources/Oppenheim-Willsky_Signals-and-Systems_Unit-1-Extract.pdf",
+   "meta": {
+    "credit": "gk7093, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Books-and-Resources/Haykin_Signals-and-Systems_Unit-2-Extract.pdf",
+   "meta": {
+    "credit": "gk7093, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Books-and-Resources/Oppenheim-Willsky_Signals-and-Systems_Unit-2-Extract.pdf",
+   "meta": {
+    "credit": "gk7093, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Syllabus/EEC2730_Old-Syllabus_2022-23.pdf",
+   "meta": {
+    "credit": "gk7093, AMU Cloud"
+   }
+  }
+ ]
+}

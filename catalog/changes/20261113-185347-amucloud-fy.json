@@ -1,0 +1,790 @@
+{
+ "id": "20261113-185347-amucloud-fy",
+ "created": "2026-11-13T18:53:47+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "credit": "AMU Cloud",
+  "note": "From AMU Cloud (amucloud.in, now offline), a student-run site of Drive folders. B.Tech first year: Semester 1 = Electronics, English, Maths II, Mechanics, Physics; Semester 2 = Chemistry, Electrical, EVS, Thermal Science; plus first-year lab folders and a first-year PYQ folder. Folder names are the site's topic names (e.g. 'Fourier', 'Unit 2'); 'Teacher Notes' are the teacher's, 'Handwritten Notes' a student's. Much of it is already in the archive credited to AMU Cloud."
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Syllabus/APS1110_Syllabus.pdf",
+   "s": 60372,
+   "h": "be527a080d9cb13a39e16831d66ab51054896d16175c5863e25ee2d24c86d7aa",
+   "t": 1794596027,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Applied Physics syllabus (APS1110)",
+    "summary": "Two-page course outline for Applied Physics APS1110: objectives, outcomes, unit-wise syllabus (semiconductors, lasers, fibre optics, quantum mechanics) and assessment scheme.",
+    "kind": "scan-printed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_PYQ-Compilation_Engineering-Mechanics_2.pdf",
+   "s": 4110064,
+   "h": "c2c9c0d287536d75e6ea477cfdb06fb1cfcb888c2afbd7303b0726364cc1f5a2",
+   "t": 1794596027,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Mechanics PYQ compilation",
+    "summary": "17-page scan bundling Applied Mechanics ME-111 end-semester papers (2014-15 and 2017-18) with statics, kinematics and strength-of-materials questions.",
+    "kind": "scan",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_PYQ-Compilation_Principles-of-Electrical-Engineering.pdf",
+   "s": 304060,
+   "h": "242a23ebba32aaaadd8c70a55be6be8718fcd88b4c169b4112e80539476fe6cc",
+   "t": 1794596027,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Principles of Electrical Engineering PYQ compilation",
+    "summary": "8-page scan with Principles of Electrical Engineering EEA1110 end-semester papers from 2019-20 and 2022-23 (network theorems, transformers, induction motors, alternators, power systems).",
+    "kind": "scan-printed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Z_PYQ-Compilation_First-Year-Mathematics.pdf",
+   "s": 158181,
+   "h": "a71d4fac2f990d88f61fef37c752649dfdf681375e396d814ed71e6c3ec706cd",
+   "t": 1794596027,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "First-year mathematics PYQ compilation",
+    "summary": "6-page scan mixing Applied Mathematics AMS1110 (2022-23, matrices, eigen values, Cayley-Hamilton) and Mathematics-II AM-112 (2019-20, partial derivatives, integration) end-semester papers.",
+    "kind": "scan-printed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Z_PYQ-Compilation_Engineering-Thermodynamics.pdf",
+   "s": 764920,
+   "h": "30704bcb108ef315dbc8cd84f02ede78639de73e1f0fd9756ff26a4198bde398",
+   "t": 1794596027,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Thermal science PYQ compilation",
+    "summary": "19-page scan bundling Engineering Thermodynamics / Thermal Sciences MEA1110 (ME101) end-semester papers from 2019-20 and 2022-23 (laws of thermodynamics, steam cycles, refrigeration, heat engines).",
+    "kind": "scan-printed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-2/Handwritten-Notes_BJT.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-1/Handwritten-Notes_Diode.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-1/Photodiode-and-LED.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-3/Handwritten-Notes_MOSFET.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-3/MOSFET_slides.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-4/Handwritten-Notes_Op-Amp.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-4/Operational-Amplifier_slides.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Syllabus/ELA1110_Syllabus_2023-24.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-4/Solved-Precis.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-3/Describing-Processes.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-4/Precis-Writing.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-3/Report-Writing_Sample.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-1/The-Scientific-Attitude_Text-Passage.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Syllabus/EZH1110_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Z_Assignment-2_Maths-2_2024.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Z_Assignment-1_Handwritten_Unit-2_Change-of-Order-of-Integration.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-4/Handwritten-Notes_Fourier-Series.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-4/Lecture-Plan_Fourier.pdf",
+   "meta": {
+    "credit": "Umar Iqbal, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-4/Teacher-Notes_Lecture-1.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-4/Teacher-Notes_Lecture-2.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-4/Teacher-Notes_Lecture-3.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-4/Teacher-Notes_Lecture-4.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-4/Teacher-Notes_Lecture-5.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Student-Notes_Laplace-Topper.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Lecture-Plan_Laplace.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Teacher-Notes_Lecture-1.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Teacher-Notes_Lecture-2.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Teacher-Notes_Lecture-3.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Teacher-Notes_Lecture-4.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Teacher-Notes_Lecture-5.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Teacher-Notes_Lecture-6.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Teacher-Notes_Lecture-7.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Teacher-Notes_Lecture-8.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-3/Teacher-Notes_Lecture-9.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Student-Notes_Partial-Differentiation.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Lecture-Plan_Partial-Differentiation.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Teacher-Notes_Lecture-1.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Teacher-Notes_Lecture-2.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Teacher-Notes_Lecture-3.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Teacher-Notes_Lecture-4.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Teacher-Notes_Lecture-5.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Teacher-Notes_Lecture-6.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Teacher-Notes_Lecture-7.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Syllabus/AMS1120_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-2/Student-Notes_Multiple-Integrals.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-2/Lecture-Plan_Multiple-Integrals.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-2/Teacher-Notes_Lecture-1.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-2/Teacher-Notes_Lecture-2.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-2/Teacher-Notes_Lecture-3.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-2/Teacher-Notes_Lecture-4.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-2/Teacher-Notes_Triple-Integral.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Assignment-2_Dynamics.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-2/Tutorial-Sheet_Ch12.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-2/Tutorial-Sheet_Ch13.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-3/Tutorial-Sheet_Ch15.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-3/Tutorial-Sheet_Ch16-17.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-3/Tutorial-Solutions_Ch15.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-3/Tutorial-Solutions_Ch16-17.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-2/Tutorial-Solutions_Ch11.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-2/Tutorial-Solutions_Ch13.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-1/Tutorial-Solutions_Ch8.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-1/Statics_Solved-Problems_Beer-Johnston.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Unit-1/Tutorial-Solutions_Ch5.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/FIBRE OPTICS Notes(3).pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/Laser.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/RUBY LASER.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/SEMICONDUCTOR DIODE LASER.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/he-ne laser.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/laser_watermark.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-3/Notes_DOC-20240805-WA0034.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-4/Statistical-Mechanics_watermark.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-4/quantum + statistics.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Records/APS_Practicals-1-to-15.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Records/APS1910_Experiments-1-to-11_Merged_v1.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Physics-Lab-Manual_v2.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Records/Physics-Lab-Report_CamScanner_373274b8.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Viva-Questions.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Records/DUSTPAN REPORT.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Records/GEAR.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Records/Hanger.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Records/MachiningOps-Wiley.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Records/Smithy & Forging Shop (1).pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Manuals/Viva 1.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Manuals/Viva 2.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Records/Unit-14.pdf",
+   "meta": {
+    "credit": "AMUPedia, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Records/Unit-7.pdf",
+   "meta": {
+    "credit": "AMUPedia, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Records/ad.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Records/cv.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Records/letter writing.pdf",
+   "meta": {
+    "credit": "AMUPedia, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Records/resume.docx",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Records/some business terms.pdf",
+   "meta": {
+    "credit": "AMUPedia, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Mid-Sem_2023-24_First-Year_Part-B.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/PYQs-and-Assignments/Z_PYQ-Compilation_Electronics-All-Papers.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_PYQ-Compilation_English-All-Papers.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_PYQ-Compilation_Applied-Physics-Sets_2017-18.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/PYQs-and-Assignments/Z_PYQ-Compilation_Chemistry-All-Papers.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_PYQ-Compilation_2022-23.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Mid-Sem_First-Year_Papers-Collection.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/PYQs-and-Assignments/Z_PYQ-Compilation_Chapter-Wise.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Z_PYQ-Compilation_Sem-1_2023-24.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Z_PYQ-Compilation_Internals-and-Mid-Sems_2023-24.pdf",
+   "meta": {
+    "credit": "Farhan Baig, AMU Cloud"
+   }
+  }
+ ]
+}

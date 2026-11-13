@@ -1,0 +1,737 @@
+{
+ "id": "20261113-185623-amucloud-coe",
+ "created": "2026-11-13T18:56:23+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "credit": "AMU Cloud",
+  "note": "From AMU Cloud (amucloud.in, now offline), a student-run site of Drive folders. B.Tech Computer Engineering, 2nd year. Third Sem: Digital Logic and System Design, DSA, OOP (C++, Java), Electronic Devices and Circuits. Fourth Sem: Software Engineering (Teachers's = the teacher's slides), Computer Architecture, DAA, Discrete Structures, Numerical Analysis, Signals and Systems. Course numbers follow the current curriculum where the semester matches. Some of it is already in the archive credited to AMU Cloud. Saved web pages (.html) are not study material."
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/PYQs-and-Assignments/Z_Quiz_Today-Question.pdf",
+   "s": 59008,
+   "h": "5836b4d2d98773b9c333f751b22eaf077471b63cc13ad63b3c9345cda6ad495d",
+   "t": 1794596183,
+   "meta": {
+    "title": "Today-Question quiz · Unit-II revision (software metrics)",
+    "summary": "Fill-in-the-blank class revision questions, with answers revealed on the following slides, on function points, external inputs and other software metrics concepts.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Lecture-Slides_Unit-1.pdf",
+   "s": 2947510,
+   "h": "bf1d45d2b10a33e66fb73ce373993076e9b67bfb838808410ab191c2b8b05086",
+   "t": 1794596183,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Prof. M. M. Sufyan Beg",
+    "title": "Unit 1 slides · Number Systems, Binary Codes and Boolean Algebra",
+    "summary": "Unit 1 lecture deck: number systems, complements and subtraction, binary codes, Boolean algebra, Boolean functions, Karnaugh maps and two-level implementations.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-2/Lecture-Slides_Unit-2.pdf",
+   "s": 2435378,
+   "h": "1741462948c3780ae52718f9ed0d4cb8553bcf146baa8d380189ebb71e249d3b",
+   "t": 1794596183,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Prof. M. M. Sufyan Beg",
+    "title": "Unit 2 slides · Combinational Circuits",
+    "summary": "Unit 2 lecture deck: XOR and equivalence functions, half and full adders, magnitude comparators, decoders, encoders, multiplexers, ROM and PLA.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-3/Lecture-Slides_Unit-3.pdf",
+   "s": 2035944,
+   "h": "806f4fb78da51df3c756473db96f7d7b5d7d4a4c899365ee860ceaa07b71da8f",
+   "t": 1794596183,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Prof. M. M. Sufyan Beg",
+    "title": "Unit 3 slides · Sequential Circuits",
+    "summary": "Unit 3 lecture deck: basic RS, clocked, JK and T flip-flops, excitation tables, sequential circuit design, counters, shift registers and RAM.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/Lecture-Slides_Unit-4.pdf",
+   "s": 3020290,
+   "h": "0608b9871f8e6f108bfb523e04e69b5e1a6d318c97cfb9ad48c0b1c22c86d4df",
+   "t": 1794596183,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Prof. M. M. Sufyan Beg",
+    "title": "Unit 4 slides · Register Transfer Logic",
+    "summary": "Unit 4 lecture deck: register transfer logic, a simple computer, arithmetic circuit and ALU design, control signals and accumulator design.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Lecture 2 dated 17.docx",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Lecture01.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/PYQs-and-Assignments/Mid-Sem_2017-18_Old-Teacher_CO-446N.doc",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Software Characteristics.docx",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Software Engineering-1.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Software Evolution.docx",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Unit-I.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Old-Teacher_Example-Requirement-Engineering.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Old-Teacher_SRS.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Requirements_Tree-Swing-Cartoon.png",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Software does not wear.docx",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Fundamentals-of-Software-Testing_webpage/Fundamentals of Software Testing - International Software Test Institute_files/how_often_do_we_need_to_test.png",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Fundamentals-of-Software-Testing_webpage/Fundamentals of Software Testing - International Software Test Institute_files/what_are_severity_and_priority.png",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Fundamentals-of-Software-Testing_webpage/Fundamentals of Software Testing - International Software Test Institute_files/what_has_to_be_really_tested.png",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Fundamentals-of-Software-Testing_webpage/Fundamentals of Software Testing - International Software Test Institute_files/what_is_a_defect.png",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Old-Teacher_Unit-II.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Review-Techniques.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Old-Teacher_COCOMO_Model_IITD_m11L28.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Old-Teacher_Ch08.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Old-Teacher_Data Flow Diagram.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Old-Teacher_Function_Point_PPT_abbas.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Old-Teacher_Requirement Analysis-I.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Old-Teacher_Software_Teams.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Old-Teacher_Unit-II (Teacher_s).pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Old-Teacher_softwaremetrics-100828232545-phpapp01.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Architectural design.docx",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/PYQs-and-Assignments/Z_Assignment_Old-Teacher_Functional-Independence.docx",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/PYQs-and-Assignments/Z_Assignment_Old-Teacher_Functional-Independence.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Cohesion.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Design_Introduction.mp4",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Design_Introduction.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Design-Concepts-III.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Design_Quality.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Design_Quality_I.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Old-Teacher_Requirement Analysis-II.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Old-Teacher_usccse88-500.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Old-Teacher_usecases - Additional Information.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Design Engineering.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Design-Part-1.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Design-Part-12.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Design-Part-123.mp4",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Design-Part-2.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Design-Part-3.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Old-Teacher_Ch08 (Unused).pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Pressman-Design-Engineering.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Old-Teacher_Coding Style and Practice.docx",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Old-Teacher_Cyclomatic Complexity.docx",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Old-Teacher_Cyclomatic Complexity.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Old-Teacher_Programming-Practice.txt",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Soft_Conf_Mgmt_ch22.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Old-Teacher_Software Testing Techniques.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Old-Teacher_Verification vs Validation.docx",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/ch28-software-reengineering.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Old-Teacher_pressman-ch-25-risk-management-171015164545.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Scanned-Notes_Unit-1.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-2/Handwritten_Unit-2_Requirements-and-Planning.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-1/Lecture-01_Introduction.pdf",
+   "meta": {
+    "credit": "AMUPedia, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-3/Lecture-10_Tree.pdf",
+   "meta": {
+    "credit": "AMUPedia, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-3/Lecture-11_Graph.pdf",
+   "meta": {
+    "credit": "AMUPedia, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-1/Lecture-02_Algorithm-Notation-Pseudocode.pdf",
+   "meta": {
+    "credit": "AMUPedia, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-1/Lecture-03_Algorithmic-Complexity.pdf",
+   "meta": {
+    "credit": "AMUPedia, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-2/Lecture-04_Arrays.pdf",
+   "meta": {
+    "credit": "AMUPedia, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-4/Lecture-05_Sorting-Algorithms.pdf",
+   "meta": {
+    "credit": "AMUPedia, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-4/Lecture-06_Hashing.pdf",
+   "meta": {
+    "credit": "AMUPedia, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-2/Lecture-07_Linked-Lists.pdf",
+   "meta": {
+    "credit": "AMUPedia, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-2/Lecture-08_Stacks.pdf",
+   "meta": {
+    "credit": "AMUPedia, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Unit-2/Lecture-09_Queue.pdf",
+   "meta": {
+    "credit": "AMUPedia, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/Syllabus/COC2060_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Syllabus/COC2070_Old-Syllabus_2017-18.jpg",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/Complete-Notes/Full-Notes_Student.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-2/Inheritance_Complete.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-1/Lecture-31_Pointers.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-1/Lecture-10.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-1/Lecture-12.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-2/Lecture-18_Classes-and-Objects.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-1/Lecture-01_Why-Study-Programming-Languages.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-2/Lecture-36_OOPs-Concepts.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-1/Lecture-03_Programming-Domains-and-Paradigms.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-1/Lecture-06_Cpp-Programming-Basics.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-1/Lecture-12_Structures-in-Cpp.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-1/Lecture-15_Functions-Intro.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-1/Lecture-16_Functions-Recap-Recursion-Inline.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-4/Lecture-37-38_Templates.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-3/Lecture-37_Virtual-Functions-RTTI-VMT.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-4/Lecture-40_Exceptions.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-2/Operator-Overloading_Logical-and-Subscript.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-2/Operator-Overloading_Intro_2021.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Unit-3/Virtual-Functions-RTTI.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Old-Syllabus-Java/GUI_Java.pptx",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Old-Syllabus-Java/Lecture-43_Introduction-to-Java.pptx",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Old-Syllabus-Java/Lecture-44_Executing-Java-Programs.pptx",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Old-Syllabus-Java/Lecture-45-46-47_Inheritance-Polymorphism-Exception-Handling.pptx",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Syllabus/COC2030_Syllabus.pdf",
+   "meta": {
+    "credit": "AMU Cloud"
+   }
+  }
+ ]
+}

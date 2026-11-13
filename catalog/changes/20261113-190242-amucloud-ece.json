@@ -1,0 +1,1411 @@
+{
+ "id": "20261113-190242-amucloud-ece",
+ "created": "2026-11-13T19:02:42+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "credit": "AMU Cloud",
+  "note": "From AMU Cloud (amucloud.in, now offline), a student-run site of Drive folders. B.Tech Electronics Engineering, 2nd year: Circuit Theory, Electronic Devices & Circuits, Logic Circuits, Maths 1 and Maths 2 (the 2nd-year Higher Mathematics courses), Signals and Systems. Each has Unit folders, PYQ, Extra Material, Tutorial Sheets and Assignment folders."
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/PYQs-and-Assignments/Z_Assignment-1.pdf",
+   "s": 109597,
+   "h": "b8be27941a6a26097a520f31e54eeec334180cbc4b9e61fc2b41be35ad49f5b4",
+   "t": 1794596562,
+   "meta": {
+    "title": "Assignment 1 · Reduced incidence matrices and graphs",
+    "summary": "Circuit Theory assignment sheet 1: build complete incidence matrices and oriented graphs from reduced incidence matrices, plus classroom questions.",
+    "kind": "typed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/PYQs-and-Assignments/Z_Assignment-2.pdf",
+   "s": 1383272,
+   "h": "cd631e3ddaf579aec1164a5492a1ac35a379c49e67ca439629337b1dd8c0823a",
+   "t": 1794596562,
+   "meta": {
+    "title": "Assignment 2 · Two-port network parameters",
+    "summary": "Assignment sheet 2 on hybrid, ABCD, z and y parameters of two-port networks and maximum power transfer.",
+    "kind": "scan-printed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/Unit-3/Lecture-Slides_Graph-Theory.pdf",
+   "s": 2993655,
+   "h": "d002d9b9a077c39b92755deb41441d4b20b33a6d0ef42bd8111620d0605501ea",
+   "t": 1794596562,
+   "meta": {
+    "professor": "Dr. Anwar Sadat",
+    "title": "Unit 3 slides · Graph Theory",
+    "summary": "Teacher's slides for Unit III: branches, nodes, linear graphs, trees, incidence and network equations.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/Unit-4/Lecture-Slides_Two-Port-Circuit-Parameters.pdf",
+   "s": 2251821,
+   "h": "fc4f93d29d4866776bda287094a3ab9311fbdef5b35ef19980ef092663427dcd",
+   "t": 1794596562,
+   "meta": {
+    "professor": "Dr. Anwar Sadat",
+    "title": "Unit 4 slides · Two-Port Circuit Parameters",
+    "summary": "Teacher's slides for Unit IV: two-port networks, y, z, h and ABCD parameters and their interrelations.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/Complete-Notes/Class-Notes_Circuit-Theory_2022-23.pdf",
+   "s": 2498024,
+   "h": "b490608ac2c8de3a4d22f0ff3318e630e9f4a716551bc6b9be690ed3cb3d4a35",
+   "t": 1794596562,
+   "meta": {
+    "title": "Handwritten notes · Circuit Theory (September lectures)",
+    "summary": "Photographed handwritten notes starting from circuit elements and power, then source transformation and nodal analysis.",
+    "kind": "scan-handwritten",
+    "year": "2022-23",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/Complete-Notes/Notes_Circuit-Theory_2022-23.pdf",
+   "s": 36323428,
+   "h": "0265f4a820817614cc0c0c05467a2e89b7736f06219e0899a439602a937dae99",
+   "t": 1794596562,
+   "meta": {
+    "title": "Circuit Theory handwritten notes (whole course)",
+    "summary": "126 pages of handwritten circuit theory notes, from circuit elements and network theorems to two-port networks.",
+    "kind": "scan-handwritten",
+    "year": "2022-23",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/PYQs-and-Assignments/Sem-End_2019-20_ELC2120_Set-2.pdf",
+   "s": 4702514,
+   "h": "eb9dd20ce0c24bda867354f8d6be2260a0aa4498b67b7b021e9326145c3d71f6",
+   "t": 1794596562,
+   "meta": {
+    "title": "Sem-End papers · Circuit Theory (multi-year scan, 2019-20 first)",
+    "summary": "Scanned bundle of sem-end Circuit Theory papers: 2019-20, 2018-19 and further years, with figures.",
+    "kind": "scan-printed",
+    "year": "2019-20",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/Syllabus/ELC2120_Syllabus_2018-19.pdf",
+   "s": 412686,
+   "h": "2c1fe4ad288d2e1bed55ecac8f96d14b2fa6044b245a63fbe40a37e3f0da6e2f",
+   "t": 1794596562,
+   "meta": {
+    "title": "Circuit Theory syllabus (ELC2120, effective 2018-19)",
+    "summary": "One-page official syllabus and course outcomes for Circuit Theory ELC2120, effective from 2018-19.",
+    "kind": "scan-printed",
+    "year": "2018-19",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/PYQs-and-Assignments/Z_Tutorial-1_Solution.pdf",
+   "s": 94195,
+   "h": "c59b79a379a8c1241a920291f8b9bd669fd46cd1351f248b8bcd742cc1c09d72",
+   "t": 1794596562,
+   "meta": {
+    "title": "Tutorial 1 answers · Unit I",
+    "summary": "Final answers to the twenty Unit I tutorial problems on node and mesh analysis and transients.",
+    "kind": "typed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/PYQs-and-Assignments/Z_Tutorial-1.pdf",
+   "s": 390605,
+   "h": "3623949df62d63db3aa0e7d11c3547742e3646899096018a2f84f51098c7070c",
+   "t": 1794596562,
+   "meta": {
+    "professor": "Dr. Mohd Tausif",
+    "title": "Tutorial 1 · Unit I",
+    "summary": "Tutorial sheet of twenty Unit I problems with circuit figures on basic network analysis.",
+    "kind": "typed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/PYQs-and-Assignments/Z_Tutorial-2.pdf",
+   "s": 344832,
+   "h": "45d93c2cc94ecf8c40a486798a6b1de8c057b2fed8508330cf2d46534a32a0eb",
+   "t": 1794596562,
+   "meta": {
+    "title": "Tutorial 2 · Circuit Theory (ELC2120)",
+    "summary": "Handwritten tutorial sheet 2: Norton equivalent, switching transients and state-variable model problems.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/Unit-1/Class-Notes_Unit-1.pdf",
+   "s": 43005288,
+   "h": "94cad7b8e850aaf9a7f78515652adae23d9a74055ec73a182883771c5f112315",
+   "t": 1794596562,
+   "meta": {
+    "title": "Unit 1 handwritten notes",
+    "summary": "36 pages of handwritten Unit 1 notes on source transformation, linearity and basic network analysis.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/Unit-1/Lecture-Slides_Unit-1.pdf",
+   "s": 4346193,
+   "h": "b02d87eeba9b1e4f72094a73e57f43e68748881a4b6801dc20e41cd53fc4b5f2",
+   "t": 1794596562,
+   "meta": {
+    "professor": "Dr. Anwar Sadat",
+    "title": "Unit 1 slides · Course outline and Elementary Network Analysis",
+    "summary": "Teacher's Unit I slides: course outcomes and syllabus, then elementary network analysis of circuits.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/Unit-1/Class-Notes_Unit-1_Teacher-Notes.pdf",
+   "s": 10618280,
+   "h": "9919a87a8b1b18ba5b2ed4b5953a8114f0ff884d2640b32f2da71084288090d8",
+   "t": 1794596562,
+   "meta": {
+    "title": "Unit 1 notes given by the teacher",
+    "summary": "Photographed handwritten class sheets on source transformation, source shifting and circuit simplification.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/Unit-2/Class-Notes_Unit-2.pdf",
+   "s": 14385965,
+   "h": "e1c5dfc764282466201bf3433a088fe85ed7bdecfb19b9b07de04c319cd8868f",
+   "t": 1794596562,
+   "meta": {
+    "title": "Unit 2 handwritten notes",
+    "summary": "37 pages of handwritten Unit 2 notes on steady-state sinusoidal analysis using phasors.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/Unit-2/Notes_Sinusoidal-Steady-State-Analysis.pdf",
+   "s": 1147205,
+   "h": "8c202bba19e693ed46e0e1967a34d3c58991205cfd122221d47e1d284fe986d0",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 2 notes · Sinusoidal Steady State Analysis of RLC Circuits",
+    "summary": "Typed teacher's notes on sinusoidal steady state, phasors, Euler's identity and the analysis of RLC circuits.",
+    "kind": "scan-printed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/Unit-3/Class-Notes_Unit-3_2023-24.pdf",
+   "s": 10886545,
+   "h": "7549aba21c7de345c7152a705694545dee92586c8a169aa75783087a493d12b6",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 3 notes · Graph Theory",
+    "summary": "Handwritten Unit 3 notes on network graph theory: nodes, branches, oriented graphs, topology and trees.",
+    "kind": "scan-handwritten",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2122_Circuit-Theory/Unit-4/Class-Notes_Unit-4.pdf",
+   "s": 20263372,
+   "h": "384850527207a63242849da97b501f7adb831ddd22b929a998585a9f9de0bbe2",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 4 notes · Two Port Networks",
+    "summary": "Handwritten Unit 4 notes on two-port networks: z-, y-, h- and ABCD parameters and their interrelations.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits/Unit-3/Class-Notes_MOSFET.pdf",
+   "s": 2790615,
+   "h": "2043336646ff496fb1d007740af0f7def8b146aebfd6128a3ba45cb387032d26",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "MOSFET notes",
+    "summary": "Handwritten notes on the MOSFET: principle of field-effect control, symbols, structure and the channel-formation region.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits/Unit-2/Lecture-Slides_Problems.pdf",
+   "s": 2740360,
+   "h": "abdc9cd981d431dd5f71915c2333461e6bd7392015268c53cffb4dbed1e69c98",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Mohd Kashif",
+    "title": "Problems · BJT circuit problems",
+    "summary": "Teacher's problem slides on BJT circuits: device currents and voltages, active-mode limits and current-source figures.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits/Complete-Notes/Class-Notes_EDC_2022-23.pdf",
+   "s": 28434164,
+   "h": "5a2da68548f15d57e82acc768d9bb2a33ad48764592d667fb9e9e1356e9ea70c",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "EDC complete notes",
+    "summary": "Ninety-three pages of handwritten EDC notes covering the whole course: semiconductor physics, diode, BJT, MOSFET and amplifier basics.",
+    "kind": "scan-handwritten",
+    "year": "2022-23",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits/Unit-2/Lecture-Slides_Problems-2.pdf",
+   "s": 1884546,
+   "h": "53f8ab37b7d5a16fdeaba4d203a1a4b6f5f7a9637f32f929ca0e72c71ea841b4",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Mohd Kashif",
+    "title": "Problems · BJT and MOSFET worked problems",
+    "summary": "A longer set of teacher problem slides with worked textbook examples on BJT biasing, small-signal operation and MOSFET devices.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits/Syllabus/ELC2110_Syllabus_2020-21.pdf",
+   "s": 794668,
+   "h": "2c0f9274be8cfb9bc5cf82b251c198858c061bcae2c7da1566b0f8ed59e659b7",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "ELC2110 syllabus · session 2020-21",
+    "summary": "Official one-page syllabus for Electronic Devices and Circuits (ELC2110): course outcomes, units I-IV and reference books.",
+    "kind": "typed",
+    "year": "2020-21",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits/Unit-1/Class-Notes_Unit-1.pdf",
+   "s": 1279992,
+   "h": "bb4ab78ef0617db4fbf8658dfd35548dc18bc48d5f19102b1e9ae5b254074daa",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 1 notes · Semiconductors and PN junction",
+    "summary": "Handwritten Unit 1 notes on diffusion and drift current, the Einstein relationship and PN junction behaviour under equilibrium and bias.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits/Unit-1/Lecture-Slides_Unit-1.pdf",
+   "s": 3923921,
+   "h": "1da9008ce2206bba46b49de4a6862cd1041ee3f891e04c5b61e481a76532f1b2",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Mohd Kashif",
+    "title": "Unit 1 slides · Semiconductors and PN junction",
+    "summary": "One hundred and fourteen teacher slides for Unit I covering energy bands, charge carriers, diffusion and drift, and PN junction diodes.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits/Unit-2/Class-Notes_Unit-2.pdf",
+   "s": 12319241,
+   "h": "44b74e6bafcc46a0a3891dba53c70cd118c4cc4f32a0d63325f9f0c7403a05ae",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 2 notes · Bipolar Junction Transistor",
+    "summary": "Handwritten Unit 2 notes on the BJT: structure, transistor action, biasing, load-line and operating-point analysis.",
+    "kind": "scan",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits/Unit-2/Lecture-Slides_Unit-2.pdf",
+   "s": 1929003,
+   "h": "6a38b1255843277acbeae9c1fa065bbea30fb15d1b4abb729c8e5685f0992c56",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Mohd Kashif",
+    "title": "Unit 2 slides · Bipolar Junction Transistor",
+    "summary": "Sixty-nine teacher slides for Unit II on BJT structure, current gain, biasing and bias stability with small-signal models.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits/Unit-2/Lecture-Slides_Physics-of-Bipolar-Transistors.pdf",
+   "s": 5535252,
+   "h": "86e2f102fa58c223981167a7dc6a7b62b673526ed0003cc63f4d43775c8a0ee1",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 2 slides · Physics of Bipolar Transistors",
+    "summary": "Chapter 4 slides on BJT structure, active and saturation modes, device models and the PNP transistor.",
+    "kind": "slides",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits/Unit-3/Class-Notes_Unit-3_MOSFET_2023-24.pdf",
+   "s": 10740190,
+   "h": "b5b784717d1e1ae9cf065b8ad67e1953d34baeae3435885c741fdc274458b10b",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 3 notes · MOSFET",
+    "summary": "Handwritten notes on MOSFET operation (n-MOS regions, VGS/VDS effects) and small-signal amplifier analysis.",
+    "kind": "scan-handwritten",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits/Unit-3/Lecture-Slides_Physics-of-MOS-Transistors.pdf",
+   "s": 3042036,
+   "h": "ccf8dc7127243223950d354b556a1530dfd99fc5ec9dc939f732ce4ede6387d3",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 3 slides · Physics of MOS Transistors",
+    "summary": "Chapter 6 slides on MOS capacitor, MOSFET structure and operation, MOS device models, PMOS and CMOS technology.",
+    "kind": "slides",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2112_Electronic-Devices-and-Circuits/Unit-4/Class-Notes_Unit-4_Cascode-and-Current-Mirrors_2023-24.pdf",
+   "s": 4026918,
+   "h": "b0d893800a81bc31c6a0b6b979299ba2419277d217b00d494da146ea0205139d",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 4 notes · Cascode and Current Mirrors",
+    "summary": "Handwritten notes on cascode amplifiers, output resistance and cascode current sources, dated 16/11/23.",
+    "kind": "scan-handwritten",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/PYQs-and-Assignments/Z_Assignment-1_2022-23.pdf",
+   "s": 111008,
+   "h": "2bfa97d05ca59f147358a29ae6f408beff07acff93e932fc1b4d7111cb156962",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Assignment 1 · 2022-23 (ELC2310)",
+    "summary": "Home assignment sheet: design 4-bit synchronous counters from faculty/enrolment digits with JK, D and T flip-flops, plus a binary multiplier question.",
+    "kind": "typed",
+    "year": "2022-23",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/PYQs-and-Assignments/Z_Assignment-1_2022-23_Solution.pdf",
+   "s": 723716,
+   "h": "ce4dda93ec5d60fc39c01a84bca3953576fb89b664a5f83c43706a9732b4fe1b",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Assignment 1 · 2022-23 — handwritten solution",
+    "summary": "Handwritten worked solution of the 2022-23 home assignment: JK flip-flop state tables, K-maps and synchronous counter circuit.",
+    "kind": "scan",
+    "year": "2022-23",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/Unit-1/Lecture-Slides_Boolean-Logic.pdf",
+   "s": 6081902,
+   "h": "5278f38a384dda1755da79eef7e803bb06131d435f708edb498e326a15e1451d",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 1 slides · Boolean Logic",
+    "summary": "Full Unit 1 slide deck for ELC2310: binary logic and levels, Boolean algebra, canonical forms, K-maps and gate implementations.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/Unit-2/Lecture-Slides_Combinational-Logic.pdf",
+   "s": 3310994,
+   "h": "129dfe1baf44f7582c14be6384efe0b089417888f359948acc0d0ab8c45a3908",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 2 slides · Combinational Logic",
+    "summary": "Unit 2 slides: encoders, decoders, multiplexers, VEM, code converters, BCD-to-7-segment, parity and comparison circuits.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/Unit-3/Lecture-Slides_Sequential-Logic.pdf",
+   "s": 4581167,
+   "h": "d1117ed98a5a17c37d51eb07afc824fc86015c9994f5e320c632ce2f7fcb5f4f",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 3 slides · Sequential Logic",
+    "summary": "Unit 3 slides: latches and flip-flops, timing, registers, counters and sequential circuit design.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/Unit-4/Lecture-Slides_Arithmetic-Logic-Circuit.pdf",
+   "s": 2762005,
+   "h": "cdfd39dd609a9d3a54b96f2f030880d44b123a65276b4c362278246e91108e5e",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 4 slides · Arithmetic Logic Circuits",
+    "summary": "Unit 4 slides: signed-number representation, 1's and 2's complement, binary adders and subtractors, arithmetic circuits.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/Syllabus/ELC2310_Syllabus_2018-19.pdf",
+   "s": 460863,
+   "h": "91416dbee8e34f024f372d12dba5075d549c4fa572bcc90350da4010449a526c",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "ELC2310 syllabus (effective 2018-19)",
+    "summary": "Official outline of Logic Circuits ELC2310 effective 2018-19: course outcomes and unit-wise syllabus for Units I–V.",
+    "kind": "scan-printed",
+    "year": "2018-19",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/Unit-1/Class-Notes_Unit-1_Boolean-Algebra.pdf",
+   "s": 37644377,
+   "h": "505faa3acbcf4b944aab90ce9635a2495d2b029924630b02125d1f6a580f0c47",
+   "t": 1794596562,
+   "meta": {
+    "author": "Nasreen Khandwani",
+    "source": "AMU Cloud",
+    "title": "Unit 1 notes · Boolean algebra, duality and gate symbols",
+    "summary": "Handwritten Unit 1 notes: duality principle, De Morgan's theorem, single-variable theorems, IC numbers and alternative gate symbols.",
+    "kind": "scan",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/Unit-1/Lecture-Slides_Unit-1.pdf",
+   "s": 2947510,
+   "h": "bf1d45d2b10a33e66fb73ce373993076e9b67bfb838808410ab191c2b8b05086",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "M. M. Sufyan Beg",
+    "title": "Unit 1 slides · Number Systems, Boolean Algebra and Simplification",
+    "summary": "Teacher's complete Unit-I slide deck (COC2070) on number systems, Boolean algebra, K-maps and two-level implementations.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/Unit-2/Class-Notes_Unit-2.pdf",
+   "s": 49714340,
+   "h": "3e5e6d49bd2430123429e2533fc313d035138c4e22c49dc2b69ff261868c5121",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 2 notes · Gray code, BCD and code conversion",
+    "summary": "Handwritten notes on Gray code, BCD versus binary, binary-to-Gray and Gray-to-binary conversion and parity.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/Unit-2/Lecture-Slides_Combinational-Logic_2.pdf",
+   "s": 3313705,
+   "h": "fa8c7e54fe2e6f4b3a71134b61ed931703ef48af29fffcb9b36ca1931b2232c9",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 2 slides · Combinational Logic",
+    "summary": "107-slide deck on encoders, decoders, multiplexers, VEM, parity generators and code converters.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/Unit-2/Lecture-Slides_Unit-2.pdf",
+   "s": 2435378,
+   "h": "1741462948c3780ae52718f9ed0d4cb8553bcf146baa8d380189ebb71e249d3b",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "M. M. Sufyan Beg",
+    "title": "Unit 2 slides · Combinational Logic (COC2070)",
+    "summary": "COC2070 Unit-II slides by Prof. Sufyan Beg: XOR/equivalence functions, half and full adders.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/Unit-3/Class-Notes_Unit-3_2023-24.pdf",
+   "s": 27961851,
+   "h": "9587f0b682416907c84456fdb0eb5209d1334b7b2afa5218e5fc13e3a90839a4",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 3 notes · Sequential Logic",
+    "summary": "Handwritten Unit-III notes (dated 04/10/23) on sequential circuits, flip-flops, Mealy and Moore state machines.",
+    "kind": "scan-handwritten",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/Unit-3/Lecture-Slides_Sequential-Logic_2.pdf",
+   "s": 4575786,
+   "h": "747cc86a727f3ddb09c482ee600f1eb526e6a0a4081696c9f1e0b8f3006fe184",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 3 slides · Sequential Logic",
+    "summary": "106-slide deck on latches, flip-flops and sequential circuit design.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/Unit-3/Lecture-Slides_Unit-3.pdf",
+   "s": 2035944,
+   "h": "806f4fb78da51df3c756473db96f7d7b5d7d4a4c899365ee860ceaa07b71da8f",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "M. M. Sufyan Beg",
+    "title": "Unit 3 slides · Sequential Circuits (COC2070)",
+    "summary": "COC2070 Unit-III slides by Prof. Sufyan Beg: NAND/NOR latches, clocked RS, JK and T flip-flops.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/Unit-4/Lecture-Slides_Unit-4.pdf",
+   "s": 2972552,
+   "h": "fe13c7f5797b58e485dd16a67b9038d2ec59cda55d886d0b4935b477b78114db",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 4 slides · Binary arithmetic and signed numbers",
+    "summary": "74-slide deck on binary addition and representing signed numbers with 1's and 2's complement.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/PYQs-and-Assignments/Z_Assignment_2022-23_AMS251.jpg",
+   "s": 91275,
+   "h": "9cba91d416954165baf0a824eb49d632aed76e3d7865dfd6a29e897980f9974c",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Assignment · Higher Mathematics-I (Autumn 2022-23)",
+    "summary": "Photo of the AMS251 assignment sheet: analytic functions, harmonic conjugates and complex integration problems.",
+    "kind": "photo",
+    "year": "2022-23",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Class-Notes_Unit-1_2022-23.pdf",
+   "s": 3799885,
+   "h": "73ee4d004df3aad07c9ae2ec0db253222ffbeba97ff2faaa9890a652059e6d62",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 1 notes · Complex numbers and analytic functions",
+    "summary": "Handwritten Maths-I Unit-1 notes (photos dated Oct 2022) on complex numbers, limits, analytic functions and open disks.",
+    "kind": "scan",
+    "year": "2022-23",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-2/Class-Notes_Unit-2.pdf",
+   "s": 17510665,
+   "h": "3621d5fc36cbab94c9fa97538083a778c53fde356882ebb6ad62baae0efce912",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 2 notes · Power series and Taylor series",
+    "summary": "Handwritten Maths-I Unit-II notes on power series, Taylor's series and analytic function expansions.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Class-Notes_Unit-1.pdf",
+   "s": 40395809,
+   "h": "3d610c45ffe10579abcb46fdae791bd6018f002d60d73f2b4d5d7e38d6cb32d5",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 1 notes · Complex variables and analytic functions",
+    "summary": "Handwritten Maths-I Unit-1 notes on polar form, functions of a complex variable, limits and analytic functions.",
+    "kind": "scan",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2015-16_AM251.pdf",
+   "s": 476582,
+   "h": "dfc884fa422d2d0c812bf67920cad4d6c70812713e8a269582a10e63db549547",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Sem-End 2015-16 · Higher Mathematics-I (AM251)",
+    "summary": "Autumn 2015-16 sem-end paper of Higher Mathematics-I (AM251) covering Laplace transforms and differential equations.",
+    "kind": "scan-printed",
+    "year": "2015-16",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2015-16.pdf",
+   "s": 5283894,
+   "h": "d629e9dbc140f02b9b7549ed1a5ca49fe5edbd3e5f7aeb663cfb694cb056056f",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Sem-End 2015-16 · Higher Mathematics-I papers (merged scan)",
+    "summary": "19-page merged scan starting with the Autumn 2015-16 AM251 Higher Mathematics-I paper, with three further pages sets.",
+    "kind": "scan-printed",
+    "year": "2015-16",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Syllabus/AMS2510_Syllabus_2018-19.pdf",
+   "s": 268191,
+   "h": "6ead4dbdcf675e479c16074c33ac0ad12e004dea58481b8b42b422e3ebcbb47b",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Higher Mathematics-I syllabus · AMS-2510 (2018-19)",
+    "summary": "Department of Applied Mathematics syllabus for AMS-2510 Higher Mathematics-I: objectives, outcomes, complex variables, complex integration and vector calculus, with assessment weightings.",
+    "kind": "typed",
+    "year": "2018-19",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Class-Notes_Unit-1_Complex-Numbers.pdf",
+   "s": 11538531,
+   "h": "45afc3e06565f3fcc068803798143743f3a7ead641df3954804784b52f42516a",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 1 notes · Complex Numbers and Functions of a Complex Variable",
+    "summary": "Handwritten Unit 1 notes covering the complex number system, conjugates and their properties, polar and De Moivre form, and functions of a complex variable.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Class-Notes_Unit-1_Functions-of-a-Complex-Variable.pdf",
+   "s": 9113655,
+   "h": "e61758ab7bb6477401a2bdb4d318fcfae9394615fb78b081ca0adba58cea35c9",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 1 notes · Functions of a Complex Variable and Cauchy–Riemann Equations",
+    "summary": "Handwritten class notes on complex variables, limits and continuity, differentiability and the derivation of the Cauchy–Riemann equations.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-2/Class-Notes_Unit-2_Series-and-Contour-Integration.pdf",
+   "s": 48213783,
+   "h": "8fc566b9c846078068af5ddbc75888e1f35e2ad6277ad1da3958d21a1e427410",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 2 notes · Series and Contour Integration",
+    "summary": "Handwritten Unit 2 notes: convergence of series of real and complex numbers, power and Taylor series, and the start of contour integration.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-2/Class-Notes_Unit-2_Taylor-Series.pdf",
+   "s": 7283543,
+   "h": "3af7f09a6c928a4fc7f13e3a96ea0dbe88599d511c46cdfca6e08c32f4dc6cfb",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 2 notes · Taylor Series and Power Series",
+    "summary": "Handwritten Unit 2 class notes dated September 2020: Taylor's theorem, power series expansions, region of convergence and remainder term.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-2/Class-Notes_Unit-2_Convergence-of-Series.pdf",
+   "s": 9989662,
+   "h": "3c2fb4e90fa4c617f3698fe3c59d441f2fa49bc82c0d15a7fc5e4fb1db954bf6",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 2 notes · Convergence of Series of Complex Terms",
+    "summary": "Handwritten Unit 2 notes: convergence and absolute convergence of series of complex terms, power series region of convergence and Taylor series.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2522_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Z_Assignment_2022-23_Solution_2.pdf",
+   "s": 1990624,
+   "h": "244440246dc6c5b9ea71eca43a11bb90e4636d273dacef743535a48677c53d64",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Assignment 2022-23 · handwritten solutions (set 2)",
+    "summary": "Handwritten worked solutions to the AMS-2520 home assignment: general iteration, Newton–Raphson and Gauss elimination problems.",
+    "kind": "scan-handwritten",
+    "year": "2022-23",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2522_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Z_Assignment_2022-23.pdf",
+   "s": 223736,
+   "h": "8b02ef7738ec3f53ba48a7e5344441367509d922881980c127b81566bab8bfea",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Home assignment · AMS-2520 (2022-23)",
+    "summary": "Question sheet of the 2022-23 home assignment: iteration and Newton–Raphson methods, Gauss elimination and Gauss–Seidel, interpolation problems.",
+    "kind": "scan-handwritten",
+    "year": "2022-23",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2522_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Z_Assignment_2022-23_Solution.pdf",
+   "s": 1058171,
+   "h": "5095aa158b75da28fc1179aa17c45eb7da8836b035eef095060ba5f27aafd6cb",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Assignment 2022-23 · handwritten solutions",
+    "summary": "Handwritten worked solutions to the 2022-23 home assignment, covering general iteration and Newton–Raphson root finding in detail.",
+    "kind": "scan-handwritten",
+    "year": "2022-23",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2522_Numerical-Methods-and-Optimization/PYQs-and-Assignments/Z_Assignment_Solution_Probability-and-Numerical-Integration.pdf",
+   "s": 797010,
+   "h": "27d591cdf72996d89e83f785965f710f75cb4a87140ebcb19169403f66ca48e4",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Assignment solutions · probability distributions and numerical integration",
+    "summary": "Handwritten solutions on probability density and distribution functions, conditional probability, and numerical integration by trapezoidal/Simpson rules.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2522_Numerical-Methods-and-Optimization/Complete-Notes/Class-Notes_Numerical-Methods-and-Finite-Differences.pdf",
+   "s": 48630565,
+   "h": "85c78d273eebfe4b76cb037ae01672a01ef1d78713a856255ad0cba3d081efcd",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Notes · Numerical Solution of Equations and Finite Differences (Maths II)",
+    "summary": "Long handwritten notebook headed 'Maths II' covering initial approximations, bisection, general iteration, Newton–Raphson, finite differences and related numerical methods.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-4/Class-Notes_Unit-4-Probability-and-Statistics-Part-1.pdf",
+   "s": 6867163,
+   "h": "18195fbb0b5cd4cd43922481bbad76a32f7c200e408882653756a42b3d7e3adf",
+   "t": 1794596562,
+   "meta": {
+    "title": "Unit 4 notes · Probability and Statistics (Part 1)",
+    "summary": "Handwritten notes on basic probability: definitions, sample space, laws of probability and worked problems.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-4/Class-Notes_Unit-4-Probability-and-Statistics-Part-2.pdf",
+   "s": 8591034,
+   "h": "fa1d1a75be4509d34310c25f2a750d71edb6376149f9b7485a62b1d191690341",
+   "t": 1794596562,
+   "meta": {
+    "title": "Unit 4 notes · Probability and Statistics (Part 2)",
+    "summary": "Handwritten notes on Bernoulli trials, Bernoulli's theorem, multinomial, binomial and Poisson distributions.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2016-17_AM252_2.pdf",
+   "s": 268315,
+   "h": "fe1a7eaf7dbe851e0e63751a661d1185105e23b7a4268d1cd627d2e80fed130e",
+   "t": 1794596562,
+   "meta": {
+    "title": "Sem-End 2016-17 · Higher Mathematics-II",
+    "summary": "Semester-end paper (2016-17, B.Tech Electronics III sem) on interpolation, iteration methods, quadrature and Euler's method.",
+    "kind": "scan-printed",
+    "year": "2016-17",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2017-18_AM252.pdf",
+   "s": 404215,
+   "h": "5540b87f3656d99e2078bd4fceb06ee6479b6d079e3c1339a1f2c1bfa95558b2",
+   "t": 1794596562,
+   "meta": {
+    "title": "Sem-End 2017-18 · Higher Mathematics-II",
+    "summary": "Semester-end paper (2017-18, B.Tech Electronics III sem) on Newton interpolation, iteration methods, Gauss-Seidel and numerical integration.",
+    "kind": "scan-printed",
+    "year": "2017-18",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2018-19_AMS2520.pdf",
+   "s": 1091020,
+   "h": "9b624ea7556948ab1ebe48bca9c645e87d2d883cdc23d60441c890f4ac9e7c91",
+   "t": 1794596562,
+   "meta": {
+    "title": "Sem-End 2018-19 · Higher Mathematics-II",
+    "summary": "Semester-end paper (2018-19, B.Tech Electronics III sem) on Newton-Raphson and iteration schemes and numerical techniques.",
+    "kind": "scan-printed",
+    "year": "2018-19",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2019-20_AM252.pdf",
+   "s": 1624272,
+   "h": "342c727b0111617a8b54194876eef30b6f16d5878880e91733aa8b005d0c2210",
+   "t": 1794596562,
+   "meta": {
+    "title": "Sem-End 2019-20 · Higher Mathematics-II",
+    "summary": "Semester-end paper (2019-20, B.Tech Electronics III sem, paper code 3026) on complex analysis, Laurent series and numerical methods.",
+    "kind": "scan-printed",
+    "year": "2019-20",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2019-20_2.pdf",
+   "s": 3385357,
+   "h": "07336767e4b34570bb3b8b9edcd0c6e835dc9e40ea798dabfd173ab7d7e0e7fc",
+   "t": 1794596562,
+   "meta": {
+    "title": "Sem-End 2019-20 · Higher Mathematics-II (merged scan)",
+    "summary": "Merged scan of two 2019-20 Higher Mathematics-II papers (paper codes 3035 and 3026): root finding, Gauss-Seidel, interpolation and integration.",
+    "kind": "scan-printed",
+    "year": "2019-20",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Syllabus/AMS2520_Syllabus_2018-19.pdf",
+   "s": 311589,
+   "h": "44b105721014970a77727517866a22319edd3d99d660b7bed874d9ed39ebebe8",
+   "t": 1794596562,
+   "meta": {
+    "title": "AMS-2520 Higher Mathematics-II syllabus (2018-19)",
+    "summary": "Official Applied Mathematics syllabus for AMS-2520: unit-wise contents, contact hours, textbooks and course outcomes.",
+    "kind": "typed",
+    "year": "2018-19",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Class-Notes_Unit-1-Numerical-Solution-of-Equations_2023-24.pdf",
+   "s": 14523003,
+   "h": "b8e3ba8efd4e3648c48a23c7844949035b5ee244e0735df214f9150359947909",
+   "t": 1794596562,
+   "meta": {
+    "title": "Unit 1 notes · Numerical Solution of Equations",
+    "summary": "Handwritten AMS2520 Unit-1 notes: root existence, successive approximation, Newton-Raphson and Gauss-Seidel with worked examples.",
+    "kind": "scan-handwritten",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Notes_Unit-1-Numerical-Solution-of-Equations.pdf",
+   "s": 7292010,
+   "h": "a89ef4b7a54faa3cd3983e8846d02a8b3d1a4e38cebf0c6ceb20467e4ac76cf0",
+   "t": 1794596562,
+   "meta": {
+    "title": "Unit 1 notes · Numerical Solution of Equations (teacher's notes)",
+    "summary": "Handwritten teacher's notes on numerical solution of equations: iteration method, convergence and interpolation examples.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-2/Class-Notes_Unit-2-Interpolation_2023-24.pdf",
+   "s": 48706198,
+   "h": "10a23ec89ec373f3ae65364a98dcf4baddc8de88ea6b43a798f5afa4a2841e4c",
+   "t": 1794596562,
+   "meta": {
+    "title": "Unit 2 notes · Interpolation",
+    "summary": "Handwritten AMS2520 Unit-2 notes: Newton forward and backward interpolation formulae with worked problems.",
+    "kind": "typed",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-3/Class-Notes_Unit-3-Numerical-Solution-of-ODE.pdf",
+   "s": 13121255,
+   "h": "afd90c72dcda88cb004af023475dd3daf78e36893acd07194f4c915a69ecb558",
+   "t": 1794596562,
+   "meta": {
+    "title": "Unit 3 notes · Numerical Solution of ODEs",
+    "summary": "Handwritten notes on solving ordinary differential equations numerically: Taylor-series method and worked examples.",
+    "kind": "scan",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-3/Notes_Unit-3-Numerical-Solution-of-ODE.pdf",
+   "s": 6278694,
+   "h": "f7b1ee6e20c02f86030854220933dcd1b22c4de9b4c45c6387f4e039a6157dbf",
+   "t": 1794596562,
+   "meta": {
+    "title": "Unit 3 notes · Numerical Solution of ODEs (teacher's notes)",
+    "summary": "Handwritten teacher's notes on numerical solution of ODEs: Taylor series, Euler and Runge-Kutta type methods.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-4/Class-Notes_Unit-4-Probability.pdf",
+   "s": 3427721,
+   "h": "29082fdfebf9ce1fb0aa0fa7a359237ab9a5ca501ac640552eacc7bb8fde69b1",
+   "t": 1794596562,
+   "meta": {
+    "title": "Unit 4 notes · Probability",
+    "summary": "Handwritten notes on probability: conditional probability, multiplication law and solved examples.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/PYQs-and-Assignments/Z_Assignment_2022-23.pdf",
+   "s": 314069,
+   "h": "e1360ffbbe16f744f2636b39ff2d666770245c9cc51b8e472085bd5a7bf25218",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Omar Farooq",
+    "title": "Assignment problems · 2022-23",
+    "summary": "Typed ELC2410 Signals and Systems assignment sheet (2022-23) with instructions and fifteen problems on periodicity, sketching, energy/power and system properties.",
+    "kind": "typed",
+    "year": "2022-23",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/PYQs-and-Assignments/Z_Assignment_2022-23_Handwritten-Answers.pdf",
+   "s": 4364143,
+   "h": "356694c0063aeb15835175a62d5e12ce1e77206ba2ce02a67558fa52f9b4502a",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Omar Farooq",
+    "title": "Handwritten answers · 2022-23 assignment problems",
+    "summary": "Handwritten worked solutions, question by question, to the ELC2410 2022-23 assignment problems (periodicity, even/odd parts, sketching, convolution).",
+    "kind": "scan-handwritten",
+    "year": "2022-23",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Unit-2/Lecture-Slides_Fourier-Transform.pdf",
+   "s": 3057381,
+   "h": "0c91565dc03163e29e15b3e2e427eb7aff2313cee0da3c9503e1ca985c260c33",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "N. Balaji",
+    "title": "Fourier Transform · GATE lecture slides",
+    "summary": "106-slide session 5 lecture on continuous-time Fourier series and Fourier transform with GATE-style problems, by Dr. N. Balaji of JNTUK (not AMU course slides).",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Complete-Notes/Lecture-Slides_Laplace-Transform-and-DTFT.pdf",
+   "s": 2958026,
+   "h": "19e3ba3a7ff634ea47982be60eadc9f309e4eeb4407434fe7cd2592a825d085e",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "N. Balaji",
+    "title": "Laplace Transform and DTFT · GATE lecture slides",
+    "summary": "101 slides from sessions 7-8 on the Laplace transform and the discrete-time Fourier transform with GATE-style examples, by Dr. N. Balaji of JNTUK.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Syllabus/ELC2410_Syllabus_2018-19.pdf",
+   "s": 110688,
+   "h": "2980eafc2addd4dfc1edfa61d711be939d2c0c7107ebc4f7f40712fcae152e85",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "ELC2410 syllabus (effective 2018-19)",
+    "summary": "One-page official course outline for ELC2410 Signals and Systems: credits, contact hours, four units, course outcomes and reference books.",
+    "kind": "typed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Unit-1/Lecture-Slides_Unit-1_Representation-and-Classification-of-Signals.pdf",
+   "s": 1890412,
+   "h": "0d3f5ba0bfa19e621faa3f2d90db16c5c5c35585c51f7c7857aff9aeab268f8f",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Omar Farooq",
+    "title": "Unit 1 slides · Representation and Classification of Signals and Systems",
+    "summary": "25 slides (dated 12-09-2023) introducing ELC2410 outcomes, books and Unit I: signal classification, singularity functions and convolution.",
+    "kind": "slides",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Unit-1/Class-Notes_Unit-1_2.pdf",
+   "s": 5268591,
+   "h": "feed90367e9460fbea6ec47a70616b19686d52917725b5475211dfc6b73aebe8",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 1 notes · Signal classification and operations",
+    "summary": "20 pages of handwritten notes on even/odd and complex-valued signals, time shifting, scaling and reversal, and convolution of pulses.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Complete-Notes/Class-Notes_Signals-and-Systems_2022-23.pdf",
+   "s": 38422150,
+   "h": "9a08614d7b4363edce1f96f34c49ab6ab4fde883994e3b5c740030a26a647f4b",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Complete course notes · 2022-23",
+    "summary": "128-page handwritten notebook (started 21-09-2022) of ELC2410 Signals and Systems, from basic signals and time operations onward through the course.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Unit-1/Class-Notes_Signal-Descriptions-and-Operations.pdf",
+   "s": 17204463,
+   "h": "0f81e1079d4b2ef714986fb7d1cbcad11ce445b03a8d5b7dde284d5b4492b1ae",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Notes · Signal descriptions, pulses and time operations",
+    "summary": "39 pages of handwritten notes starting from the definition of 1-D/2-D/3-D signals, rectangular, triangular and step pulses, Dirac delta, shifting, scaling and reversal.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Unit-2/Class-Notes_Eigen-Functions-and-Fourier-Series_2022-23.pdf",
+   "s": 8294549,
+   "h": "6f8b1c4d403478ead445b067e2844458f99504350236eb3281ac75a0484284f4",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Notes · Eigen functions and Fourier series (2022-23)",
+    "summary": "20 pages of handwritten notes dated 28-09-2022 on eigen functions of LTI systems, frequency response and the start of Fourier series representation.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Books-and-Resources/Transform-Tables_FS-FT.pdf",
+   "s": 198450,
+   "h": "e2b76473030341ff70b5ba50903462711b9e2b16c7f495e02815a555e7a14511",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Transform tables · Fourier series and Fourier transform",
+    "summary": "Four-page reference table of Fourier series and Fourier transform properties (linearity, shifting, scaling, convolution, Parseval, standard pairs).",
+    "kind": "typed",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/PYQs-and-Assignments/Sem-End_2019-20_ELC2410_Set-2.pdf",
+   "s": 4334555,
+   "h": "87c323424f09ae0e90ddacc6989fc54fe4fa1d04ed4f6d4920f57e5a673b8e3c",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Sem-End 2019-20 · Signals and Systems (multi-year scan)",
+    "summary": "Twelve-page scan of sem-end papers: pages 1–2 are the 2019-20 ELC2410/EL241 paper, pages 3–4 the 2018-19 paper; later pages unreadable.",
+    "kind": "scan-printed",
+    "year": "2019-20",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Complete-Notes/Lecture-Slides_Signals-and-Systems.pdf",
+   "s": 32047999,
+   "h": "444efb63e76d94cbe1387721fd7c9cb44476b5086ed5511cfd5cd055974e9c08",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "professor": "Athar Ali Moinuddin",
+    "title": "Full-course lecture slides · Signals and Systems",
+    "summary": "320-slide deck for ELC2410 Signals and Systems, from representation and classification of signals through the transform and system-analysis units.",
+    "kind": "slides",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Unit-1/Class-Notes_Unit-1.pdf",
+   "s": 16938961,
+   "h": "b494686f0a447ed8326d6a342682d80739ed0e38be0cd3981fe7b180e7a9e997",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 1 notes · Introduction to Signals and Systems",
+    "summary": "Handwritten Unit 1 notes: definition of signals and systems, continuous/discrete signal classifications, and signal operations such as shifting and scaling.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Unit-2/Class-Notes_Unit-2_2023-24.pdf",
+   "s": 62978046,
+   "h": "7b0db8000b9ea8941eefb567b40073cdc910fa0ce20fe6e576269ade2aa0cf06",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 2 notes · Fourier Series and Fourier Transform",
+    "summary": "Handwritten Unit 2 notes: trigonometric Fourier series, best approximation and error minimisation, and Fourier transform.",
+    "kind": "scan-handwritten",
+    "year": "2023-24",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Unit-3/Class-Notes_Unit-3.pdf",
+   "s": 38671286,
+   "h": "4ccb14c4776039f6e1dd6850746e7986449f87f21070c8b106090b3b4d3c8377",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 3 notes · Laplace Transform and ROC",
+    "summary": "Handwritten Unit 3 notes: convergence of the Fourier integral, the Laplace transform, region of convergence and the inverse Laplace transform.",
+    "kind": "scan-handwritten",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Unit-4/Class-Notes_Unit-4_2022-23.pdf",
+   "s": 5436540,
+   "h": "cda848b357b30ac2b9a9942beff78928b888b114f28abb03c23ca7d88572d2e1",
+   "t": 1794596562,
+   "meta": {
+    "source": "AMU Cloud",
+    "title": "Unit 4 notes · Sampling",
+    "summary": "Handwritten Unit 4 notes: overview of sampling, periodic impulse train, convolution with delta and the sampling theorem.",
+    "kind": "scan-handwritten",
+    "year": "2022-23",
+    "credit": "AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/PYQs-and-Assignments/Sem-End_2018-19_ELC2310.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/ELC2312_Logic-Circuits/PYQs-and-Assignments/Sem-End_2019-20_ELC2310.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/PYQs-and-Assignments/Sem-End_2016-17_AM252.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM251_Higher-Mathematics-I/PYQs-and-Assignments/Sem-End_2017-18.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM251_Higher-Mathematics-I/PYQs-and-Assignments/Sem-End_2018-19.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/AM251_Higher-Mathematics-I/PYQs-and-Assignments/Sem-End_2019-20.pdf",
+   "meta": {
+    "credit": "Engineering College Library, AMU Cloud"
+   }
+  }
+ ]
+}

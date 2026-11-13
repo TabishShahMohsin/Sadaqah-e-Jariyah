@@ -1,0 +1,636 @@
+{
+ "id": "20261113-190543-amucloud-civil",
+ "created": "2026-11-13T19:05:43+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "credit": "AMU Cloud",
+  "note": "From AMU Cloud (amucloud.in, now offline), a student-run site of Drive folders. B.Tech Civil Engineering, 2nd year: Engineering Geology, Fluid Mechanics, M & C Practices (Materials and Construction Practices), Mathematics, Quantity Survey, Fluid Mechanics Lab, Materials Lab, Geology Lab and Maps. Large files are often lecture videos or scanned slide sets."
+ },
+ "ops": [
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-1/Lecture-Video_Physical-Properties-of-Minerals-1-of-6.mp4",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-1/Lecture-Slides_1-1_Introduction-to-Earth-Sciences.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-1/Lecture-Slides_1-2-Internal-St-of-Earth.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-1/Lecture-Slides_1-3-Igneous-Rocks.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-1/Lecture-Slides_1-4-Sedimentary-Rocks.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-1/Lecture-Slides_1-5-Metamorphic-Rocks.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-2/Lecture-Slides_2-1-Joint-and-Fault.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-2/Lecture-Slides_2-2-Geomorphology.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-2/Lecture-Slides_2-3-Fold-and-Shear-Zone.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-2/Lecture-Slides_2-4-Unconformity-and-Others.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-3/Lecture-Slides_3-1-Geotectonic-Units-of-India.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-3/Lecture-Slides_3-2-Construction-of-Earthquake-Resistant-Structure.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-4/Lecture-Slides_4-1-Rocks-Used-as-Construction-Material.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-4/Lecture-Slides_4-2-Dam-And-Reservoir-Sites.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-4/Lecture-Slides_4-3-Tunnel-Alignment.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-4/Lecture-Slides_4-4-Construction-of-Roads-Railways-and-Bridges.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-4/Lecture-Slides_4-5-Dam-and-Reservoir.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-4/Lecture-Slides_4-6-Mega-Structures.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-4/Lecture-Slides_4-7-Tunnels-and-Underground-Space.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Unit-4/Lecture-Slides_4-8-Landslide.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_1PPT-1A.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/PYQs-and-Assignments/Z_Tutorial-Sheet-No-2-21-22.docx",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/PYQs-and-Assignments/Z_Tutorial-Sheet-No-1-21-22.docx",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_Lecture-4.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_Lecture-5.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_Lecture-6.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Notes_Lecture-6-Sheet-2-21.docx",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_Lecture-7.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_Lecture-8.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_Lecture-9.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/PYQs-and-Assignments/Z_Practice-Problems_Problem-1.docx",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Class-Notes_Lecture-10.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_Lecture-11.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_Lecture-12.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_Lecture-13-Mouthpiece.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_Lecture-14-Notches.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_Lecture-15-Notches-II.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_Lecture-16-Weirs.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_1.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_2.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Slides_6.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2962_Fluid-Mechanics-Lab/Records/Record_Flow-Through-an-Orifice.docx",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2962_Fluid-Mechanics-Lab/Records/Record_Table-1.xlsx",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2962_Fluid-Mechanics-Lab/Records/Record_Table-2.xlsx",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2962_Fluid-Mechanics-Lab/Records/Record_Table-3.xlsx",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp/Manuals/Demo-Video_Geological-Maps-of-Horizontal-Rocks-Tutorial.mp4",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp/Manuals/Demo-Video_Geological-Maps-of-Horizontal-Rocks.mp4",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp/Manuals/Demo-Video_Geological-Maps-of-Topographical-Map.mp4",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp/Manuals/Demo-Video_Geological-Maps-of-Vertical-Rocks-Tutorial.mp4",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp/Manuals/Demo-Video_Geological-Maps-of-Vertical-Rocks.mp4",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp/Manuals/Demo-Video_Inclined-Rocks-for-Engineering-Geology-Lab-Full-Hd.mp4",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp/Manuals/Demo-Video_Solving-Inclined-Rocks-True-Dip-Section-Hd.mp4",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp/Manuals/Demo-Video_Solving-Inclined-Rocks-Apparent-Dip-Section-Full-Hd.mp4",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp/Manuals/Demo-Video_Inclined-Rocks-for-Engineering-Geology-Lab-Full-Hd-2o9SGX9A.mp4",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp/Records/Record_Contour-Map-1.jpg",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp/Records/Record_Folded-Rocks-8.jpg",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp/Records/Record_Inclined-Rocks-4.jpg",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp/Records/Record_Inclined-Rocks-5.jpg",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp/Records/Record_Vertical-Rocks-3.jpg",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/Unit-1/Lecture-Slides_2-Aggregate-08-12-2021.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/Unit-1/Lecture-Slides_3-Concrete1-15-12-2021.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/Unit-1/Lecture-Slides_4-Compaction-and-Curing.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/Unit-1/Lecture-Slides_5-Hardened-Concrete-29-12-2021.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/Unit-1/Lecture-Slides_6-Shrinkage-05-01-2022.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/Unit-2/Lecture-Slides_8-Timber.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/Unit-2/Lecture-Slides_9-Steel.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/Books-and-Resources/IS-432-Part-1_Mild-Steel-Bars.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/Complete-Notes/Lecture-Notes_Damp-Proofing.docx",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/Complete-Notes/Class-Notes_Cement-Production.jpg",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/Complete-Notes/Class-Notes_Cement.jpg",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/Complete-Notes/Class-Notes_OPC-Production.jpg",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEC2912_Civil-Engineering-Material-Lab/Manuals/Manual_C-and-Mp-Experiments.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/CEC2912_Civil-Engineering-Material-Lab/Manuals/Manual_C-and-Mp-Theory.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/Sem3/AMS2112_Applied-Mathematics-III/Unit-3/Class-Notes_Unit-3-Extra-Ivp-and-Bvp.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_1-Plan.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_10-Contracts.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Notes_11-Tenders.docx",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_2-Quantity-Survey-And-Its-Requirements.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_3-Capital-Cost-of-Project.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_4-Different-Areas-in-a-Building.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_6-Analysis-of-Rates.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_7-Specifications.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_8-Approval-Works.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_9-Earnest-Money-and-Security-Deposit.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_Lectures-1-3.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_Lectures-13-16.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_Lectures-17-Framed-Structure.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_Lectures-9.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Slides_Lectures-10.pdf",
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud"
+   }
+  }
+ ]
+}
