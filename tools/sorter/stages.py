@@ -93,19 +93,21 @@ def prepare(items, work, rules, budget, log=print, save=None):
                         im.convert("RGB").save(page_image(work, it, p), "JPEG", quality=72)
             if it["ext"] == "pdf":
                 texts = []
-                for p in range(1, min(TEXT_PAGES, pages) + 1):
+                for p in range(1, min(TEXT_PAGES if pages <= 150 else 6, pages) + 1):   # a whole book: its opening pages say enough
                     texts.append(evidence.pdf_text(it["path"], p, p)[:4000])
                 it["page_texts"] = texts
         it["prep_inspected"] = True
 
     os.environ["OMP_THREAD_LIMIT"] = "1"         # each OCR on one core, since several run side by side
+    if save:
+        save()                                  # conversion is done: keep it even if inspection runs out of time
     todo = [it for it in items if not it.get("prep_inspected") and not it.get("outcome")]
     workers = max(1, min(4, os.cpu_count() or 1))
     with ThreadPoolExecutor(workers) as pool:  # evidence: text, OCR, profile, fingerprints, page images
-        for k in range(0, len(todo), workers * 2):
+        for k in range(0, len(todo), workers):
             if out_of_time():
                 return False
-            list(pool.map(evidence_for, todo[k:k + workers * 2]))   # OCR and rendering run in subprocesses/C code
+            list(pool.map(evidence_for, todo[k:k + workers]))   # OCR and rendering run in subprocesses/C code
             checkpoint()
     log(f"  prepared: {len(items)} items")
     return True
