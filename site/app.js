@@ -490,7 +490,9 @@ function openPreview(f) {
   $('#nextBtn').disabled = i >= sib.length - 1;
   const url = fileUrl(f);
   $('#openBtn').href = url;
-  $('#dlBtn').href = url;
+  // the files live on Hugging Face, another site, where browsers ignore the download attribute (Brave and others
+  // just open the PDF); ?download=true makes Hugging Face send it as an attachment instead
+  $('#dlBtn').href = /^https?:/.test(url) ? url + '?download=true' : url;
   $('#dlBtn').setAttribute('download', f.n);
   $('#openBtn').hidden = $('#dlBtn').hidden = S.base === null;
   $('#drawer').classList.add('on');
@@ -521,7 +523,7 @@ function markCurrent() {
 }
 function noPreview(f, url, msg) {
   return `<div class="nofile"><div><div class="big">.${esc(ext(f.n) || 'file')}</div><p>${msg}<br>${esc(f.n)} · ${fmtSize(f.s)}</p>
-    <a class="pill-btn solid" href="${url}" download="${esc(f.n)}">Download</a>&nbsp; <a class="pill-btn" href="${url}" target="_blank" rel="noopener">Open ↗</a></div></div>`;
+    <a class="pill-btn solid" href="${/^https?:/.test(url) ? url + '?download=true' : url}" download="${esc(f.n)}">Download</a>&nbsp; <a class="pill-btn" href="${url}" target="_blank" rel="noopener">Open ↗</a></div></div>`;
 }
 async function fillBody(f, url) {
   const body = $('#drBody');
