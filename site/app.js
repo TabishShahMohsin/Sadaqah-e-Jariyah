@@ -805,8 +805,7 @@ function creditsView() {
   const group = (title, note, xs) => xs.length ? `<h2 class="label">${title} <b>${xs.length}</b></h2>${note ? `<p class="lede-sm">${note}</p>` : ''}<ul class="src-list">${xs.map(row).join('')}</ul>` : '';
   const all = S.sources || [];
   pageShell('credits', 'Sources & credits', `<header class="page-head"><div class="eyebrow">Sources & credits</div><h1>Where everything came from</h1>
-    <p class="lede-sm">Nearly everything here was shared by students, teachers and the Engineering College Library. These are the collections it was gathered from, with the people who made them. Each file also shows its own credit when you open it.</p>
-    <a class="dataset-card" href="https://huggingface.co/datasets/TabishShahMohsin/sej-files" target="_blank" rel="noopener"><b>The whole archive is free to download</b><span>Every file is also published as one dataset on Hugging Face: huggingface.co/datasets/TabishShahMohsin/sej-files ↗</span></a></header>
+    <p class="lede-sm">Nearly everything here was shared by students, teachers and the Engineering College Library. These are the collections it was gathered from, with the people who made them. Each file also shows its own credit when you open it.</p></header>
     ${group('In the archive', '', all.filter(x => x.s === 'in'))}
     ${group('Not collected yet', 'Other AMU collections worth knowing about. Their material is not (or not yet) in this archive, so visit them directly.', all.filter(x => x.s !== 'in'))}`);
 }
