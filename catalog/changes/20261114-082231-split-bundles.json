@@ -1,0 +1,65 @@
+{
+ "id": "20261114-082231-split-bundles",
+ "created": "2026-11-14T08:22:31+00:00",
+ "source": {
+  "kind": "sort",
+  "by": "maintainer",
+  "note": "multi-course paper bundles split into single papers and filed under their courses; papers already in a course dropped"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/PYQs-and-Assignments/Mid-Sem_2017-18_CEA1110.pdf",
+   "s": 121281,
+   "h": "027bee01a7e9c251c8f844c14f11862e7ebd3465638713adf4c335c380f2721f",
+   "t": 1794644478,
+   "meta": {
+    "note": "split from Mid-Sem_2017-18_Sem2-All-Papers.pdf, pages 5-5",
+    "credit": "Umar Iqbal"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/_General-PYQs/Mid-Sem_2017-18_Sem2-All-Papers_Unsorted-Pages.pdf",
+   "s": 597444,
+   "h": "60f9581eab20f7acf95c16740ec08ac02751dc76e58716e80ddfec84a214c24b",
+   "t": 1794644478,
+   "meta": {
+    "note": "pages of Mid-Sem_2017-18_Sem2-All-Papers.pdf whose course couldn't be read",
+    "credit": "Umar Iqbal"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Chemical-Engineering/_General-PYQs/Mid-Sem_2017-18_Sem2-All-Papers.pdf",
+   "reason": "paper bundle split into its individual papers, each filed under its course"
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/PYQs-and-Assignments/Mid-Sem_2018-19_CHC2010.pdf",
+   "s": 437496,
+   "h": "416bd7b8e6f7a624446caf57ad714e5cf59c15a125623b55213afe4424e5a78d",
+   "t": 1794644551,
+   "meta": {
+    "note": "split from Mid-Sem_2018-19_Multiple-Courses.pdf, pages 5-6",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Chemical-Engineering/_General-PYQs/Mid-Sem_2018-19_Multiple-Courses_Unsorted-Pages.pdf",
+   "s": 1370955,
+   "h": "6d3eeebe30a745494421087e79c98f503a1a8fb73b45ad3077777f1f559e1023",
+   "t": 1794644551,
+   "meta": {
+    "note": "pages of Mid-Sem_2018-19_Multiple-Courses.pdf whose course couldn't be read",
+    "credit": "Alquama Haider"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Chemical-Engineering/_General-PYQs/Mid-Sem_2018-19_Multiple-Courses.pdf",
+   "reason": "paper bundle split into its individual papers, each filed under its course"
+  }
+ ]
+}
