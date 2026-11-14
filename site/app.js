@@ -422,13 +422,25 @@ function bindView(v) {
   const secs = chips.map(c => document.getElementById(c.dataset.jump));
   if (chips.length && secs.every(Boolean)) {
     let picked = null, queued = false;   // `picked`: the chip the reader clicked, kept lit until they scroll by hand
+    let lit = null, barTouched = 0;      // the chip lit last; when the reader last scrolled the chip row themselves
+    const row = chips[0].parentElement;
+    const markRow = () => { barTouched = Date.now(); };
+    ['wheel', 'touchstart', 'pointerdown', 'scroll'].forEach(ev => row.addEventListener(ev, e => {
+      if (ev !== 'scroll' || !row._auto) markRow();   // the row's own scrolling, unless we caused it
+    }, { passive: true }));
     const light = id => {
       let on = null;
       chips.forEach(c => { const is = c.dataset.jump === id; c.classList.toggle('on', is); if (is) on = c; });
-      if (on) {  // centre the chip inside its own row; scrollIntoView() would also move the whole page
-        const bar = on.parentElement, r = on.getBoundingClientRect(), n = bar.getBoundingClientRect();
-        bar.scrollLeft += (r.left + r.width / 2) - (n.left + n.width / 2);
-      }
+      if (!on || on === lit) return;
+      lit = on;
+      // bring the new chip into view inside its own row (scrollIntoView() would also move the page), but never
+      // while the reader is scrolling the row by hand, and only if it isn't already visible
+      if (Date.now() - barTouched < 2000) return;
+      const r = on.getBoundingClientRect(), n = row.getBoundingClientRect();
+      if (r.left >= n.left + 8 && r.right <= n.right - 8) return;
+      row._auto = true;
+      row.scrollBy({ left: (r.left + r.width / 2) - (n.left + n.width / 2), behavior: 'smooth' });
+      setTimeout(() => { row._auto = false; }, 600);
     };
     const spy = () => {
       queued = false;
@@ -441,14 +453,14 @@ function bindView(v) {
       light(atEnd && scrollY > 0 ? secs[secs.length - 1].id : cur.id);
     };
     const queue = () => { if (!queued) { queued = true; requestAnimationFrame(spy); } };
-    const release = () => { picked = null; queue(); };
+    const release = e => { if (e && row.contains(e.target)) return; picked = null; queue(); };   // touching the chip row isn't scrolling the page
     const hand = ['wheel', 'touchstart', 'mousedown', 'keydown'];
     addEventListener('scroll', queue, { passive: true });
     addEventListener('resize', queue);
     hand.forEach(ev => addEventListener(ev, release, { passive: true, capture: true }));
     chips.forEach(ch => ch.addEventListener('click', e => {
       e.preventDefault();
-      picked = ch.dataset.jump; light(picked);
+      picked = ch.dataset.jump; light(picked);   // the row stays where the reader scrolled it
       document.getElementById(picked).scrollIntoView({ behavior: 'smooth', block: 'start' });
     }));
     S.spyPick = id => { picked = id; light(id); };
