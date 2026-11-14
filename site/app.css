@@ -240,6 +240,10 @@ main { width: 100%; max-width: var(--w); margin: 0 auto; padding-block: 0 120px;
 .pal-tip { margin-left: auto; }
 
 /* ── credits ───────────────────────────── */
+.dataset-card { display: block; margin-top: 28px; padding: 18px 20px; border: 1px solid var(--line); border-radius: 14px; text-decoration: none; color: var(--ink); max-width: 600px; }
+.dataset-card:hover { border-color: var(--ink); }
+.dataset-card b { display: block; font-size: 17px; }
+.dataset-card span { display: block; margin-top: 4px; font-size: 14px; color: var(--mute); overflow-wrap: anywhere; }
 .src-list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
 .src-row { padding: 16px 0; border-bottom: 1px solid var(--line); }
 .src-t { font-weight: 600; color: var(--ink); text-decoration: none; overflow-wrap: anywhere; }

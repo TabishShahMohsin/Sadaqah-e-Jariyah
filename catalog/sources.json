@@ -1,5 +1,5 @@
 {
- "about": "Every place material came from or was offered from. credit = the name shown on the site; confirm = the name is a guess from the Drive owner's email and should be checked before use. status: merged | to-review | dead (link no longer opens) | reference (site; not a file source).",
+ "about": "Every place material came from or was offered from. credit = the name shown on the site; status: merged | to-review | dead (link no longer opens) | reference (site; not a file source).",
  "checked": "2026-11-13",
  "sources": [
   {
@@ -146,7 +146,6 @@
    "url": "https://drive.google.com/drive/folders/10ZyPW4RDIcHIdYzWEhSn47IcwoNC8jyf",
    "owner": "thousandofgame@gmail.com",
    "credit": null,
-   "confirm": true,
    "covers": "Computer Engineering, semester 3 (one 'Notes' folder)",
    "status": "merged",
    "note": "owner name unknown - ask whoever posted the ENGINEERING NOTES list",
@@ -212,7 +211,6 @@
    "covers": "Chemical Engineering, semester 1 (2018-21 batch)",
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
-   "confirm": true,
    "status": "merged",
    "change": "20261107-103456-umar-chem"
   },
@@ -222,7 +220,6 @@
    "covers": "Chemical Engineering, semester 2",
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
-   "confirm": true,
    "status": "merged",
    "change": "20261107-103456-umar-chem"
   },
@@ -232,7 +229,6 @@
    "covers": "Chemical Engineering, semester 3",
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
-   "confirm": true,
    "status": "merged",
    "change": "20261107-103456-umar-chem"
   },
@@ -242,7 +238,6 @@
    "covers": "Chemical Engineering, semester 4",
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
-   "confirm": true,
    "status": "merged",
    "change": "20261107-103456-umar-chem"
   },
@@ -252,7 +247,6 @@
    "covers": "Chemical Engineering, semester 5",
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
-   "confirm": true,
    "status": "merged",
    "change": "20261107-103456-umar-chem"
   },
@@ -262,7 +256,6 @@
    "covers": "Chemical Engineering, semester 6",
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
-   "confirm": true,
    "status": "merged",
    "change": "20261107-103456-umar-chem"
   },
@@ -272,7 +265,6 @@
    "covers": "Chemical Engineering, semester 7",
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
-   "confirm": true,
    "status": "merged",
    "change": "20261107-103456-umar-chem"
   },
@@ -282,7 +274,6 @@
    "covers": "Chemical Engineering, semester 8",
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
-   "confirm": true,
    "status": "merged",
    "change": "20261107-103456-umar-chem"
   },
@@ -292,7 +283,6 @@
    "covers": "Chemical Engineering, mid- and end-semester papers",
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
-   "confirm": true,
    "status": "merged",
    "change": "20261107-103456-umar-chem"
   },
@@ -302,7 +292,6 @@
    "covers": "Chemical Engineering, computational books (stay unpublished)",
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
-   "confirm": true,
    "status": "merged",
    "change": "20261107-103456-umar-chem"
   },
@@ -312,7 +301,6 @@
    "covers": "Chemical Engineering, GATE PYQs, books and notes (books stay unpublished)",
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
-   "confirm": true,
    "status": "merged",
    "change": "20261107-103456-umar-chem"
   },
@@ -322,7 +310,6 @@
    "covers": "Chemical Engineering, full syllabus (single PDF)",
    "owner": "umariqbal7778889@gmail.com",
    "credit": "Umar Iqbal",
-   "confirm": true,
    "status": "merged",
    "change": "20261107-103456-umar-chem"
   },
