@@ -1,0 +1,41 @@
+{
+ "id": "20261114-055353-aps-lab-videos",
+ "created": "2026-11-14T05:53:53+00:00",
+ "source": {
+  "kind": "sort",
+  "by": "maintainer",
+  "note": "Applied Physics lab demonstration videos named by experiment number"
+ },
+ "ops": [
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Demo-Video_Physics-Lab-Demonstration.mp4",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Experiment-2_Carey-Foster-Bridge.mp4",
+   "reason": "named after its experiment in the APS1910/1912 list (the Telegram group labels it so)"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Demo-Video_Experiment-5.mp4",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Experiment-5_Energy-Gap-of-Semiconductor.mp4",
+   "reason": "named after its experiment in the APS1910/1912 list (the Telegram group labels it so)"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Demo-Video_Lab-Experiments-Demonstration.mp4",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Experiment-12_Thermocouple-Calibration.mp4",
+   "reason": "named after its experiment in the APS1910/1912 list (the Telegram group labels it so)"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Demo-Video_To-Find-the-Unknown-Capacitance-and-Inductance-Using-Graph.mp4",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Experiment-14_Unknown-Capacitance-and-Inductance-Lissajous-Figures.mp4",
+   "reason": "named after its experiment in the APS1910/1912 list (the Telegram group labels it so)"
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Demo-Video_To-Find-the-Hall-Coefficient.mp4",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Experiment-15_Hall-Coefficient.mp4",
+   "reason": "named after its experiment in the APS1910/1912 list (the Telegram group labels it so)"
+  }
+ ]
+}
