@@ -466,6 +466,14 @@
    "credit": "AMU BATCH X (Ali Saqulain, Sameer Ahmad)",
    "covers": "Android app for the Department of Computer Science (MCA): notes, lab programs, PYQs 2021-25",
    "status": "reference"
+  },
+  {
+   "title": "Telegram material group (first year)",
+   "url": "",
+   "credit": "Vishesh, Yash Varshney, Syed Mohammad Talha and others",
+   "covers": "First year 2024-25: Applied Physics unit notes and lab videos, Applied Chemistry lab write-ups, Mechanics tutorial sheets, workshop reports, mid- and end-sem papers",
+   "status": "merged",
+   "change": "20261114-024553-telegram"
   }
  ]
 }

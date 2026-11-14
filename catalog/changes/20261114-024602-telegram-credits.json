@@ -1,0 +1,203 @@
+{
+ "id": "20261114-024602-telegram-credits",
+ "created": "2026-11-14T02:46:02+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "credits for the Telegram material group files: who posted each one"
+ },
+ "ops": [
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/Class-Notes_Unit-2_Laser.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-4/Class-Notes_Unit-4_Quantum-Statistics.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Class-Notes_Semiconductors-Lecture-1.pdf",
+   "meta": {
+    "credit": "Vishesh",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Class-Notes_Semiconductors-Lecture-2.pdf",
+   "meta": {
+    "credit": "Vishesh",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/Class-Notes_Fibre-Optics.pdf",
+   "meta": {
+    "credit": "Vishesh",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/Class-Notes_Unit-2_Laser-Fundamentals.pdf",
+   "meta": {
+    "credit": "Vishesh",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Experiment-1_Flywheel-Moment-of-Inertia.mp4",
+   "meta": {
+    "credit": "Yash Varshney",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Experiment-3_Modulus-of-Rigidity.mp4",
+   "meta": {
+    "credit": "Yash Varshney",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Syllabus/MEA1122_Syllabus_2.pdf",
+   "meta": {
+    "credit": "Yash Varshney",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Syllabus/MEA1122_Syllabus_2023-24.pdf",
+   "meta": {
+    "credit": "Yash Varshney",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Tutorial-14_Impulse-Momentum-and-Impact.pdf",
+   "meta": {
+    "credit": "Yash Varshney",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-4/Notes_Precis-Writing-Guide.pdf",
+   "meta": {
+    "credit": "Yash Varshney",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_Assignment-1_2025-26_Home-Assignment.pdf",
+   "meta": {
+    "credit": "Alfia Saifi",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Lab-Record_Manufacturing-Workshop_2019-20.pdf",
+   "meta": {
+    "credit": "Yash Varshney",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Sem-End_2024-25_Autumn_Compilation-Sections-ABC.pdf",
+   "meta": {
+    "credit": "Hammad",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Sem-End_2024-25_Autumn_Compilation-Sections-DEF.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Mid-Sem_2024-25_Compilation-Part-B.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Mid-Sem_2024-25_Compilation-Part-A.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-1/Class-Notes_Ideal-Diode-Basics.pdf",
+   "meta": {
+    "credit": "Vishesh",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Complete-Notes/Class-Notes_Electronics-I.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Sem-End_2023-24_Compilation.pdf",
+   "meta": {
+    "credit": "Vishesh",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Z_PYQ-Compilation_2022-23_First-Semester.pdf",
+   "meta": {
+    "credit": "Vishesh",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Tutorial-1_Solution_Pressure.pdf",
+   "meta": {
+    "credit": "Syed Mohammad Talha",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Z_Tutorial-1_2018-19_Unit-1-Pressure.pdf",
+   "meta": {
+    "credit": "Alfia Saifi",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  }
+ ]
+}

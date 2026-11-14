@@ -1,0 +1,315 @@
+{
+ "id": "20261114-024553-telegram",
+ "created": "2026-11-14T02:45:53+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "note": "From a Telegram material group for B.Tech first year (batch 2024-25, all branches; sections A-C and D-F), exported with its chat. Folder names were written from the chat messages each file was posted with, so they carry the context (course, unit, experiment number, who wrote it). Applied Physics lab videos: Expt 1 and Expt 3 were recorded in the lab during Covid by students and shared as the lab's demonstrations. Files by 'S.M. Talha' are Syed Mohammad Talha's own notes and scans. Published textbooks and solution manuals in the chat were left out already; if a file is still a scanned book, reject it. Course numbers for 2024-25 first year: APS1112 Applied Physics, ACS1112 Applied Chemistry, AMS1112 Applied Maths-I, MEA1122 Engineering Mechanics, ELA1112 Principles of Electronics, EEA1112 Principles of Electrical, MEA1112 Thermal Sciences, EZH1112 English, CEU1112 EVS."
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/Class-Notes_Unit-2_Laser.pdf",
+   "s": 2771034,
+   "h": "7fbf0fb2cf9b9f3ee7c673acefc71354c14e8c0e8a44f4c7201e87efd5efb205",
+   "t": 1794624353,
+   "meta": {
+    "author": "Syed Mohammad Talha",
+    "title": "Unit 2 notes · Laser",
+    "summary": "Handwritten Unit 2 notes: characteristics of a laser beam, stimulated absorption, spontaneous and stimulated emission, and population inversion.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-4/Class-Notes_Unit-4_Quantum-Statistics.pdf",
+   "s": 1929184,
+   "h": "cfc69991e309c01d31ab630828be79a2e8c3d1375b52e63d4d6e6801a6248e6a",
+   "t": 1794624353,
+   "meta": {
+    "author": "Syed Mohammad Talha",
+    "title": "Unit 4 notes · Quantum Statistics",
+    "summary": "Handwritten Unit 4 notes on quantum statistics: Maxwell-Boltzmann, Bose-Einstein and Fermi-Dirac distributions and the distribution function.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Class-Notes_Semiconductors-Lecture-1.pdf",
+   "s": 5292747,
+   "h": "6631c0dad993d87123f531b8d83aec696cd8a2858c4e1b6eb86392a5f7acd6b3",
+   "t": 1794624353,
+   "meta": {
+    "professor": "Dr. Mohd. Hashim",
+    "title": "Semiconductor notes · Lecture 1",
+    "summary": "Handwritten first lecture on semiconductors: conductivity compared with conductors and insulators, elemental and compound semiconductors, diamond structure.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-1/Class-Notes_Semiconductors-Lecture-2.pdf",
+   "s": 604427,
+   "h": "29f40d7cb6cbd80d9b3a8e3adf6d367316acfcc68eda904799af257121f89913",
+   "t": 1794624353,
+   "meta": {
+    "title": "Semiconductor notes · Lecture 2",
+    "summary": "Handwritten second semiconductor lecture: energy-level splitting in LCAO, silicon atomic structure and sp3 hybridised orbitals.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/Class-Notes_Fibre-Optics.pdf",
+   "s": 1063614,
+   "h": "8edb5ccfae13c2731213560d6c6dc34bd474f6ea4ca2a8b31dc3e02b69f9d069",
+   "t": 1794624353,
+   "meta": {
+    "title": "Fibre optics · handwritten notes",
+    "summary": "Handwritten notes on optical fibres: construction and materials of core and cladding, types of fibres and light guidance by total internal reflection.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Unit-2/Class-Notes_Unit-2_Laser-Fundamentals.pdf",
+   "s": 383410,
+   "h": "0700aed3e2503deac21b41b1a1335fddb6170677dbd243bc21c5f6cd571538a5",
+   "t": 1794624353,
+   "meta": {
+    "title": "Unit 2 notes · Laser fundamentals",
+    "summary": "Handwritten Unit 2 notes on laser fundamentals: characteristics of laser light, intensity, divergence, monochromaticity and coherence.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Experiment-1_Flywheel-Moment-of-Inertia.mp4",
+   "s": 260317227,
+   "h": "9ccef66ff9c9ba299b9755d9d4ff95fa0af30b3d13f15eb7494ae1cfdef2394b",
+   "t": 1794624353,
+   "meta": {
+    "title": "Experiment 1 · Flywheel (moment of inertia) demonstration",
+    "summary": "Student-recorded demonstration of the flywheel experiment for measuring the moment of inertia, shared as the lab's demonstration video.",
+    "kind": "video"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Experiment-3_Modulus-of-Rigidity.mp4",
+   "s": 349191781,
+   "h": "6d06a2977879174c8bf6d1782cef3f50bb1f227e4f7073773bcf52901d1417e7",
+   "t": 1794624353,
+   "meta": {
+    "title": "Experiment 3 · Modulus of rigidity demonstration",
+    "summary": "Student-recorded demonstration of the modulus-of-rigidity experiment, shared as the lab's demonstration video.",
+    "kind": "video"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Syllabus/MEA1122_Syllabus_2.pdf",
+   "s": 372674,
+   "h": "ce2bf3eca9bd247a4ab078d987dd8c90ab2cf8c5019664addf2a60d723bc48f4",
+   "t": 1794624353,
+   "meta": {
+    "professor": "Rashid Zafar",
+    "title": "Teaching schedule · Engineering Mechanics",
+    "summary": "Unit-wise teaching schedule for Engineering Mechanics MEA1122 listing topics and the number of periods allotted to each.",
+    "kind": "typed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Syllabus/MEA1122_Syllabus_2023-24.pdf",
+   "s": 681870,
+   "h": "e7502455a66d812e24e2ff2a1379fb5401c83a590788ccdea041d33d9d04fbab",
+   "t": 1794624353,
+   "meta": {
+    "title": "Engineering Mechanics syllabus and teaching schedule",
+    "summary": "Official MEA1122 syllabus: course objectives and outcomes, credit and assessment split, unit-wise content and teaching schedule.",
+    "kind": "typed",
+    "year": "2023-24"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/PYQs-and-Assignments/Z_Tutorial-14_Impulse-Momentum-and-Impact.pdf",
+   "s": 154540,
+   "h": "698ab4135d66832b0344ac6cec768a5900f892fa082029bee914fbca71ff3f99",
+   "t": 1794624353,
+   "meta": {
+    "title": "Tutorial sheet · Chapter 14 problems (momentum and impact)",
+    "summary": "Tutorial problems 14.2–14.38 on linear impulse-momentum, explosions and impact of particles and rigid bodies, with figures.",
+    "kind": "typed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Unit-4/Notes_Precis-Writing-Guide.pdf",
+   "s": 77130,
+   "h": "d8f9c105401fb6ab7c09c00e06f1c160f88e9923aaed94d9f1b7380d6e4cb3a5",
+   "t": 1794624353,
+   "meta": {
+    "title": "Précis writing · step-by-step guide",
+    "summary": "Guide to reading a passage, finding the theme and topic sentence, selecting essentials and drafting a précis of about one-third length.",
+    "kind": "typed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/PYQs-and-Assignments/Z_Assignment-1_2025-26_Home-Assignment.pdf",
+   "s": 512904,
+   "h": "548c308eae1fb10a3d6d1431396e87ca271698971997c129f968a4b31b9f7bc6",
+   "t": 1794624353,
+   "meta": {
+    "title": "Home Assignment 1 · network theorems and magnetic circuits",
+    "summary": "First home assignment for EEA1112 (section A1F): current through impedance, load current, cast-iron ring magnetic circuit and superposition theorem problems.",
+    "kind": "typed",
+    "year": "2025-26"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Records/Lab-Record_Manufacturing-Workshop_2019-20.pdf",
+   "s": 27986036,
+   "h": "09536b149f2276ae329de9e799c4f6381dfc8436819506266275f147471e04eb",
+   "t": 1794624353,
+   "meta": {
+    "title": "Workshop lab record · slotter, chipping and slot cutting",
+    "summary": "34-page handwritten manufacturing workshop record with job drawings, tools and procedure for slotter, chipping and slot cutting jobs.",
+    "kind": "scan-handwritten",
+    "year": "2019-20"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Sem-End_2024-25_Autumn_Compilation-Sections-ABC.pdf",
+   "s": 1958225,
+   "h": "41df71262be7125f24f87def86a18c818fc4d8e878693d5416acc441799167b9",
+   "t": 1794624353,
+   "meta": {
+    "title": "Sem-End 2024-25 · first-year papers, sections A–C",
+    "summary": "Scan of a set of odd-semester 2024-25 end-semester papers for several first-year courses (Environmental Studies and others), sections A–C.",
+    "kind": "scan-printed",
+    "year": "2024-25"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Sem-End_2024-25_Autumn_Compilation-Sections-DEF.pdf",
+   "s": 6335940,
+   "h": "99f8bc014b9b10a0ef752bd230635bfc4ec9b1d4d1cbdb6d349d789292936075",
+   "t": 1794624353,
+   "meta": {
+    "title": "Sem-End 2024-25 · first-year papers, sections D–F",
+    "summary": "Scan of a set of odd-semester 2024-25 end-semester papers for several first-year courses (English and others), sections D–F.",
+    "kind": "scan-printed",
+    "year": "2024-25"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Mid-Sem_2024-25_Compilation-Part-B.pdf",
+   "s": 7856781,
+   "h": "e9e34b0f765d3f0827c51aa4b89c27e4697498928644a0ddec36d2ebd319a4ba",
+   "t": 1794624353,
+   "meta": {
+    "title": "Mid-Sem 2024-25 · first internal papers, part B",
+    "summary": "22-page scan of 2024-25 first internal examination papers for first-year courses, beginning with Thermal Sciences (MEA1112).",
+    "kind": "scan-printed",
+    "year": "2024-25"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Mid-Sem_2024-25_Compilation-Part-A.pdf",
+   "s": 5952121,
+   "h": "ba1ece2e283e90d8c15475dc65c818c94ec37640632fae84947eb4dedac7396b",
+   "t": 1794624353,
+   "meta": {
+    "title": "Mid-Sem 2024-25 · first and second internal papers, part A",
+    "summary": "13-page scan of 2024-25 internal examination papers for sections A1A–A1C, beginning with Principles of Electronics Engineering (ELA1112).",
+    "kind": "scan-printed",
+    "year": "2024-25"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Unit-1/Class-Notes_Ideal-Diode-Basics.pdf",
+   "s": 6822649,
+   "h": "f86884a0d23a7dcfbb586ab5a7613841e8df7cb460451aa4aa9b16b86c7b0aee",
+   "t": 1794624353,
+   "meta": {
+    "title": "Diode basics · handwritten notes",
+    "summary": "Handwritten notes on the ideal diode, its V–I characteristic, forward and reverse bias and simple series diode circuits with worked currents and voltages.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Complete-Notes/Class-Notes_Electronics-I.pdf",
+   "s": 27295883,
+   "h": "6c71d9dc57b02bb0d185ea9998aa86fadfeb9d289d93f65c0720acab48e1f164",
+   "t": 1794624353,
+   "meta": {
+    "title": "Electronics I · signals, amplifiers and diodes (complete notes)",
+    "summary": "153-page typed course notes covering signals and amplifier basics, frequency response, diode circuits, BJT and MOSFET amplifiers.",
+    "kind": "typed"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Sem-End_2023-24_Compilation.pdf",
+   "s": 14627865,
+   "h": "2d79830e6b6f9b0e0ed76b949b0e32cd0fe91b0ace461e9f33e7e4d219687aae",
+   "t": 1794624353,
+   "meta": {
+    "title": "Sem-End 2023-24 · first-year end-sem papers (mixed courses)",
+    "summary": "34-page scan of odd-semester 2023-24 end-semester papers for several first-year courses, including Applied Chemistry (ACS1110) and Applied Mathematics-I (AMS1110).",
+    "kind": "scan-printed",
+    "year": "2023-24"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_General-PYQs/Z_PYQ-Compilation_2022-23_First-Semester.pdf",
+   "s": 17526579,
+   "h": "e56b50a9f939605fa832987f4901e7b238ba4951d0640c34eb908156afe151a6",
+   "t": 1794624353,
+   "meta": {
+    "title": "Sem-End 2022-23 · First Semester Paper Compilation",
+    "summary": "Scanned compilation of 2022-23 B.Tech first-semester end-semester question papers covering several courses (starts with Applied Chemistry ACS1110, then Applied Mathematics-I AMS1110).",
+    "kind": "scan-printed",
+    "year": "2022-23"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/PYQs-and-Assignments/Z_Tutorial-1_Solution_Pressure.pdf",
+   "s": 9027630,
+   "h": "c1f0465523515afb74b34e7023b99be97f31a33cc6abecb21ce724b69082ef0e",
+   "t": 1794624353,
+   "meta": {
+    "author": "Syed Mohammad Talha",
+    "title": "Tutorial Sheet 1 solutions · Pressure and Manometry",
+    "summary": "Handwritten worked solutions to Tutorial Sheet 1 (Unit 1): piston pressure problem, differential U-tube manometer, elephant/shoe-heel pressure comparison and hydraulic press.",
+    "kind": "scan-handwritten"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/PYQs-and-Assignments/Z_Tutorial-1_2018-19_Unit-1-Pressure.pdf",
+   "s": 1141234,
+   "h": "d9b0797be2bdeff1636cfa35f62257f5249b9eed965f93f0b556b155de77478b",
+   "t": 1794624353,
+   "meta": {
+    "title": "Tutorial 1 (Unit 1) · Pressure",
+    "summary": "Typed tutorial sheet of pressure and manometry problems: piston-separated chambers, differential U-tube manometer and related numericals.",
+    "kind": "typed",
+    "year": "2018-19"
+   }
+  }
+ ]
+}
