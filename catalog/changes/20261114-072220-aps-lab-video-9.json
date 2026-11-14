@@ -1,0 +1,23 @@
+{
+ "id": "20261114-072220-aps-lab-video-9",
+ "created": "2026-11-14T07:22:20+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "Applied Physics lab video for experiment 9, recovered from a Telegram upload whose last piece and two middle pieces could not be downloaded"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Experiment-9_Galvanometer-to-Ammeter-and-Voltmeter.mp4",
+   "s": 226786244,
+   "h": "70438530518604f39573699654bc930f74c054be73142d20f058e8917a066fd8",
+   "t": 1794640940,
+   "meta": {
+    "credit": "Yash Varshney",
+    "source": "Telegram material group (B.Tech first year)",
+    "note": "Recovered from a damaged upload: about 4 seconds near the 10-minute mark are glitched and silent."
+   }
+  }
+ ]
+}
