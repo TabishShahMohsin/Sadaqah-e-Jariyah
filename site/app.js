@@ -786,7 +786,7 @@ function pageShell(key, crumbLabel, html) {
 // Where the material came from: every source we collected from, and the ones not collected yet
 function creditsView() {
   const host = u => { try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return ''; } };
-  const row = x => `<li class="src-row"><a class="src-t" href="${esc(x.u)}" target="_blank" rel="noopener">${esc(x.t)} <span class="src-h">${esc(host(x.u))} ↗</span></a>
+  const row = x => `<li class="src-row">${x.u ? `<a class="src-t" href="${esc(x.u)}" target="_blank" rel="noopener">${esc(x.t)} <span class="src-h">${esc(host(x.u))} ↗</span></a>` : `<span class="src-t">${esc(x.t)}</span>`}
     ${x.c ? `<div class="src-c">${esc(x.c)}</div>` : ''}${x.w ? `<div class="src-w">${esc(x.w)}</div>` : ''}</li>`;
   const group = (title, note, xs) => xs.length ? `<h2 class="label">${title} <b>${xs.length}</b></h2>${note ? `<p class="lede-sm">${note}</p>` : ''}<ul class="src-list">${xs.map(row).join('')}</ul>` : '';
   const all = S.sources || [];

@@ -98,9 +98,9 @@ def sources(repo=REPO):
         return []
     out = []
     for s in src:
-        if s.get("status") == "dead" or not s.get("url"):
+        if s.get("status") == "dead" or not (s.get("url") or s.get("status") == "merged"):
             continue
-        out.append({"t": s.get("title") or "", "u": s["url"], "c": s.get("credit") or "", "w": s.get("covers") or "",
+        out.append({"t": s.get("title") or "", "u": s.get("url") or "", "c": s.get("credit") or "", "w": s.get("covers") or "",
                     "s": "in" if s.get("status") == "merged" else "out"})
     return out
 
