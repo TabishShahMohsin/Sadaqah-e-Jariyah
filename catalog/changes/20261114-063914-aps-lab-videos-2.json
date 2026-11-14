@@ -1,0 +1,50 @@
+{
+ "id": "20261114-063914-aps-lab-videos-2",
+ "created": "2026-11-14T06:39:14+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "Applied Physics lab videos for experiments 6(a), 6(b) and 8 from the Telegram group; experiment 13 named"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Experiment-6a_Solar-Cell-Characteristics.mp4",
+   "s": 470868651,
+   "h": "e4c3bbcf3c6c60e7175063d32f611177aa294ee8f6eb8834de6969f2ef2befc5",
+   "t": 1794638340,
+   "meta": {
+    "credit": "Yash Varshney",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Experiment-6b_LED-Characteristics.mp4",
+   "s": 31608769,
+   "h": "3eed5ddef7cca91ab2aecef45c56b5053adf45641db7c73aeb1fc5544f1e6fd2",
+   "t": 1794638341,
+   "meta": {
+    "credit": "Yash Varshney",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Experiment-8_Thermal-Conductivity-of-Rubber.mp4",
+   "s": 460165542,
+   "h": "615455e68e13b6dffac3530a9a134382d8f8851bb0245ee4d62eb6aeabd1e383",
+   "t": 1794638354,
+   "meta": {
+    "credit": "Yash Varshney",
+    "source": "Telegram material group (B.Tech first year)"
+   }
+  },
+  {
+   "op": "move",
+   "from": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Demo-Video_Physics-Lab_2021-03-30.mp4",
+   "to": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1912_Applied-Physics-Lab/Manuals/Experiment-13_GM-Counter.mp4",
+   "reason": "same video as the Telegram group's Experiment 13 (G.M. counter)"
+  }
+ ]
+}
