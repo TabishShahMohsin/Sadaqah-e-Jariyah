@@ -1,0 +1,1972 @@
+{
+ "id": "20261114-081511-adnan-ece4",
+ "created": "2026-11-14T08:15:11+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "credit": "Adnan Yunus",
+  "note": "Adnan Yunus's Drive folder 'Sem4': B.Tech Electronics Engineering, semester 4 (2025-26). Folders: Digital Electronics (Sayeed Sir) = ELC2132, DS&P (Hira mam) = Digital Signal Processing, Random Signals (Sharique sir), Digital Electronics Lab, Circuit Simulation Lab, pyqs (mid-sem and end-sem paper bundles). Teacher names in the folder names are the professors."
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/_Curriculum/BTech-ECE_Sem4_Syllabus_2024-25.pdf",
+   "s": 1407156,
+   "h": "9086265a5dc9d6a5aae288dbb7dcda8573458a24ed2522e406c798c5dd6c4879",
+   "t": 1794644111,
+   "meta": {
+    "title": "Sem 4 syllabus bundle (2024-25)",
+    "summary": "Official Annexure-V course outlines for the ECE/VLSI fourth semester, starting with Electromagnetics ELC2512 and Data Structures and Programming COA2602.",
+    "kind": "scan-printed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/PYQs-and-Assignments/Z_Quiz-1_2024-25.pdf",
+   "s": 721842,
+   "h": "eb159fa4061fe4491829eccc2bfa4d7ed5d893c61725d4d97456164187e039ba",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Atiqur Rahman",
+    "title": "Quiz 1 · Analog Electronics (2024-25)",
+    "summary": "Quiz I on the MOS and bipolar differential pair: large-signal response to input common-mode variation and the input difference that halves the transconductance.",
+    "kind": "scan-printed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/Syllabus/ELC2152_Syllabus_2024-25.jpg",
+   "s": 78248,
+   "h": "4ea7c8987656e0684f04f6b4dcf48cfbcc2cbee22081b4f6ea2d69f032bb9822",
+   "t": 1794644111,
+   "meta": {
+    "title": "ELC2152 syllabus (2024-25)",
+    "summary": "Official course outline: differential and power amplifiers, frequency response, feedback and oscillators, single-stage op-amp design.",
+    "kind": "photo",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/Unit-1/Class-Notes_Differential-Amplifier.pdf",
+   "s": 17099471,
+   "h": "8aae3d8a6e3be3106b522abb40c0aff21d6d55a37551c951305da81551db3cf0",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Atiqur Rahman",
+    "title": "Unit 1 notes · Differential Amplifier",
+    "summary": "Handwritten notes on matched BJT and MOS differential pairs: common-mode and differential inputs, qualitative and large-signal analysis, current-source biasing.",
+    "kind": "scan-handwritten",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/PYQs-and-Assignments/Z_Tutorial_Razavi-Chapter-10.pdf",
+   "s": 342474,
+   "h": "4f0361b5f6291a5f806177d71939128801cadbdb23b124aabe03f3dc8d046506",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Atiqur Rahman",
+    "title": "Tutorial sheet · Razavi Chapter 10 problems",
+    "summary": "Tutorial sheet of Razavi Chapter 10 problems (10.1–10.70) with full problem statements, starting from supply-ripple rejection in CE stages.",
+    "kind": "typed",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/Unit-2/Class-Notes_Frequency-Response.pdf",
+   "s": 12700750,
+   "h": "e9c24f82e974a13ec0512caf88c7dd5bf4cfd7e9568296fb2e4866f6111a1d49",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Atiqur Rahman",
+    "title": "Unit 2 notes · Frequency Response",
+    "summary": "Handwritten notes on amplifier frequency response: gain versus frequency, bandwidth and speed limitations, Bode magnitude and phase plots, pole/zero behaviour.",
+    "kind": "scan-handwritten",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/Unit-3/Class-Notes_Feedback.pdf",
+   "s": 18466918,
+   "h": "2aafb629a883b4a3bbd1e4cdf184264a23eb95d56fc70190afb78218143b9e1d",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Atiqur Rahman",
+    "title": "Unit 3 notes · Feedback",
+    "summary": "Handwritten notes on negative feedback systems: components of the loop, closed-loop transfer function, loop gain and its effect on gain, bandwidth and impedance.",
+    "kind": "scan-handwritten",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/Unit-3/Class-Notes_LC-Oscillator.pdf",
+   "s": 696419,
+   "h": "1750dbcccdbd9b0759dc5c3ca0afcc6453a7ebe3310cb530cae3ab22a7acce55",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Atiqur Rahman",
+    "title": "Unit 3 notes · LC Oscillator",
+    "summary": "Handwritten notes on the cross-coupled LC oscillator: tank impedance, phase shift at resonance and the Barkhausen condition for oscillation.",
+    "kind": "scan-handwritten",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/Unit-4/Class-Notes_Class-B-and-AB-Amplifiers.pdf",
+   "s": 1112426,
+   "h": "983ad1f35e3db7b3026ac10911b9a3c82b26cf5d6b9380f1787d9ff1dec96a09",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Atiqur Rahman",
+    "title": "Unit 4 notes · Class B and Class AB amplifiers",
+    "summary": "Handwritten notes on class B push-pull stages, dead zone and crossover distortion, and how class AB biasing removes it.",
+    "kind": "scan-handwritten",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/Unit-4/Class-Notes_Power-Amplifiers.pdf",
+   "s": 1157966,
+   "h": "b15d97a9a70b308954a968c4d58a3b54e73543a23e407b5c04a711efc03b75b8",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Atiqur Rahman",
+    "title": "Unit 4 notes · Power amplifiers (up to class A)",
+    "summary": "Handwritten notes introducing power amplifiers: load and supply requirements, efficiency, non-linear operation and the class A stage.",
+    "kind": "scan-handwritten",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/PYQs-and-Assignments/Z_Assignment_Design-of-Single-Stage-OpAMP_2024-25_Solution.pdf",
+   "s": 364337,
+   "h": "07f429a3fc499576bb48271511acb7d664a8540edcf892983f9e78145b7b094c",
+   "t": 1794644111,
+   "meta": {
+    "author": "Moinuddin Ansari",
+    "professor": "Syed Atiqur Rahman",
+    "title": "Home assignment solution · Design of a single-stage op-amp (2024-25)",
+    "summary": "Typed solution of the single-ended single-stage op-amp design assignment: current budget, gm from UGB, transistor widths and bias voltages.",
+    "kind": "typed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/PYQs-and-Assignments/Z_Assignment_Design-of-Single-Stage-OpAMP.jpg",
+   "s": 57290,
+   "h": "51c4ae356ec756d9d29a3ef1ff3f269d94f20649617a513f75f70aaf62cf4342",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Atiqur Rahman",
+    "title": "Assignment · Design of a single-stage op-amp",
+    "summary": "Assignment statement: design a single-ended single-stage op-amp for minimum power dissipation with Vdd=1.8 V, CL=1 pF, UGB 40 MHz and PD 350 µW.",
+    "kind": "photo",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/PYQs-and-Assignments/Z_Assignment_Design-of-Single-Stage-OpAMP_Handwritten-Solution-1.jpg",
+   "s": 182727,
+   "h": "25c28076957bc50989c49e08109e4148d6b4cb3f09711e9f476ff8048ba972a3",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Atiqur Rahman",
+    "title": "Design of single-stage op-amp · handwritten solution, page 1",
+    "summary": "Handwritten design steps 1–7: drain current from the power budget, gm from UGB, overdrive from gain, device widths and bias voltages.",
+    "kind": "photo",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/PYQs-and-Assignments/Z_Assignment_Design-of-Single-Stage-OpAMP_Handwritten-Solution-2.jpg",
+   "s": 100018,
+   "h": "2a8da4b0b242120f2bf40519d770b5a1bb1fb57815c0e11d21d323a22e9c3c21",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Atiqur Rahman",
+    "title": "Design of single-stage op-amp · handwritten solution, page 2",
+    "summary": "Handwritten steps 8–9 completing the design: width of the tail NMOS from the tail current and the allowed input common-mode voltage.",
+    "kind": "photo",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/PYQs-and-Assignments/Z_Assignment_2025-26_Single-Stage-Opamp-Design_Solution-1.jpg",
+   "s": 85965,
+   "h": "a68a0c131cc9b1831488fcc3018ff1664ba4be25fae96416bde4dd4aa473e84f",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Atiq",
+    "title": "Single-stage op-amp design · practice solution, page 1",
+    "summary": "Handwritten design of a single-ended single-stage op-amp for maximum gain (VDD 1.8 V, CL 1 pF, UGB 40 MHz, PD 350 uW): tail current, gm and bias calculations.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/PYQs-and-Assignments/Z_Assignment_2025-26_Single-Stage-Opamp-Design_Solution-2.jpg",
+   "s": 65153,
+   "h": "b28ece5a76d58ef43571b63694c14375663c387d8abc730ad3ceee9c9083ae37",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Atiq",
+    "title": "Single-stage op-amp design · practice solution, page 2",
+    "summary": "Continuation of the handwritten op-amp design: range of drain current, gm of the input pair, NMOS/PMOS widths and bias voltage calculation.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/PYQs-and-Assignments/Z_Assignment_2025-26_Single-Stage-Opamp-Design.jpg",
+   "s": 24483,
+   "h": "6f4d8ff80ab9de1ec8255af399880ce9006c0c96bfbe57db49d6318758aad1a1",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Atiq",
+    "title": "Single-stage op-amp design · practice problem",
+    "summary": "Practice problem asking students to design for Vov = 150 mV and Av,min = 50 V/V using the specs of the home assignment.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/PYQs-and-Assignments/Z_Assignment_2025-26_Single-Stage-Opamp-Design_Solution-3.jpg",
+   "s": 19558,
+   "h": "5601f16dc59d61114278b57ce809c7efb2277ef1830fb0ac461da24f4fe9558d",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Atiq",
+    "title": "Single-stage op-amp design · practice solution, page 3",
+    "summary": "Final handwritten step of the practice problem: choice of tail voltage and input common-mode voltage (Vbias + Vp = 0.6 V).",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2962_Circuit-Simulation-Lab/Books-and-Resources/Tutorial_Transformer-in-LTspice.pdf",
+   "s": 536927,
+   "h": "7c47feb20c52c16d793ae9efbf1c55744f8dc201630c58df9a0c58a10a2a56d7",
+   "t": 1794644111,
+   "meta": {
+    "author": "Semih Aslan",
+    "title": "Creating a transformer in LTspice",
+    "summary": "Five-page handout on modelling step-up and step-down transformers in LTspice via coupled inductors, with a turn-ratio example.",
+    "kind": "typed",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2962_Circuit-Simulation-Lab/Manuals/Experiment-2_RC-Coupled-Amplifier_2024-25.pdf",
+   "s": 277461,
+   "h": "edf10c7c99afc755ccb9a7cce999e840528d1af30c95ea35996e9de3a91f2cb8",
+   "t": 1794644111,
+   "meta": {
+    "title": "Experiment 2 · RC coupled amplifier",
+    "summary": "Lab sheet for simulating an RC coupled amplifier in LTspice: circuit diagram, operating-point, transient and AC analysis steps.",
+    "kind": "typed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2962_Circuit-Simulation-Lab/Manuals/Experiment-4_MOS-Current-Mirrors_2024-25.pdf",
+   "s": 64360,
+   "h": "c72cfd07b74eafbac75256952cd23cdd4caceb05ee7a6c894ee65ba0da11a7f7",
+   "t": 1794644111,
+   "meta": {
+    "title": "Experiment 4 · MOS current mirrors",
+    "summary": "Lab sheet for simulating simple and cascode MOS current mirrors in LTspice with the PTM 90 nm model, including temperature and process-variation effects.",
+    "kind": "typed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2962_Circuit-Simulation-Lab/Records/Lab-Record_Circuit-Simulation-Lab_2024-25.pdf",
+   "s": 18807540,
+   "h": "03b2e015ccbe33599f63ec9e39cf32f47ee8ac1598413431ebd0105cba876afc",
+   "t": 1794644111,
+   "meta": {
+    "title": "Circuit Simulation Lab record (2024-25)",
+    "summary": "55-page scanned handwritten lab record for the LTspice simulation lab, starting with the RC circuit experiment and PWL/sine input transient analysis.",
+    "kind": "scan",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/COA2602_Data-Structures-and-Programming/Unit-1/Lecture-Slides_Introduction-to-Data-Structures-and-Algorithms.pdf",
+   "s": 2129936,
+   "h": "70bb2b2b1209721c48bcb5e5c645da335005e9d0160302ee841909f314de4093",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Hira",
+    "title": "Introduction to data structures and algorithms",
+    "summary": "Slide deck introducing data, data items, data structures and algorithms with recommended textbooks, for the first unit of DS&P.",
+    "kind": "slides",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/COA2602_Data-Structures-and-Programming/Unit-1/Lecture-Slides_Pointers-and-Structures-in-C.pdf",
+   "s": 241999,
+   "h": "d68e0dc2175b0a41f2a908bd6e06d8554c133103145c682effeec774c59e2207",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Hira",
+    "title": "Pointers and structures in C",
+    "summary": "Slide deck on pointers (addresses, pointer variables, arrays and pointers) and structures in C for the first unit of DS&P.",
+    "kind": "slides",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/COA2602_Data-Structures-and-Programming/Unit-2/Lecture-Slides_Arrays.pdf",
+   "s": 372677,
+   "h": "bbf506e7086763f68fab3fc05141ee8eeccb0cbfe61bad0e64dee8343ca9937c",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Hira",
+    "title": "Unit 2 slides · Arrays and linear data structures",
+    "summary": "Slides on linear data structures: memory representations, traversal, search, insertion and deletion in arrays.",
+    "kind": "slides",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/COA2602_Data-Structures-and-Programming/Unit-2/Lecture-Slides_Linked-List.pdf",
+   "s": 430081,
+   "h": "5f6d996dc14e06561df438817e7e5f850652ddd0a8cd0183f845cbd4f9988419",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Hira",
+    "title": "Unit 2 slides · Linked lists",
+    "summary": "Slides on linked lists: node structure, head and tail, and variants with their operations.",
+    "kind": "slides",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/COA2602_Data-Structures-and-Programming/Unit-2/Lecture-Slides_Queue.pdf",
+   "s": 223566,
+   "h": "bb86af4e18f415efe5137b6c0fe37cec397bad7e877ff62d3731d2849a2aaf8a",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Hira",
+    "title": "Unit 2 slides · Queues",
+    "summary": "Slides on queues: FIFO ordering, front and rear, and queue operations.",
+    "kind": "slides",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/COA2602_Data-Structures-and-Programming/Unit-2/Lecture-Slides_Stacks.pdf",
+   "s": 393787,
+   "h": "697d6b2e2fdc389f1027642e85b3227ffa6291252fc6e33206231fd72f7edaa5",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Hira",
+    "title": "Unit 2 slides · Stacks",
+    "summary": "Slides on stacks: LIFO behaviour, push/pop/top operations and overflow/underflow.",
+    "kind": "slides",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/COA2602_Data-Structures-and-Programming/Unit-3/Lecture-Slides_Graphs.pdf",
+   "s": 803225,
+   "h": "46485c4a66c5c18ca56233ddc10eb5e7defd7b2ae3c0c80a5184a0c219ce623b",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Hira",
+    "title": "Unit 3 slides · Graphs",
+    "summary": "Slides on graphs: definitions, directed/undirected and complete graphs, representations and traversals.",
+    "kind": "slides",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/COA2602_Data-Structures-and-Programming/Unit-3/Lecture-Slides_Trees.pdf",
+   "s": 1279131,
+   "h": "bb0954dcc9c382412dcc8d2699a2d8eff49885f36f569a5ba3e9d09232b9433e",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Hira",
+    "title": "Unit 3 slides · Trees and binary trees",
+    "summary": "Long slide deck on trees: binary trees, terminology, traversal and tree applications.",
+    "kind": "slides",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/COA2602_Data-Structures-and-Programming/Unit-4/Lecture-Slides_Hashing.pdf",
+   "s": 544698,
+   "h": "dc03850a6c22bc6b4abd4226af307927d0f6d139c2b4a8c4160e432a8125f4ed",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Hira",
+    "title": "Unit 4 slides · Hashing",
+    "summary": "Slides on hashing: search complexity motivation, hash functions, collision handling and hash tables.",
+    "kind": "slides",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/COA2602_Data-Structures-and-Programming/Unit-4/Lecture-Slides_Sorting-Algorithms.pdf",
+   "s": 641157,
+   "h": "6fac8eda459f306c30f345eacca95e7b0b498669d5b6e40bb01ed4babd42d8ce",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Hira",
+    "title": "Unit 4 slides · Sorting algorithms",
+    "summary": "Slides on sorting: internal vs external sorts, comparison counts and classic sorting algorithms.",
+    "kind": "slides",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/COA2602_Data-Structures-and-Programming/Unit-4/Lecture-Slides_Sorting-Part-2.pdf",
+   "s": 1332031,
+   "h": "58c5cfdc6c7c10c9afd868e61ba7f5edf206469379ce19d98eee9f82b43a85f1",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Hira",
+    "title": "Unit 4 slides · Sorting, part 2 (divide and conquer)",
+    "summary": "Second sorting deck covering divide-and-conquer design, merge sort and quicksort style algorithms.",
+    "kind": "slides",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2952_Digital-Electronics-Lab/Manuals/ELC2920_Lab-Manual_2021-22.pdf",
+   "s": 13419145,
+   "h": "7333fd74d9d9bc4992d835f207ae1dac08e70f6042d8567e442c545fd88ac1e9",
+   "t": 1794644111,
+   "meta": {
+    "title": "Digital Electronics Lab manual (ELC-2920, 2021-22)",
+    "summary": "Department lab manual with the theory, procedure and experiments for the digital electronics laboratory.",
+    "kind": "scan-printed",
+    "year": "2021-22",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2952_Digital-Electronics-Lab/Records/Experiment-1_Verify-Basic-Logic-Gates_Page-1.jpg",
+   "s": 138424,
+   "h": "88a46be7dbf0311fc822c9480c1848e2b8fa031d7c86d2514313d9021d593665",
+   "t": 1794644111,
+   "meta": {
+    "title": "Experiment 1 · Verifying basic logic gates (page 1)",
+    "summary": "Handwritten record page 1 for Experiment 1: pin diagrams of NOT, AND, NAND, NOR and XOR gates with truth tables.",
+    "kind": "photo",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2952_Digital-Electronics-Lab/Records/Experiment-1_Verify-Basic-Logic-Gates_Page-2.jpg",
+   "s": 114551,
+   "h": "7603e54321832278cc07b469ccd97b9fc6185d3e87bc51b5252e19c02bce9864",
+   "t": 1794644111,
+   "meta": {
+    "title": "Experiment 1 · Verifying basic logic gates (page 2)",
+    "summary": "Handwritten record page 2 for Experiment 1: observation table for all gates and the result/discussion.",
+    "kind": "photo",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2952_Digital-Electronics-Lab/Records/Experiment-2_Mod-8-Asynchronous-Ripple-Counter.pdf",
+   "s": 1401729,
+   "h": "0a7a92e90193fd886d45aef483fda9a25c1284c896d5ca158e2497d9e6f2abf2",
+   "t": 1794644111,
+   "meta": {
+    "title": "Experiment 2 · Mod-8 asynchronous (ripple) counter with JK flip-flops",
+    "summary": "Handwritten record for Experiment 2: circuit diagram and operation of a mod-8 asynchronous ripple counter using a 74LS76.",
+    "kind": "scan-handwritten",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2952_Digital-Electronics-Lab/Records/Experiment-2_Mod-8-Asynchronous-and-Mod-6-Synchronous-Counters.pdf",
+   "s": 3054887,
+   "h": "b594f0ff14a558a366aa887cb1cd753a04489daf41b09da77da9023e620344ab",
+   "t": 1794644111,
+   "meta": {
+    "title": "Experiment 2 · Mod-8 asynchronous and mod-6 synchronous counters",
+    "summary": "Seven-page handwritten report covering design, timing diagrams and implementation of a mod-8 asynchronous and a mod-6 synchronous counter with JK flip-flops.",
+    "kind": "scan-handwritten",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2952_Digital-Electronics-Lab/Records/Experiment-6_Shift-Register-IC-74195.jpg",
+   "s": 86313,
+   "h": "6566da732a18d6a4d4c7f2415afe27eeb825f33ad5ce6f88aec8663d0a96ce4d",
+   "t": 1794644111,
+   "meta": {
+    "title": "Experiment 6 · Load, shift and rotate operations on a 4-bit shift register",
+    "summary": "Handwritten record page on IC 74195: pin diagram and description of right-shift and right-rotate operations.",
+    "kind": "photo",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2952_Digital-Electronics-Lab/Records/Experiment-3_Shift-Register.jpg",
+   "s": 68142,
+   "h": "af459e2a8d636d62382e9601b7e5849679cfed1f3c4142bbd70fd80419ef7286",
+   "t": 1794644111,
+   "meta": {
+    "title": "Experiment 3 · Shift Register (result and discussion page)",
+    "summary": "Handwritten lab-record page giving the result and discussion for the shift-register / ring-counter experiment (right shift vs right rotate).",
+    "kind": "photo",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2952_Digital-Electronics-Lab/Records/Experiment-4_R-2R-Ladder-DAC.pdf",
+   "s": 1240240,
+   "h": "7296ca9c47e3f0d8651a81311c71708140d16c68cd81e91abeacf6cc67ba27b7",
+   "t": 1794644111,
+   "meta": {
+    "title": "Experiment 4 · 4-bit R-2R Ladder DAC",
+    "summary": "Handwritten lab record for the 4-bit R-2R ladder DAC experiment: circuit diagram, IC-741 pinout, derivation of output voltage, result and discussion.",
+    "kind": "scan-handwritten",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2952_Digital-Electronics-Lab/Records/Experiment-6_Gray-to-BCD-Code-Converter.pdf",
+   "s": 595314,
+   "h": "fad8d430d98e5a5491c0c8eaf7a3411aa5f021eaf54773d882efe8c77fbbe1b2",
+   "t": 1794644111,
+   "meta": {
+    "title": "Experiment 6 · Gray to BCD Code Converter",
+    "summary": "Handwritten lab record for designing and testing a Gray-to-BCD code converter with 7486 XOR ICs, including circuit diagram, pin diagram and truth table.",
+    "kind": "scan-handwritten",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2952_Digital-Electronics-Lab/Records/Experiment-7_4-bit-Programmable-Adder-Subtractor.pdf",
+   "s": 2465044,
+   "h": "c8c4985623950a49524d81528a6f735930663d7abc110c714c009415882f1b7b",
+   "t": 1794644111,
+   "meta": {
+    "title": "Experiment 7 · 4-bit Programmable Adder/Subtractor",
+    "summary": "Handwritten lab record for testing a 4-bit programmable adder/subtractor using IC 7483 and 7486 XOR gates, with truth table and circuit diagram.",
+    "kind": "scan-handwritten",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2952_Digital-Electronics-Lab/Records/Experiment-8_8x1-Multiplexer.jpg",
+   "s": 485519,
+   "h": "f7a8ae6820dcfef514437df82efaeb081181efe7986f0aca131036460802e5ad",
+   "t": 1794644111,
+   "meta": {
+    "title": "Experiment 8 · 8×1 Multiplexer (page 1: object and circuit)",
+    "summary": "First page of the Experiment 8 record: object of testing an 8:1 multiplexer and implementing a 4-variable function, with block diagram and 74151 connection diagram.",
+    "kind": "photo",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2952_Digital-Electronics-Lab/Records/Experiment-8_8x1-Multiplexer_2.jpg",
+   "s": 470302,
+   "h": "5d57c8bee04d0b144df535c80a810b36a998b0e10ca9f2bef49c603bf33dab78",
+   "t": 1794644111,
+   "meta": {
+    "title": "Experiment 8 · 8×1 Multiplexer (page 2: calculations)",
+    "summary": "Calculations page of the Experiment 8 record: truth table of F(a,b,c,d)=Σ(1,5,9,13,15), minterm expression and the multiplexer data-input implementation table.",
+    "kind": "photo",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2952_Digital-Electronics-Lab/Records/Experiment-8_8x1-Multiplexer_3.jpg",
+   "s": 559671,
+   "h": "6d7ae6820cac25a43afca952452d961c4cb09c2d31e0470c25ede7fa02a88ebe",
+   "t": 1794644111,
+   "meta": {
+    "title": "Experiment 8 · 8×1 Multiplexer (page 3: observations)",
+    "summary": "Observations page of the Experiment 8 record: observed truth table, the 8:1 MUX wiring for F=Σ(1,5,9,13,15) and the teacher's signature with date.",
+    "kind": "photo",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2952_Digital-Electronics-Lab/Records/Experiment-8_8x1-Multiplexer_4.jpg",
+   "s": 531191,
+   "h": "f391955e38c3a727dbab070fdd0c8055a3674c859d10ccf605dfb1e0518da763",
+   "t": 1794644111,
+   "meta": {
+    "title": "Experiment 8 · 8×1 Multiplexer (page 4: result and discussion)",
+    "summary": "Closing page of the Experiment 8 record with the result of the 8:1 multiplexer test and a discussion of implementing a Boolean function with a MUX.",
+    "kind": "photo",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/PYQs-and-Assignments/Z_Assignment_2024-25_Solution.pdf",
+   "s": 2919545,
+   "h": "4f307e4d260c7ebcd6f340d4486776c502483c37968b21b993d5aa350cd6a11a",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sayeed Ahmad",
+    "title": "Home Assignment 2024-25 · handwritten solutions",
+    "summary": "Handwritten worked solutions to the ELC2132 home assignment: binary-weighted and R-2R DACs, ADCs, flash converter, noise margins and memory circuits.",
+    "kind": "scan-handwritten",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/PYQs-and-Assignments/Mid-Sem-1_2024-25_Solution.pdf",
+   "s": 731720,
+   "h": "ff294577c1dc6912c34c673257f32cd85eb3fefcdbcd9868c8854e93d9c1d644",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sayeed Ahmad",
+    "title": "Mid-Sem 1 2024-25 · First Internal (with handwritten answers)",
+    "summary": "ELC2130/ELC2132 Digital Electronics First Internal Examination 2024-25 paper with handwritten solutions on fan-out, TTL cross-talk, ECL and CMOS sizing.",
+    "kind": "scan-printed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/PYQs-and-Assignments/Z_Assignment_2024-25.pdf",
+   "s": 83169,
+   "h": "2edf7fcb9595d188cee862d9e87766149c6591595276f4e4f316c63c8965f364",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sayeed Ahmad",
+    "title": "Home Assignment 2024-25 (ELC2132)",
+    "summary": "Typed ELC2132 home assignment sheet (submission 28/04/2025) with problems on DACs, ADCs, flash converter, ROM/RAM and noise margins.",
+    "kind": "typed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/PYQs-and-Assignments/Z_Quiz-2_2024-25_Solution_Correction.jpg",
+   "s": 126161,
+   "h": "081e7e94222bd01fcb07d1a32037feac3b81510531393219e3d625cec76610bc",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sayeed Ahmad",
+    "title": "Quiz 2 2024-25 · corrected answer set",
+    "summary": "Photo of the corrected page of the ELC2132 Quiz 2 (24/04/2025) answer sheet: ADC conversion time, R/2R DAC, resolution, DRAM and memory-chip questions.",
+    "kind": "photo",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/PYQs-and-Assignments/Z_Quiz-2_2024-25_Solution.pdf",
+   "s": 1510298,
+   "h": "723e125f0a403f69afcaa0d8f2dcb368dcd5336f937cd6a6701d4f40b0707222",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sayeed Ahmad",
+    "title": "Quiz 2 2024-25 · solutions (three sets)",
+    "summary": "Three scanned sets of ELC2132 Quiz 2 (24/04/2025) with answers marked, covering data converters, DAC errors, memory types and memory-system design.",
+    "kind": "scan-printed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/Syllabus/ELC2132_Syllabus_2024-25.jpg",
+   "s": 130261,
+   "h": "c5473d867fd64f5c49b1bf4760e7456c8e364ffe25129fc08b7858384de7c9c8",
+   "t": 1794644111,
+   "meta": {
+    "title": "ELC2132 syllabus 2024-25 (official, Annexure-V)",
+    "summary": "Official Department of Electronics Engineering syllabus for Digital Electronics ELC2132, effective 2024-25: course outcomes, units on logic families, memory devices and data converters, and books.",
+    "kind": "photo",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/Unit-1/Notes_Comparison-of-TTL-Outputs.pdf",
+   "s": 52266,
+   "h": "df8e78ad68f730bc2412f9dafb09eac0f4074261105cae1eaca82768bb4faaae",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sayeed Ahmad",
+    "title": "Comparison of Open-Collector, Totem-Pole and Tri-State TTL",
+    "summary": "One-page typed table comparing open-collector, totem-pole and tri-state TTL outputs by structure, output voltage levels and speed.",
+    "kind": "typed",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/Unit-1/Comparison-of-Logic-Families_2025-26.jpg",
+   "s": 103698,
+   "h": "fa97ea482326680d6cef6cc9c8961c4a16d9c9d731d050d2d68ae834ee255a50",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sayeed Ahmad",
+    "title": "Comparison of logic families · RTL, DTL, TTL, ECL, CMOS",
+    "summary": "One-page comparison chart of RTL, DTL, TTL, ECL and CMOS logic families across noise margin, fan-out, power, delay and applications.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/Unit-1/Class-Notes_Unit-1_2025-26.pdf",
+   "s": 17169488,
+   "h": "544420907b7d25627735b23a94157922d7fa283d21c1367dc733832717cc1d79",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sayeed Ahmad",
+    "title": "Unit 1 class notes · Digital ICs and logic families",
+    "summary": "Handwritten Unit 1 notes on discrete vs integrated circuits, IC classification from SSI to GSI, and logic family characteristics.",
+    "kind": "scan-handwritten",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/PYQs-and-Assignments/Z_Assignment_2025-26_Memory-Devices.pdf",
+   "s": 166317,
+   "h": "9897eaf5f88684f3a7decbbeb8d1701881baf0d4d66626e10082521e5808660c",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sayeed Ahmad",
+    "title": "Problems based on memory devices (Unit 2)",
+    "summary": "Practice problem sheet on ROM sizing, ROM-based logic implementation and memory-chip design, with links to worked solutions.",
+    "kind": "typed",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/Unit-2/Lecture-Slides_Unit-2-Memory-Part-1.pdf",
+   "s": 926390,
+   "h": "44c16623e0c043a98657ff6747f039e8f86d7d8e05a5700e1b7e8ca3fa04f4c6",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sayeed Ahmad",
+    "title": "Unit 2 slides · Memory terminology and general operation (Part 1)",
+    "summary": "Slides on memory terminology, RAM/ROM differences, volatile vs nonvolatile memory and the general memory read/write operation.",
+    "kind": "slides",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/Unit-2/Lecture-Slides_Unit-2-Memory-Part-2.pdf",
+   "s": 987958,
+   "h": "a1fbbad0be9fe3b271672bf3cbeb5ea13a78627bfc182224f5a93ad019698d3d",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sayeed Ahmad",
+    "title": "Unit 2 slides · ROM operation, architecture and timing (Part 2)",
+    "summary": "Slides on read-only memory: operation, architecture, programming and timing.",
+    "kind": "slides",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/Unit-2/Lecture-Slides_Unit-2-Memory-Part-3.pdf",
+   "s": 1395472,
+   "h": "50df1ea82de9b28f315249ad7586d9ebb883bcb58e53d3b73e1ca6b754fa01ea",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sayeed Ahmad",
+    "title": "Unit 2 slides · Types of ROM (Part 3)",
+    "summary": "Slides on mask ROM, PROM, EPROM and EEPROM, their architecture, addressing and applications.",
+    "kind": "slides",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/Unit-2/Lecture-Slides_Unit-2-Memory-Part-4.pdf",
+   "s": 615513,
+   "h": "21aa34fd70a3d634bf02dc64c563ea6fa48525430c030d856dfb60d0cb059164",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sayeed Ahmad",
+    "title": "Unit 2 slides · Semiconductor RAM (Part 4)",
+    "summary": "Slides on semiconductor RAM: architecture, chip select, read/write cycles and RAM arrays.",
+    "kind": "slides",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/Unit-2/Lecture-Slides_Unit-2-Memory-Part-5.pdf",
+   "s": 1036026,
+   "h": "afaea4d789ee6c03aa10bf591725e7f4a2fd48a4ef6f27af23424ab899cfdd89",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sayeed Ahmad",
+    "title": "Unit 2 slides · Dynamic RAM (Part 5)",
+    "summary": "Slides on DRAM cells, refresh, and a comparison of DRAM with SRAM in density, cost, speed and power.",
+    "kind": "slides",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/Unit-3/Lecture-Slides_Unit-3-DAC-Part-1.pdf",
+   "s": 2136062,
+   "h": "3425efd89e2c0175d769382f1b7a191be9356c9550248cfd593aa150b01691a4",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sayeed Ahmad",
+    "title": "Unit 3 slides · Digital-to-analog converters (Part 1)",
+    "summary": "Slides introducing DACs: transducers, analog vs digital quantities, DAC circuits, resolution and accuracy.",
+    "kind": "slides",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2132_Digital-Electronics/Unit-3/Lecture-Slides_Unit-3-ADC-Part-2.pdf",
+   "s": 1592564,
+   "h": "4adf5d6babfe5281180f3a2550b74d5836568fd1b999beb28f688688042f7893",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sayeed Ahmad",
+    "title": "Unit 3 slides · Analog-to-digital converters (Part 2)",
+    "summary": "Slides on the ADC process: sampling and holding, quantization, encoding and ADC types.",
+    "kind": "slides",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Z_Assignment_2025-26_Solution.pdf",
+   "s": 61875749,
+   "h": "a7c0cf1d3a464e52cd397f56f5eebfe5c914a7ffcf964f0d752ce950796e180c",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Unit 1 assignment solutions · DC machines",
+    "summary": "Handwritten worked solutions to Unit 1 numerical problems on DC machines: induced EMF, back EMF, efficiency and motor output.",
+    "kind": "scan-handwritten",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/Syllabus/EEA2012_Syllabus_2024-25.pdf",
+   "s": 3129930,
+   "h": "faa4a68b46a2873e192bdcbab2912b4c4c761eacacd89c2041e6ae9757669ecc",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Mohammad Ashraf",
+    "title": "EEA2012 syllabus · Electrical Engineering (for Electronics Engg. students)",
+    "summary": "Official course outline for EEA2012: objectives, outcomes, DC/induction/synchronous machines, special machines and power transmission.",
+    "kind": "scan-printed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Z_Quiz_2025-26.pdf",
+   "s": 72774,
+   "h": "17bec5dd7737c842a8a91b67f57dcfc68dce16981ed41177d399bf4590ad28f5",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Quiz · Electrical Engineering (EEA2010/EEA2012)",
+    "summary": "20-minute quiz sheet on synchronous machine phasor diagrams, lagging power factor and stepper motor step angle.",
+    "kind": "typed",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/Unit-1/Class-Notes_Unit-1_DC-Machines_2025-26.pdf",
+   "s": 5857276,
+   "h": "c57775e5ab398db85c542ebfbb4c4336e03ab694959f3db0d4eec882e042ff45",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Unit 1 notes · DC machines",
+    "summary": "Handwritten Unit 1 notes on DC machines: working principle, generator and motor action, commutator, with the course unit overview.",
+    "kind": "scan-handwritten",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/Unit-1/Class-Notes_Unit-1_EEA2012_2024-25.pdf",
+   "s": 14357925,
+   "h": "95424aa751ac9e5c4fd5061652dea3abf8ca9b690afd3626cb270613715fe856",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Unit 1 notes · DC machines and course outline (EEA2012)",
+    "summary": "Handwritten notes opening with the EEA2012 course outline and textbook list, then the working principle of DC machines and commutator action.",
+    "kind": "scan-handwritten",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Z_Tutorial-1_2024-25.pdf",
+   "s": 42366,
+   "h": "d90be34fc1fb836e05c8360752b08f3918c7ecdff7f43f84455716c18efc94a1",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Tutorial 1 · DC machines",
+    "summary": "Tutorial sheet on DC machines: induced emf for generator and motor, back emf, speed and torque problems.",
+    "kind": "typed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Z_Tutorial-2_2024-25.pdf",
+   "s": 92387,
+   "h": "a1fb0ba197b7fcf0fe4815ccb40821497032d8d4f1ca28d85dfcd80e6e883b33",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Tutorial 2 · Induction motors",
+    "summary": "Tutorial sheet on three-phase induction motors: slip, rotor speed and frequency, losses and shaft torque.",
+    "kind": "typed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/Unit-2/Class-Notes_Unit-2_2024-25.pdf",
+   "s": 3087752,
+   "h": "90f082a48b9a538270b0a960c969c638479343e9bab75cf874edade823e05535",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Unit 2 notes · Induction motors",
+    "summary": "Handwritten Unit 2 notes on rotating magnetic field, slip and three-phase induction motor operation, with a worked class-test sheet.",
+    "kind": "scan",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/Unit-3/Class-Notes_Unit-3_2024-25.pdf",
+   "s": 4184722,
+   "h": "258550901ca689096d211fe97798f7d5be74a28c6baf4afe9d93aa5f0f2cab17",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Unit 3 notes · Synchronous machines",
+    "summary": "Handwritten 20-page scan of Unit 3 notes: synchronous motor and generator construction, salient vs non-salient poles, emf and phasor work.",
+    "kind": "scan-handwritten",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Z_Tutorial-3_2024-25.pdf",
+   "s": 64544,
+   "h": "fe798b47ad25e046c420d32225a7d4caa0255c2bb626a1213baad7195aa23c1e",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Tutorial 3 · Alternators, synchronous motors and stepper motor",
+    "summary": "Tutorial sheet on winding factors, induced emf of a three-phase alternator, synchronous motor phasor problems and a stepper motor step count.",
+    "kind": "typed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Z_Tutorial-3_2024-25_Solution.pdf",
+   "s": 556207,
+   "h": "f43661f731f1361b361a9b3df7cf320d33dafad74aece27d37246b628bb796db",
+   "t": 1794644111,
+   "meta": {
+    "source": "slbh",
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Tutorial 3 · handwritten solutions",
+    "summary": "Handwritten worked solutions to Tutorial 3: distribution and pitch factors, alternator emf and synchronous machine phasor sums.",
+    "kind": "scan-handwritten",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Z_Tutorial-4_2024-25_Solution.pdf",
+   "s": 1256216,
+   "h": "048708f4faa509dbd1e06a3c8c14a4c23f5535be88fd4fe933ed53a17f122fbc",
+   "t": 1794644111,
+   "meta": {
+    "source": "slbh",
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Tutorial 4 · handwritten solutions",
+    "summary": "Handwritten worked solutions to Tutorial 4: short and nominal-pi transmission line sending-end voltage, power, regulation and efficiency.",
+    "kind": "scan-handwritten",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/Unit-4/Class-Notes_Unit-4_2024-25_Part-1.pdf",
+   "s": 1243654,
+   "h": "d2621323b9e293968ed61d42b5026b66198df32c0adf9500ab087be87cc779ac",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Unit 4 notes · Power transmission and distribution (Part 1)",
+    "summary": "Handwritten start of Unit 4: power system layout, classification of transmission lines, voltage regulation and efficiency.",
+    "kind": "scan-handwritten",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/Unit-4/Class-Notes_Unit-4_2024-25_Part-2-1.jpg",
+   "s": 154301,
+   "h": "378cc9d8befc61b052a27cdaf36f811870baac124a2757902ddc8825a64a9d28",
+   "t": 1794644111,
+   "meta": {
+    "title": "Unit 4 notes · Corona and radio interference (page 1)",
+    "summary": "Handwritten Unit 4 page on corona discharge, conductor field gradient, ACSR conductors and radio interference.",
+    "kind": "photo",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/Unit-4/Class-Notes_Unit-4_2024-25_Part-2-2.jpg",
+   "s": 148208,
+   "h": "3d4e08a03b1db2c40f9a76dc4977367f1e080dcc46c5dd5923041f60289a9136",
+   "t": 1794644111,
+   "meta": {
+    "title": "Unit 4 notes · Corona factors and critical disruptive voltage (page 2)",
+    "summary": "Handwritten page on factors affecting corona, critical disruptive voltage and visual critical voltage.",
+    "kind": "photo",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/Unit-4/Class-Notes_Unit-4_2024-25_Part-2-3.jpg",
+   "s": 125913,
+   "h": "f05ce2a03a33924e557461b3b00514560c5974c5929639da5a5952080847d9e0",
+   "t": 1794644111,
+   "meta": {
+    "title": "Unit 4 notes · Advantages and disadvantages of corona (page 3)",
+    "summary": "Handwritten page listing advantages and disadvantages of corona and describing radio interference in transmission lines.",
+    "kind": "photo",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/Unit-4/Class-Notes_Unit-4_2024-25_Part-2-4.jpg",
+   "s": 174466,
+   "h": "db8ca57204e57158cdb4b8958b6c43c3afe7abadf09e0d3d3ba728c9b62c4834",
+   "t": 1794644111,
+   "meta": {
+    "title": "Unit 4 notes · Primary distribution system (page 4)",
+    "summary": "Handwritten page on three-phase three-wire primary distribution, distribution voltages and delta-star transformer connection.",
+    "kind": "photo",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/Unit-4/Class-Notes_Unit-4_2024-25_Part-2-5.jpg",
+   "s": 88140,
+   "h": "8ce03800246977db8da1339bc70219c0e986c2878b13deeb5a085935c0a27e3a",
+   "t": 1794644111,
+   "meta": {
+    "title": "Unit 4 notes · Substation single-line diagram (page 5)",
+    "summary": "Handwritten page with a power system single-line diagram up to secondary distribution, showing OCB, CT, PT and transformers.",
+    "kind": "photo",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/Unit-4/Class-Notes_Unit-4_2024-25_Part-2-6.jpg",
+   "s": 97297,
+   "h": "43d68a49c7fdfed6617bd029c730017206a1d7fcc33f3c975e07bf6bdf24d8ba",
+   "t": 1794644111,
+   "meta": {
+    "title": "Unit 4 notes · Secondary distribution and substations (page 6)",
+    "summary": "Handwritten page on secondary distribution at 400/230 V and classification of substations.",
+    "kind": "photo",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Old-Syllabus-Subjects/EEA2010_Electrical-Engineering/PYQs-and-Assignments/Z_Tutorial-4_2024-25.pdf",
+   "s": 70296,
+   "h": "ebd7a1200b5c752fec2d75ec3c6d0552daebc51525e3f05d2a882913c11da50d",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Syed Mohammad Ashraf",
+    "title": "Tutorial 4 · Transmission lines",
+    "summary": "Tutorial sheet on short and nominal-pi transmission line models: sending-end voltage and power, regulation and efficiency.",
+    "kind": "typed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/Syllabus/ELC2512_Syllabus_2024-25.jpg",
+   "s": 119987,
+   "h": "f92fae8d0c0779dbd89103279d7efa4554aa0eb42ea53e94085d3cad606946a9",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "ELC2512 syllabus · Electromagnetics (effective 2024-25)",
+    "summary": "Photo of the official Annexure-V syllabus page for Electromagnetics ELC2512: credits, prerequisites, four units from electrostatics to transmission lines, and book list.",
+    "kind": "photo",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Mid-Sem-1_2025-26_Solution.jpg",
+   "s": 72384,
+   "h": "b83af7e968bf6e2c26dc75c3806fc3cfd28d83ec16348693c8607681a28b7582",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Mid-sem 1 solution · transmission-line input impedance",
+    "summary": "Handwritten solution sheet computing input impedance and sending-end voltage of a lossless transmission line from given Z0, Zg, ZL and beta l.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Mid-Sem-1_2025-26_Solution_2.jpg",
+   "s": 313173,
+   "h": "9465f8ad8b366f1b08d1f6a90d812961634707d40bce47924e724d538f8af764",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Mid-sem 1 solution · Smith chart example",
+    "summary": "Handwritten Smith-chart working (Z0 = 50 ohm, l = 3.2 m, ZL = 20 - j50 ohm at 400 MHz) with the input impedance found graphically and checked by calculation.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Z_Quiz-1_2025-26_Set-A.jpg",
+   "s": 115113,
+   "h": "4777d4edd55a49c3fc6043de1b803daf346e468619baa5372473505b5222ea42",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Quiz 1 · Set A (Units 1-2, CO-2)",
+    "summary": "First page of the ELC2512 quiz based on Course Outcome 2: infinite charged plane, Maxwell's equations for static fields, magnetic-field vector functions and charges.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Z_Quiz-1_2025-26_Set-A_Page-2.jpg",
+   "s": 78593,
+   "h": "308a2ec3018744466ef9e64db69ebcb8d9ccde1c1233e0048868f401e6f3d41b",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Quiz 1 · Set A, page 2 (Maxwell matching, ring charge)",
+    "summary": "Second page of the Set A quiz: matching LHS/RHS terms of Maxwell's equations and the field of a uniformly charged ring.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Z_Quiz-1_2025-26_Set-B.jpg",
+   "s": 104303,
+   "h": "50bbc3cd793f481c773d9ff388558bae854b8fd1e17931d05081e00aeea27a19",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Quiz 1 · Set B (CO-1)",
+    "summary": "First page of the Set B quiz based on Course Outcome 1: conservative electric field and a line integral of a vector field along a path.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Z_Quiz-1_2025-26_Set-B_Page-2.jpg",
+   "s": 65721,
+   "h": "1bf8cde312d29c30c979e8b41e32c22ffacd2cbc4442139c97e7b5bc0d707250",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Quiz 1 · Set B, page 2 (solenoidal field, divergence)",
+    "summary": "Second page of the Set B quiz: finding c for a solenoidal field and the divergence of a radial vector field.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Z_Quiz-1_2025-26_Solution.jpg",
+   "s": 153494,
+   "h": "d0b3c824cc306a892367eb9b7a151f8667093ce3ea640d420158904c98bb5b74",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Quiz 1 solution · field of an infinite charged plane",
+    "summary": "Handwritten solution for the infinite-plane surface-charge question, deriving E = rho_s/(2 epsilon_0) a_n and substituting the values.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Z_Quiz-1_2025-26_Solution_2.jpg",
+   "s": 214155,
+   "h": "386e3460292f8fbe50eb0f0c7ffa72ada68ee9fb566cb978c85901540736b94c",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Quiz 1 solution · ring charge and plane field",
+    "summary": "Handwritten worked solutions for the charged-ring field at P(3,0,0), including the extra point-charge condition, and the field of a charged x+2y=5 plane.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Z_Quiz-1_2023-24_CO-2_Handwritten-Answers.jpg",
+   "s": 81982,
+   "h": "00996682484258fb3f0186a08bb4687946ee6bcca305a9012843f63694165716",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Quiz 2023-24 · CO-2 paper with handwritten answers",
+    "summary": "Photo of the ELA-2510 quiz sheet on Course Outcome 2 (Maxwell's equations, magnetic-field vector functions, matching list) with answers marked and worked in the margin.",
+    "kind": "photo",
+    "year": "2023-24",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Z_Quiz-1_2023-24_CO-1.jpg",
+   "s": 60055,
+   "h": "a499d3e152d3c004142a9bfabaf5b443b6cb654cec694bca2809be393ecb8875",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Quiz 2023-24 · CO-1, page 1",
+    "summary": "First page of the ELA-2510 quiz based on Course Outcome 1: unit vectors, Cartesian-to-spherical conversion and a differential-volume matching question.",
+    "kind": "photo",
+    "year": "2023-24",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Z_Quiz-1_2023-24_CO-1_Page-2.jpg",
+   "s": 77256,
+   "h": "a8bba0fe41be36ce68a5929fd844262cb35f37e6fcd5c4a13ba2113f09ed1c20",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Quiz 2023-24 · CO-1, page 2",
+    "summary": "Second page of the same CO-1 quiz: line and surface element matching for a cylindrical volume, conservative-field question and spherical divergence.",
+    "kind": "photo",
+    "year": "2023-24",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Z_Quiz-2_2023-24_Unit-3.jpg",
+   "s": 54016,
+   "h": "2967735f81e060a0308529ac5083a4072d2e8d132401838b294121412ecec5e3",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Quiz 2023-24 · Unit 3 (CO-3, wave propagation)",
+    "summary": "ELA-2510 quiz on Course Outcome 3: reflection of a plane wave at a lossless medium interface and identifying conducting media at 5 MHz.",
+    "kind": "photo",
+    "year": "2023-24",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Z_Quiz-CO3_2025-26_Set-A.jpg",
+   "s": 121741,
+   "h": "8712af5e9ac32432fa6e414c5f9dd4385dc9df1dfd42d246701189ab00603223",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Quiz (CO-3) · Set A",
+    "summary": "Short questionnaire on wave propagation in a lossless medium, reflection coefficients and magnetic-field components of a plane wave.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Z_Quiz-CO3_2025-26_Set-B.jpg",
+   "s": 135082,
+   "h": "74ae5cb80d56bc2b803528bb9a2e072ba9cd435f444d0e6364012151890fb7af",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Quiz (CO-3) · Set B",
+    "summary": "Short questionnaire (Set B) on frequency and polarization of a plane wave in free space and related wave parameters.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Z_Quiz-CO3_2025-26_Solution.jpg",
+   "s": 99119,
+   "h": "ffb437f7f7ec8b765624914d9ca276e8dae58fb3e0d665641673160acd729eb6",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Quiz (CO-3) · handwritten solutions",
+    "summary": "Handwritten worked answers to the CO-3 quiz: circular polarization, good-conductor attenuation and reflection at a dielectric interface.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Z_Quiz-CO4_2025-26_Set-A.jpg",
+   "s": 143455,
+   "h": "68fbf43083c64f33aba43ea3a544475bbb9ae2103ca302c6995c117acfcaba1b",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Quiz (CO-4) · Set A",
+    "summary": "Short questionnaire on transmission lines: normalized input impedance of a short-circuited lossless line and capacitance per unit length.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Z_Quiz-CO4_2025-26_Set-B.jpg",
+   "s": 142231,
+   "h": "79b622262a7ee1d4b23a47ef76a13fc5d3105499ee3b55ce43445b3ce0330d6b",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Quiz (CO-4) · Set B",
+    "summary": "Short questionnaire (Set B) on transmission-line impedance along a short-circuited line and line capacitance per unit length.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Z_Quiz-CO4_2025-26_Set-C.jpg",
+   "s": 143053,
+   "h": "47340e6096c1aca36c62c6610749029d20c4ce4bc657ebb6f8713a46c19537ae",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Quiz (CO-4) · Set C",
+    "summary": "Short questionnaire (Set C) on normalized input impedance of a short-circuited lossless line and transmission-line parameters.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/PYQs-and-Assignments/Z_Quiz-CO4_2025-26_Set-A_Solution.jpg",
+   "s": 140821,
+   "h": "967f1b51b79fcb189382ac4098a7b15c0294138436bab62a61930503197c7994",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Quiz (CO-4) · Set A handwritten solutions",
+    "summary": "Handwritten worked answers to the CO-4 Set A quiz, headed 'Set A': transmission-line input impedance, reflection and loss calculations.",
+    "kind": "photo",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/Complete-Notes/Class-Notes_Unit-1-and-2_Part-1_2025-26.pdf",
+   "s": 16984816,
+   "h": "145c342b81514561d6a87484f85f5d08d482f03f1b44edd1a7448c974dfcdc02",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Class notes · Units 1–2, part 1",
+    "summary": "30-page handwritten class notes: circuit theory vs field theory, vector algebra, position and distance vectors, and the start of electrostatic field basics.",
+    "kind": "scan-handwritten",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/Complete-Notes/Class-Notes_Unit-1-and-2_Part-2_2025-26.pdf",
+   "s": 18709790,
+   "h": "2fb69f2dfb2d9724bf1f8fea4ca9b85f62ddba02472bdf3a11d70e32a72046fc",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Class notes · Units 1–2, part 2",
+    "summary": "13-page handwritten notes on electric flux density, Gauss's law in integral and point form, and the divergence theorem.",
+    "kind": "scan-handwritten",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/Complete-Notes/Class-Notes_Unit-1-and-2_Part-3_2025-26.pdf",
+   "s": 6409073,
+   "h": "7dc6120e8eef624883f750406db66d0d1afb18f77dc63d29088d702e1293224f",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Class notes · Units 1–2, part 3 (Maxwell's equations review)",
+    "summary": "4-page handwritten review listing Maxwell's equations in integral and point form, plus Faraday's and Ampere's laws.",
+    "kind": "scan-handwritten",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/Unit-3/Class-Notes_Unit-3_2025-26.pdf",
+   "s": 8714067,
+   "h": "8a0830476e79c256a629fe518adbc93c669c1d9cf0008d21eaef50d6fcf64c0b",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Unit 3 class notes · EMFT",
+    "summary": "27-page handwritten Unit 3 notes: wave equation in a conducting medium, propagation constant, and plane-wave equations for E and H.",
+    "kind": "scan-handwritten",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/Unit-4/Class-Notes_Unit-4_2025-26.pdf",
+   "s": 19573491,
+   "h": "903d82bfe64f54d8489166ca12d6475a155fede7be9cad92d0b87b996e7fc4ab",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Unit 4 class notes · EMFT",
+    "summary": "36-page handwritten Unit 4 notes: applications of electromagnetics, EM spectrum, and transmission-line distributed parameters and transit time.",
+    "kind": "scan-handwritten",
+    "year": "2025-26",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/Unit-4/Class-Notes_Unit-4-Formula-Sheet.pdf",
+   "s": 1620187,
+   "h": "acdddce32bd1737aab6a06705f4e38d81063da3e11a5d63f44c476a271c66172",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Unit 4 formula sheet · EMFT",
+    "summary": "Handwritten formula sheet for EMFT Unit 4: propagation constant, attenuation and phase constants, characteristic impedance, lossless and distortionless lines.",
+    "kind": "scan-handwritten",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/Books-and-Resources/Smith-Chart.pdf",
+   "s": 109120,
+   "h": "a22d81a38facb46f0ba7bacd559660d6ce79adc213656fc1bd1015c1127e687f",
+   "t": 1794644111,
+   "meta": {
+    "title": "Complete Smith chart",
+    "summary": "Single-page full Smith chart used for impedance and matching calculations in the Unit 4 transmission-line work.",
+    "kind": "typed",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/Unit-4/Class-Notes_Unit-4-Transmission-Line-Theory.pdf",
+   "s": 6172140,
+   "h": "8341cb9d9ec245ab07b6779335f11eca9bbea3758ffae054b1c5e332c631e707",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Tajinder",
+    "title": "Unit 4 notes · Transmission lines",
+    "summary": "Ten pages of handwritten theory for EMFT Unit 4: transmission-line equations, propagation, attenuation and phase constants, characteristic impedance, distortionless and lossless lines.",
+    "kind": "scan-handwritten",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/PYQs-and-Assignments/Mid-Sem-1_2024-25_Solution.pdf",
+   "s": 1466211,
+   "h": "873497b7bb1a3fcc5d5e98b82f0fdb5612ec13efd84fbad6147192d6a575ff69",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sharique",
+    "title": "Mid-Sem 1 2024-25 · solution",
+    "summary": "Handwritten worked solutions to the Mid-Semester 1 paper: finding c and plotting a pdf, its CDF, interval probabilities, EX, variance and Y=3X+10.",
+    "kind": "scan-printed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/PYQs-and-Assignments/Mid-Sem-2_2024-25_Solution.pdf",
+   "s": 16001231,
+   "h": "e53254b6776d0a660316d6fffb893edb126242b1ac32b65ebf070ed5f3052d8f",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sharique",
+    "title": "Mid-Sem 2 2024-25 · solution",
+    "summary": "Handwritten worked solutions to the Mid-Semester 2 paper, including moment generating functions, geometric and discrete distributions and derived densities.",
+    "kind": "scan",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Syllabus/ELA2432_Syllabus_2024-25.jpg",
+   "s": 143983,
+   "h": "e71fb5db03c6336ca995f65ae7c24fd8f51a06759bf566db16c62493633cd75e",
+   "t": 1794644111,
+   "meta": {
+    "title": "Syllabus 2024-25 · ELA2432 Representation and Analysis of Random Signals",
+    "summary": "Photo of the official course annexure for ELA2432, effective 2024-25: credits, prerequisites, course outcomes and the programmes that take it.",
+    "kind": "photo",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Complete-Notes/Class-Notes_Unit-1-2_2024-25.pdf",
+   "s": 12533105,
+   "h": "8f5a46f85f8fcc0e9ee5cbfbf47eb306ac2e8071f106a9d9f01c6a8dfc2b2d95",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sharique",
+    "title": "Class notes · Units 1–2 Random Signals",
+    "summary": "38-page handwritten class notes covering random experiments and set theory, random variables, CDF/pdf and joint distributions for Units 1 and 2.",
+    "kind": "scan-handwritten",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/PYQs-and-Assignments/Z_Tutorial-1_2024-25_Solution.pdf",
+   "s": 2716138,
+   "h": "96a1f4dc502aa7f00f24e7a283f9bbff4974fd0459b7c202adc4d84c0b500bfc",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sharique",
+    "title": "Tutorial 1 2024-25 · solutions",
+    "summary": "Handwritten solutions to Tutorial Sheet 1: distribution-function constants, normalisation of a pdf, CDFs and probabilities.",
+    "kind": "scan-handwritten",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Unit-1/Notes_Unit-1_Solved-Problems-Discrete-RV.pdf",
+   "s": 11449996,
+   "h": "5b5e928cf6784ffb5126541aaeaa8cbad5a8627430ffeb258a549c710ad5d3dc",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sharique",
+    "title": "Solved problems · discrete random variables",
+    "summary": "Sixteen pages of handwritten worked problems on discrete random variables, expectation and variance, starting with a three-coin-toss distribution.",
+    "kind": "scan-handwritten",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/PYQs-and-Assignments/Z_Tutorial-1_2024-25.pdf",
+   "s": 3196131,
+   "h": "82b134ab63d1c95310eb35f46ed2b09aa2f296bd070ba66e1021bcadcec804a0",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sharique",
+    "title": "Tutorial 1 2024-25 · probability functions",
+    "summary": "Two-page printed tutorial sheet with problems on distribution and probability density functions, joint pdfs and constants of normalisation.",
+    "kind": "scan-printed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/PYQs-and-Assignments/Z_Tutorial-2_2024-25.pdf",
+   "s": 11921041,
+   "h": "56268432b1c9b9ef4f745630b882ac37fe2744348ca21985854f9d4662718cfe",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sharique",
+    "title": "Tutorial 2 2024-25 · random variables",
+    "summary": "Printed four-page tutorial sheet: mean and variance of a coin-toss variable, joint probability functions and a decomposition of a distribution function.",
+    "kind": "scan-printed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Unit-1/Class-Notes_Unit-1-Formula-Sheet_2024-25.pdf",
+   "s": 711804,
+   "h": "6782f548b63b4b8912036e7c1936724632efbd062419151e61e1f4d2e0176d89",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sharique",
+    "title": "Unit 1 formula sheet · Random Signals",
+    "summary": "Two-page handwritten formula sheet for Unit 1: CDF and pdf properties, joint CDF/pdf and marginal distributions.",
+    "kind": "scan-handwritten",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Unit-2/Notes_Unit-2_Solved-Problems-Continuous-RV.pdf",
+   "s": 4437973,
+   "h": "66312d39c5144114b269c92efb0970f63fa9956f3b7be4aa6fe45a0e41019940",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sharique",
+    "title": "Solved problems · continuous random variables",
+    "summary": "Twelve pages of handwritten worked problems on continuous random variables: marginal and conditional densities, expectations and functions of random variables.",
+    "kind": "scan-handwritten",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Unit-1/Class-Notes_Unit-1_Probability-Practice-Set_Page-1.jpg",
+   "s": 580533,
+   "h": "7cbb3c0048a062285f093fe0ea5fc69fcdecac9d2ada8267fd870f2999ecc2cf",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sharique",
+    "title": "Probability practice set · page 1",
+    "summary": "First page of an extra probability practice problem set, with a note that it is not part of the syllabus or the examination.",
+    "kind": "photo",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Unit-1/Class-Notes_Unit-1_Probability-Practice-Set_Page-2.jpg",
+   "s": 552527,
+   "h": "3422b4bd156bd5ae582956654d0ed8c1b20ae4cc64d8c224111d972e01d003ce",
+   "t": 1794644111,
+   "meta": {
+    "professor": "Sharique",
+    "title": "Probability practice set · page 2",
+    "summary": "Continuation of the probability practice set: problems 9–12 on families of children, digit counting, random points in a square and a switching network.",
+    "kind": "photo",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Unit-3/Gaussian-signal-simulation.m",
+   "s": 1406,
+   "h": "04523366b1719f4aad64f42ad61ab11761fd036d82e99b33a6f8bb2eb48fdc72",
+   "t": 1794644111,
+   "meta": {
+    "source": "Adnan Yunus (Drive folder 'Sem4')",
+    "professor": "Sharique",
+    "title": "MATLAB program · Gaussian signal with given mean and variance",
+    "summary": "MATLAB script that generates a Gaussian random signal, applies a linear transformation for a given mean and variance, and plots its histogram as a pdf.",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Unit-3/Prog-uniform-data-generation.m",
+   "s": 1063,
+   "h": "7f15721775847629bf69d7f4d5867fb0075ff01b1dc0e986f5246a43a2bb264d",
+   "t": 1794644111,
+   "meta": {
+    "source": "Adnan Yunus (Drive folder 'Sem4')",
+    "professor": "Sharique",
+    "title": "MATLAB program · Uniform random data over a, b",
+    "summary": "MATLAB script generating uniformly distributed random data in an interval a, b and computing its empirical average and variance.",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Unit-3/Notes_Simulation-of-Random-Signal.pdf",
+   "s": 283623,
+   "h": "f97a920c070e0f48d19c0fccd2650f5499a7773a1b93dc9d98f318d5d45d3f52",
+   "t": 1794644111,
+   "meta": {
+    "source": "Adnan Yunus (Drive folder 'Sem4')",
+    "professor": "Sharique",
+    "title": "Simulation of Random Signal with Given Specifications",
+    "summary": "Typed handout with MATLAB exercises on generating uniform and Gaussian random data, random binary waveforms and Gaussian signals, plus practice problems.",
+    "kind": "typed",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Unit-3/Notes_Statistical-Algorithms.pdf",
+   "s": 4069,
+   "h": "c0ca37610e1f63afaac9cb71a5b9fbc2a4f2cd2e6eef883e13d4cc1b855a2927",
+   "t": 1794644111,
+   "meta": {
+    "source": "Adnan Yunus (Drive folder 'Sem4')",
+    "professor": "Sharique",
+    "title": "Common Statistical Algorithms (Step-by-Step)",
+    "summary": "Short reference listing step-by-step algorithms (Gaussian random signal generation, mean, variance and related statistics) for signal-processing computations.",
+    "kind": "typed",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Unit-3/Binary-waveform.m",
+   "s": 1029,
+   "h": "ea5e4347484ddf14a6315ed90635f6c236be120e4cbc42a081531a67a8ab468c",
+   "t": 1794644111,
+   "meta": {
+    "source": "Adnan Yunus (Drive folder 'Sem4')",
+    "professor": "Sharique",
+    "title": "MATLAB program · Random binary waveform",
+    "summary": "MATLAB script that generates random binary data and plots the unipolar and polar binary waveforms built from rectangular pulses.",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Unit-3/Prog-study-CLT.m",
+   "s": 524,
+   "h": "886105ab3c46ccfc69497b32f9d1e12ba407e0bda354a4e9e598106a96e9bfab",
+   "t": 1794644111,
+   "meta": {
+    "source": "Adnan Yunus (Drive folder 'Sem4')",
+    "professor": "Sharique",
+    "title": "MATLAB program · Central Limit Theorem",
+    "summary": "MATLAB script that sums many independent uniform random variables and plots histograms showing the approach to a Gaussian pdf (CLT).",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Unit-3/Prog-sum-random-variable-pdf.m",
+   "s": 540,
+   "h": "bffb42fb2cf570522e913051f9a354c74bbb0015e5cd935e87acdd66779cde92",
+   "t": 1794644111,
+   "meta": {
+    "source": "Adnan Yunus (Drive folder 'Sem4')",
+    "professor": "Sharique",
+    "title": "MATLAB program · Pdf of the sum of random variables",
+    "summary": "MATLAB script that adds two uniformly distributed random sequences and plots the pdf of the sum.",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Unit-3/Received-noisy-binary-waveform.m",
+   "s": 1122,
+   "h": "491cc5ae1345184bfa2a557e5a4bab9b4ce3741ffd09e06fb6c6ca678a4a912d",
+   "t": 1794644111,
+   "meta": {
+    "source": "Adnan Yunus (Drive folder 'Sem4')",
+    "professor": "Sharique",
+    "title": "MATLAB program · Received noisy binary waveform",
+    "summary": "MATLAB script generating a binary waveform and adding noise to obtain the received noisy waveform.",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Unit-3/Simulation-gaussian-data.m",
+   "s": 570,
+   "h": "43a161bd1875bedce4244e6fcbc3b730bb2a57ba6f3764c21d5bf2bb4f59b5ec",
+   "t": 1794644111,
+   "meta": {
+    "source": "Adnan Yunus (Drive folder 'Sem4')",
+    "professor": "Sharique",
+    "title": "MATLAB program · Simulating Gaussian data",
+    "summary": "MATLAB script that takes data length, mean and variance from the user and simulates Gaussian data, plotting it and its pdf.",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/_General-PYQs/Sem-End_2024-25_Multi-Course.pdf",
+   "s": 9390410,
+   "h": "245b9fa3e1a1948cdd436d5ba4b16b11ceb8f5c3855a5110ac9cc27209ea8e1d",
+   "t": 1794644111,
+   "meta": {
+    "source": "Adnan Yunus (Drive folder 'Sem4/pyqs')",
+    "title": "Sem-End papers bundle 2024-25 (Electronics sem 4)",
+    "summary": "Scan of 24 pages of end-semester question papers for several ECE semester-4 courses; the first is COA2602 Data Structures and Programming (Winter 2024-25).",
+    "kind": "scan-printed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electronics-Engineering/_General-PYQs/Mid-Sem_2024-25_Multi-Course.pdf",
+   "s": 5822793,
+   "h": "9d7ccd434b8da4876c176228da6b95ff0fb404e35cd4f8c0581afa6b76783d7a",
+   "t": 1794644111,
+   "meta": {
+    "source": "Adnan Yunus (Drive folder 'Sem4/pyqs')",
+    "title": "Mid-Sem papers bundle 2024-25 (Electronics sem 4)",
+    "summary": "Scan of 14 pages of mid-semester/internal question papers for several ECE semester-4 courses, including ELC-2512 Electromagnetics and COA2602 (2024-25).",
+    "kind": "scan-printed",
+    "year": "2024-25",
+    "credit": "Adnan Yunus"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COA3600_Data-Structures-and-Programming-Electronics-Dept/Syllabus/COA2602_Syllabus_2024-25.pdf",
+   "meta": {
+    "credit": "Adnan Yunus"
+   }
+  }
+ ]
+}
