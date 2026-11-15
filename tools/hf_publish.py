@@ -438,25 +438,62 @@ def build_index(state, scan, repo_id, root=REPO):
     return idx, pub, left, unscanned
 
 
+COURSE_RE = re.compile(r"^((?:[A-Z]{2,4}\d{3,4}[A-Z]?|(?:DE|OE)-\d+)(?:-[A-Z]{2,4}\d{3,4}[A-Z]?)*)_(.+)$")  # as in site/app.js
+
+
+def latest_release(repo_id):
+    """Newest release tag of the dataset (v<date>[.n]); None when Hugging Face can't be reached."""
+    try:
+        from huggingface_hub import HfApi
+        tags = [t.name for t in HfApi().list_repo_refs(repo_id, repo_type="dataset").tags]
+        key = lambda t: [int(x) for x in re.findall(r"\d+", t)]
+        return max(tags, key=key) if tags else None
+    except Exception:  # noqa: BLE001
+        return None
+
+
 def write_api(out, idx, pub, repo_id):
     """Static, read-only API next to the site (documented on the site's Download & API page):
     api/v1/files.json  every published file as a flat list, with its download URL and credits
-    api/v1/sources.json the collections the archive was gathered from"""
+    api/v1/sources.json the collections the archive was gathered from
+    api/v1/programmes.json  degree programmes, branches and their semester-wise courses (what the site's menus use)
+    Calls to api/v1/* are counted by functions/api/v1/[[path]].js (D1); totals at api/v1/stats.json."""
     state = sej.load_state()
+    labels = (idx.get("programmes") or {}).get("labels", {})
+
+    def where(p):  # the same reading of a path the website does: branch, semester (or group), course, section
+        parts = p.split("/")
+        w = {}
+        if len(parts) > 2 and parts[0] == "BTech-and-BE":
+            w["branch"] = labels.get(parts[1], parts[1].replace("-", " "))
+            m = re.fullmatch(r"Sem(\d+)", parts[2])
+            w["semester" if m else "group"] = int(m.group(1)) if m else parts[2].strip("_").replace("-", " ")
+        for i, part in enumerate(parts[:-1]):
+            m = COURSE_RE.match(part)
+            if m:
+                codes = [m.group(1)] if re.match(r"(DE|OE)-", m.group(1)) else m.group(1).split("-")
+                w["course"] = {"codes": codes, "title": m.group(2).replace("-", " "), "path": "/".join(parts[:i + 1])}
+                if i + 2 < len(parts):
+                    w["section"] = parts[i + 1]
+                break
+        return w
+
     files = []
     for p, item in sorted(pub.items()):
         e = item["e"]
         meta = {k: v for k, v in (e.get("meta") or {}).items() if k in sej.META_KEYS and v}
-        files.append({"path": p, "size": e.get("s"), "modified": e.get("t"), "url": idx["fileBase"] + quote(p),
-                      **({"meta": meta} if meta else {})})
-    links = [{"path": p, "url": e["meta"]["url"], **({"title": e["meta"]["title"]} if e["meta"].get("title") else {})}
+        files.append({"path": p, "name": p.rsplit("/", 1)[-1], "size": e.get("s"), "modified": e.get("t"),
+                      "url": idx["fileBase"] + quote(p), **where(p), **({"meta": meta} if meta else {})})
+    links = [{"path": p, "url": e["meta"]["url"], **where(p), **({"title": e["meta"]["title"]} if e["meta"].get("title") else {})}
              for p, e in sorted(state.items()) if e.get("link") and (e.get("meta") or {}).get("url")]
     api = os.path.join(out, "api", "v1")
     os.makedirs(api, exist_ok=True)
     head = {"name": "Sadaqah-e-Jariyah", "generated": idx["generated"], "dataset": f"https://huggingface.co/datasets/{repo_id}",
-            "fileBase": idx["fileBase"], "count": len(files), "bytes": sum(f["size"] or 0 for f in files)}
+            "fileBase": idx["fileBase"], "release": latest_release(repo_id), "count": len(files),
+            "bytes": sum(f["size"] or 0 for f in files)}
     for name, body in (("files.json", {**head, "files": files, "links": links}),
-                       ("sources.json", {**head, "sources": idx["sources"]})):
+                       ("sources.json", {**head, "sources": idx["sources"]}),
+                       ("programmes.json", {**head, "programmes": idx["programmes"]})):
         with open(os.path.join(api, name), "w", encoding="utf-8") as fh:
             json.dump(body, fh, ensure_ascii=False, separators=(",", ":"))
 

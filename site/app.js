@@ -936,16 +936,26 @@ huggingface-cli download ${repo} --repo-type dataset --local-dir sej-files \\
     <section class="api-sec">
       <h2 class="label">API</h2>
       <p class="lede-sm">Read-only JSON, no key needed, open to any website or app (CORS enabled). It updates whenever the archive does.</p>
-      ${code(`GET ${site}api/v1/files.json     every file: path, size, modified, url, meta (author, professor, year, credit…), plus links
-GET ${site}api/v1/sources.json   the collections the archive was gathered from, with credits
-GET ${site}index.json            the folder tree the site itself uses`)}
+      ${code(`GET ${site}api/v1/files.json        every file: path, name, size, modified, url, branch, semester,
+                                    course (codes, title), section, meta (author, professor, year, credit…);
+                                    plus every link (videos, playlists, project pages) the same way
+GET ${site}api/v1/programmes.json   degrees, branches and their semester-wise course lists (the site's menus)
+GET ${site}api/v1/sources.json      the collections the archive was gathered from, with credits
+GET ${site}index.json               the folder tree exactly as the site loads it
+GET ${site}api/v1/stats.json        how much the API has been used in the last 30 days`)}
+      <p class="lede-sm">Together these hold everything this website is built from, so another app can rebuild it, or something different: a question-paper builder, a course planner, a search tool. The site's own code is open source (GPL-3.0).</p>
+      <p class="lede-sm" id="apiUse"></p>
       ${code(`const r = await fetch('${site}api/v1/files.json');
 const { files } = await r.json();
-const papers = files.filter(f => f.path.includes('/PYQs-and-Assignments/'));
+const papers = files.filter(f => f.section === 'PYQs-and-Assignments' && f.course?.codes.includes('COC3092'));
 // each file downloads from f.url`)}
       <p class="lede-sm">File URLs point at the latest version. To pin a fixed version, replace <code>/resolve/main/</code> with <code>/resolve/&lt;release&gt;/</code>, using a release tag from the dataset${dataset ? ` (<a href="${esc(dataset)}/tree/main" target="_blank" rel="noopener">browse versions ↗</a>)` : ''}.</p>
       <p class="lede-sm">Please fetch <code>files.json</code> once and cache it rather than on every page view, and mention <b>Sadaqah-e-Jariyah</b> and each file's own credit (its <code>meta</code>) where you show the material. Hugging Face limits heavy anonymous use, so a high-traffic app should use a Hugging Face token.</p>
     </section>`);
+  fetch('api/v1/stats.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : null).then(j => {
+    const el = $('#apiUse');
+    if (el && j && j.calls) el.textContent = `API use in the last 30 days: ${j.calls.toLocaleString()} calls from ${j.clients.toLocaleString()} ${j.clients === 1 ? 'app' : 'apps'}.`;
+  }).catch(() => {});
 }
 
 function contributeView() {

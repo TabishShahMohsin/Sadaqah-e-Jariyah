@@ -145,3 +145,12 @@ git add catalog && git commit -m "Add files" && git push
 2. Dashboard → Workers & Pages → sadaqah-e-jariyah → Settings → Bindings → Add → D1 database:
    variable name `DB`, database `sej-visitors` (Production). Keep the `VISITORS` KV binding.
 3. Deploy again. The first visit creates the table and carries the count over from KV.
+
+## API
+
+`tools/hf_publish.py site` writes a static, read-only API next to the site: `api/v1/files.json` (every file and link,
+with branch, semester, course, section and credits), `api/v1/programmes.json`, `api/v1/sources.json`; `index.json` is the
+site's own tree. `functions/api/v1/[[path]].js` serves them with CORS and counts each call in the same D1 database as the
+visit counter (table `api_calls`: day, endpoint, client), apart from site visits. `GET /api/v1/stats.json` shows the last
+30 days. Nothing to set up beyond the `DB` binding.
+
