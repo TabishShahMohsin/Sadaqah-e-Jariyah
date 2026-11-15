@@ -137,10 +137,11 @@ git add catalog && git commit -m "Add files" && git push
 
 ## Visit counter
 
-`functions/api/visitors.js` keeps the count in a Cloudflare KV namespace bound to the Pages project as `VISITORS`
-(it falls back to hits.sh when the binding is missing). One-time setup:
+`functions/api/visitors.js` keeps the count in a Cloudflare **D1** database bound to the Pages project as `DB`
+(free plan: 100,000 row writes a day; one visit = one write). It falls back to the older KV namespace `VISITORS`
+(only 1,000 writes a day, which the site outgrew) and then to hits.sh. One-time setup:
 
-1. `npx wrangler kv namespace create sej-visitors`
-2. Cloudflare dashboard → Workers & Pages → sadaqah-e-jariyah → Settings → Bindings → Add → KV namespace:
-   variable name `VISITORS`, namespace `sej-visitors` (Production).
-3. Deploy again. The count continues from 345, the last number hits.sh showed.
+1. `npx wrangler d1 create sej-visitors` (or dashboard → Storage & Databases → D1 → Create).
+2. Dashboard → Workers & Pages → sadaqah-e-jariyah → Settings → Bindings → Add → D1 database:
+   variable name `DB`, database `sej-visitors` (Production). Keep the `VISITORS` KV binding.
+3. Deploy again. The first visit creates the table and carries the count over from KV.
