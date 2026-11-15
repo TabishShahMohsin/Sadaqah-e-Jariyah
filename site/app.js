@@ -53,8 +53,8 @@ const prettyFile = n => stem(n).replace(/^Z_/, '').replace(/_/g, ' · ').replace
 
 const KIND = { pdf: 'pdf', png: 'img', jpg: 'img', jpeg: 'img', gif: 'img', webp: 'img', svg: 'img', bmp: 'img',
   mp4: 'video', webm: 'video', mov: 'video', m4v: 'video', mkv: 'video', mp3: 'audio', wav: 'audio', m4a: 'audio', ogg: 'audio',
-  link: 'link', ipynb: 'nb', md: 'md', ppt: 'office', pptx: 'office', doc: 'office', docx: 'office', xls: 'office', xlsx: 'office' };
-const TEXT = new Set('txt c cpp cc h hpp java py js ts csv tsv json sql sh m r log xml yaml yml html css asm a51 v vhd ino tex s'.split(' '));
+  link: 'link', ipynb: 'nb', md: 'md', ppt: 'office', pptx: 'office', doc: 'office', docx: 'office', xls: 'sheet', xlsx: 'sheet', ods: 'sheet' };
+const TEXT = new Set('txt c cpp cc c++ h hpp java py js ts csv tsv json sql sh m r log xml yaml yml html css asm a51 v vhd ino tex s'.split(' '));
 const kind = n => KIND[ext(n)] || (TEXT.has(ext(n)) ? 'text' : 'other');
 
 const fmtSize = b => b < 1e3 ? b + ' B' : b < 1e6 ? (b / 1e3).toFixed(0) + ' KB' : b < 1e9 ? (b / 1e6).toFixed(1) + ' MB' : (b / 1e9).toFixed(2) + ' GB';
@@ -552,16 +552,20 @@ async function fillBody(f, url) {
     case 'video': body.innerHTML = `<div class="media"><video src="${url}" controls preload="metadata" playsinline></video></div>`; return;
     case 'audio': body.innerHTML = `<div class="media"><audio src="${url}" controls></audio></div>`; return;
     case 'office': body.innerHTML = noPreview(f, url, 'Office files can’t be previewed in the browser.'); return;
+    case 'sheet': renderSheet(f, url, body, token); return;
     case 'other': body.innerHTML = noPreview(f, url, 'No preview for this file type.'); return;
   }
   const limit = f.k === 'nb' ? 25e6 : 3e6;
-  if (f.s > limit) { body.innerHTML = noPreview(f, url, 'Too large to preview here.'); return; }
+  // notebooks and Markdown need the whole file; plain text and code over the limit show their beginning
+  if (f.s > limit && f.k !== 'text') { body.innerHTML = noPreview(f, url, 'Too large to preview here.'); return; }
+  const part = f.s > limit;
   body.innerHTML = `<div class="loading"><span class="spinner"></span> Loading…</div>`;
   let text;
   try {
-    const r = await fetch(url);
+    const r = await fetch(url, part ? { headers: { Range: `bytes=0-${TEXT_HEAD - 1}` } } : {});
     if (!r.ok) throw new Error(r.status);
     text = await r.text();
+    if (part) text = text.slice(0, TEXT_HEAD);
   } catch (e) {
     if (token === previewToken) body.innerHTML = noPreview(f, url, 'Couldn’t load this file.');
     return;
@@ -569,7 +573,56 @@ async function fillBody(f, url) {
   if (token !== previewToken) return;
   if (f.k === 'nb') body.innerHTML = renderNotebook(text);
   else if (f.k === 'md') body.innerHTML = await renderMarkdown(text);
-  else body.innerHTML = `<pre class="code${/^(txt|md|csv|tsv|log)$/.test(ext(f.n)) ? ' wrap' : ''}">${esc(text)}</pre>`;
+  else body.innerHTML = (part ? `<div class="part-note">Showing the first ${fmtSize(TEXT_HEAD)} of ${fmtSize(f.s)}. Download the file for all of it.</div>` : '')
+    + `<pre class="code${/^(txt|md|csv|tsv|log)$/.test(ext(f.n)) ? ' wrap' : ''}">${esc(text)}</pre>`;
+}
+const TEXT_HEAD = 1e6;
+
+/* ── spreadsheets: each sheet as a table (SheetJS, loaded the first time one is opened) ── */
+const SHEET_ROWS = 1000;
+let xlsxLib = null;
+function loadXlsx() {
+  return xlsxLib || (xlsxLib = new Promise((ok, bad) => {
+    const s = document.createElement('script');
+    s.src = new URL('vendor/sheetjs/xlsx.full.min.js', location.href).href;
+    s.onload = () => ok(window.XLSX);
+    s.onerror = () => { xlsxLib = null; bad(new Error('sheetjs')); };
+    document.head.appendChild(s);
+  }));
+}
+async function renderSheet(f, url, body, token) {
+  if (f.s > 25e6) { body.innerHTML = noPreview(f, url, 'Too large to preview here.'); return; }
+  body.innerHTML = `<div class="loading"><span class="spinner"></span> Loading…</div>`;
+  let wb, X;
+  try {
+    const [lib, r] = await Promise.all([loadXlsx(), fetch(url)]);
+    if (!r.ok) throw new Error(r.status);
+    X = lib;
+    wb = X.read(await r.arrayBuffer(), { type: 'array', cellDates: true, dense: true });
+  } catch (e) {
+    if (token === previewToken) body.innerHTML = noPreview(f, url, 'Couldn’t open this spreadsheet.');
+    return;
+  }
+  if (token !== previewToken) return;
+  const names = wb.SheetNames;
+  const show = i => {
+    const ws = wb.Sheets[names[i]];
+    let note = '';
+    if (ws['!ref']) {
+      const rg = X.utils.decode_range(ws['!ref']);
+      if (rg.e.r - rg.s.r + 1 > SHEET_ROWS) {
+        note = `<div class="part-note">Showing the first ${SHEET_ROWS} of ${rg.e.r - rg.s.r + 1} rows. Download the file for all of it.</div>`;
+        rg.e.r = rg.s.r + SHEET_ROWS - 1;
+      }
+      ws['!ref'] = X.utils.encode_range(rg);
+    }
+    const html = ws['!ref'] ? X.utils.sheet_to_html(ws, { header: '', footer: '' }) : '<p class="part-note">This sheet is empty.</p>';
+    $('.sheetv-body', body).innerHTML = note + html;
+    $$('.sheetv-tabs button', body).forEach((b, j) => b.classList.toggle('on', j === i));
+  };
+  body.innerHTML = `<div class="sheetv">${names.length > 1 ? `<div class="sheetv-tabs">${names.map((n, i) => `<button type="button" data-i="${i}">${esc(n)}</button>`).join('')}</div>` : ''}<div class="sheetv-body"></div></div>`;
+  $$('.sheetv-tabs button', body).forEach(b => b.addEventListener('click', () => show(+b.dataset.i)));
+  show(0);
 }
 /* ── PDF pages, drawn by pdf.js where the browser can't show a PDF inline (Android, iOS, tablets) ── */
 const NATIVE_PDF = navigator.pdfViewerEnabled === true && !matchMedia('(pointer: coarse)').matches;

@@ -1,0 +1,46 @@
+{
+ "id": "20261115-131810-eem-playlists",
+ "created": "2026-11-15T13:18:10+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "playlist spreadsheet turned into link entries"
+ },
+ "ops": [
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Books-and-Resources/YouTube-Playlist_EEM.xlsx",
+   "t": 1794748690
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-1/YouTube-Playlist_Unit-1_Economic-Indicators.link",
+   "url": "https://youtube.com/playlist?list=PL-S8hcz0161X4byS0XmWzcgn1hyqRM6jT",
+   "t": 1794748690,
+   "meta": {
+    "url": "https://youtube.com/playlist?list=PL-S8hcz0161X4byS0XmWzcgn1hyqRM6jT",
+    "title": "Unit 1 (Economic indicators): YouTube playlist"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-3/YouTube-Playlist_Unit-3.link",
+   "url": "https://youtube.com/playlist?list=PL-S8hcz0161Ur5G_yOTmGi5X0jLfz-iu7",
+   "t": 1794748690,
+   "meta": {
+    "url": "https://youtube.com/playlist?list=PL-S8hcz0161Ur5G_yOTmGi5X0jLfz-iu7",
+    "title": "Unit 3: YouTube playlist"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Unit-4/YouTube-Playlist_Unit-4.link",
+   "url": "https://youtube.com/playlist?list=PL-S8hcz0161WQ4qJqLcmScbSjOBAYct05",
+   "t": 1794748690,
+   "meta": {
+    "url": "https://youtube.com/playlist?list=PL-S8hcz0161WQ4qJqLcmScbSjOBAYct05",
+    "title": "Unit 4: YouTube playlist"
+   }
+  }
+ ]
+}
