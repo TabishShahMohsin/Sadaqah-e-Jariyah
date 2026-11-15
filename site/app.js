@@ -536,7 +536,8 @@ async function fillBody(f, url) {
   }
   switch (f.k) {
     case 'pdf':
-      if (NATIVE_PDF) body.innerHTML = `<iframe src="${url}#view=FitH" title="${esc(f.n)}"></iframe>`;
+      if (NATIVE_PDF && f.s && f.s <= NATIVE_FETCH_MAX) nativePdf(f, url, body, token);
+      else if (NATIVE_PDF) body.innerHTML = `<iframe src="${url}#view=FitH" title="${esc(f.n)}"></iframe>`;
       else renderPdf(f, url, body, token);
       return;
     case 'img': body.innerHTML = `<div class="media"><img src="${url}" alt="${esc(f.n)}"></div>`; return;
@@ -566,6 +567,43 @@ async function fillBody(f, url) {
 const NATIVE_PDF = navigator.pdfViewerEnabled === true && !matchMedia('(pointer: coarse)').matches;
 const PDFJS = new URL('vendor/pdfjs/', location.href).href;
 let pdfjs = null, stopPdfFn = null;
+/* Desktop: the site downloads the PDF itself (retrying if the connection drops, e.g.
+   "A network change was detected"), then hands it to the browser's own viewer from memory.
+   Very large PDFs still go straight to the viewer so they can start showing before they finish. */
+const NATIVE_FETCH_MAX = 30e6;
+async function nativePdf(f, url, body, token) {
+  body.innerHTML = `<div class="loading"><span class="spinner"></span> <span>Opening PDF…</span></div>`;
+  const say = t => { const el = body.querySelector('.loading span:last-child'); if (el) el.textContent = t; };
+  const ctrl = new AbortController();
+  stopPdfFn = () => ctrl.abort();
+  let data = null;
+  for (let attempt = 1; attempt <= 4 && !data; attempt++) {
+    try {
+      const r = await fetch(url, { signal: ctrl.signal });
+      if (!r.ok) throw new Error(r.status);
+      const total = +r.headers.get('content-length') || f.s || 0;
+      const reader = r.body.getReader(), parts = [];
+      let got = 0;
+      for (;;) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        parts.push(value); got += value.length;
+        if (total) say(`Opening PDF… ${Math.min(99, Math.round(got / total * 100))}%`);
+      }
+      data = new Blob(parts, { type: 'application/pdf' });
+    } catch (e) {
+      if (ctrl.signal.aborted || token !== previewToken) return;
+      if (attempt === 4) { body.innerHTML = noPreview(f, url, 'Couldn’t load this PDF. Check your connection and try again.'); return; }
+      say('Connection dropped — retrying…');
+      await new Promise(res => setTimeout(res, 1000 * attempt));
+      if (ctrl.signal.aborted || token !== previewToken) return;
+    }
+  }
+  if (token !== previewToken) return;
+  const blobUrl = URL.createObjectURL(data);
+  stopPdfFn = () => URL.revokeObjectURL(blobUrl);
+  body.innerHTML = `<iframe src="${blobUrl}#view=FitH" title="${esc(f.n)}"></iframe>`;
+}
 function stopPdf() { if (stopPdfFn) { const f = stopPdfFn; stopPdfFn = null; f(); } }
 async function renderPdf(f, url, body, token) {
   body.innerHTML = `<div class="loading"><span class="spinner"></span> <span>Opening PDF…</span></div>`;
