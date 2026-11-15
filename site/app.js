@@ -918,7 +918,8 @@ function dataView() {
   const m = base.match(/huggingface\.co\/datasets\/([^/]+\/[^/]+)\/resolve\//);
   const repo = m ? m[1] : '';
   const dataset = repo ? `https://huggingface.co/datasets/${repo}` : '';
-  const site = FAST || location.origin + location.pathname.replace(/[^/]*$/, '');
+  // the API is documented at pages.dev, the permanent address: it keeps working if the custom domain ever lapses
+  const site = /^(localhost|127\.|\[::1\])/.test(location.hostname) ? location.origin + '/' : 'https://sadaqah-e-jariyah.pages.dev/';
   let n = 0, bytes = 0;
   S.files.forEach(f => { if (f.k !== 'link') { n++; bytes += f.s || 0; } });
   const code = t => `<pre class="code wrap api-code">${esc(t)}</pre>`;
