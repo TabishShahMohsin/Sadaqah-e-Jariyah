@@ -1,0 +1,316 @@
+{
+ "id": "20261115-161334-kamran-cloud",
+ "created": "2026-11-15T16:13:34+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "credit": "Kamran Cloud",
+  "note": "From Kamran Cloud (kamran-cloud.vercel.app), the site of Dr. Kamran Khan, Department of Applied Mathematics, ZHCET AMU, shared with his permission. Notes, lecture plans, exercises and tutorial sheets are his own: set author and professor to 'Dr. Kamran Khan'. Folder 'B.Tech/1st Year/Applied Mathematics 1' = AMS1112, 'Applied Mathematics 2' = AMS1122; 'BE/Ist year' = the B.E. twins EAMS1112/EAMS1122 (same course folders). 2nd Year 'Vector Calculus' and 'Numerical Methods' are the 2nd-year Higher Mathematics / Numerical Methods courses. Folder names are the site's own section labels (chapters/units). 'Books' folders hold published books: not ours to share. M.Tech AMS6211 is not a B.Tech course."
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_Exercise_Differential-Calculus_Answers.pdf",
+   "s": 1654920,
+   "h": "48690c98b00662dc53f9331be6f5d083511e860eb97dc79fff5e38aed70143a9",
+   "t": 1794759214,
+   "meta": {
+    "author": "Dr. Kamran Khan",
+    "source": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "title": "Exercises with answers · Differential Calculus, Curve Tracing and Infinite Series",
+    "summary": "Worked exercise set on successive differentiation, Leibnitz theorem and nth differential coefficients, with answers.",
+    "kind": "slides",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/Lecture-Plan_Unit-3.pdf",
+   "s": 322476,
+   "h": "2edd50877881f5d76fd183731bca0a0ff8b8fbb2a41fca6b97bfd54837bb8626",
+   "t": 1794759214,
+   "meta": {
+    "source": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "title": "Unit 3 lecture plan · Differential Calculus, Curve Tracing and Infinite Series",
+    "summary": "AMS1112 Unit 3 lecture plan listing successive differentiation, Taylor/Maclaurin series, asymptotes and curve tracing topics with problems.",
+    "kind": "typed",
+    "author": "Dr. Kamran Khan",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Notes_Gamma-Function.pdf",
+   "s": 1333713,
+   "h": "af8a587ef602e2eec13ec3ca058be48ddb82eb96e73bf8c2cd0ecfa9f377b3e3",
+   "t": 1794759214,
+   "meta": {
+    "author": "Dr. Kamran Khan",
+    "source": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "title": "Gamma function · notes",
+    "summary": "Two-page handwritten notes introducing the gamma function and its properties for integration problems.",
+    "kind": "scan-handwritten",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Notes_Length-of-Curves-and-Intrinsic-Equation.pdf",
+   "s": 8147218,
+   "h": "a8019d3f5e1df75e87fa831e9e533c6cfb930573d4013d353e44ce9b2c517781",
+   "t": 1794759214,
+   "meta": {
+    "author": "Dr. Kamran Khan",
+    "source": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "title": "Length of curves and intrinsic equation · notes",
+    "summary": "Handwritten notes on rectification (arc length of curves) and intrinsic equations.",
+    "kind": "scan-handwritten",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Notes_Surface-of-Revolution.pdf",
+   "s": 3565987,
+   "h": "5cc78bc2b2e75b964e1bcb12b608ecee615a651d7e070e308539378a9927f37a",
+   "t": 1794759214,
+   "meta": {
+    "author": "Dr. Kamran Khan",
+    "source": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "title": "Surface of revolution · notes",
+    "summary": "Handwritten notes on finding the area of a surface of revolution.",
+    "kind": "scan-handwritten",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/Notes_Volume-of-Solid-of-Revolution.pdf",
+   "s": 8660065,
+   "h": "1f0858486aaa970adf9113170c7589be16321cd10c017689faedabd765f70377",
+   "t": 1794759214,
+   "meta": {
+    "author": "Dr. Kamran Khan",
+    "source": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "title": "Volume of solid of revolution · notes",
+    "summary": "Handwritten notes on computing volumes of solids of revolution by integration.",
+    "kind": "scan-handwritten",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Z_Tutorial-Unit-1.pdf",
+   "s": 569649,
+   "h": "4216e24667f6b67cd5fca37a61bde98d0186951034acae822417eb6924da3d09",
+   "t": 1794759214,
+   "meta": {
+    "source": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "title": "Tutorial sheet · Unit 1 (Linear Algebra)",
+    "summary": "Tutorial sheet on rank of matrices, echelon form, consistency of linear systems and related Unit 1 problems.",
+    "kind": "typed",
+    "author": "Dr. Kamran Khan",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Mid-Sem-1_2024-25_AMS-1122.pdf",
+   "s": 210772,
+   "h": "00b5c9965c75e7deffc9f905ee4f09c918743057113bb33bdb6e7e67f61c67d1",
+   "t": 1794759214,
+   "meta": {
+    "source": "Kamran Cloud",
+    "title": "Mid-Sem 1 2024-25 · Applied Mathematics II",
+    "summary": "First internal examination 2024-25 paper (AMS 1122/1120) on Euler's theorem, functional dependence, Jacobians and Laplace transforms.",
+    "kind": "scan-printed",
+    "year": "2024-25",
+    "professor": "Dr. Kamran Khan",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2021-22-to-2024-25_AMS1122.pdf",
+   "s": 1322730,
+   "h": "c0fd9a2fa2d9778e461386995c760cd992a3e87ad5a79c33314b655964d373c0",
+   "t": 1794759214,
+   "meta": {
+    "source": "Kamran Cloud",
+    "title": "Sem-End paper · Applied Mathematics II",
+    "summary": "Twelve-page collection of B.Tech Applied Mathematics-II semester-end papers (AMS1122/AMS1120).",
+    "kind": "scan-printed",
+    "professor": "Dr. Kamran Khan",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-4/Notes_Numerical-Solution-of-ODE.pdf",
+   "s": 904763,
+   "h": "ee094ead14df06a7329a50c697b54d4ddb897e7f07674072d76b21fd9908a686",
+   "t": 1794759214,
+   "meta": {
+    "author": "Dr. Kamran Khan",
+    "source": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "title": "Numerical solutions of ODE · notes",
+    "summary": "Eleven-page notes on numerical methods for ordinary differential equations (Euler, Taylor and Runge-Kutta type methods).",
+    "kind": "scan",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-3/Class-Notes_Vector-Integration_2.pdf",
+   "s": 13188038,
+   "h": "63d9a262112d09c65211352ca4a17f4c0a6956f5f835d070d2ba779f78fc39dd",
+   "t": 1794759214,
+   "meta": {
+    "author": "Dr. Kamran Khan",
+    "source": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "title": "Vector Integration · handwritten notes",
+    "summary": "Handwritten notes on vector integration, including line integrals and integral theorems.",
+    "kind": "scan-handwritten",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Mid-Sem-1_2023-24_EAMS-1110.pdf",
+   "s": 457491,
+   "h": "5d266dc43b6a81aa61e980cd7f07eb9abf5238c0f9039e9896795655ccd0ed91",
+   "t": 1794759214,
+   "meta": {
+    "source": "Kamran Cloud",
+    "title": "Mid-Sem 1 2023-24 · Applied Mathematics I (B.E.)",
+    "summary": "B.E. first internal examination 2023-24 paper on linear systems, vector spaces, linear independence and eigenvalues/eigenvectors.",
+    "kind": "scan-printed",
+    "year": "2023-24",
+    "professor": "Dr. Kamran Khan",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/PYQs-and-Assignments/Mid-Sem-1_2025-26_EAMS1112.pdf",
+   "s": 526428,
+   "h": "36700651bd7259f5f8667033c5adc594c9e44748b81d8bb8903310bda3aed400",
+   "t": 1794759214,
+   "meta": {
+    "source": "Kamran Cloud",
+    "title": "Mid-Sem 1 2025-26 · Applied Mathematics I (B.E.)",
+    "summary": "B.E. I Semester first internal examination 2025-26 paper on linear independence, eigenvalues, Cayley-Hamilton theorem and related matrix problems.",
+    "kind": "scan-printed",
+    "year": "2025-26",
+    "professor": "Dr. Kamran Khan",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/Z_Lecture-Plan_Unit-1_EAMS1112.pdf",
+   "s": 234705,
+   "h": "cb41b485448da49eceffa95a2ec5b79eeab8f0d16d4c7dc5177b7c4e289e3e6e",
+   "t": 1794759214,
+   "meta": {
+    "author": "Dr. Kamran Khan",
+    "professor": "Dr. Kamran Khan",
+    "title": "Unit 1 lecture plan · Matrices (rank, echelon form, consistency)",
+    "summary": "Lecture plan for Unit 1 of EAMS1112: ranks, echelon form, consistency of linear systems and linear dependence, with the exercise questions set for each topic.",
+    "kind": "scan-printed",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Notes_Applications-of-Differential-Equations_EAMS1112.pdf",
+   "s": 1382635,
+   "h": "8730662fd8de0a6922e8650c7c1e96b897922d33169c725265e064f511db6d46",
+   "t": 1794759214,
+   "meta": {
+    "author": "Dr. Kamran Khan",
+    "title": "Applications of differential equations",
+    "summary": "Notes on applying differential equations to growth, decay and mixing problems, starting with population growth and related worked models.",
+    "kind": "scan-printed",
+    "professor": "Dr. Kamran Khan",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/Z_Lecture-Plan_Unit-2_EAMS1112.pdf",
+   "s": 218145,
+   "h": "0d8434264df766227c4fabe5ca99d68ce70056109d6a109f3f280e173fb7c9b0",
+   "t": 1794759214,
+   "meta": {
+    "author": "Dr. Kamran Khan",
+    "professor": "Dr. Kamran Khan",
+    "title": "Unit 2 lecture plan · Linear differential equations of higher order",
+    "summary": "Lecture plan for Unit 2 of EAMS1112: higher-order homogeneous and non-homogeneous linear differential equations, operator methods, Euler-Cauchy and variation of parameters, with exercise lists.",
+    "kind": "typed",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/Z_Lecture-Plan_Unit-3_EAMS1112.pdf",
+   "s": 223508,
+   "h": "8d5233fbc60d6ad06f579b69ee4edc7b03b5b84e1d302443712bb6f12be0ccc6",
+   "t": 1794759214,
+   "meta": {
+    "author": "Dr. Kamran Khan",
+    "professor": "Dr. Kamran Khan",
+    "title": "Unit 3 lecture plan · Differential calculus, curve tracing and infinite series",
+    "summary": "Lecture plan for Unit 3 of EAMS1112: successive differentiation, Leibnitz theorem, Taylor and Maclaurin series, asymptotes, curve tracing and infinite series with exercise lists.",
+    "kind": "typed",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/Z_Exercise_Unit-3_EAMS1112_Solution.pdf",
+   "s": 1442995,
+   "h": "850861e4e2fbb7dc3f2425759e7f741e8138803ff905c2b8ee00d9102e35ac39",
+   "t": 1794759214,
+   "meta": {
+    "author": "Dr. Kamran Khan",
+    "title": "Unit 3 exercises with answers · Successive differentiation",
+    "summary": "Worked solutions to the Unit 3 exercise sets, starting with the successive-differentiation problems from Example 4, including nth differential coefficients.",
+    "kind": "slides",
+    "professor": "Dr. Kamran Khan",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/PYQs-and-Assignments/Sem-End_2024-25_EAMS1122_2.pdf",
+   "s": 785663,
+   "h": "6e6f349cdb2e056f1d278afedf0074142d2c5e41d9cf1aa699ea750f3738a128",
+   "t": 1794759214,
+   "meta": {
+    "title": "Sem-End 2024-25 · EAMS1122 Applied Mathematics II (B.E. evening)",
+    "summary": "B.E. (Evening) even-semester 2024-25 Applied Mathematics II paper under EAMS1122/EAMS1120: partial differentiation, multiple integrals and related questions.",
+    "kind": "scan-printed",
+    "professor": "Dr. Kamran Khan",
+    "credit": "Kamran Cloud"
+   }
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-3/Class-Notes_Vector-Differentiation.pdf",
+   "meta": {
+    "credit": "Farhan Baig, Kamran Cloud"
+   }
+  }
+ ]
+}

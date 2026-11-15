@@ -371,8 +371,10 @@
    "title": "Dr. Kamran's Cloud",
    "url": "https://kamran-cloud.vercel.app/",
    "credit": "Dr. Kamran Khan",
-   "covers": "Mathematics video lectures and notes",
-   "status": "reference"
+   "covers": "Mathematics notes, lecture plans, exercises and papers (AMS1112, AMS1122, 2nd-year Higher Mathematics and Numerical Methods) and his Complex Analysis video lectures",
+   "status": "merged",
+   "change": "20261115-161334-kamran-cloud",
+   "note": "shared with Dr. Kamran Khan's permission; 14 of his Drive files are private (sign-in only) and could not be fetched"
   },
   {
    "title": "OhmNotes",

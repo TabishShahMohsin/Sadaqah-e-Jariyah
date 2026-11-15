@@ -1,0 +1,701 @@
+{
+ "id": "20261115-161355-kamran-cloud-videos",
+ "created": "2026-11-15T16:13:55+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "credit": "Kamran Cloud",
+  "note": "Dr. Kamran Khan's YouTube lectures, from Kamran Cloud"
+ },
+ "ops": [
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Unit-1/Video-Lectures/Video-Lecture_Geometrical-Meaning-of-Partial-Derivatives.link",
+   "url": "https://youtu.be/SHAhba0ynjg",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/SHAhba0ynjg",
+    "title": "Geometrical meaning of partial derivatives (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-01_Complex-Analysis_Introduction.link",
+   "url": "https://www.youtube.com/watch?v=0U2scMoD64c&list=PLSwJJ9gW__u8R8e0CZ_aBhfak1vdnYSL_",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=0U2scMoD64c&list=PLSwJJ9gW__u8R8e0CZ_aBhfak1vdnYSL_",
+    "title": "Complex Analysis, lecture 1 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-01_Complex-Analysis_Introduction.link",
+   "url": "https://www.youtube.com/watch?v=0U2scMoD64c&list=PLSwJJ9gW__u8R8e0CZ_aBhfak1vdnYSL_",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=0U2scMoD64c&list=PLSwJJ9gW__u8R8e0CZ_aBhfak1vdnYSL_",
+    "title": "Complex Analysis, lecture 1 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-01_Complex-Analysis_Introduction.link",
+   "url": "https://www.youtube.com/watch?v=0U2scMoD64c&list=PLSwJJ9gW__u8R8e0CZ_aBhfak1vdnYSL_",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=0U2scMoD64c&list=PLSwJJ9gW__u8R8e0CZ_aBhfak1vdnYSL_",
+    "title": "Complex Analysis, lecture 1 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-2/Video-Lectures/Video-Lecture-01_Complex-Analysis_Introduction.link",
+   "url": "https://www.youtube.com/watch?v=0U2scMoD64c&list=PLSwJJ9gW__u8R8e0CZ_aBhfak1vdnYSL_",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=0U2scMoD64c&list=PLSwJJ9gW__u8R8e0CZ_aBhfak1vdnYSL_",
+    "title": "Complex Analysis, lecture 1 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-02_Complex-Analysis_Introduction.link",
+   "url": "https://www.youtube.com/watch?v=NCyzbH3LErQ&list=PLSwJJ9gW__u8R8e0CZ_aBhfak1vdnYSL_&index=2",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=NCyzbH3LErQ&list=PLSwJJ9gW__u8R8e0CZ_aBhfak1vdnYSL_&index=2",
+    "title": "Complex Analysis, lecture 2 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-02_Complex-Analysis_Introduction.link",
+   "url": "https://www.youtube.com/watch?v=NCyzbH3LErQ&list=PLSwJJ9gW__u8R8e0CZ_aBhfak1vdnYSL_&index=2",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=NCyzbH3LErQ&list=PLSwJJ9gW__u8R8e0CZ_aBhfak1vdnYSL_&index=2",
+    "title": "Complex Analysis, lecture 2 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-02_Complex-Analysis_Introduction.link",
+   "url": "https://www.youtube.com/watch?v=NCyzbH3LErQ&list=PLSwJJ9gW__u8R8e0CZ_aBhfak1vdnYSL_&index=2",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=NCyzbH3LErQ&list=PLSwJJ9gW__u8R8e0CZ_aBhfak1vdnYSL_&index=2",
+    "title": "Complex Analysis, lecture 2 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-2/Video-Lectures/Video-Lecture-02_Complex-Analysis_Introduction.link",
+   "url": "https://www.youtube.com/watch?v=NCyzbH3LErQ&list=PLSwJJ9gW__u8R8e0CZ_aBhfak1vdnYSL_&index=2",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=NCyzbH3LErQ&list=PLSwJJ9gW__u8R8e0CZ_aBhfak1vdnYSL_&index=2",
+    "title": "Complex Analysis, lecture 2 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-03_Complex-Analysis_Higher-Engineering-Mathematics.link",
+   "url": "https://youtu.be/I3MfoQwUxQQ",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/I3MfoQwUxQQ",
+    "title": "Complex Analysis, lecture 3 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-03_Complex-Analysis_Higher-Engineering-Mathematics.link",
+   "url": "https://youtu.be/I3MfoQwUxQQ",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/I3MfoQwUxQQ",
+    "title": "Complex Analysis, lecture 3 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-03_Complex-Analysis_Higher-Engineering-Mathematics.link",
+   "url": "https://youtu.be/I3MfoQwUxQQ",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/I3MfoQwUxQQ",
+    "title": "Complex Analysis, lecture 3 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-2/Video-Lectures/Video-Lecture-03_Complex-Analysis_Higher-Engineering-Mathematics.link",
+   "url": "https://youtu.be/I3MfoQwUxQQ",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/I3MfoQwUxQQ",
+    "title": "Complex Analysis, lecture 3 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-04_Complex-Analysis_Polar-form-of-C-R-equations.link",
+   "url": "https://youtu.be/YfX4ZA4Kpz4",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/YfX4ZA4Kpz4",
+    "title": "Complex Analysis, lecture 4 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-04_Complex-Analysis_Polar-form-of-C-R-equations.link",
+   "url": "https://youtu.be/YfX4ZA4Kpz4",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/YfX4ZA4Kpz4",
+    "title": "Complex Analysis, lecture 4 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-04_Complex-Analysis_Polar-form-of-C-R-equations.link",
+   "url": "https://youtu.be/YfX4ZA4Kpz4",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/YfX4ZA4Kpz4",
+    "title": "Complex Analysis, lecture 4 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-2/Video-Lectures/Video-Lecture-04_Complex-Analysis_Polar-form-of-C-R-equations.link",
+   "url": "https://youtu.be/YfX4ZA4Kpz4",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/YfX4ZA4Kpz4",
+    "title": "Complex Analysis, lecture 4 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-05_Complex-Analysis_Milne-Thomson-method.link",
+   "url": "https://youtu.be/uSU73kkcAr8",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/uSU73kkcAr8",
+    "title": "Complex Analysis, lecture 5 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-05_Complex-Analysis_Milne-Thomson-method.link",
+   "url": "https://youtu.be/uSU73kkcAr8",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/uSU73kkcAr8",
+    "title": "Complex Analysis, lecture 5 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-05_Complex-Analysis_Milne-Thomson-method.link",
+   "url": "https://youtu.be/uSU73kkcAr8",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/uSU73kkcAr8",
+    "title": "Complex Analysis, lecture 5 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-2/Video-Lectures/Video-Lecture-05_Complex-Analysis_Milne-Thomson-method.link",
+   "url": "https://youtu.be/uSU73kkcAr8",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/uSU73kkcAr8",
+    "title": "Complex Analysis, lecture 5 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-06_Complex-Analysis_Complex-Integration-Part-i.link",
+   "url": "https://youtu.be/46pEqRo9HyU",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/46pEqRo9HyU",
+    "title": "Complex Analysis, lecture 6 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-06_Complex-Analysis_Complex-Integration-Part-i.link",
+   "url": "https://youtu.be/46pEqRo9HyU",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/46pEqRo9HyU",
+    "title": "Complex Analysis, lecture 6 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-06_Complex-Analysis_Complex-Integration-Part-i.link",
+   "url": "https://youtu.be/46pEqRo9HyU",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/46pEqRo9HyU",
+    "title": "Complex Analysis, lecture 6 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-2/Video-Lectures/Video-Lecture-06_Complex-Analysis_Complex-Integration-Part-i.link",
+   "url": "https://youtu.be/46pEqRo9HyU",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/46pEqRo9HyU",
+    "title": "Complex Analysis, lecture 6 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-07_Complex-Analysis_Cauchy-Integral-Th.link",
+   "url": "https://youtu.be/wgCkPml-Thg",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/wgCkPml-Thg",
+    "title": "Complex Analysis, lecture 7 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-07_Complex-Analysis_Cauchy-Integral-Th.link",
+   "url": "https://youtu.be/wgCkPml-Thg",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/wgCkPml-Thg",
+    "title": "Complex Analysis, lecture 7 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-07_Complex-Analysis_Cauchy-Integral-Th.link",
+   "url": "https://youtu.be/wgCkPml-Thg",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/wgCkPml-Thg",
+    "title": "Complex Analysis, lecture 7 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-2/Video-Lectures/Video-Lecture-07_Complex-Analysis_Cauchy-Integral-Th.link",
+   "url": "https://youtu.be/wgCkPml-Thg",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/wgCkPml-Thg",
+    "title": "Complex Analysis, lecture 7 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-08_Complex-Analysis_Cauchy-Integral-Formula.link",
+   "url": "https://youtu.be/9WvguojSx2Q",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/9WvguojSx2Q",
+    "title": "Complex Analysis, lecture 8 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-08_Complex-Analysis_Cauchy-Integral-Formula.link",
+   "url": "https://youtu.be/9WvguojSx2Q",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/9WvguojSx2Q",
+    "title": "Complex Analysis, lecture 8 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-08_Complex-Analysis_Cauchy-Integral-Formula.link",
+   "url": "https://youtu.be/9WvguojSx2Q",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/9WvguojSx2Q",
+    "title": "Complex Analysis, lecture 8 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-2/Video-Lectures/Video-Lecture-08_Complex-Analysis_Cauchy-Integral-Formula.link",
+   "url": "https://youtu.be/9WvguojSx2Q",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/9WvguojSx2Q",
+    "title": "Complex Analysis, lecture 8 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-09_Complex-Analysis_Power-Series-Taylor-Series-with-examples.link",
+   "url": "https://youtu.be/EHi3Q-gBZ44",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/EHi3Q-gBZ44",
+    "title": "Complex Analysis, lecture 9 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-09_Complex-Analysis_Power-Series-Taylor-Series-with-examples.link",
+   "url": "https://youtu.be/EHi3Q-gBZ44",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/EHi3Q-gBZ44",
+    "title": "Complex Analysis, lecture 9 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-09_Complex-Analysis_Power-Series-Taylor-Series-with-examples.link",
+   "url": "https://youtu.be/EHi3Q-gBZ44",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/EHi3Q-gBZ44",
+    "title": "Complex Analysis, lecture 9 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-2/Video-Lectures/Video-Lecture-09_Complex-Analysis_Power-Series-Taylor-Series-with-examples.link",
+   "url": "https://youtu.be/EHi3Q-gBZ44",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/EHi3Q-gBZ44",
+    "title": "Complex Analysis, lecture 9 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-10_Complex-Analysis_Laurent-series-with-solved-examples.link",
+   "url": "https://youtu.be/ZysG-zS2ABg",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/ZysG-zS2ABg",
+    "title": "Complex Analysis, lecture 10 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-10_Complex-Analysis_Laurent-series-with-solved-examples.link",
+   "url": "https://youtu.be/ZysG-zS2ABg",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/ZysG-zS2ABg",
+    "title": "Complex Analysis, lecture 10 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-10_Complex-Analysis_Laurent-series-with-solved-examples.link",
+   "url": "https://youtu.be/ZysG-zS2ABg",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/ZysG-zS2ABg",
+    "title": "Complex Analysis, lecture 10 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-2/Video-Lectures/Video-Lecture-10_Complex-Analysis_Laurent-series-with-solved-examples.link",
+   "url": "https://youtu.be/ZysG-zS2ABg",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/ZysG-zS2ABg",
+    "title": "Complex Analysis, lecture 10 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-11_Complex-Analysis_Solved-problems-on-Taylor-Laurent-series.link",
+   "url": "https://youtu.be/QwNY1-LsKU8",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/QwNY1-LsKU8",
+    "title": "Complex Analysis, lecture 11 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-11_Complex-Analysis_Solved-problems-on-Taylor-Laurent-series.link",
+   "url": "https://youtu.be/QwNY1-LsKU8",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/QwNY1-LsKU8",
+    "title": "Complex Analysis, lecture 11 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-11_Complex-Analysis_Solved-problems-on-Taylor-Laurent-series.link",
+   "url": "https://youtu.be/QwNY1-LsKU8",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/QwNY1-LsKU8",
+    "title": "Complex Analysis, lecture 11 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-2/Video-Lectures/Video-Lecture-11_Complex-Analysis_Solved-problems-on-Taylor-Laurent-series.link",
+   "url": "https://youtu.be/QwNY1-LsKU8",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/QwNY1-LsKU8",
+    "title": "Complex Analysis, lecture 11 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-12_Complex-Analysis_Zero-and-Singularity-with-examples.link",
+   "url": "https://youtu.be/jxi-NhQGXtU",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/jxi-NhQGXtU",
+    "title": "Complex Analysis, lecture 12 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-12_Complex-Analysis_Zero-and-Singularity-with-examples.link",
+   "url": "https://youtu.be/jxi-NhQGXtU",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/jxi-NhQGXtU",
+    "title": "Complex Analysis, lecture 12 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-12_Complex-Analysis_Zero-and-Singularity-with-examples.link",
+   "url": "https://youtu.be/jxi-NhQGXtU",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/jxi-NhQGXtU",
+    "title": "Complex Analysis, lecture 12 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-2/Video-Lectures/Video-Lecture-12_Complex-Analysis_Zero-and-Singularity-with-examples.link",
+   "url": "https://youtu.be/jxi-NhQGXtU",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/jxi-NhQGXtU",
+    "title": "Complex Analysis, lecture 12 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-13_Complex-Analysis_Types-of-Singularities-with-examples.link",
+   "url": "https://youtu.be/k0cqcf5b_Rc",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/k0cqcf5b_Rc",
+    "title": "Complex Analysis, lecture 13 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/AMS2232_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-13_Complex-Analysis_Types-of-Singularities-with-examples.link",
+   "url": "https://youtu.be/k0cqcf5b_Rc",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/k0cqcf5b_Rc",
+    "title": "Complex Analysis, lecture 13 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem3/AMS2512_Higher-Mathematics/Unit-1/Video-Lectures/Video-Lecture-13_Complex-Analysis_Types-of-Singularities-with-examples.link",
+   "url": "https://youtu.be/k0cqcf5b_Rc",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/k0cqcf5b_Rc",
+    "title": "Complex Analysis, lecture 13 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/Unit-2/Video-Lectures/Video-Lecture-13_Complex-Analysis_Types-of-Singularities-with-examples.link",
+   "url": "https://youtu.be/k0cqcf5b_Rc",
+   "t": 1794759235,
+   "meta": {
+    "url": "https://youtu.be/k0cqcf5b_Rc",
+    "title": "Complex Analysis, lecture 13 (Dr. Kamran Khan, YouTube)",
+    "credit": "Kamran Cloud",
+    "professor": "Dr. Kamran Khan",
+    "author": "Dr. Kamran Khan"
+   }
+  }
+ ]
+}
