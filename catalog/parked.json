@@ -1,0 +1,92 @@
+{
+ "about": "Material kept for later: real study material that is outside the current focus (B.Tech, ZHCET, AMU). The files live in _Parked/ on the maintainer's machine (not published, not in git); this index is tracked. Next focuses: the whole Faculty of Engineering (M.Tech, Diploma), other AMU faculties, other Muslim colleges, then colleges across India.",
+ "files": [
+  {
+   "path": "AMU/ZHCET/M.Tech/Electrical/AMS6211_Optimization-Techniques-for-Electrical-Engineers/Syllabus/AMS6211_Syllabus.pdf",
+   "size": 154771,
+   "sha256": "4ee8574fd6872c4de622d813711c03a8362c8c86bb03f79c13b8e67d6c6d9744",
+   "from": "kamran-cloud: Kamran-Cloud/M.Tech/Ist year/AMS6211/Syllabus/Syllabus-AMS6211.pdf",
+   "programme": "M.Tech (Electrical), ZHCET AMU",
+   "author": "Dr. Kamran Khan",
+   "credit": "Kamran Cloud",
+   "why": "not B.Tech"
+  },
+  {
+   "path": "AMU/University-Polytechnic/Diploma-in-Engineering/PYQs-and-Assignments/Diploma-Papers_2015-16_Compiled.pdf",
+   "size": 10874902,
+   "sha256": "5977471926883be537d2a75878a41c669c750d48babc8cdec0427f12ad8acf4d",
+   "from": "umar-chem: Mid sem and end sem papers/diploma all papers.pdf",
+   "programme": "Diploma in Engineering (Production / RAC / Plastic), probably AMU University Polytechnic; 76 pages, e.g. BME-306 Applied Thermal Engineering 2015-16",
+   "why": "not B.Tech",
+   "credit": "Umar Iqbal"
+  },
+  {
+   "path": "Other-Institutions/Malla-Reddy-College-of-Engineering-and-Technology/Design-of-Hydraulic-and-Pneumatic-Systems_2023-24.pdf",
+   "size": 8985504,
+   "sha256": "15ba500f4b493df6679c9c024fae14385f46d53be38298fdaf83afed4bf84576",
+   "from": "auto-yousuf: 6th Sem/Automotive Hydraulic Pneumatic Systems/Design of Hydraulic and Pneumatic Systems.pdf",
+   "institution": "Malla Reddy College of Engineering and Technology, Hyderabad",
+   "why": "another institution's course material (147 pages)",
+   "credit": "Md Yousuf"
+  },
+  {
+   "path": "Other-Institutions/Malla-Reddy-College-of-Engineering-and-Technology/Automobile-Engineering_R20A0326_Digital-Notes.pdf",
+   "size": 6117345,
+   "sha256": "46dd70ed98bb7442f8f70da9cdfdb26da39f114d438a19b41522ff348874fd7e",
+   "from": "auto-hasan: 3RD & 5TH SEMESTER/5th Semester(Automobile)/Engineering Assests(V)/ELECTRIC & HYBRID VEHICLES/Automobile Engineering.pdf",
+   "institution": "Malla Reddy College of Engineering and Technology, Hyderabad",
+   "author": "Dr. D. Damodara Reddy",
+   "why": "another institution's course material (144 pages)",
+   "credit": "Hasan"
+  },
+  {
+   "path": "Other-Institutions/VSSUT-Burla/Fundamentals-of-Fluid-Mechanics_BME307.pdf",
+   "size": 6435420,
+   "sha256": "a8cbfb45342991e4ece1da439233266af28855181b961d310e6a233739a9e52a",
+   "from": "auto-hasan: 3RD & 5TH SEMESTER/3rd Semester(Automobile)/Fluid Mechanics/Fundamentals of Fluid Mechanics.pdf",
+   "institution": "Veer Surendra Sai University of Technology, Burla",
+   "why": "another university's course notes",
+   "credit": "Hasan"
+  },
+  {
+   "path": "Other-Institutions/KL-University/Workshop-Manual_2016-17.pdf",
+   "size": 3880565,
+   "sha256": "ed275156553cd8de129325f9e21e4b5a64f400c4aa1c94a25b7a372031eef7f3",
+   "from": "fy-suhail: First_Year 3/2nd Semester/2nd Semester Notes/MEA1920/Notes/workshop2016-2017.pdf",
+   "institution": "KL University (Koneru Lakshmaiah), Vijayawada",
+   "why": "another institution's lab manual",
+   "credit": "Mohammad Suhail"
+  },
+  {
+   "path": "Other-Institutions/GRIET-Hyderabad/Time-Management_Skill-Series-Booklet.pdf",
+   "size": 4636418,
+   "sha256": "f85742687175728b94a15b94988a06680989e3e6c0225d24fb6a97f32c4d2912",
+   "from": "fy-farhan: B-Tech 1st Year  2/Books/Time management-4 (1).pdf",
+   "institution": "Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad",
+   "why": "another institution's skill booklet",
+   "credit": "Farhan Baig"
+  }
+ ],
+ "links": [
+  {
+   "path": "AMU/ZHCET/M.Tech/Electrical/AMS6211_Optimization-Techniques-for-Electrical-Engineers/Unit-1",
+   "title": "Introduction to Optimization (Dr. Kamran Khan)",
+   "url": "https://drive.google.com/file/d/1DbaRRUjpAC7sy-JAxj04cR8OfHf3qs_1/view",
+   "note": "private Drive file (sign-in needed); fetch once it is shared",
+   "credit": "Kamran Cloud"
+  },
+  {
+   "path": "AMU/ZHCET/M.Tech/Electrical/AMS6211_Optimization-Techniques-for-Electrical-Engineers/Unit-1",
+   "title": "Linear Programming videos (SATHEE, IIT Kanpur)",
+   "url": "https://sathee.iitk.ac.in/dashboard/courseView?course_reference=mathematics-ug",
+   "credit": "Kamran Cloud"
+  },
+  {
+   "path": "AMU/ZHCET/M.Tech/Electrical/AMS6211_Optimization-Techniques-for-Electrical-Engineers/Unit-3",
+   "title": "Stochastic LPP (Dr. Kamran Khan)",
+   "url": "https://drive.google.com/file/d/1gIRCXtXZ7ZwTYF1hTjsXqd-onCFK2CtZ/view",
+   "note": "private Drive file (sign-in needed); fetch once it is shared",
+   "credit": "Kamran Cloud"
+  }
+ ]
+}

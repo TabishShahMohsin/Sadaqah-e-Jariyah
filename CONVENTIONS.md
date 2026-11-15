@@ -142,6 +142,13 @@ the source is credited. Obtaining permission is the contributor's responsibility
 
 **Takedowns** from a teacher, student or rights holder are honoured without argument.
 
+### Out of scope for now: parked, not rejected
+The current focus is B.Tech/B.E. at ZHCET, AMU. Next come the rest of the Faculty of Engineering (M.Tech, Diploma),
+other AMU faculties, other Muslim colleges, then colleges across India. Genuine study material for those (an M.Tech
+syllabus, Diploma papers, another college's course notes) is **parked**: copied into `_Parked/<AMU|Other-Institutions>/…`
+(not published, not in git) and listed with its source and credit in `catalog/parked.json`. Books, personal records and
+junk are still rejected.
+
 ## 5. Formats
 | Kind | Stored and published as |
 |---|---|
