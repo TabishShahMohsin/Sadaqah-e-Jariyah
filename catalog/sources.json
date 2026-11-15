@@ -378,9 +378,10 @@
    "title": "OhmNotes",
    "url": "https://ohmnotes.netlify.app/",
    "credit": "Ali Imam",
-   "covers": "Electrical Engineering notes, semesters 5-7: Power Electronics II, Power System Analysis, Instrumentation, High Voltage, Communication Engg, NanoPhysics, Numerical Techniques, PYQs",
-   "status": "reference",
-   "note": "by Ali Imam (aijafri on LinkedIn)"
+   "covers": "Electrical Engineering notes, slides, records and PYQ solutions for semesters 5-7: Power Electronics, Power Systems, Instrumentation, High Voltage, Communication, Numerical Techniques, Drives, Microcontrollers, Power Generation, Control, Protection, Power Station Practice, Process Control, Smart Grid, Power System Design",
+   "status": "merged",
+   "note": "by Ali Imam (aijafri on LinkedIn); shared with permission",
+   "change": "20261115-121226-ohmnotes"
   },
   {
    "title": "Basic-Computer",
