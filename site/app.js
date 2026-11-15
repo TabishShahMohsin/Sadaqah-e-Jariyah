@@ -936,13 +936,13 @@ huggingface-cli download ${repo} --repo-type dataset --local-dir sej-files \\
     <section class="api-sec">
       <h2 class="label">API</h2>
       <p class="lede-sm">Read-only JSON, no key needed, open to any website or app (CORS enabled). It updates whenever the archive does.</p>
-      ${code(`GET ${site}api/v1/files.json        every file: path, name, size, modified, url, branch, semester,
-                                    course (codes, title), section, meta (author, professor, year, credit…);
-                                    plus every link (videos, playlists, project pages) the same way
-GET ${site}api/v1/programmes.json   degrees, branches and their semester-wise course lists (the site's menus)
-GET ${site}api/v1/sources.json      the collections the archive was gathered from, with credits
-GET ${site}index.json               the folder tree exactly as the site loads it
-GET ${site}api/v1/stats.json        how much the API has been used in the last 30 days`)}
+      <table class="api-tbl"><tbody>${[
+        ['api/v1/files.json', 'Every file: path, name, size, modified, url, branch, semester, course (codes, title), section and credits (author, professor, year, shared by). Every link (videos, playlists, project pages) the same way.'],
+        ['api/v1/programmes.json', 'Degrees, branches and their semester-wise course lists (the site’s menus).'],
+        ['api/v1/sources.json', 'The collections the archive was gathered from, with credits.'],
+        ['index.json', 'The folder tree exactly as this site loads it.'],
+        ['api/v1/stats.json', 'How much the API has been used in the last 30 days.'],
+      ].map(([u, d]) => `<tr><td><a href="${esc(site + u)}" target="_blank" rel="noopener"><span class="api-get">GET</span> /${esc(u)}</a></td><td>${d}</td></tr>`).join('')}</tbody></table>
       <p class="lede-sm">Together these hold everything this website is built from, so another app can rebuild it, or something different: a question-paper builder, a course planner, a search tool. The site's own code is open source (GPL-3.0).</p>
       <p class="lede-sm" id="apiUse"></p>
       ${code(`const r = await fetch('${site}api/v1/files.json');
