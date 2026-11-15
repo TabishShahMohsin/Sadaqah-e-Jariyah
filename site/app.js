@@ -110,6 +110,7 @@ function route() {
   const p = currentPath();
   if (p === 'contribute') { closePreview(); contributeView(); return; }
   if (p === 'credits') { closePreview(); creditsView(); return; }
+  if (p === 'data') { closePreview(); dataView(); return; }
   if (p.startsWith('status/')) { closePreview(); statusView(p.slice(7)); return; }
   const f = S.files.get(p);
   if (f) {
@@ -907,6 +908,44 @@ function creditsView() {
     <p class="lede-sm">Nearly everything here was shared by students, teachers and the Engineering College Library. These are the collections it was gathered from, with the people who made them. Each file also shows its own credit when you open it.</p></header>
     ${group('In the archive', '', all.filter(x => x.s === 'in'))}
     ${group('Not collected yet', 'Other AMU collections worth knowing about. Their material is not (or not yet) in this archive, so visit them directly.', all.filter(x => x.s !== 'in'))}`);
+}
+
+function dataView() {
+  const base = S.base && /^https?:/.test(S.base) ? S.base : '';
+  const m = base.match(/huggingface\.co\/datasets\/([^/]+\/[^/]+)\/resolve\//);
+  const repo = m ? m[1] : '';
+  const dataset = repo ? `https://huggingface.co/datasets/${repo}` : '';
+  const site = location.origin + location.pathname.replace(/[^/]*$/, '');
+  let n = 0, bytes = 0;
+  S.files.forEach(f => { if (f.k !== 'link') { n++; bytes += f.s || 0; } });
+  const code = t => `<pre class="code wrap api-code">${esc(t)}</pre>`;
+  pageShell('data', 'Download & API', `<header class="page-head"><div class="eyebrow">Download &amp; API</div><h1>Take it all, or build on it</h1>
+    <p class="lede-sm">Everything here is free. You can download the whole archive, or have your app read it directly, so you don't need to keep a copy that goes out of date.</p></header>
+    <section class="api-sec">
+      <h2 class="label">Download everything</h2>
+      <p class="lede-sm">${n.toLocaleString()} files, ${fmtSize(bytes)}, kept on Hugging Face with full version history${dataset ? `: <a href="${esc(dataset)}" target="_blank" rel="noopener">${esc(dataset.replace('https://', ''))} ↗</a>` : ''}.</p>
+      ${repo ? code(`pip install -U huggingface_hub
+
+# everything
+huggingface-cli download ${repo} --repo-type dataset --local-dir sej-files
+
+# one branch, semester or course
+huggingface-cli download ${repo} --repo-type dataset --local-dir sej-files \\
+  --include "BTech-and-BE/Computer-Engineering/Sem5/*"`) : ''}
+    </section>
+    <section class="api-sec">
+      <h2 class="label">API</h2>
+      <p class="lede-sm">Read-only JSON, no key needed, open to any website or app (CORS enabled). It updates whenever the archive does.</p>
+      ${code(`GET ${site}api/v1/files.json     every file: path, size, modified, url, meta (author, professor, year, credit…), plus links
+GET ${site}api/v1/sources.json   the collections the archive was gathered from, with credits
+GET ${site}index.json            the folder tree the site itself uses`)}
+      ${code(`const r = await fetch('${site}api/v1/files.json');
+const { files } = await r.json();
+const papers = files.filter(f => f.path.includes('/PYQs-and-Assignments/'));
+// each file downloads from f.url`)}
+      <p class="lede-sm">File URLs point at the latest version. To pin a fixed version, replace <code>/resolve/main/</code> with <code>/resolve/&lt;release&gt;/</code>, using a release tag from the dataset${dataset ? ` (<a href="${esc(dataset)}/tree/main" target="_blank" rel="noopener">browse versions ↗</a>)` : ''}.</p>
+      <p class="lede-sm">Please fetch <code>files.json</code> once and cache it rather than on every page view, and mention <b>Sadaqah-e-Jariyah</b> and each file's own credit (its <code>meta</code>) where you show the material. Hugging Face limits heavy anonymous use, so a high-traffic app should use a Hugging Face token.</p>
+    </section>`);
 }
 
 function contributeView() {

@@ -20,6 +20,7 @@ Hugging Face is made to match exactly: missing files are uploaded, renamed ones 
 anything no longer published is deleted. Config: catalog/hf-config.json {"repo_id", "token"} or HF_REPO / HF_TOKEN.
 """
 import argparse
+from urllib.parse import quote
 import hashlib
 import json
 import logging
@@ -416,7 +417,8 @@ def file_ids_bytes(b):
 # ── website ─────────────────────────────────────────────────────────────────
 HEADERS = ("/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: no-referrer\n  X-Frame-Options: SAMEORIGIN\n"
            "/fonts/*\n  Cache-Control: public, max-age=31536000, immutable\n/vendor/*\n  Cache-Control: public, max-age=2592000\n"
-           "/brand/*\n  Cache-Control: public, max-age=604800\n/index.json\n  Cache-Control: no-cache\n")
+           "/brand/*\n  Cache-Control: public, max-age=604800\n/index.json\n  Cache-Control: no-cache\n  Access-Control-Allow-Origin: *\n"
+           "/api/v1/*\n  Cache-Control: no-cache\n  Access-Control-Allow-Origin: *\n")
 
 
 def build_index(state, scan, repo_id, root=REPO):
@@ -434,6 +436,29 @@ def build_index(state, scan, repo_id, root=REPO):
            "fileBase": f"https://huggingface.co/datasets/{repo_id}/resolve/main/",
            "programmes": bi.programmes(root), "sources": bi.sources(root), "root": sej.build_tree(view)}
     return idx, pub, left, unscanned
+
+
+def write_api(out, idx, pub, repo_id):
+    """Static, read-only API next to the site (documented on the site's Download & API page):
+    api/v1/files.json  every published file as a flat list, with its download URL and credits
+    api/v1/sources.json the collections the archive was gathered from"""
+    state = sej.load_state()
+    files = []
+    for p, item in sorted(pub.items()):
+        e = item["e"]
+        meta = {k: v for k, v in (e.get("meta") or {}).items() if k in sej.META_KEYS and v}
+        files.append({"path": p, "size": e.get("s"), "modified": e.get("t"), "url": idx["fileBase"] + quote(p),
+                      **({"meta": meta} if meta else {})})
+    links = [{"path": p, "url": e["meta"]["url"], **({"title": e["meta"]["title"]} if e["meta"].get("title") else {})}
+             for p, e in sorted(state.items()) if e.get("link") and (e.get("meta") or {}).get("url")]
+    api = os.path.join(out, "api", "v1")
+    os.makedirs(api, exist_ok=True)
+    head = {"name": "Sadaqah-e-Jariyah", "generated": idx["generated"], "dataset": f"https://huggingface.co/datasets/{repo_id}",
+            "fileBase": idx["fileBase"], "count": len(files), "bytes": sum(f["size"] or 0 for f in files)}
+    for name, body in (("files.json", {**head, "files": files, "links": links}),
+                       ("sources.json", {**head, "sources": idx["sources"]})):
+        with open(os.path.join(api, name), "w", encoding="utf-8") as fh:
+            json.dump(body, fh, ensure_ascii=False, separators=(",", ":"))
 
 
 def cmd_site(a, root=REPO):
@@ -456,6 +481,7 @@ def cmd_site(a, root=REPO):
     with open(os.path.join(out, "index.json.tmp"), "w", encoding="utf-8") as fh:
         json.dump(idx, fh, ensure_ascii=False, separators=(",", ":"))
     os.replace(os.path.join(out, "index.json.tmp"), os.path.join(out, "index.json"))
+    write_api(out, idx, pub, repo_id)
     report = os.path.join(root, ".sej-cache", "left-out.txt")
     with open(report, "w", encoding="utf-8") as fh:
         fh.writelines(f"{why:40s} {p}\n" for p, why in sorted(left, key=lambda x: (x[1], x[0])))

@@ -409,3 +409,9 @@ main { width: 100%; max-width: var(--w); margin: 0 auto; padding-block: 0 120px;
 .sheetv-body tr:first-child td { background: #f5f5f7; font-weight: 600; }
 .part-note { font-size: 13px; color: var(--mute); margin: 0; padding: 14px 30px 0; background: #fff; }
 .sheetv .part-note { padding: 0 0 10px; background: none; }
+
+/* download & API page */
+.api-sec { margin: 28px 0 8px; }
+.api-sec .lede-sm { margin: 10px 0; }
+.api-code { padding: 16px 18px; border-radius: 12px; border: 1px solid #e5e5ea; margin: 12px 0; min-height: 0; font-size: 12.5px; }
+.api-sec code { font: 12.5px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; background: #f5f5f7; padding: 1px 5px; border-radius: 5px; }
