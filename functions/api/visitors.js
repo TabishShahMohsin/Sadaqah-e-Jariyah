@@ -6,7 +6,7 @@
 // Without DB it falls back to KV, and without either (local preview) to hits.sh, the original counter.
 const START = 345;   // the count hits.sh showed when it stopped answering
 const COUNTER = "https://hits.sh/sadaqah-e-jariyah.pages.dev.svg?style=flat-square&label=visitors&color=1d1d1f&labelColor=6e6e73";
-const headers = { "Cache-Control": "no-store" };
+const headers = { "Cache-Control": "no-store", "Access-Control-Allow-Origin": "*" };   // sej.org.in asks pages.dev
 const BUMP = "INSERT INTO counter (id, n) VALUES (1, ?1) ON CONFLICT(id) DO UPDATE SET n = n + 1 RETURNING n";
 
 async function fromKv(env) {

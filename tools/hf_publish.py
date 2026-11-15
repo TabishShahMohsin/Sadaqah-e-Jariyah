@@ -416,9 +416,13 @@ def file_ids_bytes(b):
 
 # ── website ─────────────────────────────────────────────────────────────────
 HEADERS = ("/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: no-referrer\n  X-Frame-Options: SAMEORIGIN\n"
-           "/fonts/*\n  Cache-Control: public, max-age=31536000, immutable\n/vendor/*\n  Cache-Control: public, max-age=2592000\n"
+           "/fonts/*\n  Cache-Control: public, max-age=31536000, immutable\n  Access-Control-Allow-Origin: *\n/vendor/*\n  Cache-Control: public, max-age=2592000\n"
            "/brand/*\n  Cache-Control: public, max-age=604800\n/index.json\n  Cache-Control: no-cache\n  Access-Control-Allow-Origin: *\n"
-           "/api/v1/*\n  Cache-Control: no-cache\n  Access-Control-Allow-Origin: *\n")
+           "/api/v1/*\n  Cache-Control: no-cache\n  Access-Control-Allow-Origin: *\n"
+           "/app.js\n  Access-Control-Allow-Origin: *\n/app.css\n  Access-Control-Allow-Origin: *\n")
+# Where the page's code, styles and fonts load from (see FAST in site/app.js): pages.dev is served from India,
+# the custom domain sej.org.in from Europe. The page itself may come from either; these always come from here.
+FAST_ORIGIN = "https://sadaqah-e-jariyah.pages.dev/"
 
 
 def build_index(state, scan, repo_id, root=REPO):
@@ -509,8 +513,15 @@ def cmd_site(a, root=REPO):
     if os.path.isdir(os.path.join(out, "files")):
         raise SystemExit(f"{out}/files exists: the files are on Hugging Face now; move it out of the way first")
     os.makedirs(out, exist_ok=True)
-    for f in ("index.html", "app.css", "app.js"):
+    for f in ("app.css", "app.js"):
         shutil.copyfile(os.path.join(root, "site", f), os.path.join(out, f))
+    with open(os.path.join(root, "site", "index.html"), encoding="utf-8") as fh:
+        html = fh.read()
+    for asset in ('href="app.css"', 'src="app.js"', 'href="fonts/'):
+        attr, path = asset.split('="')
+        html = html.replace(asset, f'{attr}="{FAST_ORIGIN}{path}')
+    with open(os.path.join(out, "index.html"), "w", encoding="utf-8") as fh:
+        fh.write(html)
     for sub in ("fonts", "brand", "vendor"):
         shutil.copytree(os.path.join(root, "site", sub), os.path.join(out, sub), dirs_exist_ok=True)
     with open(os.path.join(out, "_headers"), "w") as fh:

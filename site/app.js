@@ -31,6 +31,9 @@ function sectionRank(n) {
   if (u) return 10 + +u[1];
   return { 'Syllabus': 0, 'Complete-Notes': 1, 'PYQs-and-Assignments': 50, 'Manuals': 60, 'Records': 61, 'Books-and-Resources': 70 }[n] ?? 80;
 }
+// sej.org.in reaches Indian networks through Cloudflare data centres in Europe (seconds per request), while
+// sadaqah-e-jariyah.pages.dev is served from Delhi. On the custom domain, data and code come from pages.dev.
+const FAST = /(^|\.)sej\.org\.in$/.test(location.hostname) ? 'https://sadaqah-e-jariyah.pages.dev/' : '';
 const COURSE_RE = /^((?:[A-Z]{2,4}\d{3,4}[A-Z]?|(?:DE|OE)-\d+)(?:-[A-Z]{2,4}\d{3,4}[A-Z]?)*)_(.+)$/;
 function parseCourse(n) {
   const m = n.match(COURSE_RE);
@@ -915,7 +918,7 @@ function dataView() {
   const m = base.match(/huggingface\.co\/datasets\/([^/]+\/[^/]+)\/resolve\//);
   const repo = m ? m[1] : '';
   const dataset = repo ? `https://huggingface.co/datasets/${repo}` : '';
-  const site = location.origin + location.pathname.replace(/[^/]*$/, '');
+  const site = FAST || location.origin + location.pathname.replace(/[^/]*$/, '');
   let n = 0, bytes = 0;
   S.files.forEach(f => { if (f.k !== 'link') { n++; bytes += f.s || 0; } });
   const code = t => `<pre class="code wrap api-code">${esc(t)}</pre>`;
@@ -952,7 +955,7 @@ const papers = files.filter(f => f.section === 'PYQs-and-Assignments' && f.cours
       <p class="lede-sm">File URLs point at the latest version. To pin a fixed version, replace <code>/resolve/main/</code> with <code>/resolve/&lt;release&gt;/</code>, using a release tag from the dataset${dataset ? ` (<a href="${esc(dataset)}/tree/main" target="_blank" rel="noopener">browse versions ↗</a>)` : ''}.</p>
       <p class="lede-sm">Please fetch <code>files.json</code> once and cache it rather than on every page view, and mention <b>Sadaqah-e-Jariyah</b> and each file's own credit (its <code>meta</code>) where you show the material. Hugging Face limits heavy anonymous use, so a high-traffic app should use a Hugging Face token.</p>
     </section>`);
-  fetch('api/v1/stats.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : null).then(j => {
+  fetch(FAST + 'api/v1/stats.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : null).then(j => {
     const el = $('#apiUse');
     if (el && j && j.calls) el.textContent = `API use in the last 30 days: ${j.calls.toLocaleString()} calls from ${j.clients.toLocaleString()} ${j.clients === 1 ? 'app' : 'apps'}.`;
   }).catch(() => {});
@@ -1084,7 +1087,7 @@ async function droppedFiles(dt) {
 }
 // Visit count from the Pages Function (functions/api/visitors.js). Asked for as soon as the script runs, so it
 // arrives with the index; the last known count shows at once meanwhile. Not there on the local server: nothing shown.
-const VISITS = fetch('api/visitors', { cache: 'no-store' }).then(r => r.ok ? r.json() : {}).then(j => j.count).catch(() => null);
+const VISITS = fetch(FAST + 'api/visitors', { cache: 'no-store' }).then(r => r.ok ? r.json() : {}).then(j => j.count).catch(() => null);
 function showVisitors() {
   const el = $('#footVisits');
   const put = n => { if (Number.isFinite(n) && n > 0) { el.textContent = plural(n, 'visit'); el.hidden = false; } };
@@ -1321,7 +1324,7 @@ async function boot() {
     let idx;
     if (EMBED) idx = JSON.parse(document.getElementById('sej-data').textContent);
     else {
-      const r = await fetch('index.json', { cache: 'no-store' });
+      const r = await fetch(FAST + 'index.json', { cache: 'no-store' });
       if (!r.ok) throw new Error('HTTP ' + r.status);
       idx = await r.json();
     }
