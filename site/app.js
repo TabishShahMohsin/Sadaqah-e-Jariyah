@@ -910,7 +910,9 @@ function creditsView() {
   pageShell('credits', 'Sources & credits', `<header class="page-head"><div class="eyebrow">Sources & credits</div><h1>Where everything came from</h1>
     <p class="lede-sm">Nearly everything here was shared by students, teachers and the Engineering College Library. These are the collections it was gathered from, with the people who made them. Each file also shows its own credit when you open it.</p></header>
     ${group('In the archive', '', all.filter(x => x.s === 'in'))}
-    ${group('Not collected yet', 'Other AMU collections worth knowing about. Their material is not (or not yet) in this archive, so visit them directly.', all.filter(x => x.s !== 'in'))}`);
+    ${group('Not collected yet', 'Other AMU collections worth knowing about. Their material is not (or not yet) in this archive, so visit them directly.', all.filter(x => x.s !== 'in'))}
+    <h2 class="label">Contact</h2>
+    <p class="lede-sm">If you made something here and want it credited differently or taken down, or you have a question, write to <a href="mailto:contact@sej.org.in">contact@sej.org.in</a>.</p>`);
 }
 
 function dataView() {
