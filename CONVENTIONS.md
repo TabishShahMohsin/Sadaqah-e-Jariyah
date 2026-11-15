@@ -125,8 +125,11 @@ The site shows them when a file is opened: *notes by … · taught by … · sha
 question papers (mid-sem, sem-end, quizzes); syllabi and course outlines; lab manuals and your lab records.
 
 **No:**
-- **Piracy is haram.** No published books or chapters, solution manuals, paid course material (Unacademy, etc.).
-  Point to the library catalogue instead.
+- **Piracy is haram.** No whole published books, solution manuals, paid course material (Unacademy, etc.).
+  Point to the library catalogue instead. Reference pages, figures and short excerpts used while studying are fine:
+  they go in `Books-and-Resources`, and PDFs there over 40 pages are not published (they are usually whole books).
+- **Projects downloaded from the web** (other colleges, project sites) are added as a **link** to the original page in
+  `Books-and-Resources`, not as copied files.
 - **Personal records:** marks or attendance lists, admit cards, fee receipts, ID or registration cards, CVs, phone
   numbers. A student's name, faculty or enrolment number on notes, assignments, lab records or answer sheets is fine.
 - **Answers to work that is still due.** Assignment, tutorial, lab and test solutions only after the deadline.
@@ -146,7 +149,8 @@ the source is credited. Obtaining permission is the contributor's responsibility
 | Spreadsheets (`xlsx xls ods numbers`) | **CSV** (one per sheet) |
 | Photos and scans (`heic png webp jpg`) | **JPEG**; PNG only for screenshots and diagrams |
 | Video | **MP4** |
-| Code and tool files (`c cpp h java py ipynb asm v vhd circ m sql`, …) | as they are |
+| Code and tool files (`c cpp h java py ipynb asm a51 v vhd circ m sql`, …) | as they are |
+| Circuit simulation files (`ms14` Multisim, `pdsprj` / `dsn` Proteus) | as they are (download only); build output (`hex lst obj bin`) is not kept |
 | Program output inside lab `Records` | `.txt` |
 | Links (Drive, YouTube, websites) | a **link entry** in the catalog, shown on the site like a file (no `.md` / `.url` files) |
 

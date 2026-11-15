@@ -10,7 +10,8 @@ Publish the archive: study files to the Hugging Face dataset, website to Cloudfl
     npx wrangler pages deploy _dist --project-name sadaqah-e-jariyah --branch production
 
 What is published, and how (one rule set for the dataset and the website, so they always agree):
-  left out   Books-and-Resources sections, book-like names, PDFs with an ISBN on the first pages (except syllabi),
+  left out   book-like names, PDFs with an ISBN on the first pages (except syllabi), Books-and-Resources PDFs over
+             40 pages (whole books; shorter reference pages, figures and papers are published),
              anything in catalog/exclude.txt, formats that are not study material (.exe, .out, .class, .html …)
   renamed    enrolment numbers are taken out of file names
   cleaned    author fields of PDFs/Office files and personal photo EXIF (GPS, owner) are blanked in the copy
@@ -44,6 +45,7 @@ STAGE = os.path.join(REPO, ".sej-cache", "hf-stage")        # cleaned copies, na
 KEEP_REMOTE = {".gitattributes", "README.md"}
 STUDY_EXT = (rules.ALLOWED_EXT | rules.CODE_EXT | {"tsv", "c++", "cc", "cxx", "mp3", "m4a", "wav"}) - {"zip"}
 SCAN_EXT = {"pdf"} | scrub.IMAGE_EXT | scrub.OFFICE_EXT
+REFERENCE_MAX_PAGES = 40   # Books-and-Resources PDFs up to this length are published as reference material
 _W = r"(?<![a-z])", r"(?![a-z])"  # whole words, with '_' '-' digits as separators
 BOOKISH = re.compile(r"(?i)" + _W[0] + r"(book|book[-_ ]copy|textbook|edition|\d+(st|nd|rd|th)[-_ ]?ed|schaum'?s?|"
                      r"pearson|mcgraw|wiley|springer|o.?reilly|elsevier|cengage|prentice|addison|pressman|tocci|"
@@ -74,8 +76,6 @@ def why_left_out(p, e, scan, skip):
     ext = rules.ext_of(name)
     if e.get("link"):
         return "link"
-    if "/Books-and-Resources/" in p:
-        return "Books-and-Resources"
     if ext not in STUDY_EXT:
         return f".{ext or '?'} is not study material"
     if not e.get("s"):
@@ -86,6 +86,13 @@ def why_left_out(p, e, scan, skip):
         return "book-like name"
     if (scan.get(e.get("h")) or {}).get("isbn") and "/Syllabus/" not in p:
         return "ISBN on first pages (published book)"
+    if "/Books-and-Resources/" in p and ext == "pdf":
+        # reference pages, figures, papers and short excerpts are shared; long PDFs here are usually whole books
+        pages = (scan.get(e.get("h")) or {}).get("pages")
+        if pages is None:
+            return "Books-and-Resources (page count not checked yet: run scan)"
+        if pages > REFERENCE_MAX_PAGES:
+            return f"Books-and-Resources, {pages} pages (likely a whole book)"
     return None
 
 
@@ -120,6 +127,7 @@ def scan_one(path, ext):
             r = PdfReader(path)
             text = " ".join((r.pages[i].extract_text() or "") for i in range(min(4, len(r.pages))))
             out["isbn"] = bool(ISBN.search(text))
+            out["pages"] = len(r.pages)
             author = str((r.metadata or {}).get("/Author") or "").strip()
             out["personal"] = ["Author"] if is_person(author) else (["XMP author"] if xmp_author(r) else [])
         elif ext in scrub.IMAGE_EXT:
@@ -170,7 +178,8 @@ def cmd_scan(a, root=REPO):
     todo = {}
     for p, e in state.items():
         h, ext = e.get("h"), rules.ext_of(p)
-        if h and h not in scan and ext in SCAN_EXT and not e.get("link") and os.path.exists(os.path.join(root, p)):
+        stale = h in scan and ext == "pdf" and "pages" not in scan[h] and "/Books-and-Resources/" in p
+        if h and (h not in scan or stale) and ext in SCAN_EXT and not e.get("link") and os.path.exists(os.path.join(root, p)):
             todo.setdefault(h, (os.path.join(root, p), ext))
     print(f"{len(scan):,} scanned, {len(todo):,} to go ({a.jobs} at a time)", flush=True)
     t0, n = time.time(), 0

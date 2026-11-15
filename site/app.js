@@ -54,7 +54,7 @@ const prettyFile = n => stem(n).replace(/^Z_/, '').replace(/_/g, ' · ').replace
 const KIND = { pdf: 'pdf', png: 'img', jpg: 'img', jpeg: 'img', gif: 'img', webp: 'img', svg: 'img', bmp: 'img',
   mp4: 'video', webm: 'video', mov: 'video', m4v: 'video', mkv: 'video', mp3: 'audio', wav: 'audio', m4a: 'audio', ogg: 'audio',
   link: 'link', ipynb: 'nb', md: 'md', ppt: 'office', pptx: 'office', doc: 'office', docx: 'office', xls: 'office', xlsx: 'office' };
-const TEXT = new Set('txt c cpp cc h hpp java py js ts csv tsv json sql sh m r log xml yaml yml html css asm v vhd ino tex s'.split(' '));
+const TEXT = new Set('txt c cpp cc h hpp java py js ts csv tsv json sql sh m r log xml yaml yml html css asm a51 v vhd ino tex s'.split(' '));
 const kind = n => KIND[ext(n)] || (TEXT.has(ext(n)) ? 'text' : 'other');
 
 const fmtSize = b => b < 1e3 ? b + ' B' : b < 1e6 ? (b / 1e3).toFixed(0) + ' KB' : b < 1e9 ? (b / 1e6).toFixed(1) + ' MB' : (b / 1e9).toFixed(2) + ' GB';
@@ -811,7 +811,7 @@ const C = {
   ALLOWED: new Set(['pdf', 'png', 'jpg', 'jpeg', 'webp', 'heic', 'heif', 'gif', 'ppt', 'doc', 'xls', 'rtf', 'mp4', 'mov', 'webm', 'mkv',
     'pptx', 'docx', 'xlsx', 'odt', 'odp', 'ods', 'pages', 'key', 'numbers', 'zip',
     'txt', 'md', 'c', 'cpp', 'h', 'hpp', 'java', 'py', 'ipynb', 'csv', 'asm', 's', 'v', 'sv', 'vhd', 'vhdl', 'circ', 'm', 'sql',
-    'js', 'ts', 'json', 'xml', 'tex', 'r', 'cs', 'go', 'rs', 'kt', 'sh', 'pl', 'lab']),
+    'js', 'ts', 'json', 'xml', 'tex', 'r', 'cs', 'go', 'rs', 'kt', 'sh', 'pl', 'lab', 'a51', 'ms14', 'ms13', 'ms12', 'pdsprj', 'dsn']),
   MAX_FILE: 500 * 1024 * 1024, MAX_FILES: 1000,
   files: [], tsToken: '', tsWidget: null, busy: false, pollTimer: null,
 };

@@ -1,0 +1,84 @@
+{
+ "id": "20261115-124104-ohmnotes-project-links",
+ "created": "2026-11-15T12:41:04+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "credit": "Ali Imam",
+  "note": "links to third-party 8051 projects from OhmNotes"
+ },
+ "ops": [
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Books-and-Resources/Project_In-House-Green-House.link",
+   "url": "https://www.8051projects.net/download-d236-inhouse-green-house-8051-project-report-presentation.html",
+   "t": 1794746464,
+   "meta": {
+    "url": "https://www.8051projects.net/download-d236-inhouse-green-house-8051-project-report-presentation.html",
+    "title": "In-House Green House (8051 project with report and presentation)",
+    "credit": "Ali Imam",
+    "note": "8051 project found in the OhmNotes material; hosted on 8051projects.net"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Books-and-Resources/Project_8051-Inverter-UPS-with-Charging.link",
+   "url": "https://www.8051projects.net/download-d244-8051-based-inverterups-inbuilt-charging-system.html",
+   "t": 1794746464,
+   "meta": {
+    "url": "https://www.8051projects.net/download-d244-8051-based-inverterups-inbuilt-charging-system.html",
+    "title": "8051 based Inverter/UPS with inbuilt charging system",
+    "credit": "Ali Imam",
+    "note": "8051 project found in the OhmNotes material; hosted on 8051projects.net"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Books-and-Resources/Project_Time-Controlled-Solar-Tracker.link",
+   "url": "https://www.8051projects.net/download-d245-time-controlled-solar-tracking-system-assembly.html",
+   "t": 1794746464,
+   "meta": {
+    "url": "https://www.8051projects.net/download-d245-time-controlled-solar-tracking-system-assembly.html",
+    "title": "Time controlled solar tracking system (8051, assembly)",
+    "credit": "Ali Imam",
+    "note": "8051 project found in the OhmNotes material; hosted on 8051projects.net"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Books-and-Resources/Project_LED-Scrolling-Message-Display.link",
+   "url": "https://www.8051projects.net/download-d253-led-scrolling-message-display-using-8051.html",
+   "t": 1794746464,
+   "meta": {
+    "url": "https://www.8051projects.net/download-d253-led-scrolling-message-display-using-8051.html",
+    "title": "LED scrolling message display using 8051 (GEC Dahod)",
+    "credit": "Ali Imam",
+    "note": "8051 project found in the OhmNotes material; hosted on 8051projects.net"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Books-and-Resources/Project_Automatic-Railway-Gate-Control.link",
+   "url": "https://www.8051projects.net/download-d256-automatic-railway-gate-control.html",
+   "t": 1794746464,
+   "meta": {
+    "url": "https://www.8051projects.net/download-d256-automatic-railway-gate-control.html",
+    "title": "Automatic railway gate control (8051)",
+    "credit": "Ali Imam",
+    "note": "8051 project found in the OhmNotes material; hosted on 8051projects.net"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Books-and-Resources/Project_Room-Light-Controller-with-Visitor-Counter.link",
+   "url": "https://www.8051projects.net/download-d119-automatic-room-light-controller-visitor-counter-updated.html",
+   "t": 1794746464,
+   "meta": {
+    "url": "https://www.8051projects.net/download-d119-automatic-room-light-controller-visitor-counter-updated.html",
+    "title": "Automatic room light controller with visitor counter (8051)",
+    "credit": "Ali Imam",
+    "note": "8051 project found in the OhmNotes material; hosted on 8051projects.net"
+   }
+  }
+ ]
+}

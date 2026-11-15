@@ -1,0 +1,504 @@
+{
+ "id": "20261115-124055-ohmnotes-2",
+ "created": "2026-11-15T12:40:55+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "credit": "Ali Imam",
+  "note": "From OhmNotes (ohmnotes.netlify.app) by Ali Imam, AMU ZHCET Electrical Engineering, B.Tech semesters 5, 6 and 7 (subjects as the folder names say). Shared with permission. Folder names are the site's own subject/unit labels."
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/Books-and-Resources/Reference_High-Voltage-Measurement-Techniques.pdf",
+   "s": 8086290,
+   "h": "29f66b44d56233409e29f5b387c448480b343349899d967fc4f29049daff322b",
+   "t": 1794746455,
+   "meta": {
+    "title": "High-voltage measurement techniques (reference pages)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/Books-and-Resources/Reference_Example_Transfer-Function-of-Mechanical-System.jpg",
+   "s": 23557,
+   "h": "3f2fdf335ac31025afa2ed608acada70c1795917e5ad7655ceaa47bb11ea9a73",
+   "t": 1794746455,
+   "meta": {
+    "title": "Worked example: transfer function of a mechanical system",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/Books-and-Resources/Reference_Mechanical-System-Figures.pdf",
+   "s": 288238,
+   "h": "271be8dc0ea79a3de29f4d25dbfaa6ea5e91b541fe0684d32c7d3718d99c4a57",
+   "t": 1794746455,
+   "meta": {
+    "title": "Mechanical system figures used for numericals",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/Books-and-Resources/Reference_Gear-Trains.pdf",
+   "s": 318505,
+   "h": "d0e0f9f69a6b23f78e7c387f6a19d9202d19db1e0209ebfad67a8611bae63492",
+   "t": 1794746455,
+   "meta": {
+    "title": "Gear trains (reference pages)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3322_Electrical-Power-Generation-and-Utilization/Books-and-Resources/Reference_Electric-Traction.pdf",
+   "s": 5602174,
+   "h": "cf264c471c3ec24140816ff065c35ee76292e119fc25c70df443fc5911000e57",
+   "t": 1794746455,
+   "meta": {
+    "title": "Electric traction (reference pages)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3322_Electrical-Power-Generation-and-Utilization/Books-and-Resources/Reference_Thermal-Power-Plants.pdf",
+   "s": 11560161,
+   "h": "48095954f4e561b356ff7b36e7fb197f53d5484fcf13c5a385ee9fd8f981dbf4",
+   "t": 1794746455,
+   "meta": {
+    "title": "Thermal power plants (reference pages)",
+    "kind": "reference",
+    "author": "B.R. Gupta",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4312_Power-Station-Practice/Books-and-Resources/Reference_Excitation-Systems.pdf",
+   "s": 11448209,
+   "h": "55d7163c8d52b0a12be57ad9892e29fea9b5e3ca2f659de6a7b6ce56ee41cc19",
+   "t": 1794746455,
+   "meta": {
+    "title": "Excitation systems (reference pages)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4312_Power-Station-Practice/Books-and-Resources/Reference_Loads-and-Load-Curves.pdf",
+   "s": 14043843,
+   "h": "e088db734c6fb59eebc5423b4d9426033e476bdc7159ceb9f9558ecc9e95b8e4",
+   "t": 1794746455,
+   "meta": {
+    "title": "Loads and load curves (reference pages)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4312_Power-Station-Practice/Books-and-Resources/Reference_Power-Plant-Economics.pdf",
+   "s": 13124169,
+   "h": "87419d2805de47404e86f057f11470c6e7548e7a3c84501a4f74a2a949ec68f1",
+   "t": 1794746455,
+   "meta": {
+    "title": "Power plant economics (reference pages)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4312_Power-Station-Practice/Books-and-Resources/Reference_Tariffs-and-Power-Factor-Improvement.pdf",
+   "s": 13989940,
+   "h": "fe47758826d1121de6f814456f1a1771a6feaca5776005da0ba179e08320dad3",
+   "t": 1794746455,
+   "meta": {
+    "title": "Tariffs and power factor improvement (reference pages)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4312_Power-Station-Practice/Books-and-Resources/Reference_Load-Coordination.pdf",
+   "s": 11188254,
+   "h": "d678dac8dc103fdc5788c792c12455dbc74694d78acbe85583b4dc1e6a5a9017",
+   "t": 1794746455,
+   "meta": {
+    "title": "Load coordination and combined operation (reference pages)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Books-and-Resources/Reference_Protection-Unit-1.pdf",
+   "s": 21312923,
+   "h": "973dba8419157fee49524e3984c6d38205916ad4a161660e0f7dbb6aaac56593",
+   "t": 1794746455,
+   "meta": {
+    "title": "Protection, unit 1 (reference pages)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Books-and-Resources/Reference_Protection-Units-1-2.pdf",
+   "s": 12999881,
+   "h": "fb80ea42d50e88a1224df1d0523447fabd8a3d67b9ca314ac71b25627cc120af",
+   "t": 1794746455,
+   "meta": {
+    "title": "Protection, units 1-2 (reference pages)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Books-and-Resources/Reference_Differential-and-Frame-Leakage-Protection.pdf",
+   "s": 16566531,
+   "h": "8d031f4bbffe6e7c11724b467d1cb1555326182ca92274516786311d31105c01",
+   "t": 1794746455,
+   "meta": {
+    "title": "Differential and frame leakage protection (reference pages)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Books-and-Resources/Reference_Distance-Protection.pdf",
+   "s": 4761915,
+   "h": "f6db2f7bf07b82b4a7007486bf521efe0b1175bfd49da295f78ad29f9f0e7e7c",
+   "t": 1794746455,
+   "meta": {
+    "title": "Distance protection (reference pages)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4522_Process-Instrumentation-and-Control/Books-and-Resources/Reference_Hydraulic-Controllers.pdf",
+   "s": 3344672,
+   "h": "ec3a1013255e159c943644b6b1001279cc958b5da4db44ddd1e08f8f0a17f31d",
+   "t": 1794746455,
+   "meta": {
+    "title": "Hydraulic controllers (reference pages)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4522_Process-Instrumentation-and-Control/Books-and-Resources/Reference_Modern-Control-Engineering-Pages.pdf",
+   "s": 2907676,
+   "h": "9d04382c1046a8ed8354995e592cf5f2108868926bd44a2845eb2969ffd3ba47",
+   "t": 1794746455,
+   "meta": {
+    "title": "Modern Control Engineering (reference pages)",
+    "kind": "reference",
+    "author": "Katsuhiko Ogata",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4522_Process-Instrumentation-and-Control/Books-and-Resources/Reference_Control-Valves.pdf",
+   "s": 3654435,
+   "h": "3ff28e5a0bf7fd0121bce85f81cfde94862e713172265755da6847e747268881",
+   "t": 1794746455,
+   "meta": {
+    "title": "Control valves (reference pages)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem7/EEC4412_Control-Systems/Books-and-Resources/Reference_State-Transition-Matrix-Examples.pdf",
+   "s": 2889232,
+   "h": "1eccc51c3f996da58a412d289bf20b71799cc299fd0d8703c086672796c12f4d",
+   "t": 1794746455,
+   "meta": {
+    "title": "State transition matrix: solved examples (reference pages)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Books-and-Resources/Reference_The-8051-Microcontroller-Introduction.pdf",
+   "s": 397316,
+   "h": "cc6fd69eccb98aabc7682ca6299ff775582fc7f40654c095b19e5e9766454c72",
+   "t": 1794746455,
+   "meta": {
+    "title": "The 8051 microcontroller: introduction (reference pages)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Books-and-Resources/Datasheet_Atmel-8051-Instruction-Set.pdf",
+   "s": 213193,
+   "h": "19e7a25cb4b621070c4e5c0a17b28c6a21d48d3b463e7e9b6b7cd2a8009e28ec",
+   "t": 1794746455,
+   "meta": {
+    "title": "Atmel 8051 instruction set",
+    "kind": "reference",
+    "author": "Atmel",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4712_Numerical-Computational-Methods-in-Electrical-Engineering/Books-and-Resources/Reference_Newtons-Method-Exercises.pdf",
+   "s": 4625170,
+   "h": "eacbc630e91e4e953804a997519bc8821fff535144b23d167e6b2b5d2457c03e",
+   "t": 1794746455,
+   "meta": {
+    "title": "Newton's method exercises (reference pages)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4712_Numerical-Computational-Methods-in-Electrical-Engineering/Books-and-Resources/Reference_Virtual-Instrumentation-Question-Bank.pdf",
+   "s": 493248,
+   "h": "18b8a0a0f9f41858f331e4eccddc2bcc86fc5a5c548ba43f507be88d1ce55fb0",
+   "t": 1794746455,
+   "meta": {
+    "title": "Virtual instrumentation question bank (another college)",
+    "kind": "reference",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4712_Numerical-Computational-Methods-in-Electrical-Engineering/Books-and-Resources/Paper_PSO-Codes-in-MATLAB_2016.pdf",
+   "s": 271496,
+   "h": "50cfb4bcc38e776f3139acb83c6614a331e340e9565810538cf7c780b2675d97",
+   "t": 1794746455,
+   "meta": {
+    "title": "Codes in MATLAB for particle swarm optimization",
+    "kind": "reference",
+    "author": "Mahamad Nabab Alam",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Books-and-Resources/Reference_Solar-PV-Technology-and-Systems.pdf",
+   "s": 722702,
+   "h": "199a49905e5ac9e84fb8468b77f816de2a160f08b0b59407d95ef3b318b5d7ea",
+   "t": 1794746455,
+   "meta": {
+    "title": "Solar PV technology and systems (reference pages)",
+    "kind": "reference",
+    "author": "Chetan Singh Solanki",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4362_Smart-Grid/Books-and-Resources/Report_Energy-Transition-Research-and-Education.pdf",
+   "s": 9097909,
+   "h": "1b77b939218295eaab71dc5282c7310e3151c8531a855d3ec50fd321ec5b10e8",
+   "t": 1794746455,
+   "meta": {
+    "title": "Energy transition: research and education",
+    "kind": "reference",
+    "author": "European University Association",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3112_Electrical-Drives/Complete-Notes/Class-Notes_Heating-and-Thermal-Loading-of-Motors.pdf",
+   "s": 224822,
+   "h": "2d997722c3fe92c1dcbcaf303e9539edda267e996953858a744c81f06f190d57",
+   "t": 1794746455,
+   "meta": {
+    "title": "Heating and thermal loading of motors",
+    "kind": "notes",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Records/Simulation_Traffic-Light-Controller_Proteus.pdsprj",
+   "s": 17304,
+   "h": "2cee35d7a7b6175d6529026362362e8285cd776ba4c5759543bcc539fc30949e",
+   "t": 1794746455,
+   "meta": {
+    "title": "Traffic light controller, Proteus simulation",
+    "kind": "record",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Records/Simulation_Traffic-Light-Controller_Multisim.ms14",
+   "s": 92906,
+   "h": "1e8e6a20824861a48a0c00412453e475f04241db602cae2b7ee8ddc5fadf418b",
+   "t": 1794746455,
+   "meta": {
+    "title": "Traffic light controller, Multisim simulation",
+    "kind": "record",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Records/Simulation_Multisim-Design-1_2021-22.ms14",
+   "s": 358690,
+   "h": "45a4e92f2a568370c26343a892e4956a77c9a2ac80b2a5283be1609be09d8686",
+   "t": 1794746455,
+   "meta": {
+    "title": "Multisim design",
+    "kind": "record",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Records/Project-Photo_Circuit-Schematic_2021-22.jpg",
+   "s": 83289,
+   "h": "9047e9a39bddb49c01384c5ab3f6f41496025d9301a07d52c58bf32c1c6799db",
+   "t": 1794746455,
+   "meta": {
+    "title": "Project circuit schematic (photo)",
+    "kind": "record",
+    "source": "OhmNotes",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Records/Program_8051-Traffic-Light-Controller.asm",
+   "s": 2629,
+   "h": "095ebd3e2fdf0f243c68252df4e0f4f70f65a5f354fb53ad713c08141d6e0f37",
+   "t": 1794746455,
+   "meta": {
+    "source": "OhmNotes",
+    "title": "8051 traffic light controller · program",
+    "summary": "8051 assembly program driving a four-way traffic light with multiplexed 7-segment displays.",
+    "year": "2025-26",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Records/Project_Traffic-Light-Controller-using-8051.pdf",
+   "s": 604719,
+   "h": "211f6209b5d20f3d2ac595ee457fb2baa8f0bf8f3ad755bc92f549190c56f1d5",
+   "t": 1794746455,
+   "meta": {
+    "source": "OhmNotes",
+    "title": "Project · Traffic Light Controller using 8051 microcontroller",
+    "summary": "Project report slides on an automatic four-way traffic light controller with seven-segment displays, simulated in Proteus 8.",
+    "kind": "slides",
+    "year": "2025-26",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Records/Program_8051-Frequency-Counter-Using-Timer-and-Counter.asm",
+   "s": 711,
+   "h": "fa68b75166cbb53aa40a95f046fb15056957c42420f3810cea3fde878ccf89f7",
+   "t": 1794746455,
+   "meta": {
+    "source": "OhmNotes",
+    "title": "8051 timer/counter lab program · frequency counting",
+    "summary": "8051 assembly showing Timer 0 as a counter and Timer 1 as a timer, displaying the counted value on ports P1 and P2.",
+    "year": "2025-26",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Records/Program_8051-Port-Pin-Toggle-Timer-Delay.asm",
+   "s": 245,
+   "h": "8610e831c657bf0e9f6895b527729958234ac76199491f9a80826d8763464373",
+   "t": 1794746455,
+   "meta": {
+    "source": "OhmNotes",
+    "title": "8051 program · toggling P3.2 and P3.3 with Timer 0 delay",
+    "summary": "Short 8051 assembly program that clears and sets port pins P3.2/P3.3 in a loop, using Timer 0 in mode 1 for the 50 Hz delay.",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Records/Program_8051-Traffic-Light-Control.asm",
+   "s": 2782,
+   "h": "199a3c814fe9d377d62bb3567380c1da2a20c1a775b53d0084970285a439e8c7",
+   "t": 1794746455,
+   "meta": {
+    "source": "OhmNotes",
+    "title": "8051 project · traffic light control",
+    "summary": "8051 assembly program for a traffic light controller, using a common-anode 7-segment lookup table and port pins P2/P3 for display and signal switching.",
+    "credit": "Ali Imam"
+   }
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Records/Program_Traffic-Light-Control-PIC.txt",
+   "s": 609,
+   "h": "7fc80a65d6175baa8f217dd1aebe0c78bd713f3acb0e65f836500a510985cb82",
+   "t": 1794746455,
+   "meta": {
+    "source": "OhmNotes",
+    "title": "Traffic light control · PIC assembly listing",
+    "summary": "PIC assembly listing of a traffic light program (STATUS/PORTB setup with long and short delay loops) sequenced on PORTB.",
+    "credit": "Ali Imam"
+   }
+  }
+ ]
+}

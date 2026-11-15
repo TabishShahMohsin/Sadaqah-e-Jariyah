@@ -1,0 +1,21 @@
+{
+ "id": "20261115-124200-ohmnotes-dedup",
+ "created": "2026-11-15T12:42:00+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "duplicates of the same OhmNotes pages placed twice"
+ },
+ "ops": [
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3322_Electrical-Power-Generation-and-Utilization/Books-and-Resources/Notes_Types-of-Batteries.pdf",
+   "t": 1794746520
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3322_Electrical-Power-Generation-and-Utilization/Books-and-Resources/Notes_Alkaline-Battery-Cutaway.pdf",
+   "t": 1794746520
+  }
+ ]
+}

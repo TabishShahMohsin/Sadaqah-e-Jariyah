@@ -11,15 +11,17 @@ MAX_FILES = 1000
 
 # What contributors may upload (CONVENTIONS.md §5) — kept in step with worker/src/index.js
 CODE_EXT = {"c", "cpp", "h", "hpp", "java", "py", "ipynb", "asm", "s", "v", "sv", "vhd", "vhdl", "circ", "m", "sql",
-            "js", "ts", "json", "xml", "tex", "r", "cs", "go", "rs", "kt", "sh", "pl", "lab"}
+            "js", "ts", "json", "xml", "tex", "r", "cs", "go", "rs", "kt", "sh", "pl", "lab",
+            "a51"}
+LAB_EXT = {"ms14", "ms13", "ms12", "pdsprj", "dsn"}  # circuit simulation files (Multisim, Proteus): download only
 TEXT_EXT = {"txt", "md", "csv"} | CODE_EXT
 OFFICE_EXT = {"pptx", "ppt", "docx", "doc", "odt", "odp", "rtf", "pages", "key"}
 SHEET_EXT = {"xlsx", "xls", "ods", "numbers"}
 PHOTO_EXT = {"jpg", "jpeg", "png", "webp", "heic", "heif", "gif"}
 VIDEO_EXT = {"mp4", "mov", "webm", "mkv"}
-ALLOWED_EXT = {"pdf", "zip"} | OFFICE_EXT | SHEET_EXT | PHOTO_EXT | VIDEO_EXT | TEXT_EXT
+ALLOWED_EXT = {"pdf", "zip"} | OFFICE_EXT | SHEET_EXT | PHOTO_EXT | VIDEO_EXT | TEXT_EXT | LAB_EXT
 # What the archive publishes after conversion. .txt only as program output in lab Records.
-ARCHIVE_EXT = {"pdf", "jpg", "jpeg", "png", "csv", "mp4", "txt"} | CODE_EXT
+ARCHIVE_EXT = {"pdf", "jpg", "jpeg", "png", "csv", "mp4", "txt"} | CODE_EXT | LAB_EXT
 UMBRELLAS = {"BTech-and-BE"}  # degree umbrellas above the branch folders
 
 SECTIONS = ["Syllabus", "Complete-Notes", "Unit-1", "Unit-2", "Unit-3", "Unit-4", "Unit-5",
@@ -31,7 +33,7 @@ CODE = r"[A-Z]{2,4}\d{3,4}[A-Z]?"
 COURSE_RE = re.compile(rf"^(?:{CODE}(?:-{CODE}){{0,2}}|(?:DE|OE)-\d{{1,2}})_[A-Z0-9][A-Za-z0-9]*(?:-[A-Za-z0-9&]+){{0,12}}$")
 BRANCH_RE = re.compile(r"^[A-Z][A-Za-z]+(?:-[A-Z][A-Za-z]+){0,4}$")
 TERM_RE = re.compile(r"^(?:Sem[1-8]|Phys-Sem|Chem-Sem|Electives|_Old-Syllabus-Subjects)$")
-FILENAME_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._()\-]{0,150}\.[a-z0-9]{1,5}$")
+FILENAME_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._()\-]{0,150}\.[a-z0-9]{1,6}$")
 # Names already in the archive may contain spaces etc.; only *new* names must match FILENAME_RE.
 
 
