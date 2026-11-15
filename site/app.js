@@ -485,6 +485,14 @@ function openPreview(f) {
   $('#drBy').textContent = by ? by[0].toUpperCase() + by.slice(1) : '';
   $('#drBy').hidden = !by;
   $('#drBy').title = $('#drBy').textContent;
+  // converted documents keep their original (.docx, .pptx …) in the dataset's history, at the release it was published in
+  const orig = f.meta && f.meta.orig && S.base && /\/resolve\/main\/$/.test(S.base) ? f.meta.orig : '';
+  $('#drOrig').hidden = !orig;
+  if (orig) {
+    const at = orig.indexOf('/');
+    $('#drOrig').href = S.base.replace(/\/resolve\/main\/$/, '/resolve/' + orig.slice(0, at) + '/') + orig.slice(at + 1).split('/').map(encodeURIComponent).join('/') + '?download=true';
+    $('#drOrig').textContent = 'Original ' + ext(orig).toUpperCase() + ' (before conversion to PDF)';
+  }
   $('#drPos').textContent = `${i + 1} / ${sib.length}`;
   $('#prevBtn').disabled = i <= 0;
   $('#nextBtn').disabled = i >= sib.length - 1;

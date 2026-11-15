@@ -296,6 +296,53 @@ def repacked(path, out_dir):
         return None
 
 
+# Word documents with tracked changes print with change bars and struck-through deletions in LibreOffice.
+# The published PDF shows the document as its author last left it: every change accepted.
+TRACKED_RE = re.compile(r"<w:(ins|del|moveFrom|moveTo)\b")
+
+
+# Word keeps a paragraph with a negative indent inside its table cell; LibreOffice lets it run out of the cell
+# and over the neighbouring column. Inside cells the indent is clamped at the cell edge, as Word draws it.
+NEG_IND_RE = re.compile(r'<w:tc>.*?<w:ind [^>]*w:(left|start)="-', re.S)
+TC_RE = re.compile(r"<w:tc>.*?</w:tc>", re.S)
+IND_RE = re.compile(r"<w:ind ([^>]*)/>")
+
+
+def _clamp_indents(cell):
+    def fix(m):
+        attrs = dict(re.findall(r'(w:\w+)="([^"]*)"', m.group(1)))
+        for k in ("w:left", "w:start"):
+            if k in attrs and attrs[k].lstrip("-").isdigit() and int(attrs[k]) < 0:
+                attrs[k] = "0"
+                attrs.pop("w:hanging", None)
+        return "<w:ind " + " ".join(f'{k}="{v}"' for k, v in attrs.items()) + "/>"
+    return IND_RE.sub(fix, cell)
+
+
+def accepted_changes(path, out_dir):
+    """A copy of a .docx with tracked changes accepted and in-cell indents clamped, or the original when neither applies."""
+    try:
+        with zipfile.ZipFile(path) as zin:
+            names = zin.namelist()
+            parts = {n: zin.read(n).decode("utf-8") for n in names
+                     if n.startswith("word/") and n.endswith(".xml") and not n.startswith("word/media/")}
+            if not any(TRACKED_RE.search(x) or NEG_IND_RE.search(x) for x in parts.values()):
+                return path
+            fixed = {}
+            for n, x in parts.items():
+                x = TC_RE.sub(lambda m: _clamp_indents(m.group(0)), x)
+                x = re.sub(r"<w:(del|moveFrom)\b[^>]*/>", "", x)
+                x = re.sub(r"<w:(del|moveFrom)\b[^>]*>.*?</w:\1>", "", x, flags=re.S)
+                x = re.sub(r"</?w:(ins|moveTo)\b[^>]*>", "", x)
+                x = re.sub(r"<w:(rPrChange|pPrChange|sectPrChange|tblPrChange|trPrChange|tcPrChange)\b[^>]*>.*?</w:\1>", "", x, flags=re.S)
+                x = re.sub(r"<w:(moveFromRangeStart|moveFromRangeEnd|moveToRangeStart|moveToRangeEnd)\b[^>]*/>", "", x)
+                fixed[n] = x
+            out = os.path.join(out_dir, "_accepted", os.path.basename(path))
+            return write_package(out, ((n, fixed[n].encode("utf-8") if n in fixed else zin.read(n)) for n in names))
+    except (zipfile.BadZipFile, UnicodeDecodeError, KeyError, OSError):
+        return path
+
+
 def to_pdf(it, workdir):
     out_dir = os.path.join(workdir, f"conv-{it['id']}")
     os.makedirs(out_dir, exist_ok=True)
@@ -307,6 +354,8 @@ def to_pdf(it, workdir):
             soffice(it["path"], "pdf", out_dir)
     elif it["ext"] in SLIDE_EXT:
         soffice(fixed_slides(it["path"], out_dir), "pdf", out_dir)
+    elif it["ext"] == "docx":
+        soffice(accepted_changes(it["path"], out_dir), "pdf", out_dir)
     else:
         soffice(it["path"], "pdf", out_dir)
     if not (os.path.exists(out) and os.path.getsize(out)) and zipfile.is_zipfile(it["path"]):

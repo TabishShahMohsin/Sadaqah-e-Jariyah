@@ -154,6 +154,9 @@ the source is credited. Obtaining permission is the contributor's responsibility
 | Program output inside lab `Records` | `.txt` |
 | Links (Drive, YouTube, websites) | a **link entry** in the catalog, shown on the site like a file (no `.md` / `.url` files) |
 
+When a document already in the archive is converted to PDF, the original stays in the Hugging Face dataset's history:
+its catalog entry gets `orig` = `<release-tag>/<path>`, and the site shows an "Original DOCX" link next to the PDF.
+
 No `.md`, `.txt` (outside lab records), `.html`, executables (`exe out class`) or archives in the published archive;
 archives are unpacked. Contributors may upload any of the left-hand formats; conversion is the pipeline's job.
 Up to 500 MB per file. There is no limit on how many files or links one contribution may carry.

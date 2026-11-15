@@ -194,7 +194,7 @@ def write_change(ops, source, tag):
 
 
 # ── index.json for the website ─────────────────────────────
-META_KEYS = ("author", "professor", "year", "credit", "source", "note", "url")
+META_KEYS = ("author", "professor", "year", "credit", "source", "note", "url", "orig")
 def build_tree(state):
     root = {"n": "", "d": [], "f": []}
     dirs = {"": root}

@@ -24,7 +24,7 @@ SKIP_FILES = {".DS_Store", "Thumbs.db", "desktop.ini", "Icon\r"}
 
 _META = None
 _LINKS = None
-META_KEYS = ("author", "professor", "year", "credit", "source", "note", "url")
+META_KEYS = ("author", "professor", "year", "credit", "source", "note", "url", "orig")
 
 
 def catalog_meta(repo=REPO):

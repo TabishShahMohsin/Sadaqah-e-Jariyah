@@ -1,0 +1,1245 @@
+{
+ "id": "20261115-130915-office-to-pdf",
+ "created": "2026-11-15T13:09:15+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "Office documents converted to PDF (LibreOffice, tracked changes accepted, in-cell indents clamped); originals stay in the Hugging Face dataset at v2026-11-15.2"
+ },
+ "ops": [
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Notes_Lecture-6-Sheet-2-21.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Notes_Lecture-6-Sheet-2-21.pdf",
+   "s": 86468,
+   "h": "85164d60f2b67e373ee1f94e9be2d75728ae58741ce58164e514b38605ffeef9",
+   "t": 1794748151,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/Complete-Notes/Lecture-Notes_Lecture-6-Sheet-2-21.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/PYQs-and-Assignments/Z_Practice-Problems_Problem-1.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/PYQs-and-Assignments/Z_Practice-Problems_Problem-1.pdf",
+   "s": 32806,
+   "h": "c5db60bc7e124c50c8caeda6b39bebf29898703adf2c9a8007dace9eda7fc00f",
+   "t": 1794748151,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/PYQs-and-Assignments/Z_Practice-Problems_Problem-1.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/PYQs-and-Assignments/Z_Tutorial-Sheet-No-1-21-22.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/PYQs-and-Assignments/Z_Tutorial-Sheet-No-1-21-22.pdf",
+   "s": 109008,
+   "h": "69f49052147d89c62504f42391605dd579f39afb696a47bc56556253c05d2420",
+   "t": 1794748151,
+   "meta": {
+    "year": "2021-22",
+    "credit": "Sabahat Ahmad Khan, AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/PYQs-and-Assignments/Z_Tutorial-Sheet-No-1-21-22.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/PYQs-and-Assignments/Z_Tutorial-Sheet-No-2-21-22.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/PYQs-and-Assignments/Z_Tutorial-Sheet-No-2-21-22.pdf",
+   "s": 137554,
+   "h": "319a0c2d8299f1b530a638f9d1c1083e5ab94dd56ced69d61b7a2200cc45e8f4",
+   "t": 1794748151,
+   "meta": {
+    "year": "2021-22",
+    "credit": "Sabahat Ahmad Khan, AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/Sem4/CEC2132_Fluid-Mechanics/PYQs-and-Assignments/Z_Tutorial-Sheet-No-2-21-22.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2192_Hydrology/PYQs-and-Assignments/Z_Tutorial_Unit-1-2-Tutorial.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2192_Hydrology/PYQs-and-Assignments/Z_Tutorial_Unit-1-2-Tutorial.pdf",
+   "s": 91081,
+   "h": "c39f6d77b680925b110fab4a101c98ae8505364d56144d6a6c6248bea5a81954",
+   "t": 1794748151,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/Sem4/CEC2192_Hydrology/PYQs-and-Assignments/Z_Tutorial_Unit-1-2-Tutorial.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2192_Hydrology/Unit-4/Lecture-Notes_Unit-4.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2192_Hydrology/Unit-4/Lecture-Notes_Unit-4.pdf",
+   "s": 23997,
+   "h": "edab6a096695bc2a8c68306a5f3a8d877f3bb07a814f47119b1d6d4cda2856d6",
+   "t": 1794748151,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/Sem4/CEC2192_Hydrology/Unit-4/Lecture-Notes_Unit-4.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2962_Fluid-Mechanics-Lab/Records/Record_Flow-Through-an-Orifice.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem4/CEC2962_Fluid-Mechanics-Lab/Records/Record_Flow-Through-an-Orifice.pdf",
+   "s": 52496,
+   "h": "7dc7635623f8a677f72bdd8e407897554d92b92ed85a73c8fce4664b361dcaa5",
+   "t": 1794748151,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan, AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/Sem4/CEC2962_Fluid-Mechanics-Lab/Records/Record_Flow-Through-an-Orifice.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/Books-and-Resources/Reference_Foundation-Engineering-Notes.doc",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/Books-and-Resources/Reference_Foundation-Engineering-Notes.pdf",
+   "s": 487148,
+   "h": "0e34d08f0f3bc1c8cca646276638ef84f714e88130fee5acf221d6ce5cbd258b",
+   "t": 1794748151,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/Sem5/CEC3242_Foundation-Engineering/Books-and-Resources/Reference_Foundation-Engineering-Notes.doc"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/PYQs-and-Assignments/Z_Tutorial-1.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/PYQs-and-Assignments/Z_Tutorial-1.pdf",
+   "s": 195484,
+   "h": "7279638cffdb47edbecfc83399f333ad87480560b48304e9340d759ad5f378d8",
+   "t": 1794748151,
+   "meta": {
+    "professor": "Tabassum",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/PYQs-and-Assignments/Z_Tutorial-1.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/PYQs-and-Assignments/Z_Tutorial_Tut-IV-Plate-Girder.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/PYQs-and-Assignments/Z_Tutorial_Tut-IV-Plate-Girder.pdf",
+   "s": 39973,
+   "h": "37a494bd60483da030b4c2a72bf6fee425ba84f5c07b7aded8edc129989223a1",
+   "t": 1794748151,
+   "meta": {
+    "professor": "Amjad",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/Sem6/CEC3182_Design-of-Steel-Structures/PYQs-and-Assignments/Z_Tutorial_Tut-IV-Plate-Girder.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem7/CEC4222_Elements-of-Earthquake-and-Wind-Engineering/Complete-Notes/Class-Notes_Quick-Revision.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem7/CEC4222_Elements-of-Earthquake-and-Wind-Engineering/Complete-Notes/Class-Notes_Quick-Revision.pdf",
+   "s": 44354,
+   "h": "ca886720a7163d9e0f35d064acb5c57eed713ed6e7e610ee6d21e089ef75c996",
+   "t": 1794748151,
+   "meta": {
+    "author": "Sabahat Ahmad Khan",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/Sem7/CEC4222_Elements-of-Earthquake-and-Wind-Engineering/Complete-Notes/Class-Notes_Quick-Revision.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/Sem7/CEC4222_Elements-of-Earthquake-and-Wind-Engineering/Complete-Notes/Lecture-Notes_Unit-2-Dynamic-Analysis.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/Sem7/CEC4222_Elements-of-Earthquake-and-Wind-Engineering/Complete-Notes/Lecture-Notes_Unit-2-Dynamic-Analysis.pdf",
+   "s": 169755,
+   "h": "735c4270ad18d77bd6ff4857c7e2fe3f4bdd53b5479b67517caa38c388840560",
+   "t": 1794748151,
+   "meta": {
+    "professor": "Moonis Zaheer",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/Sem7/CEC4222_Elements-of-Earthquake-and-Wind-Engineering/Complete-Notes/Lecture-Notes_Unit-2-Dynamic-Analysis.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Notes_11-Tenders.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Notes_11-Tenders.pdf",
+   "s": 72693,
+   "h": "23f99e55d38338d7e1500ed2b8af0069e45d6b1be0adb6129530bc8fbe99e596",
+   "t": 1794748151,
+   "meta": {
+    "professor": "Fareed Mahdi",
+    "credit": "Sabahat Ahmad Khan, AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2150-ECEC2150_Quantity-Survey/Complete-Notes/Lecture-Notes_11-Tenders.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/Complete-Notes/Lecture-Notes_Damp-Proofing.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/Complete-Notes/Lecture-Notes_Damp-Proofing.pdf",
+   "s": 219021,
+   "h": "a8325434c81f203c31d91014d65600c015d9c65b922c6c114892887b284f0790",
+   "t": 1794748151,
+   "meta": {
+    "professor": "Jafri",
+    "credit": "Sabahat Ahmad Khan, AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2160-ECEC2160_Civil-Engineering-Materials-and-Construction-Practice/Complete-Notes/Lecture-Notes_Damp-Proofing.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2170-ECEC2170_Environmental-Engineering-I/PYQs-and-Assignments/Z_Assignment_Assingment-B-Tech-2022.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2170-ECEC2170_Environmental-Engineering-I/PYQs-and-Assignments/Z_Assignment_Assingment-B-Tech-2022.pdf",
+   "s": 41057,
+   "h": "d89f4cd1840cf5ebe987cec06fb23d54312c034421f730112dbd40ad368a4437",
+   "t": 1794748151,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC2170-ECEC2170_Environmental-Engineering-I/PYQs-and-Assignments/Z_Assignment_Assingment-B-Tech-2022.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3190-ECEC3190_Engineering-Hydraulics-II/PYQs-and-Assignments/Z_Tutorial-Sheet-Unit-1.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3190-ECEC3190_Engineering-Hydraulics-II/PYQs-and-Assignments/Z_Tutorial-Sheet-Unit-1.pdf",
+   "s": 68324,
+   "h": "92b72072ccf143ea8e2ada128f4055caea62e7c713401e313c03e72d8d1384bc",
+   "t": 1794748151,
+   "meta": {
+    "professor": "Talib",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3190-ECEC3190_Engineering-Hydraulics-II/PYQs-and-Assignments/Z_Tutorial-Sheet-Unit-1.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3190-ECEC3190_Engineering-Hydraulics-II/PYQs-and-Assignments/Z_Tutorial_T-1-23.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3190-ECEC3190_Engineering-Hydraulics-II/PYQs-and-Assignments/Z_Tutorial_T-1-23.pdf",
+   "s": 68029,
+   "h": "52b12166910101db073c89bbbef55b13e7652ab6292bbba628e1212b080ffb36",
+   "t": 1794748151,
+   "meta": {
+    "professor": "Talib",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEC3190-ECEC3190_Engineering-Hydraulics-II/PYQs-and-Assignments/Z_Tutorial_T-1-23.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/Complete-Notes/Lecture-Notes_2-Joint-Analysis-and-Geotechnical-Description-of-Rock-Masse.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/Complete-Notes/Lecture-Notes_2-Joint-Analysis-and-Geotechnical-Description-of-Rock-Masse.pdf",
+   "s": 1003043,
+   "h": "c54e6253f3c0a38b068ccb8244373e38de68939bb186c362e779c535951d2166",
+   "t": 1794748151,
+   "meta": {
+    "professor": "Prof. Mohd Masroor Alam",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/Complete-Notes/Lecture-Notes_2-Joint-Analysis-and-Geotechnical-Description-of-Rock-Masse.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/Complete-Notes/Lecture-Notes_Insitu-Tests.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/Complete-Notes/Lecture-Notes_Insitu-Tests.pdf",
+   "s": 1391387,
+   "h": "cf1cfc7ed6db199be8b52e5186f574bf3baf4f0674128fd9a50f5acf373088e9",
+   "t": 1794748151,
+   "meta": {
+    "professor": "Dr. Md Rehan Sadique",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/Complete-Notes/Lecture-Notes_Insitu-Tests.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/Complete-Notes/Lecture-Notes_Introduction-to-Rock-Mechanics.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/Complete-Notes/Lecture-Notes_Introduction-to-Rock-Mechanics.pdf",
+   "s": 1105860,
+   "h": "2958c259c24b62c68256f025b3de85f3e3bedff58ae176bade736118e684d6b2",
+   "t": 1794748151,
+   "meta": {
+    "professor": "Dr. Md Rehan Sadique",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/Complete-Notes/Lecture-Notes_Introduction-to-Rock-Mechanics.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/Syllabus/CEE4570_Syllabus_Course-Outline.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/Syllabus/CEE4570_Syllabus_Course-Outline.pdf",
+   "s": 148170,
+   "h": "f4e30bb587fdde1de9731770f564d453bc5d222b42d63c73c493b937ae821cfe",
+   "t": 1794748151,
+   "meta": {
+    "professor": "Prof. Mohd Masroor Alam",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/Syllabus/CEE4570_Syllabus_Course-Outline.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/Syllabus/CEE4570_Syllabus_Lecture-Schedule.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/Syllabus/CEE4570_Syllabus_Lecture-Schedule.pdf",
+   "s": 72247,
+   "h": "91c8033d38f97ee5400aaefed8c9feebf82f47b584dd0bd64ff48855c1d006d1",
+   "t": 1794748151,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEE4570-ECEE4570_Rock-Engineering/Syllabus/CEE4570_Syllabus_Lecture-Schedule.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH4110-ECEH4110_Construction-Management-II/Books-and-Resources/Template_Project-Management-Plan_CDC.doc",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH4110-ECEH4110_Construction-Management-II/Books-and-Resources/Template_Project-Management-Plan_CDC.pdf",
+   "s": 485065,
+   "h": "6b0217962a6c3babe4d1302a5316dd627e413b7072a3ab60e9aede076dea760d",
+   "t": 1794748151,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH4110-ECEH4110_Construction-Management-II/Books-and-Resources/Template_Project-Management-Plan_CDC.doc"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH4110-ECEH4110_Construction-Management-II/Complete-Notes/Class-Notes_4-Need-of-QA-QC-Handouts.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH4110-ECEH4110_Construction-Management-II/Complete-Notes/Class-Notes_4-Need-of-QA-QC-Handouts.pdf",
+   "s": 80995,
+   "h": "5094b0445e1f963f05dabd63d719a9fceffe7304cc52c80b2e154f3de4cacc5d",
+   "t": 1794748151,
+   "meta": {
+    "professor": "Ibrahim",
+    "author": "Sabahat Ahmad Khan",
+    "year": "2023-24",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH4110-ECEH4110_Construction-Management-II/Complete-Notes/Class-Notes_4-Need-of-QA-QC-Handouts.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH4110-ECEH4110_Construction-Management-II/Complete-Notes/Class-Notes_5-Quality-System-and-System-Requirements-Plan-Action.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH4110-ECEH4110_Construction-Management-II/Complete-Notes/Class-Notes_5-Quality-System-and-System-Requirements-Plan-Action.pdf",
+   "s": 145915,
+   "h": "f67378d91541c13b2699c710c1f25c78b2c750723c1fec21522f6e9ed67a02c2",
+   "t": 1794748151,
+   "meta": {
+    "professor": "Ibrahim",
+    "author": "Sabahat Ahmad Khan",
+    "year": "2023-24",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEH4110-ECEH4110_Construction-Management-II/Complete-Notes/Class-Notes_5-Quality-System-and-System-Requirements-Plan-Action.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/Complete-Notes/Class-Notes_B-Tech-Class-Notes-As-Per-Lecture-Schedule-Un_2024-25.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/Complete-Notes/Class-Notes_B-Tech-Class-Notes-As-Per-Lecture-Schedule-Un_2024-25.pdf",
+   "s": 691407,
+   "h": "ef640b85345d53d3ab5f1d264d620bf43223165b4ef13c2addd3c90a3bbd18ee",
+   "t": 1794748151,
+   "meta": {
+    "year": "2024-25",
+    "credit": "gk7093",
+    "orig": "v2026-11-15.2/BTech-and-BE/Civil-Engineering/_Old-Syllabus-Subjects/CEO4720-ECEO4720_Advanced-Environmental-Engineering/Complete-Notes/Class-Notes_B-Tech-Class-Notes-As-Per-Lecture-Schedule-Un_2024-25.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Old-Syllabus-Java/GUI_Java.pptx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Old-Syllabus-Java/GUI_Java.pdf",
+   "s": 794999,
+   "h": "463d949cf0dfe205da0617f84cdbc04d08c479062071d124c10e2ab8821a267c",
+   "t": 1794748151,
+   "meta": {
+    "credit": "AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Old-Syllabus-Java/GUI_Java.pptx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Old-Syllabus-Java/Lecture-43_Introduction-to-Java.pptx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Old-Syllabus-Java/Lecture-43_Introduction-to-Java.pdf",
+   "s": 692669,
+   "h": "0d3c624b9b0338edeb6e022de5a5edcddea0c360f331634e1360ea9280b61bac",
+   "t": 1794748151,
+   "meta": {
+    "credit": "AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Old-Syllabus-Java/Lecture-43_Introduction-to-Java.pptx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Old-Syllabus-Java/Lecture-44_Executing-Java-Programs.pptx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Old-Syllabus-Java/Lecture-44_Executing-Java-Programs.pdf",
+   "s": 575283,
+   "h": "a411fe45e4b99a686a3229e89c305e0750a653be87a6d17df180a24d71cb91c8",
+   "t": 1794748151,
+   "meta": {
+    "credit": "AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Old-Syllabus-Java/Lecture-44_Executing-Java-Programs.pptx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Old-Syllabus-Java/Lecture-45-46-47_Inheritance-Polymorphism-Exception-Handling.pptx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Old-Syllabus-Java/Lecture-45-46-47_Inheritance-Polymorphism-Exception-Handling.pdf",
+   "s": 575279,
+   "h": "754473cd3e82cb1fcf0cbd50a59f98263207f614132979bebb857066e11eb373",
+   "t": 1794748151,
+   "meta": {
+    "credit": "AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Old-Syllabus-Java/Lecture-45-46-47_Inheritance-Polymorphism-Exception-Handling.pptx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2122-AIC2122_Database-Management-System/Complete-Notes/httpsgithub.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2122-AIC2122_Database-Management-System/Complete-Notes/Practice_100-Days-of-SQL.link",
+   "url": "https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days",
+   "t": 1794748151,
+   "meta": {
+    "credit": "Sayyed Arib Hussain",
+    "url": "https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days",
+    "title": "100 Days of SQL, beginner to advance (practice log on GitHub)"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/Books-and-Resources/Presentation_2022-23_Artificial Intelligence_ a bane or boon_.pptx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/Books-and-Resources/Presentation_2022-23_Artificial Intelligence_ a bane or boon_.pdf",
+   "s": 655525,
+   "h": "3b6a6916b00599eb3713b1ad86810a5359ff4395d3728355865b632d9bdb4e7c",
+   "t": 1794748151,
+   "meta": {
+    "credit": "AMUPedia",
+    "orig": "v2026-11-15.2/BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/Books-and-Resources/Presentation_2022-23_Artificial Intelligence_ a bane or boon.pptx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/Books-and-Resources/Presentation_2022-23_UNEMPLOYMENT IN INDIA.pptx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/Books-and-Resources/Presentation_2022-23_UNEMPLOYMENT IN INDIA.pdf",
+   "s": 477104,
+   "h": "930c41d4ef141805aa14825cd59a6309141d03db2341954c98f12eb436545655",
+   "t": 1794748151,
+   "meta": {
+    "credit": "AMUPedia",
+    "orig": "v2026-11-15.2/BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/Books-and-Resources/Presentation_2022-23_UNEMPLOYMENT IN INDIA.pptx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/Books-and-Resources/Rafiquzzaman-and-Chandra_Modern-Computer-Architecture_archive-org-link.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/COC2082_Computer-Architecture/Books-and-Resources/Rafiquzzaman-and-Chandra_Modern-Computer-Architecture_Borrow.link",
+   "url": "https://archive.org/details/moderncomputerar0000rafi",
+   "t": 1794748151,
+   "meta": {
+    "credit": "AMU Cloud",
+    "url": "https://archive.org/details/moderncomputerar0000rafi",
+    "title": "Modern Computer Architecture (Rafiquzzaman & Chandra), borrow on Internet Archive"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/PYQs-and-Assignments/Mid-Sem_2017-18_Old-Teacher_CO-446N.doc",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/PYQs-and-Assignments/Mid-Sem_2017-18_Old-Teacher_CO-446N.pdf",
+   "s": 71855,
+   "h": "02052ebc9b82194e642cfeead5a8a4e0c8776d61ee57b97011d5fd610bbffd7c",
+   "t": 1794748151,
+   "meta": {
+    "credit": "AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/PYQs-and-Assignments/Mid-Sem_2017-18_Old-Teacher_CO-446N.doc"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/PYQs-and-Assignments/Z_Assignment_Old-Teacher_Functional-Independence.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/PYQs-and-Assignments/Z_Assignment_Old-Teacher_Functional-Independence.pdf",
+   "meta": {
+    "credit": "AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/PYQs-and-Assignments/Z_Assignment_Old-Teacher_Functional-Independence.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Lecture 2 dated 17.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Lecture 2 dated 17.pdf",
+   "s": 23121,
+   "h": "6b549bca30e4e39a41018a35a9094e6e694d1ff841a5263a5169ae46dad0f273",
+   "t": 1794748151,
+   "meta": {
+    "credit": "AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Lecture 2 dated 17.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Software Characteristics.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Software Characteristics.pdf",
+   "s": 76332,
+   "h": "42f9d806905351a04852305c798e49a0a2ddf884d5f1f966a4a0b97c6333cf13",
+   "t": 1794748151,
+   "meta": {
+    "credit": "AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Software Characteristics.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Software Evolution.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Software Evolution.pdf",
+   "s": 125357,
+   "h": "b4175e3392a8485e70aeadb01f5e065109a6ecb350b2810240d65ee3859a6432",
+   "t": 1794748151,
+   "meta": {
+    "credit": "AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Software Evolution.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Software does not wear.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Software does not wear.pdf",
+   "s": 62246,
+   "h": "6128e14db66a8b2b42e53195435a728d044150bf6a9644f8cb6212d9d8fa94ec",
+   "t": 1794748151,
+   "meta": {
+    "credit": "AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-1/Old-Teacher_Software does not wear.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Architectural design.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Architectural design.pdf",
+   "s": 153820,
+   "h": "2e325065d46932b97916c4e54d04e6d39fd6d8935c3a1eb109de5732d2ce15b5",
+   "t": 1794748151,
+   "meta": {
+    "credit": "AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-3/Old-Teacher_Architectural design.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Old-Teacher_Coding Style and Practice.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Old-Teacher_Coding Style and Practice.pdf",
+   "s": 97501,
+   "h": "d91226d510e52fbdfee9468b527b77f9f92e2e178a7d590891a3d633dc5263f3",
+   "t": 1794748151,
+   "meta": {
+    "credit": "AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Old-Teacher_Coding Style and Practice.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Old-Teacher_Cyclomatic Complexity.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Old-Teacher_Cyclomatic Complexity.pdf",
+   "meta": {
+    "credit": "AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Old-Teacher_Cyclomatic Complexity.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Old-Teacher_Verification vs Validation.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Old-Teacher_Verification vs Validation.pdf",
+   "s": 71725,
+   "h": "5df19ef2a5e0c9179eb245a4c1119531205e58cf4cd59dfe7bf51e8faeb15d95",
+   "t": 1794748151,
+   "meta": {
+    "credit": "AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/Computer-Engineering/Sem5/COC3162_Software-Engineering/Unit-4/Old-Teacher_Verification vs Validation.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Books-and-Resources/Decision-Tree_GeeksforGeeks.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Books-and-Resources/Decision-Tree_GeeksforGeeks.pdf",
+   "s": 127032,
+   "h": "02084c5618f18e9654be2d7823d4f4c64b8f18302fe7c8616c7ec1e35a4bdd88",
+   "t": 1794748151,
+   "meta": {
+    "author": "GeeksforGeeks",
+    "credit": "gk7093",
+    "orig": "v2026-11-15.2/BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Books-and-Resources/Decision-Tree_GeeksforGeeks.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Books-and-Resources/Supervised-and-Unsupervised-Learning_GeeksforGeeks.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Books-and-Resources/Supervised-and-Unsupervised-Learning_GeeksforGeeks.pdf",
+   "s": 278019,
+   "h": "92a94ef7b2ada627bdbe78155ad24080a2d7ab34cb3a7d89608dd653119f36f1",
+   "t": 1794748151,
+   "meta": {
+    "author": "GeeksforGeeks",
+    "credit": "gk7093",
+    "orig": "v2026-11-15.2/BTech-and-BE/Electrical-Engineering/Electives/EEE4722_Machine-Learning/Books-and-Resources/Supervised-and-Unsupervised-Learning_GeeksforGeeks.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/PYQs-and-Assignments/Z_Question-Bank_2022-23.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/PYQs-and-Assignments/Z_Question-Bank_2022-23.pdf",
+   "s": 40086,
+   "h": "ff11d79d8d8939b3997f2fe475cbd88e4fd75a9c66da52a4722551e9e97365d7",
+   "t": 1794748151,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093",
+    "orig": "v2026-11-15.2/BTech-and-BE/Electrical-Engineering/Sem3/APS2052_Electrical-Engineering-Materials/PYQs-and-Assignments/Z_Question-Bank_2022-23.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Syllabus/EEC2710_Old-Syllabus_2022-23.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Syllabus/EEC2710_Old-Syllabus_2022-23.pdf",
+   "s": 102481,
+   "h": "f9a6cb6144976fa7fa5dbce21f5211eae1c60947421ed85d26b4ed12f9661564",
+   "t": 1794748151,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093",
+    "orig": "v2026-11-15.2/BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Syllabus/EEC2710_Old-Syllabus_2022-23.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2212_Power-Electronics-I/Unit-2/Notes_Unit-2_2022-23.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2212_Power-Electronics-I/Unit-2/Notes_Unit-2_2022-23.pdf",
+   "s": 32560,
+   "h": "7690daba11723dd0539ad86460926631141d2a57f1f86e955c7559992b6ef08c",
+   "t": 1794748151,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093",
+    "orig": "v2026-11-15.2/BTech-and-BE/Electrical-Engineering/Sem4/EEC2212_Power-Electronics-I/Unit-2/Notes_Unit-2_2022-23.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Manuals/Lab-Manual_2022-23.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Manuals/Lab-Manual_2022-23.pdf",
+   "s": 1146812,
+   "h": "d20fe863287a404fc4f52ac1ccd25c1ed1538496101db729cce57c0547f900c7",
+   "t": 1794748151,
+   "meta": {
+    "year": "2022-23",
+    "credit": "gk7093",
+    "orig": "v2026-11-15.2/BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Manuals/Lab-Manual_2022-23.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/PYQs-and-Assignments/Z_Assignment_2023-24_Solution-Boost-Converter.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/PYQs-and-Assignments/Z_Assignment_2023-24_Solution-Boost-Converter.pdf",
+   "s": 806904,
+   "h": "0328de3abdfb8be5e63db21fcb04ef0bf827806c94de724be4af91b5551babad",
+   "t": 1794748151,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093",
+    "orig": "v2026-11-15.2/BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/PYQs-and-Assignments/Z_Assignment_2023-24_Solution-Boost-Converter.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/PYQs-and-Assignments/Z_Assignment_2023-24_Solution-SHE-Equation.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/PYQs-and-Assignments/Z_Assignment_2023-24_Solution-SHE-Equation.pdf",
+   "s": 422627,
+   "h": "8f6fb18a8e86e66ffc44206d56070a132b1288d50c13406e7ba6d48fe85e5a06",
+   "t": 1794748151,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093",
+    "orig": "v2026-11-15.2/BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/PYQs-and-Assignments/Z_Assignment_2023-24_Solution-SHE-Equation.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/PYQs-and-Assignments/Z_Assignment-2_2023-24_Solution.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/PYQs-and-Assignments/Z_Assignment-2_2023-24_Solution_3.pdf",
+   "s": 303883,
+   "h": "9f574ce369b4489be56e1dea97df8b44cea01ccb79733958087d015bd386d27d",
+   "t": 1794748151,
+   "meta": {
+    "year": "2023-24",
+    "credit": "gk7093",
+    "orig": "v2026-11-15.2/BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/PYQs-and-Assignments/Z_Assignment-2_2023-24_Solution.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Records/Record-Cover-Template.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Records/Record-Cover-Template.pdf",
+   "s": 30672,
+   "h": "386d33986cd995292bbf3951b1ced95ef880ed5ba77976532e06fb3b984f8ae4",
+   "t": 1794748151,
+   "meta": {
+    "credit": "gk7093",
+    "orig": "v2026-11-15.2/BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Records/Record-Cover-Template.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Drive-Links_Sem3-Notes_2022-23.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Electrical-Engineering/_Curriculum/Drive-Links_Sem3-Notes_2022-23.pdf",
+   "s": 30430,
+   "h": "3433611f7938b6e7cb6e3b1e48805120b4599a1a3fe72b7165c0ef6d47c41c71",
+   "t": 1794748151,
+   "meta": {
+    "credit": "gk7093",
+    "orig": "v2026-11-15.2/BTech-and-BE/Electrical-Engineering/_Curriculum/Drive-Links_Sem3-Notes_2022-23.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/PYQs-and-Assignments/Z_Assignment_Chemistry-Assignment-5-April.doc",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/PYQs-and-Assignments/Z_Assignment_Chemistry-Assignment-5-April.pdf",
+   "s": 24594,
+   "h": "e0b1b28c51ec9da18f75ec1b57ba8b90e76337438ea6beaf8350fbfb26f2d843",
+   "t": 1794748151,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/PYQs-and-Assignments/Z_Assignment_Chemistry-Assignment-5-April.doc"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Viva-Questions_Set-2.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Viva-Questions_Set-2.pdf",
+   "s": 46238,
+   "h": "9755228176354418d31d27dd21ce5b5563aebc16e5ddedb4c38a4b316585c676",
+   "t": 1794748151,
+   "meta": {
+    "credit": "AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/Viva-Questions_Set-2.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Syllabus/Syllabus.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Syllabus/Syllabus.pdf",
+   "s": 38609,
+   "h": "ef22f7184043c671a1ed9253af50ea942312518cdc27a23cd58a2d1760cdf2aa",
+   "t": 1794748151,
+   "meta": {
+    "credit": "AMU Cloud",
+    "orig": "v2026-11-15.2/BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Syllabus/Syllabus.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Books-and-Resources/Contributor-Note_Teacher-Removed-Access_2021-22.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Books-and-Resources/Contributor-Note_Teacher-Removed-Access_2021-22.pdf",
+   "s": 18679,
+   "h": "e0323f90ce7b274f4e7af04b7902daf449ed5876f8fcb91b213de7507dafdee7",
+   "t": 1794748151,
+   "meta": {
+    "professor": "Kamran",
+    "year": "2021-22",
+    "credit": "gk7093",
+    "orig": "v2026-11-15.2/BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Books-and-Resources/Contributor-Note_Teacher-Removed-Access_2021-22.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Books-and-Resources/Contributor-Note_Teacher-Removed-Access_2021-22_2.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Books-and-Resources/Contributor-Note_Teacher-Removed-Access_2021-22_2.pdf",
+   "s": 17771,
+   "h": "51c2badd478ca3371bcd461ee4dca6c7ea10885749d27c3ea83b0284463ec01d",
+   "t": 1794748151,
+   "meta": {
+    "year": "2021-22",
+    "credit": "gk7093",
+    "orig": "v2026-11-15.2/BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Books-and-Resources/Contributor-Note_Teacher-Removed-Access_2021-22_2.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Books-and-Resources/Recommended-Lectures_Sanjiv-Badhe_Semiconductor-Physics.pages",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Books-and-Resources/Recommended-Lectures_Sanjiv-Badhe_Semiconductor-Physics.pdf",
+   "s": 117368,
+   "h": "42edaf0bf8e34ae5fadb6c04b616fb4c20101f7d16a42653521da15dcc02a43e",
+   "t": 1794748151,
+   "meta": {
+    "orig": "v2026-11-15.2/BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Books-and-Resources/Recommended-Lectures_Sanjiv-Badhe_Semiconductor-Physics.pages"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Books-and-Resources/Recommended-Videos_Animal-Farm_Time-Machine.pages",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Books-and-Resources/Recommended-Videos_Animal-Farm_Time-Machine.pdf",
+   "s": 409227,
+   "h": "62d8fe6328f2e62d5cdf050c0abe6bc6295cfcc4929568ef8b4eef0306b05eef",
+   "t": 1794748151,
+   "meta": {
+    "orig": "v2026-11-15.2/BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Books-and-Resources/Recommended-Videos_Animal-Farm_Time-Machine.pages"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Complete-Notes/Class-Notes_Written-Test-24-09-2021-for-B-Tech-A1C.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Complete-Notes/Class-Notes_Written-Test-24-09-2021-for-B-Tech-A1C.pdf",
+   "s": 55729,
+   "h": "e69694b54d9464375a2ff4e313294fac50efac1006ed235a0722c14ac01410f5",
+   "t": 1794748151,
+   "meta": {
+    "author": "Sabahat Ahmad Khan",
+    "year": "2021-22",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Complete-Notes/Class-Notes_Written-Test-24-09-2021-for-B-Tech-A1C.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment-1-for-B-Tech-A1C.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment-1-for-B-Tech-A1C.pdf",
+   "s": 61387,
+   "h": "fdb676c44ff4bf45766efb2f6470b48814dd161b255c99377195a3a826ef894d",
+   "t": 1794748151,
+   "meta": {
+    "author": "Sabahat Ahmad Khan",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment-1-for-B-Tech-A1C.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment-2-for-B-Tech-A1C.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment-2-for-B-Tech-A1C.pdf",
+   "s": 142874,
+   "h": "20057890eee6cd5b0952a00ce987e1f54c0851735af45f10b1a85b0dbe4184c9",
+   "t": 1794748151,
+   "meta": {
+    "author": "Sabahat Ahmad Khan",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/PYQs-and-Assignments/Z_Assignment-2-for-B-Tech-A1C.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/Complete-Notes/Lecture-Notes_Air-Pollution-in-Delhi.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/Complete-Notes/Lecture-Notes_Air-Pollution-in-Delhi.pdf",
+   "s": 56335,
+   "h": "079764c02370b43f14527d2101d050c94cd90d4b1dcb3a99180954531d035e82",
+   "t": 1794748151,
+   "meta": {
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/Complete-Notes/Lecture-Notes_Air-Pollution-in-Delhi.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-3/Class-Notes_Units-3-and-4_2025-26.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-3/Class-Notes_Units-3-and-4_2025-26.pdf",
+   "meta": {
+    "year": "2025-26",
+    "author": "Syed Mohammad Talha",
+    "credit": "Syed Mohammad Talha, Farhan Baig",
+    "orig": "v2026-11-15.2/BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Unit-3/Class-Notes_Units-3-and-4_2025-26.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3212_Heat-and-Mass-Transfer/Books-and-Resources/Solutions-of-Unsolved-Problems_Book.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-1/Lecture-Slides_Part-2_Chip-Formation-and-Forces.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "meta",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-1/Lecture-Slides_Part-2_Chip-Formation-and-Forces.pdf",
+   "meta": {
+    "credit": "Farhan Baig",
+    "orig": "v2026-11-15.2/BTech-and-BE/Mechanical-Engineering/Sem5/MEC3442_Manufacturing-Technology-II/Unit-1/Lecture-Slides_Part-2_Chip-Formation-and-Forces.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Z_Assignment_Economics.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Z_Assignment_Economics_2.pdf",
+   "s": 32807,
+   "h": "f70f81033fe0969d80b9b7c013c73894c7ddf79b65f05dbdf4ec916953084496",
+   "t": 1794748151,
+   "meta": {
+    "credit": "Sayyed Arib Hussain",
+    "orig": "v2026-11-15.2/BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/PYQs-and-Assignments/Z_Assignment_Economics.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Syllabus/Old_MEH3450_Syllabus_2024-25.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Syllabus/Old_MEH3450_Syllabus_2024-25.pdf",
+   "s": 232620,
+   "h": "9f1fd1e5a02b4924c530711498c31f4083d607a10b6dfa0a6fd37fa1c7cac407",
+   "t": 1794748151,
+   "meta": {
+    "orig": "v2026-11-15.2/BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Syllabus/Old_MEH3450_Syllabus_2024-25.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/PYQs-and-Assignments/Z_Assignment_Air-Act-1981.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/PYQs-and-Assignments/Z_Assignment_Air-Act-1981.pdf",
+   "s": 152445,
+   "h": "832264b9a1a0c523996ee049def517934677f9743788900886f7671efc182500",
+   "t": 1794748151,
+   "meta": {
+    "author": "Sabahat Ahmad Khan",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/PYQs-and-Assignments/Z_Assignment_Air-Act-1981.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/Unit-1/Class-Notes_Unit-1.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/Unit-1/Class-Notes_Unit-1.pdf",
+   "s": 281560,
+   "h": "f85d00e3491fb4c3fa60825412a7ff9f7836bb802a394068d75184602ed42d7a",
+   "t": 1794748151,
+   "meta": {
+    "author": "Sabahat Ahmad Khan",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/Unit-1/Class-Notes_Unit-1.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/Unit-2/Class-Notes_Unit-2.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/Unit-2/Class-Notes_Unit-2.pdf",
+   "s": 410297,
+   "h": "d307e3356dcbc7fe39be308c2c0bbfdf51a7e8aeafc9252b77174c5282026971",
+   "t": 1794748151,
+   "meta": {
+    "author": "Sabahat Ahmad Khan",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/Unit-2/Class-Notes_Unit-2.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/Unit-3/Class-Notes_Unit-3.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/Unit-3/Class-Notes_Unit-3.pdf",
+   "s": 85841,
+   "h": "97aa5341ce336be3c1e02e0fe19445228e22430a88b33544c0ea89fdbd939500",
+   "t": 1794748151,
+   "meta": {
+    "author": "Sabahat Ahmad Khan",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/Unit-3/Class-Notes_Unit-3.docx"
+   }
+  },
+  {
+   "op": "remove",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/Unit-4/Class-Notes_Unit-4.docx",
+   "t": 1794748151
+  },
+  {
+   "op": "add",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/Unit-4/Class-Notes_Unit-4.pdf",
+   "s": 326154,
+   "h": "a7b33d3ab1c64d73d894b87b6a2ebd5ffc7154788ff59e7146aedde66d4cd79e",
+   "t": 1794748151,
+   "meta": {
+    "author": "Sabahat Ahmad Khan",
+    "credit": "Sabahat Ahmad Khan",
+    "orig": "v2026-11-15.2/BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/ACO3082-EACO3080_Atmospheric-Chemistry/Unit-4/Class-Notes_Unit-4.docx"
+   }
+  }
+ ]
+}
