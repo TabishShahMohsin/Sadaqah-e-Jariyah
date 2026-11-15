@@ -63,7 +63,8 @@ try:
         (f"{C}/Unit-1/signed.pdf", pdf(author="Prof. Someone")),
         (f"{C}/Unit-1/chapter-scan.pdf", pdf(text="ISBN 978-0-13-468599-1 Pearson")),
         (f"{C}/Syllabus/syllabus.pdf", pdf(text="Reference: ISBN 978-0-13-468599-1")),
-        (f"{C}/Books-and-Resources/x.pdf", pdf()),
+        (f"{C}/Books-and-Resources/x.pdf", pdf(pages=45)),
+        (f"{C}/Books-and-Resources/figure.pdf", pdf(text="reference pages", pages=3)),
         (f"{C}/Records/Project1_20COB258.c", b"int main(){}"),
         (f"{C}/Records/Project1.c", b"int main(){return 0;}"),
         (f"{C}/Records/Project1_20COB258.exe", b"MZ"),
@@ -86,7 +87,8 @@ try:
     why = dict(left)
     check(unscanned == 0, "everything scanned")
     check(why[f"{C}/Unit-1/chapter-scan.pdf"].startswith("ISBN") and f"{C}/Syllabus/syllabus.pdf" not in why, "ISBN rule, syllabi exempt")
-    check(why[f"{C}/Books-and-Resources/x.pdf"] == "Books-and-Resources", "books section")
+    check(why[f"{C}/Books-and-Resources/x.pdf"].startswith("Books-and-Resources, 45 pages"), "long PDF in books section left out")
+    check(f"{C}/Books-and-Resources/figure.pdf" in pub, "short reference pages are published")
     check("not study material" in why[f"{C}/Records/Project1_20COB258.exe"], ".exe left out")
     check(why[f"{C}/Records/empty.txt"] == "empty file", "empty file left out")
     check(why[f"{C}/Unit-2/secret.pdf"] == "catalog/exclude.txt", "exclude.txt honoured")
@@ -123,7 +125,7 @@ try:
     idx, pub2, _, _ = hp.build_index(state, scan, "u/sej-files", root)
     txt = json.dumps(idx)
     check(idx["fileBase"] == "https://huggingface.co/datasets/u/sej-files/resolve/main/", "files come from the dataset")
-    check("20COB258" not in txt and "chapter-scan" not in txt and "Books-and-Resources" not in txt and ".exe" not in txt, "index lists only published files")
+    check("20COB258" not in txt and "chapter-scan" not in txt and "\"x.pdf\"" not in txt and ".exe" not in txt, "index lists only published files")
     check("video.link" in txt and "youtu.be" in txt, "link entries still listed")
     check(set(pub2) == set(pub), "site and dataset use the same selection")
 finally:
