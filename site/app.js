@@ -943,7 +943,7 @@ huggingface-cli download ${repo} --repo-type dataset --local-dir sej-files \\
         ['index.json', 'The folder tree exactly as this site loads it.'],
         ['api/v1/stats.json', 'How much the API has been used in the last 30 days.'],
       ].map(([u, d]) => `<tr><td><a href="${esc(site + u)}" target="_blank" rel="noopener"><span class="api-get">GET</span> /${esc(u)}</a></td><td>${d}</td></tr>`).join('')}</tbody></table>
-      <p class="lede-sm">Together these hold everything this website is built from, so another app can rebuild it, or something different: a question-paper builder, a course planner, a search tool. The site's own code is open source (GPL-3.0).</p>
+      <p class="lede-sm">Together these hold everything this website is built from, so another app can rebuild it, or something new: an AI teacher that answers from a course’s notes and past papers and cites the exact file and page (retrieval-augmented generation), a question-paper builder, a course planner, a search tool. The site's own code is open source (GPL-3.0).</p>
       <p class="lede-sm" id="apiUse"></p>
       ${code(`const r = await fetch('${site}api/v1/files.json');
 const { files } = await r.json();
@@ -1086,11 +1086,11 @@ async function droppedFiles(dt) {
 // arrives with the index; the last known count shows at once meanwhile. Not there on the local server: nothing shown.
 const VISITS = fetch('api/visitors', { cache: 'no-store' }).then(r => r.ok ? r.json() : {}).then(j => j.count).catch(() => null);
 function showVisitors() {
-  const el = $('#footStatus'), base = el.textContent;
-  const put = n => { if (Number.isFinite(n) && n > 0) el.textContent = `${base} · ${plural(n, 'visit')}`; };
+  const el = $('#footVisits');
+  const put = n => { if (Number.isFinite(n) && n > 0) { el.textContent = plural(n, 'visit'); el.hidden = false; } };
   try { put(+localStorage.getItem('sej.visits')); } catch { /* storage blocked */ }
   // a count that can't be refreshed isn't shown: a stale number from this device's cache would look stuck
-  VISITS.then(n => { if (Number.isFinite(n) && n > 0) { put(n); try { localStorage.setItem('sej.visits', n); } catch { /* storage blocked */ } } else el.textContent = base; });
+  VISITS.then(n => { if (Number.isFinite(n) && n > 0) { put(n); try { localStorage.setItem('sej.visits', n); } catch { /* storage blocked */ } } else el.hidden = true; });
 }
 function showErr(msg) { const e = $('#cerr'); if (!e) return; e.textContent = msg; e.hidden = !msg; if (msg) e.scrollIntoView({ block: 'center', behavior: 'smooth' }); }
 
@@ -1339,7 +1339,10 @@ async function boot() {
     $('#view').innerHTML = `<div class="loading">Couldn’t load the archive index (${esc(e.message)}).<br><br>${local ? 'Start the site with <code>python3 serve.py</code> from the repository folder.' : 'Please check your connection and <a href="" onclick="location.reload();return false">reload</a>.'}</div>`;
     return;
   }
-  $('#footStatus').textContent = `${fmtNum(S.root.count)} files · indexed ${new Date(S.generated).toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' })}`;
+  let nFiles = 0, nLinks = 0;
+  S.files.forEach(f => { if (f.k === 'link') nLinks++; else nFiles++; });
+  $('#footStatus').textContent = `${fmtNum(nFiles)} files · ${fmtNum(nLinks)} links`;
+  $('#footIndexed').textContent = `Updated ${new Date(S.generated).toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' })}`;
   showVisitors();
   route();
 }

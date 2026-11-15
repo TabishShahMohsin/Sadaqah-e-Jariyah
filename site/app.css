@@ -255,8 +255,18 @@ main { width: 100%; max-width: var(--w); margin: 0 auto; padding-block: 0 120px;
 .foot a { color: inherit; }
 
 /* ── footer ────────────────────────────── */
-.foot { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; padding: 26px max(16px, calc((100vw - var(--w)) / 2 + 16px)); border-top: 1px solid var(--line); font-size: 13px; color: var(--mute); }
-.foot-quote { max-width: 60ch; }
+.foot { padding: 40px max(16px, calc((100vw - var(--w)) / 2 + 16px)) 28px; border-top: 1px solid var(--line); font-size: 13px; line-height: 1.6; color: var(--mute); }
+.foot-grid { display: grid; grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr) minmax(0, 1fr); gap: 32px; }
+.foot-name { font-weight: 600; color: var(--ink); font-size: 14px; margin-bottom: 4px; }
+.foot-brand p { margin: 0; max-width: 42ch; }
+.foot-links { display: flex; flex-direction: column; gap: 6px; }
+.foot-links a { text-decoration: none; color: var(--ink2); }
+.foot-links a:hover { color: var(--ink); text-decoration: underline; }
+.foot-stats { display: flex; flex-direction: column; gap: 6px; font-variant-numeric: tabular-nums; }
+.foot-quote { margin-top: 32px; padding-top: 18px; border-top: 1px solid var(--line); font-style: italic; }
+.foot-quote span { font-style: normal; margin-left: 6px; }
+.foot-quote span::before { content: '— '; }
+@media (max-width: 720px) { .foot-grid { grid-template-columns: 1fr 1fr; } .foot-brand { grid-column: 1 / -1; } }
 .foot .pulse { margin-right: 4px; }
 
 /* ── contribute ────────────────────────── */
