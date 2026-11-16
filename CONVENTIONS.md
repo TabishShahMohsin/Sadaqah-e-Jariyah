@@ -26,6 +26,7 @@ that breaks a rule (older material is brought in line over time; the rules are n
 ```
 BTech-and-BE/                   umbrella for B.Tech & B.E. (ZHCET)
 Faculty-of-Science/             one umbrella per AMU faculty, named after it; its programmes (BCA, MCA) sit where B.Tech has branches
+Faculty-of-Medicine/            MBBS at JNMC: MBBS/Prof-1 … Prof-4 (professional years) in place of semesters
  <Branch>/
   _Curriculum/                  course structures, syllabi bundles, notices
   _General-PYQs/                papers that don't belong to one course

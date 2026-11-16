@@ -12,7 +12,8 @@
   "Food-Technology": "Food Technology",
   "Shared-Courses": "Shared Courses",
   "BCA": "BCA · B.Sc. (Hons.) Computer Applications",
-  "MCA": "MCA · Master of Computer Applications"
+  "MCA": "MCA · Master of Computer Applications",
+  "MBBS": "MBBS · Jawaharlal Nehru Medical College"
  },
  "programmes": [
   {
@@ -2339,6 +2340,75 @@
    "official": [],
    "published": true,
    "note": "Department of Computer Science; semesters 1-3 of the 2024-26 batch (semester 4 not yet in the collection)."
+  },
+  {
+   "id": "mbbs",
+   "degree": "MBBS ·",
+   "name": "Bachelor of Medicine and Bachelor of Surgery (JNMC)",
+   "short": "MBBS",
+   "branch": "Faculty-of-Medicine/MBBS",
+   "terms": "prof",
+   "semesters": {
+    "1": [
+     {
+      "p": "Faculty-of-Medicine/MBBS/Prof-1/MBBD1001-MBBD1002_Human-Anatomy",
+      "c": "MBBD1001"
+     },
+     {
+      "p": "Faculty-of-Medicine/MBBS/Prof-1/MBBD1003-MBBD1004_Physiology",
+      "c": "MBBD1003"
+     },
+     {
+      "p": "Faculty-of-Medicine/MBBS/Prof-1/MBBD1005-MBBD1006_Biochemistry",
+      "c": "MBBD1005"
+     }
+    ],
+    "2": [
+     {
+      "p": "Faculty-of-Medicine/MBBS/Prof-2/MBBS201-MBBS202_Pharmacology",
+      "c": "MBBS201"
+     },
+     {
+      "p": "Faculty-of-Medicine/MBBS/Prof-2/MBBD2003-MBBD2004_Pathology",
+      "c": "MBBD2003"
+     },
+     {
+      "p": "Faculty-of-Medicine/MBBS/Prof-2/MBBD2005-MBBD2006_Microbiology",
+      "c": "MBBD2005"
+     }
+    ],
+    "3": [
+     {
+      "p": "Faculty-of-Medicine/MBBS/Prof-3/MBBD3101_Forensic-Medicine-and-Toxicology",
+      "c": "MBBD3101"
+     }
+    ],
+    "4": [
+     {
+      "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine",
+      "c": "MBBD4101"
+     },
+     {
+      "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4103-MBBD4104_General-Surgery",
+      "c": "MBBD4103"
+     },
+     {
+      "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4105_Orthopaedics",
+      "c": "MBBD4105"
+     },
+     {
+      "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4106-MBBD4107_Obstetrics-and-Gynaecology",
+      "c": "MBBD4106"
+     },
+     {
+      "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4108_Paediatrics",
+      "c": "MBBD4108"
+     }
+    ]
+   },
+   "official": [],
+   "published": true,
+   "note": "Jawaharlal Nehru Medical College, Faculty of Medicine, AMU. Course codes from the university's question papers: MBBD-xxxx (CBME scheme, batches from 2019) and MBBS-xxx (older scheme). 3rd Professional = Final Part I, 4th = Final Part II."
   }
  ],
  "courses": {
@@ -11404,9 +11474,217 @@
     ]
    },
    "kind": "elective"
+  },
+  "Faculty-of-Medicine/MBBS/Prof-1/MBBD1001-MBBD1002_Human-Anatomy": {
+   "title": "Human Anatomy",
+   "codes": [
+    "MBBD1001",
+    "MBBD1002"
+   ],
+   "be": [],
+   "old": [
+    "MBBS101",
+    "MBBS102"
+   ],
+   "progs": {
+    "mbbs": [
+     1
+    ]
+   },
+   "kind": "core"
+  },
+  "Faculty-of-Medicine/MBBS/Prof-1/MBBD1003-MBBD1004_Physiology": {
+   "title": "Physiology",
+   "codes": [
+    "MBBD1003",
+    "MBBD1004"
+   ],
+   "be": [],
+   "old": [
+    "MBBS103",
+    "MBBS104"
+   ],
+   "progs": {
+    "mbbs": [
+     1
+    ]
+   },
+   "kind": "core"
+  },
+  "Faculty-of-Medicine/MBBS/Prof-1/MBBD1005-MBBD1006_Biochemistry": {
+   "title": "Biochemistry",
+   "codes": [
+    "MBBD1005",
+    "MBBD1006"
+   ],
+   "be": [],
+   "old": [
+    "MBBS105",
+    "MBBS106"
+   ],
+   "progs": {
+    "mbbs": [
+     1
+    ]
+   },
+   "kind": "core"
+  },
+  "Faculty-of-Medicine/MBBS/Prof-2/MBBS201-MBBS202_Pharmacology": {
+   "title": "Pharmacology",
+   "codes": [
+    "MBBS201",
+    "MBBS202"
+   ],
+   "be": [],
+   "old": [],
+   "progs": {
+    "mbbs": [
+     2
+    ]
+   },
+   "kind": "core"
+  },
+  "Faculty-of-Medicine/MBBS/Prof-2/MBBD2003-MBBD2004_Pathology": {
+   "title": "Pathology",
+   "codes": [
+    "MBBD2003",
+    "MBBD2004"
+   ],
+   "be": [],
+   "old": [
+    "MBBS203",
+    "MBBS204"
+   ],
+   "progs": {
+    "mbbs": [
+     2
+    ]
+   },
+   "kind": "core"
+  },
+  "Faculty-of-Medicine/MBBS/Prof-2/MBBD2005-MBBD2006_Microbiology": {
+   "title": "Microbiology",
+   "codes": [
+    "MBBD2005",
+    "MBBD2006"
+   ],
+   "be": [],
+   "old": [
+    "MBBS205",
+    "MBBS206"
+   ],
+   "progs": {
+    "mbbs": [
+     2
+    ]
+   },
+   "kind": "core"
+  },
+  "Faculty-of-Medicine/MBBS/Prof-3/MBBD3101_Forensic-Medicine-and-Toxicology": {
+   "title": "Forensic Medicine and Toxicology",
+   "codes": [
+    "MBBD3101"
+   ],
+   "be": [],
+   "old": [
+    "MBBS207",
+    "MBBS208"
+   ],
+   "progs": {
+    "mbbs": [
+     3
+    ]
+   },
+   "kind": "core"
+  },
+  "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine": {
+   "title": "General Medicine",
+   "codes": [
+    "MBBD4101",
+    "MBBD4102"
+   ],
+   "be": [],
+   "old": [
+    "MBBS323",
+    "MBBS324"
+   ],
+   "progs": {
+    "mbbs": [
+     4
+    ]
+   },
+   "kind": "core"
+  },
+  "Faculty-of-Medicine/MBBS/Prof-4/MBBD4103-MBBD4104_General-Surgery": {
+   "title": "General Surgery",
+   "codes": [
+    "MBBD4103",
+    "MBBD4104"
+   ],
+   "be": [],
+   "old": [
+    "MBBS326",
+    "MBBS327",
+    "MBBS328"
+   ],
+   "progs": {
+    "mbbs": [
+     4
+    ]
+   },
+   "kind": "core"
+  },
+  "Faculty-of-Medicine/MBBS/Prof-4/MBBD4105_Orthopaedics": {
+   "title": "Orthopaedics",
+   "codes": [
+    "MBBD4105"
+   ],
+   "be": [],
+   "old": [],
+   "progs": {
+    "mbbs": [
+     4
+    ]
+   },
+   "kind": "core"
+  },
+  "Faculty-of-Medicine/MBBS/Prof-4/MBBD4106-MBBD4107_Obstetrics-and-Gynaecology": {
+   "title": "Obstetrics and Gynaecology",
+   "codes": [
+    "MBBD4106",
+    "MBBD4107"
+   ],
+   "be": [],
+   "old": [
+    "MBBS321",
+    "MBBS322"
+   ],
+   "progs": {
+    "mbbs": [
+     4
+    ]
+   },
+   "kind": "core"
+  },
+  "Faculty-of-Medicine/MBBS/Prof-4/MBBD4108_Paediatrics": {
+   "title": "Paediatrics",
+   "codes": [
+    "MBBD4108"
+   ],
+   "be": [],
+   "old": [
+    "MBBS325"
+   ],
+   "progs": {
+    "mbbs": [
+     4
+    ]
+   },
+   "kind": "core"
   }
  },
  "umbrellas": {
-  "Faculty-of-Science": "Faculty of Science"
+  "Faculty-of-Science": "Faculty of Science",
+  "Faculty-of-Medicine": "Faculty of Medicine"
  }
 }

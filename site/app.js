@@ -41,10 +41,12 @@ function parseCourse(n) {
   const codes = /^(DE|OE)-/.test(m[1]) ? [m[1]] : m[1].split('-');
   return { codes, title: m[2].replace(/-/g, ' ') };
 }
+const PROF = { 1: '1st', 2: '2nd', 3: '3rd', 4: '4th' };
 function label(n) {
   if (NAMES[n]) return NAMES[n];
   let m;
   if ((m = n.match(/^Sem(\d+)$/))) return 'Semester ' + m[1];
+  if ((m = n.match(/^Prof-(\d)$/))) return PROF[m[1]] + ' Professional';
   if ((m = n.match(/^Unit-(\d+)$/))) return 'Unit ' + m[1];
   const c = parseCourse(n);
   if (c) return c.title;
@@ -86,7 +88,7 @@ function prep(node, path, parent) {
 const ancestors = node => { const a = []; for (let n = node; n && n.parent; n = n.parent) a.unshift(n); return a; };
 const courseOf = node => { for (let n = node; n; n = n.parent) if (n.course) return n; return null; };
 const hasCourses = node => node.d.some(d => d.course);
-const isTerm = n => /^Sem\d+$|-Sem$/.test(n);
+const isTerm = n => /^Sem\d+$|^Prof-\d$|-Sem$/.test(n);
 const groupRank = n => n.startsWith('_') ? 2 : isTerm(n) ? 0 : 1;
 function context(f) {
   return ancestors(f.parent).map(n => label(n.n)).slice(-3).join(' › ');
@@ -210,7 +212,7 @@ function card(d, i, kindLabel, small = false) {
     <h3>${esc(label(d.n))}</h3>
     <span class="go">→</span>
     <span class="sub">
-      ${sems ? `<span><b>${sems}</b> semester${sems === 1 ? '' : 's'}</span>` : ''}
+      ${sems ? `<span><b>${sems}</b> ${d.d.some(x => /^Prof-/.test(x.n)) ? 'professional' : 'semester'}${sems === 1 ? '' : 's'}</span>` : ''}
       ${courses ? `<span><b>${courses}</b> course${courses === 1 ? '' : 's'}</span>` : ''}
       <span><b>${fmtNum(d.count)}</b> files</span>
       <span>${fmtSize(d.size)}</span>
@@ -234,7 +236,7 @@ function homeView() {
     <div class="hero-reveal">
       <h1 class="display">Sadaqah-e-Jariyah</h1>
       <p class="arabic" lang="ar">صدقة جارية</p>
-      <p class="lede">Notes, past papers, syllabi and lab work for every B.Tech semester at AMU, and now BCA and MCA, laid out so the next student never has to hunt for them.</p>
+      <p class="lede">Notes, past papers, syllabi and lab work for every B.Tech semester at AMU, and now BCA, MCA and MBBS, laid out so the next student never has to hunt for them.</p>
     </div>
     <button class="hero-search" type="button" data-search>
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
@@ -296,7 +298,7 @@ function progPanel(node, p) {
   const sems = Object.entries(p.semesters).map(([sem, items]) => {
     items.forEach(it => listed.add(it.p));
     return `<section class="group">
-      <div class="group-head"><span class="gi">S${pad(sem)}</span><h2>Semester ${sem}</h2><span class="gc">${plural(items.length, 'course')}</span></div>
+      <div class="group-head"><span class="gi">${p.terms === 'prof' ? 'P' : 'S'}${pad(sem)}</span><h2>${p.terms === 'prof' ? PROF[sem] + ' Professional' : 'Semester ' + sem}</h2><span class="gc">${plural(items.length, 'course')}</span></div>
       ${items.map((it, j) => progRow(it, j)).join('')}
     </section>`;
   }).join('');
@@ -328,9 +330,9 @@ function dirView(node) {
   ${looseCourses.length ? `<section class="group"><div class="group-head"><span class="gi">—</span><h2>Courses</h2><span class="gc">${plural(looseCourses.length, 'course')}</span></div>${looseCourses.map((d, j) => courseRow(d, j)).join('')}</section>` : ''}
   ${groups.map(g => {
     const cs = g.d.filter(d => d.course), rest = g.d.filter(d => !d.course);
-    const sem = g.n.match(/^Sem(\d+)$/);
+    const sem = g.n.match(/^(?:Sem|Prof-)(\d+)$/);
     return `<section class="group">
-      <div class="group-head"><span class="gi">${sem ? 'S' + pad(sem[1]) : pad(++i)}</span><h2><a href="${href(g.p)}">${esc(label(g.n))}</a></h2><span class="gc">${plural(cs.length, 'course')} · ${plural(g.count, 'file')}</span></div>
+      <div class="group-head"><span class="gi">${sem ? (g.n[0] === 'P' ? 'P' : 'S') + pad(sem[1]) : pad(++i)}</span><h2><a href="${href(g.p)}">${esc(label(g.n))}</a></h2><span class="gc">${plural(cs.length, 'course')} · ${plural(g.count, 'file')}</span></div>
       ${cs.map((d, j) => courseRow(d, j)).join('')}
       ${rest.map((d, j) => courseRow(d, cs.length + j)).join('')}
       ${g.f.length ? fileRows(g.f) : ''}

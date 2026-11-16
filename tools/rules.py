@@ -22,7 +22,7 @@ VIDEO_EXT = {"mp4", "mov", "webm", "mkv"}
 ALLOWED_EXT = {"pdf", "zip"} | OFFICE_EXT | SHEET_EXT | PHOTO_EXT | VIDEO_EXT | TEXT_EXT | LAB_EXT
 # What the archive publishes after conversion. .txt only as program output in lab Records.
 ARCHIVE_EXT = {"pdf", "jpg", "jpeg", "png", "csv", "mp4", "txt"} | CODE_EXT | LAB_EXT
-UMBRELLAS = {"BTech-and-BE", "Faculty-of-Science"}  # umbrellas above the branch / programme folders: B.Tech & B.E. (ZHCET), then one per AMU faculty
+UMBRELLAS = {"BTech-and-BE", "Faculty-of-Science", "Faculty-of-Medicine"}  # umbrellas above the branch / programme folders: B.Tech & B.E. (ZHCET), then one per AMU faculty
 
 SECTIONS = ["Syllabus", "Complete-Notes", "Unit-1", "Unit-2", "Unit-3", "Unit-4", "Unit-5",
             "PYQs-and-Assignments", "Books-and-Resources", "Manuals", "Records"]
@@ -32,7 +32,7 @@ BRANCH_FOLDERS = {"_Curriculum", "_General-PYQs"}
 CODE = r"[A-Z]{2,4}\d[0-9A-Z]\d{1,2}[A-Z]?"  # COC2932, EE206, and lab/elective codes with a letter: CCB1P1, CAMS2E09
 COURSE_RE = re.compile(rf"^(?:{CODE}(?:-{CODE}){{0,2}}|(?:DE|OE)-\d{{1,2}})_[A-Z0-9][A-Za-z0-9]*(?:-[A-Za-z0-9&]+){{0,12}}$")
 BRANCH_RE = re.compile(r"^[A-Z][A-Za-z]+(?:-[A-Z][A-Za-z]+){0,4}$")
-TERM_RE = re.compile(r"^(?:Sem[1-8]|Phys-Sem|Chem-Sem|Electives|_Old-Syllabus-Subjects)$")
+TERM_RE = re.compile(r"^(?:Sem[1-8]|Prof-[1-4]|Phys-Sem|Chem-Sem|Electives|_Old-Syllabus-Subjects)$")
 FILENAME_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._()\-]{0,150}\.[a-z0-9]{1,6}$")
 # Names already in the archive may contain spaces etc.; only *new* names must match FILENAME_RE.
 

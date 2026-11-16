@@ -2,7 +2,7 @@
 import json
 from collections import Counter, defaultdict
 
-UMBRELLAS = {"BTech-and-BE", "Faculty-of-Science"}  # mirrors tools/rules.py
+UMBRELLAS = {"BTech-and-BE", "Faculty-of-Science", "Faculty-of-Medicine"}  # mirrors tools/rules.py
 
 LABEL = {"place": "Placed", "credit": "Already in the archive (credited)", "duplicate": "Already in the archive (credited)",
          "twin": "Copy of another file in this upload", "link": "Link entries", "review": "Needs a person",

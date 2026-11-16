@@ -470,8 +470,11 @@ def write_api(out, idx, pub, repo_id):
         w = {}
         if len(parts) > 2 and parts[0] in rules.UMBRELLAS:
             w["branch"] = labels.get(parts[1], parts[1].replace("-", " "))
-            m = re.fullmatch(r"Sem(\d+)", parts[2])
-            w["semester" if m else "group"] = int(m.group(1)) if m else parts[2].strip("_").replace("-", " ")
+            m = re.fullmatch(r"(Sem|Prof-)(\d+)", parts[2])
+            if m:
+                w["professional" if m.group(1) == "Prof-" else "semester"] = int(m.group(2))
+            else:
+                w["group"] = parts[2].strip("_").replace("-", " ")
         for i, part in enumerate(parts[:-1]):
             m = COURSE_RE.match(part)
             if m:

@@ -39,6 +39,8 @@ DATASET_DIR = re.compile(r"(?i)^(train|test|val|valid|validation|dataset|dataset
 
 
 def dataset_images(rels):
+    if os.environ.get("SEJ_NO_DATASET"):  # e.g. folders of exam-paper photos, not a dataset
+        return set()
     """Images that belong to a dataset: in a folder of 20+ images that sits under a folder holding 300+ images making
     up 80%+ of its files, or under a train/test/dataset-style folder holding 50+ images. Class sub-folders (train/cat,
     train/dog) count together; a few photos of notes next to a dataset are not caught."""
