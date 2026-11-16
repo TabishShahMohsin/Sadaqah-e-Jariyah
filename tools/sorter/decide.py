@@ -31,7 +31,8 @@ def describe_meta(d, it, course_path):
             meta[k] = v
     prof = util.clean_text(d.get("professor"), 60)
     if prof:
-        course = "/".join(course_path.split("/")[:4])
+        import rules  # tools/ is on sys.path when the sorter runs
+        course = rules.course_prefix(course_path)
         reg = registry()
         hit = reg.match(prof, course=course)
         if hit:
@@ -130,7 +131,7 @@ class Context:
 
     def _folder_ok(self, folder):
         parts = folder.split("/")
-        k = 1 if parts and parts[0] in self.rules.UMBRELLAS else 0
+        k = self.rules.umbrella_depth(parts)
         if len(parts) == k + 2 and parts[k + 1] in BRANCH_LEVEL:
             return None
         err = self.rules.check_destination(folder, "x.pdf", "pdf", self.archive.known)
@@ -152,7 +153,7 @@ class Context:
         err = self.rules.check_destination(folder, name, target_ext, self.archive.known)
         if err:
             parts = folder.split("/")
-            k = 1 if parts and parts[0] in self.rules.UMBRELLAS else 0
+            k = self.rules.umbrella_depth(parts)
             if not (len(parts) == k + 2 and parts[k + 1] in BRANCH_LEVEL and self.rules.FILENAME_RE.match(name)):
                 hint = ""
                 if "doesn't exist" in err:

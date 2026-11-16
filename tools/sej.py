@@ -165,7 +165,7 @@ def courses(state):
     out = {}
     for p in state:
         parts = p.split("/")
-        k = 1 if parts[0] in rules.UMBRELLAS else 0  # 'BTech-and-BE/Branch/Term/Course/...'
+        k = rules.umbrella_depth(parts)  # '<umbrella>/Branch/Term/Course/...'
         if parts[k:k + 1] == ["Shared-Courses"] and len(parts) >= k + 4 and not rules.TERM_RE.match(parts[k + 1]):
             cp = "/".join(parts[:k + 2])  # Shared-Courses/Course/Section/file
             c = out.setdefault(cp, {"sections": {}})

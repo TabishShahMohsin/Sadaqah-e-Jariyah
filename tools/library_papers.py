@@ -28,7 +28,7 @@ SRC = os.path.join(REPO, "_Sources", "Library-Papers")
 OCR = os.path.join(REPO, ".sej-cache", "library-ocr.json")
 PLAN = os.path.join(REPO, ".sej-cache", "library-plan.json")
 REPORT = os.path.join(REPO, ".sej-cache", "library-report.txt")
-UMB = "BTech-and-BE"
+UMB = "Faculty-of-Engineering-and-Technology/BTech-and-BE"
 
 PROG_BRANCH = {"AI": "Computer-Engineering", "CoE": "Computer-Engineering", "Auto": "Mechanical-Engineering",
                "ME": "Mechanical-Engineering", "ChE": "Chemical-Engineering", "CE": "Civil-Engineering",

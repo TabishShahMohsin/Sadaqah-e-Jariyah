@@ -63,7 +63,7 @@ def make_repo():
     shutil.copytree(HERE, os.path.join(root, "tools"), ignore=shutil.ignore_patterns("__pycache__"))
     shutil.copy(os.path.join(os.path.dirname(HERE), "CONVENTIONS.md"), root)
     os.makedirs(os.path.join(root, "catalog", "changes"))
-    md = "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I"
+    md = "Faculty-of-Engineering-and-Technology/BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I"
     paper = pdf_with_text("B.TECH EXAMINATION 2023-24\nMACHINE DESIGN-I MEC2130\nQ1 Define factor of safety")
     files = {f"{md}/PYQs-and-Assignments/Sem-End_2023-24_MEC2130.pdf": paper,
              f"{md}/Unit-1/Lecture-Slides_Intro.pdf": pdf_with_text("Machine design introduction slides\nDesign process")}
@@ -76,11 +76,11 @@ def make_repo():
         rows.append({"p": p, "s": len(b), "h": hashlib.sha256(b).hexdigest(), "t": 1})
     with open(os.path.join(root, "catalog", "base.jsonl"), "w") as fh:
         fh.writelines(json.dumps(r) + "\n" for r in rows)
-    pg = {"umbrella": "BTech-and-BE", "labels": {}, "programmes": [
-        {"id": "btech-me", "degree": "B.Tech", "name": "Mechanical Engineering", "branch": "BTech-and-BE/Mechanical-Engineering",
+    pg = {"umbrella": "Faculty-of-Engineering-and-Technology/BTech-and-BE", "labels": {}, "programmes": [
+        {"id": "btech-me", "degree": "B.Tech", "name": "Mechanical Engineering", "branch": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Mechanical-Engineering",
          "semesters": {"4": [{"p": md, "c": "MEC2132"}]}, "official": [], "published": True}],
         "courses": {md: {"title": "Machine Design-I", "codes": ["MEC2132"], "be": ["EMEC2132"], "old": ["MEC2130"], "progs": {"btech-me": [4]}, "kind": "core"},
-                    "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics":
+                    "Faculty-of-Engineering-and-Technology/BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics":
                         {"title": "Applied Thermodynamics", "codes": ["MEC2212"], "be": [], "old": ["MEC2210"], "progs": {"btech-me": [4]}, "kind": "core"}}}
     json.dump(pg, open(os.path.join(root, "catalog", "programmes.json"), "w"))
     return root, md, paper
@@ -198,7 +198,7 @@ def main():
     ok(arch.find("MEC2130")[0]["path"] == md, "finds a course by its old code")
     ok(arch.find("EMEC2132")[0]["path"] == md, "finds a course by its B.E. code")
     ok(arch.find("machine design 1")[0]["path"] == md, "finds a course by title words")
-    ok("BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics" in arch.known,
+    ok("Faculty-of-Engineering-and-Technology/BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics" in arch.known,
        "curriculum courses count as known even with no files yet")
     # a different scan of a paper the archive has: different bytes, same exam
     from sorter import dedup, evidence

@@ -3,7 +3,7 @@
 catalog/exclude.txt, one rule per line:
     # comment
     *Books-and-Resources/*          a pattern (fnmatch, * also matches '/')
-    =BTech-and-BE/.../some book.pdf  one exact path
+    =Faculty-of-Engineering-and-Technology/BTech-and-BE/.../some book.pdf  one exact path
 """
 import fnmatch
 import os

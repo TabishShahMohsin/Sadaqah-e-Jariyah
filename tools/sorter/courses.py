@@ -62,7 +62,7 @@ class Archive:
 
     def known_prefixes(self, p):
         parts = p.split("/")
-        for n in (3, 4):
+        for n in (3, 4, 5):
             cp = "/".join(parts[:n])
             if cp in self.folders:
                 return [cp]

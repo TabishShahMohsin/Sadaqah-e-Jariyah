@@ -1,7 +1,7 @@
 """Teacher registry (catalog/people.json): one canonical name per teacher, the spellings seen in files, and courses.
 
     {"people": [{"name": "Prof. M. M. Sufyan Beg", "aliases": ["Sufyan Sir", "M. M. Sufyan Beg"],
-                 "courses": ["BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design"]}]}
+                 "courses": ["Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design"]}]}
 
 match() maps any spelling ("Sufyan sir", "Prof. Sufyan Beg", "Dr M M Sufyan Beg") to the canonical name.
 New names are never added automatically: the sorter proposes them and a person approves (people.py add)."""
@@ -97,7 +97,8 @@ if __name__ == "__main__":
     import sej  # noqa: E402
     if sys.argv[1:2] == ["seed"]:
         st = sej.load_state()
-        r = seed(st, lambda p: "/".join(p.split("/")[:4]))
+        import rules  # noqa: E402
+        r = seed(st, rules.course_prefix)
         r.save()
         print(f"{len(r.people)} teachers → {r.path}")
         for x in r.people:

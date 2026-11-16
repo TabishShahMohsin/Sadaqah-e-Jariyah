@@ -56,7 +56,7 @@ check(not any(hp.BOOKISH.search(n) for n in ("Notebook_Unit1.pdf", "Facebook-Ads
 
 root = tempfile.mkdtemp()
 try:
-    C = "BTech-and-BE/Computer-Engineering/Sem3/COC2030_DS"
+    C = "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2030_DS"
     state = {}
     for rel, data in [
         (f"{C}/Unit-1/notes.pdf", pdf()),

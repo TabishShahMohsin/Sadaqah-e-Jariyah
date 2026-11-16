@@ -22,7 +22,24 @@ VIDEO_EXT = {"mp4", "mov", "webm", "mkv"}
 ALLOWED_EXT = {"pdf", "zip"} | OFFICE_EXT | SHEET_EXT | PHOTO_EXT | VIDEO_EXT | TEXT_EXT | LAB_EXT
 # What the archive publishes after conversion. .txt only as program output in lab Records.
 ARCHIVE_EXT = {"pdf", "jpg", "jpeg", "png", "csv", "mp4", "txt"} | CODE_EXT | LAB_EXT
-UMBRELLAS = {"BTech-and-BE", "Faculty-of-Science", "Faculty-of-Medicine"}  # umbrellas above the branch / programme folders: B.Tech & B.E. (ZHCET), then one per AMU faculty
+# umbrellas above the branch / programme folders, one per AMU faculty. B.Tech & B.E. (ZHCET) is a programme of the
+# Faculty of Engineering & Technology whose next level is the branch, so its umbrella is two folders deep.
+UMBRELLAS = {"Faculty-of-Engineering-and-Technology/BTech-and-BE", "Faculty-of-Science", "Faculty-of-Medicine"}
+
+
+def umbrella_depth(parts):
+    """How many leading folders of a path (as a list of parts) are its umbrella: 2, 1 or 0."""
+    if "/".join(parts[:2]) in UMBRELLAS:
+        return 2
+    return 1 if parts and parts[0] in UMBRELLAS else 0
+
+
+def course_prefix(path):
+    """The course folder a path sits in (or would): <umbrella>/<Branch>/<Term>/<Course>, or …/Shared-Courses/<Course>."""
+    parts = path.split("/")
+    k = umbrella_depth(parts)
+    n = k + 2 if parts[k:k + 1] == ["Shared-Courses"] else k + 3
+    return "/".join(parts[:n])
 
 SECTIONS = ["Syllabus", "Complete-Notes", "Unit-1", "Unit-2", "Unit-3", "Unit-4", "Unit-5",
             "PYQs-and-Assignments", "Books-and-Resources", "Manuals", "Records"]
@@ -112,8 +129,9 @@ def check_destination(dir_path, filename, original_ext, known_courses, new_cours
     if ext_of(filename) != original_ext.lower():
         return "file extension must not change"
     pre = []
-    if parts[0] in UMBRELLAS:  # 'BTech-and-BE/Branch/...': the umbrella is part of every catalog path
-        pre, parts = parts[:1], parts[1:]
+    k = umbrella_depth(parts)
+    if k:  # 'Faculty-of-Engineering-and-Technology/BTech-and-BE/Branch/...': the umbrella is part of every catalog path
+        pre, parts = parts[:k], parts[k:]
         if not parts:
             return "files go inside a branch"
     if not BRANCH_RE.match(parts[0]):

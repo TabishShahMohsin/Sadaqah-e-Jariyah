@@ -43,7 +43,7 @@ TOOLS = [
      "review (a person must look: say what to check; optional folder+name suggestion).",
      "input_schema": {"type": "object", "properties": {"decisions": {"type": "array", "items": {"type": "object", "properties": {
          "id": {"type": "string"}, "action": {"type": "string", "enum": ["place", "duplicate", "twin", "link", "reject", "review"]},
-         "folder": {"type": "string", "description": "e.g. BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3"},
+         "folder": {"type": "string", "description": "e.g. Faculty-of-Engineering-and-Technology/BTech-and-BE/Mechanical-Engineering/Sem4/MEC2132_Machine-Design-I/Unit-3"},
          "name": {"type": "string", "description": "file name per CONVENTIONS.md, with the file's extension"},
          "professor": {"type": "string"}, "author": {"type": "string"}, "year": {"type": "string", "description": "YYYY-YY"},
          "source": {"type": "string", "description": "where it came from if the upload says so, e.g. AMU Cloud"},
@@ -58,7 +58,7 @@ TOOLS = [
 ]
 
 SYSTEM = """You sort contributions to Sadaqah-e-Jariyah, an open archive of study material for AMU students: B.Tech/B.E. at ZHCET
-(under BTech-and-BE/) and, by faculty, other AMU programmes: BCA and MCA (under Faculty-of-Science/), MBBS at JNMC
+(under Faculty-of-Engineering-and-Technology/BTech-and-BE/) and, by faculty, other AMU programmes: BCA and MCA (under Faculty-of-Science/), MBBS at JNMC
 (under Faculty-of-Medicine/MBBS/Prof-<N>/, one folder per professional year).
 Every file you are given must end with exactly one decision. Work like a careful librarian:
 

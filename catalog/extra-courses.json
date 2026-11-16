@@ -1,6 +1,6 @@
 {
  "courses": {
-  "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3920_Communication-Lab-I": {
+  "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3920_Communication-Lab-I": {
    "title": "Communication Lab-I",
    "codes": [
     "ELC3920"
@@ -11,7 +11,7 @@
    "kind": "lab",
    "evidence": "department lab report covers and lab manual headings (shared by Afzal Malik, 2023-24)"
   },
-  "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3940_Communication-Lab-II": {
+  "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3940_Communication-Lab-II": {
    "title": "Communication Lab-II",
    "codes": [
     "ELC3940"
@@ -22,7 +22,7 @@
    "kind": "lab",
    "evidence": "'ELC3940 Communication Lab-II - List of Experiments', 2023-24, Department of Electronics Engineering"
   },
-  "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC4910_VLSI-and-Signal-Processing-Lab": {
+  "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC4910_VLSI-and-Signal-Processing-Lab": {
    "title": "VLSI and Signal Processing Lab",
    "codes": [
     "ELC4910"
@@ -33,7 +33,7 @@
    "kind": "lab",
    "evidence": "'ELC4910 list of experiments 2024-25' course outline and lab report cover"
   },
-  "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC2930_Instrumentation-Lab": {
+  "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC2930_Instrumentation-Lab": {
    "title": "Instrumentation Lab",
    "codes": [
     "ELC2930"
@@ -44,7 +44,7 @@
    "kind": "lab",
    "evidence": "lab report covers 'Instrumentation Lab Report, Subject Code ELC2930' (19ELB batch, via AMUPedia)"
   },
-  "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC2900_Computer-Application-Lab-I": {
+  "Faculty-of-Engineering-and-Technology/BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC2900_Computer-Application-Lab-I": {
    "title": "Computer Application Lab I",
    "codes": [
     "FTC2900"
@@ -55,7 +55,7 @@
    "kind": "lab",
    "evidence": "lab record covers 'Computer Application Lab I, FTC 2900' and the B.Tech III Sem 2021-22 time table (via AMUPedia)"
   },
-  "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC2920_Unit-Operations-Lab-I": {
+  "Faculty-of-Engineering-and-Technology/BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC2920_Unit-Operations-Lab-I": {
    "title": "Unit Operations Lab I",
    "codes": [
     "FTC2920"
@@ -66,7 +66,7 @@
    "kind": "lab",
    "evidence": "'Syllabus FTC2920 (Including COs)' and record cover 'Unit operations lab - I, COURSE CODE: FTC2920', B.Tech Food Technology IV Sem (via AMUPedia)"
   },
-  "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC2040_Food-Biochemistry": {
+  "Faculty-of-Engineering-and-Technology/BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC2040_Food-Biochemistry": {
    "title": "Food Biochemistry",
    "codes": [
     "FTC2040"

@@ -6,7 +6,7 @@ Merge duplicate course folders into one and fix folder titles.
     python3 tools/merge_courses.py PLAN.json --apply    # do it
 
 PLAN is a JSON list of {"to": <folder>, "from": [[<folder>, <kind>, <code>], ...], "why": <note>}, folders relative
-to the umbrella (BTech-and-BE/). <kind> says how files from that folder are named in the merged one:
+to the umbrella (Faculty-of-Engineering-and-Technology/BTech-and-BE/). <kind> says how files from that folder are named in the merged one:
 
     ""      same course and code (a misread folder name)  files keep their names
     "be"    the B.E. twin                                 _<code> is added before the extension
@@ -30,7 +30,7 @@ REPO = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 import sej  # noqa: E402
 
-U = "BTech-and-BE"
+U = "Faculty-of-Engineering-and-Technology/BTech-and-BE"
 CACHE_DIR = os.path.join(REPO, ".sej-cache")
 PROGS = os.path.join(REPO, "catalog", "programmes.json")
 SPARE = re.compile(r"_[2-9]$")

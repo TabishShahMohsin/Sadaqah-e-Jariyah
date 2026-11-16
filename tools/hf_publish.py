@@ -397,6 +397,9 @@ def cmd_push(a, root=REPO):
             commit([CommitOperationAdd(path_in_repo=q, path_or_fileobj=local[q]["file"]) for q in batch],
                    f"Add {len(batch)} files")
             batch, size = [], 0
+    if a.no_delete and deletes:
+        print(f"  keeping {len(deletes):,} files that are no longer published (--no-delete)")
+        deletes = []
     for i in range(0, len(deletes), 1000):
         if budget():
             return print("time is up; run again to continue")
@@ -404,7 +407,7 @@ def cmd_push(a, root=REPO):
         commit([CommitOperationDelete(path_in_repo=d) for d in part], f"Remove {len(part)} files no longer published")
     if not card_ok:
         commit([CommitOperationAdd(path_in_repo="README.md", path_or_fileobj=CARD.encode())], "Dataset card")
-    print("in sync")
+    print("in sync" + (" (nothing deleted)" if a.no_delete else ""))
     if not a.no_tag:
         print(f"release tag: {tag_release(api, repo)}")
 
@@ -483,13 +486,14 @@ def write_api(out, idx, pub, repo_id):
     def where(p):  # the same reading of a path the website does: branch, semester (or group), course, section
         parts = p.split("/")
         w = {}
-        if len(parts) > 2 and parts[0] in rules.UMBRELLAS:
-            w["branch"] = labels.get(parts[1], parts[1].replace("-", " "))
-            m = re.fullmatch(r"(Sem|Prof-)(\d+)", parts[2])
+        k = rules.umbrella_depth(parts)
+        if k and len(parts) > k + 1:
+            w["branch"] = labels.get(parts[k], parts[k].replace("-", " "))
+            m = re.fullmatch(r"(Sem|Prof-)(\d+)", parts[k + 1])
             if m:
                 w["professional" if m.group(1) == "Prof-" else "semester"] = int(m.group(2))
             else:
-                w["group"] = parts[2].strip("_").replace("-", " ")
+                w["group"] = parts[k + 1].strip("_").replace("-", " ")
         for i, part in enumerate(parts[:-1]):
             m = COURSE_RE.match(part)
             if m:
@@ -565,6 +569,7 @@ def main():
     p.add_argument("--budget", type=float, default=0, help="stop starting new commits after N seconds")
     p.add_argument("--allow-unscanned", action="store_true")
     p.add_argument("--no-tag", action="store_true", help="don't name this state of the dataset")
+    p.add_argument("--no-delete", action="store_true", help="leave files on Hugging Face that are no longer published")
     p.add_argument("--batch-mb", type=float, default=400, help="start a new commit once a batch reaches this size")
     p.add_argument("--skip-over", type=float, default=0, help="leave files bigger than this many MB for a later run")
     p = sub.add_parser("site"); p.add_argument("--out", default=os.path.join(REPO, "_dist"))

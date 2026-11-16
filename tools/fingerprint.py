@@ -5,7 +5,7 @@ archive already has, even on GitHub where the files themselves aren't present.
 
     python3 tools/fingerprint.py            # adds what's missing; safe to stop and run again
     python3 tools/fingerprint.py --budget 150   # stop after ~150 s (for short sessions)
-    python3 tools/fingerprint.py --prefix BTech-and-BE/Mechanical-Engineering/Sem4   # one part of the archive
+    python3 tools/fingerprint.py --prefix Faculty-of-Engineering-and-Technology/BTech-and-BE/Mechanical-Engineering/Sem4   # one part of the archive
 
 Writes catalog/fingerprints.jsonl.gz: per file {p, h, n (pages), tsig (text hash), mh (64-number text MinHash),
 vsig (24×32 first-page thumbnail)}. About 1.5 KB per file. Commit it with the catalog.

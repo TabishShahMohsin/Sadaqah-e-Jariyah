@@ -1,4 +1,4 @@
 # personal records (CV, resume, cover letter with phone, e-mail and address): kept in the archive, not published
-=BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/PYQs-and-Assignments/Z_Assignment_2022-23_COVER LETTER.docx
-=BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/PYQs-and-Assignments/Z_Assignment_2022-23_CV.docx
-=BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Records/resume.docx
+=Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/PYQs-and-Assignments/Z_Assignment_2022-23_COVER LETTER.docx
+=Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/EZH2910_Communication-Skills/PYQs-and-Assignments/Z_Assignment_2022-23_CV.docx
+=Faculty-of-Engineering-and-Technology/BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Records/resume.docx

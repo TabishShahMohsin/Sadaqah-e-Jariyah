@@ -85,17 +85,9 @@ function prep(node, path, parent) {
   if (node.course) S.courses.push(node);
   S.nodes.set(path, node);
 }
-// B.Tech & B.E. is a programme of the Faculty of Engineering & Technology, like BCA under Faculty-of-Science.
-// Its files stay at BTech-and-BE/… (links keep working); the faculty level is added here, in the tree only.
-const ENGG = 'Faculty-of-Engineering-and-Technology';
-function facultyOfEngineering() {
-  const r = S.root, bt = r.d.find(d => d.n === S.pg.umbrella);
-  if (!bt || S.nodes.has(ENGG)) return;
-  const v = { n: ENGG, p: ENGG, d: [bt], f: [], parent: r, count: bt.count, size: bt.size, latest: bt.latest, course: false };
-  bt.parent = v;
-  r.d = r.d.map(d => d === bt ? v : d).sort((a, b) => collator.compare(a.n, b.n));
-  S.nodes.set(ENGG, v);
-}
+// B.Tech & B.E. moved under its faculty on 2026-11-17: links to the old BTech-and-BE/… paths still open
+const MOVED = [['BTech-and-BE', 'Faculty-of-Engineering-and-Technology/BTech-and-BE']];
+const moved = p => { for (const [a, b] of MOVED) if (p === a || p.startsWith(a + '/')) return b + p.slice(a.length); return null; };
 const ancestors = node => { const a = []; for (let n = node; n && n.parent; n = n.parent) a.unshift(n); return a; };
 const courseOf = node => { for (let n = node; n; n = n.parent) if (n.course) return n; return null; };
 const hasCourses = node => node.d.some(d => d.course);
@@ -135,7 +127,11 @@ function route() {
   }
   closePreview();
   const node = S.nodes.get(p);
-  if (!node) { notFound(p); return; }
+  if (!node) {
+    const to = moved(p);
+    if (to && (S.nodes.has(to) || S.files.has(to))) { location.replace(href(to)); return; }
+    notFound(p); return;
+  }
   const course = courseOf(node);
   render(course || node);
   if (course && course !== node) {
@@ -324,7 +320,7 @@ function progPanel(node, p) {
 function dirView(node) {
   const progs = progsOf(node);
   if (progs.length) return branchView(node, progs);
-  const isBT = node.n === S.pg?.umbrella && node.parent?.n === ENGG;  // B.Tech & B.E.: every branch (and First Year, Shared Courses) as a card
+  const isBT = node.p === S.pg?.umbrella;  // B.Tech & B.E.: every branch (and First Year, Shared Courses) as a card
   const groups = isBT ? [] : node.d.filter(hasCourses).sort((a, b) => groupRank(a.n) - groupRank(b.n) || collator.compare(a.n, b.n));
   const terms = groups.filter(g => isTerm(g.n)).length;
   const loose = isBT ? node.d : node.d.filter(d => !hasCourses(d));
@@ -955,7 +951,7 @@ huggingface-cli download ${repo} --repo-type dataset --local-dir sej-files
 
 # one branch, semester or course
 huggingface-cli download ${repo} --repo-type dataset --local-dir sej-files \\
-  --include "BTech-and-BE/Computer-Engineering/Sem5/*"`) : ''}
+  --include "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/*"`) : ''}
     </section>
     <section class="api-sec">
       <h2 class="label">API</h2>
@@ -1356,9 +1352,8 @@ async function boot() {
     S.root = idx.root;
     S.pg = idx.programmes || null;
     S.sources = idx.sources || [];
-    if (S.pg) Object.assign(NAMES, S.pg.labels || {}, { [S.pg.umbrella]: 'B.Tech & B.E.', [ENGG]: 'Faculty of Engineering & Technology' }, S.pg.umbrellas || {});
+    if (S.pg) Object.assign(NAMES, S.pg.labels || {}, { 'BTech-and-BE': 'B.Tech & B.E.' }, S.pg.umbrellas || {});
     prep(S.root, '', null);
-    if (S.pg) facultyOfEngineering();
   } catch (e) {
     const local = /^(localhost|127\.|\[::1\]|)$/.test(location.hostname);
     $('#view').innerHTML = `<div class="loading">Couldn’t load the archive index (${esc(e.message)}).<br><br>${local ? 'Start the site with <code>python3 serve.py</code> from the repository folder.' : 'Please check your connection and <a href="" onclick="location.reload();return false">reload</a>.'}</div>`;

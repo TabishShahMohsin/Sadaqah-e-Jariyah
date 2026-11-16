@@ -2,7 +2,6 @@
 import json
 from collections import Counter, defaultdict
 
-UMBRELLAS = {"BTech-and-BE", "Faculty-of-Science", "Faculty-of-Medicine"}  # mirrors tools/rules.py
 
 LABEL = {"place": "Placed", "credit": "Already in the archive (credited)", "duplicate": "Already in the archive (credited)",
          "twin": "Copy of another file in this upload", "link": "Link entries", "review": "Needs a person",
@@ -25,7 +24,8 @@ def coverage_ok(items):
 
 def course_of(path):
     parts = path.split("/")
-    k = 1 if parts[0] in UMBRELLAS else 0
+    import rules  # tools/ is on sys.path when the sorter runs
+    k = rules.umbrella_depth(parts)
     return "/".join(parts[:k + 3]) if len(parts) > k + 3 else "/".join(parts[:-1])
 
 

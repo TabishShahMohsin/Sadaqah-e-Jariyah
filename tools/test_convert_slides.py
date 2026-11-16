@@ -30,7 +30,7 @@ try:
     cs.WORK = os.path.join(root, ".sej-cache", "slides")
     cs.RESULTS = os.path.join(cs.WORK, "results.json")
     os.makedirs(cs.WORK)
-    C = "BTech-and-BE/Computer-Engineering/Sem3/COC2062_DSA/Unit-1"
+    C = "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2062_DSA/Unit-1"
 
     def put(rel, data):
         p = os.path.join(root, rel)

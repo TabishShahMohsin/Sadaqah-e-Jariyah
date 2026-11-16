@@ -24,8 +24,10 @@ that breaks a rule (older material is brought in line over time; the rules are n
 ## 1. Folder tree
 
 ```
-BTech-and-BE/                   umbrella for B.Tech & B.E. (ZHCET)
-Faculty-of-Science/             one umbrella per AMU faculty, named after it; its programmes (BCA, MCA) sit where B.Tech has branches
+Faculty-of-<Name>/              one folder per AMU faculty; its programmes sit inside it
+Faculty-of-Engineering-and-Technology/BTech-and-BE/
+                                B.Tech & B.E. (ZHCET); the umbrella is these two folders, branches sit inside
+Faculty-of-Science/             BCA, MCA: each programme sits where a B.Tech branch does
 Faculty-of-Medicine/            MBBS at JNMC: MBBS/Prof-1 … Prof-4 (professional years) in place of semesters
  <Branch>/
   _Curriculum/                  course structures, syllabi bundles, notices

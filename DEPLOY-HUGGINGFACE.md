@@ -56,7 +56,7 @@ anything no longer published is deleted. Deleted files stay in the dataset's git
   fetched again: `huggingface-cli download TabishShahMohsin/sej-files --repo-type dataset --revision v2026-11-04`.
 * **Nothing is overwritten or deleted on this Mac.** Files that are replaced (e.g. slides converted to PDF) move to
   `_Originals/` at the same path; the change set records their sha256, and every such change can be undone.
-* **Back up the originals** (`BTech-and-BE/`, `_Originals/`, `_Sources/`) somewhere other than this Mac, e.g. an
+* **Back up the originals** (`Faculty-of-Engineering-and-Technology/BTech-and-BE/`, `_Originals/`, `_Sources/`) somewhere other than this Mac, e.g. an
   external drive with Time Machine: Hugging Face has only the published copies, not the originals.
 
 ## Slides → PDF
