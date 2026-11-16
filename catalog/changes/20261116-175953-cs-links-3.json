@@ -1,0 +1,56 @@
+{
+ "id": "20261116-175953-cs-links-3",
+ "created": "2026-11-16T17:59:53+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "credit": "Mohd Rameez Khan",
+  "note": "links for BCA/MCA material that could not be copied"
+ },
+ "ops": [
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Electives/CAMS2E09_Web-Based-Programming/Books-and-Resources/MIT-OCW_15-561_Information-Technology-Essentials.link",
+   "url": "https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/pages/lecture-notes",
+   "t": 1794851993,
+   "meta": {
+    "url": "https://ocw.mit.edu/courses/15-561-information-technology-essentials-spring-2005/pages/lecture-notes",
+    "title": "MIT OpenCourseWare 15.561 Information Technology Essentials (lecture notes, incl. 'Web technologies')",
+    "note": "The upload had the 'Web technologies' lecture from this MIT course; MIT publishes it free on OpenCourseWare."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem1/CAMS1004_Analysis-and-Design-of-Information-Systems/Books-and-Resources/Training-Course_OOAD-with-UML_e-Macao.link",
+   "url": "https://lissi.cs.uns.edu.ar/?p=2210",
+   "t": 1794851993,
+   "meta": {
+    "url": "https://lissi.cs.uns.edu.ar/?p=2210",
+    "title": "Object-Oriented Analysis and Design with UML: a training course (Ojo & Estevez, UNU-IIST e-Macao report 19)",
+    "note": "The upload had this 589-page course; linked to its publication page."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem3/CAMS3004_Data-Science-Using-Python/Books-and-Resources/Swayam_Data-Science-Using-Python.link",
+   "url": "https://classcentral.com/course/swayam-data-science-using-python-292953",
+   "t": 1794851993,
+   "meta": {
+    "url": "https://classcentral.com/course/swayam-data-science-using-python-292953",
+    "title": "Swayam course: Data Science Using Python (Prof. Faisal Anwer and Prof. Mohammad Nadeem)",
+    "note": "The course's weekly Swayam assignments in the upload were one student's account pages; the course itself is linked."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem1/CAMS1003_Database-Management-System/Books-and-Resources/YouTube-Playlist_Swayam-DBMS-Lectures.link",
+   "url": "https://www.youtube.com/playlist?list=PLfb_-mae180jPa8Ak5VEalqw2oDYl4v_V",
+   "t": 1794851993,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLfb_-mae180jPa8Ak5VEalqw2oDYl4v_V",
+    "title": "Swayam DBMS lecture playlist (YouTube)",
+    "note": "From the upload's 'Swayam Playlist Link' note."
+   }
+  }
+ ]
+}

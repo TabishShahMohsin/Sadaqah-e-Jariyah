@@ -1,0 +1,23 @@
+{
+ "id": "20261116-181037-book-links-2",
+ "created": "2026-11-16T18:10:37+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "book link (shared course)"
+ },
+ "ops": [
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Books-and-Resources/Book_Fundamentals-of-Management_8e.link",
+   "url": "https://openlibrary.org/search?q=Fundamentals%20of%20Management%20Griffin",
+   "t": 1794852637,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Fundamentals%20of%20Management%20Griffin",
+    "title": "Book: Fundamentals of Management (Griffin, 8th edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  }
+ ]
+}

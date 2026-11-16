@@ -407,6 +407,24 @@
    "programme": "journal article (Journal of Harbin Engineering University) used as a reference",
    "credit": "Mohd Rameez Khan",
    "why": "published article without a text layer; used by the AMU MCA mini project (CAMS3P01)"
+  },
+  {
+   "path": "Other-Sources/Programming-in-PHP_Vasanth.pdf",
+   "size": 1951487,
+   "sha256": "3810917cb5434b7350d5f4d8c4e7a043fd9a984d5f7ada8867a25f1374c43f4e",
+   "from": "cs-mca: AMU-MCA_2024-26_Mohd-Rameez-Khan/2nd Semester/3 - CAMS-2E09 - Web Based Programming/Notes/18 - Programming in PHP.pdf",
+   "programme": "177-page PHP course book credited to \"Vasanth\" (source unknown)",
+   "credit": "Mohd Rameez Khan",
+   "why": "published-looking material with no findable original; filed by an AMU MCA student under CAMS2E09"
+  },
+  {
+   "path": "Other-Sources/IP-Security_Compiled-Lecture-Slides.pdf",
+   "size": 8294629,
+   "sha256": "975785e74b12a2928c277aa355c3e12ab28732d2474ff5741ad9d61ea8f5bf13",
+   "from": "cs-mca: AMU-MCA_2024-26_Mohd-Rameez-Khan/3rd Semester/5 - CAMS-3E02 - Network Programming/Notes/Unit - 4/Extras/IP Security.pdf",
+   "programme": "418-page compilation of IP Security lecture slides (based on Stallings, Cryptography and Network Security)",
+   "credit": "Mohd Rameez Khan",
+   "why": "third-party slides with no single original; filed under CAMS3E02"
   }
  ],
  "links": [

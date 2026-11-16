@@ -1,0 +1,2324 @@
+{
+ "id": "20261116-181029-book-links",
+ "created": "2026-11-16T18:10:29+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "Book pass over earlier collections: each book (or chapter, or solution manual of a book) that the archive could not publish now links to its Maulana Azad Library catalogue entry, or to Open Library when the library lacks it."
+ },
+ "ops": [
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/Books-and-Resources/Library_Microelectronics_2e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=361681",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=361681",
+    "title": "In the Maulana Azad Library: Microelectronics, Behzad Razavi, 2nd ed (Wiley India 2015)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/Books-and-Resources/Book_Elements-of-Electromagnetics.link",
+   "url": "https://openlibrary.org/search?q=Elements%20of%20Electromagnetics%20Sadiku",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Elements%20of%20Electromagnetics%20Sadiku",
+    "title": "Book: Elements of Electromagnetics (Sadiku) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2512_Electromagnetics/Books-and-Resources/Library_Principles-of-Electromagnetics_6e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=364506",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=364506",
+    "title": "In the Maulana Azad Library: Principles of electromagnetics, Sadiku, Matthew N. O, 6th ed (Oxford Univ. Pr. 2017)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELA2432_Representation-and-Analysis-of-Random-Signals/Books-and-Resources/Library_Communication-Systems_4e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=154558",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=154558",
+    "title": "In the Maulana Azad Library: Communication systems, Simon Haykin, 4th ed (John Wiley 2006)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Books-and-Resources/Library_Engineering-Circuit-Analysis.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=297025",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=297025",
+    "title": "In the Maulana Azad Library: Engineering circuit analysis, William H.Hayt, 8th ed (McGraw Hill Education 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Books-and-Resources/Library_Fundamentals-of-Electric-Circuits.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=357425",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=357425",
+    "title": "In the Maulana Azad Library: Fundamentals of electric circuits, Charles K. Alexander, 6th ed (McGraw Hill 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Books-and-Resources/Library_Fundamentals-of-Electric-Circuits_3e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=357425",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=357425",
+    "title": "In the Maulana Azad Library: Fundamentals of electric circuits, Charles K. Alexander, 6th ed (McGraw Hill 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (3rd edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2112_Electrical-Machines-I/Books-and-Resources/Library_Electric-Machines.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=329404",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=329404",
+    "title": "In the Maulana Azad Library: Electric Machines : A Textbook, Ashfaq Hussain, 2nd ed",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Books-and-Resources/Library_Signals-and-Systems_2e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=329156",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=329156",
+    "title": "In the Maulana Azad Library: Signals and Systems : A Textbook, Simon Haykin, 2nd ed",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/Books-and-Resources/Book_Elementary-Principles-of-Chemical-Processes.link",
+   "url": "https://openlibrary.org/search?q=Elementary%20Principles%20of%20Chemical%20Processes%20Felder",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Elementary%20Principles%20of%20Chemical%20Processes%20Felder",
+    "title": "Book: Elementary Principles of Chemical Processes (Felder) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/Books-and-Resources/Library_Basic-Principles-and-Calculations-in-Chemical-Engineering.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=525301",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=525301",
+    "title": "In the Maulana Azad Library: Basic principles and calculations in chemical engineering, David Mautner Himmelblau, 7th (Prentice Hall C2009)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/Books-and-Resources/Library_Basic-Principles-and-Calculations-in-Chemical-Engineering_7e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=525301",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=525301",
+    "title": "In the Maulana Azad Library: Basic principles and calculations in chemical engineering, David Mautner Himmelblau, 7th (Prentice Hall C2009)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (7th edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2042_Fluid-Particle-Operations/Books-and-Resources/Library_Unit-Operations-of-Chemical-Engineering_5e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=470264",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=470264",
+    "title": "In the Maulana Azad Library: Unit operations of chemical engineering, Warren L. McCabe, 5th ed. (McGraw-Hill c1998)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/ACA2120_Material-Science-and-Engineering-Materials/Books-and-Resources/Library_Physical-Chemistry.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=367620",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=367620",
+    "title": "In the Maulana Azad Library: Principles of Physical Chemistry : comprehensive covering the B.Sc. and M.Sc. syllabi prescribed, the UGC, 48th ed (Vishal Pubs. 2020)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHH2130_Social-Cultural-and-Educational-Movement-of-India/Books-and-Resources/NIOS_Indian-Culture-and-Heritage.link",
+   "url": "https://nios.ac.in/online-course-material/secondary-courses.aspx",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://nios.ac.in/online-course-material/secondary-courses.aspx",
+    "title": "NIOS Indian Culture and Heritage (course 223): free official course material, under Secondary courses",
+    "note": "The upload had modules of this NIOS course; NIOS publishes them free on its site."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2052_Chemical-Engineering-Thermodynamics/Books-and-Resources/Library_Introduction-to-Chemical-Engineering-Thermodynamics_6e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=142701",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=142701",
+    "title": "In the Maulana Azad Library: Introduction to chemical engineering thermodynamics : in SI units, J. M. Smith, 6th ed. (Tata McGraw- Hill 2003)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2052_Chemical-Engineering-Thermodynamics/Books-and-Resources/Library_Introduction-to-Chemical-Engineering-Thermodynamics_8e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=354102",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=354102",
+    "title": "In the Maulana Azad Library: Introduction to chemical engineering thermodynamics, J. M. Smith, 8th ed",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2052_Chemical-Engineering-Thermodynamics/Books-and-Resources/Book_A-Textbook-of-Chemical-Engineering-Thermodynamics_2e.link",
+   "url": "https://openlibrary.org/search?q=A%20Textbook%20of%20Chemical%20Engineering%20Thermodynamics%20Narayanan",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=A%20Textbook%20of%20Chemical%20Engineering%20Thermodynamics%20Narayanan",
+    "title": "Book: A Textbook of Chemical Engineering Thermodynamics (Narayanan, 2nd edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2052_Chemical-Engineering-Thermodynamics/Books-and-Resources/Library_Introduction-to-Chemical-Engineering-Thermodynamics_7e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=525300",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=525300",
+    "title": "In the Maulana Azad Library: Introduction to chemical engineering Thermodynamics, J. M. Smith, 7th ed (Tata McGraw Hill C2011)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Books-and-Resources/Book_CVs-Resumes-and-LinkedIn-A-Guide-to-Professional-English.link",
+   "url": "https://openlibrary.org/search?q=CVs%2C%20Resumes%2C%20and%20LinkedIn%3A%20A%20Guide%20to%20Professional%20English%20Wallwork",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=CVs%2C%20Resumes%2C%20and%20LinkedIn%3A%20A%20Guide%20to%20Professional%20English%20Wallwork",
+    "title": "Book: CVs, Resumes, and LinkedIn: A Guide to Professional English (Wallwork) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Books-and-Resources/Book_Meetings-Negotiations-and-Socializing-A-Guide-to-Professional-English.link",
+   "url": "https://openlibrary.org/search?q=Meetings%2C%20Negotiations%2C%20and%20Socializing%3A%20A%20Guide%20to%20Professional%20English%20Wallwork",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Meetings%2C%20Negotiations%2C%20and%20Socializing%3A%20A%20Guide%20to%20Professional%20English%20Wallwork",
+    "title": "Book: Meetings, Negotiations, and Socializing: A Guide to Professional English (Wallwork) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/Books-and-Resources/Library_Unit-Operations-of-Chemical-Engineering.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=302509",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=302509",
+    "title": "In the Maulana Azad Library: Unit operations of chemical engineering, McCabe, Warren L (McGraw-Hill Education 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/Books-and-Resources/Library_Transport-Processes-and-Unit-Operations.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=142625",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=142625",
+    "title": "In the Maulana Azad Library: Transport processes and unit operations, Christie J. Geankoplis, 3rd ed. (Prentice-Hall of India 2003)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/Books-and-Resources/Library_Unit-Operations-of-Chemical-Engineering_5e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=470264",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=470264",
+    "title": "In the Maulana Azad Library: Unit operations of chemical engineering, Warren L. McCabe, 5th ed. (McGraw-Hill c1998)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Books-and-Resources/Library_Advanced-Mathematics-for-Engineers.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=164978",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=164978",
+    "title": "In the Maulana Azad Library: Advanced mathematics for engineers, Chandrika Prasad, 14th ed. (Ppthishala private 1998)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AMS2312_Higher-Mathematics/Books-and-Resources/Library_Advanced-Mathematics-for-Engineers.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=164978",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=164978",
+    "title": "In the Maulana Azad Library: Advanced mathematics for engineers, Chandrika Prasad, 14th ed. (Ppthishala private 1998)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2122_Kinematics-of-Machines/Books-and-Resources/Library_Theory-of-Mechanisms-and-Machines.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=255452",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=255452",
+    "title": "In the Maulana Azad Library: Theory of machines and mechanisms SI edition, John J. Uicker; Gordon R. Pennock; Joseph E. Shigley (Oxford Univ. Pr 2012)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2212_Applied-Thermodynamics/Books-and-Resources/Library_Thermodynamics-An-Engineering-Approach.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=539060",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=539060",
+    "title": "In the Maulana Azad Library: Thermodynamics : an engineering approach in SI Units, Yunus A. Cengel (Mc-Graw Hill 2022)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEA2422-AEA2422_Experimental-Methods-and-Analysis/Books-and-Resources/Library_Instrumentation-Measurement-and-Analysis_3e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=296929",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=296929",
+    "title": "In the Maulana Azad Library: Instrumentation measurement and analysis, B.C. Nakra, 3rd ed (McGraw Hill Education 2015)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2322_Fluid-Mechanics/Books-and-Resources/Library_Introduction-to-Fluid-Mechanics_6e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=598092",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=598092",
+    "title": "In the Maulana Azad Library: Introduction to Fluid Mechanics : business and management research, 10th ed. (Wiley India 2021)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (6th edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/AEC2322_Fluid-Mechanics/Books-and-Resources/Library_Fluid-Mechanics_8e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=365417",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=365417",
+    "title": "In the Maulana Azad Library: Fluid mechanics : in SI Units, Frank M. White ; adapted by Rhim Yoon Chul, 8th ed (Tata McGraw-Hill 2018)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/MEC2412_Manufacturing-Technology-I/Books-and-Resources/Library_Production-Engineering.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=369098",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=369098",
+    "title": "In the Maulana Azad Library: Production engineering & Science, P.C. Pandey, 7th ed (Standard Publishers Distributors 2003)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/AEC3292_Electric-and-Hybrid-Vehicles/Books-and-Resources/Book_Electric-and-Hybrid-Vehicles.link",
+   "url": "https://openlibrary.org/search?q=Electric%20and%20Hybrid%20Vehicles%20Denton",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Electric%20and%20Hybrid%20Vehicles%20Denton",
+    "title": "Book: Electric and Hybrid Vehicles (Denton) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Books-and-Resources/Library_Machine-Design.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=598124",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=598124",
+    "title": "In the Maulana Azad Library: Machine Design : lesser known monuments, 3rd ed. (McGraw Hill 2016)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Books-and-Resources/Library_Mechanical-Engineering-Design_9e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=297079",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=297079",
+    "title": "In the Maulana Azad Library: Shigley`s mechanical engineering design : si unit, Richard G.Budynas, 9th ed (McGraw Hill Education 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2222_Applied-Thermodynamics-and-Heat-Transfer/Books-and-Resources/Library_Fundamentals-of-Thermodynamics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=539489",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=539489",
+    "title": "In the Maulana Azad Library: Fundamentals of Thermodynamics : an Indian adaptation, Claus Borgnakke (Wiley India 2022)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2222_Applied-Thermodynamics-and-Heat-Transfer/Books-and-Resources/Library_Fundamentals-of-Thermodynamics_7e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=301604",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=301604",
+    "title": "In the Maulana Azad Library: Fundamentals of thermodynamics, Claus Borgnakke, 7th ed (Wiley 2015)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2222_Applied-Thermodynamics-and-Heat-Transfer/Books-and-Resources/Library_Applied-Thermodynamics-and-Engineering_5e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=470594",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=470594",
+    "title": "In the Maulana Azad Library: Applied engineering thermodynamics, T. Roy Choudhury (Tata McGraw-Hill c1973)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (5th edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2222_Applied-Thermodynamics-and-Heat-Transfer/Books-and-Resources/Book_Fundamentals-of-Engineering-Thermodynamics_5e.link",
+   "url": "https://openlibrary.org/search?q=Fundamentals%20of%20Engineering%20Thermodynamics%20Moran",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Fundamentals%20of%20Engineering%20Thermodynamics%20Moran",
+    "title": "Book: Fundamentals of Engineering Thermodynamics (Moran, 5th edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2222_Applied-Thermodynamics-and-Heat-Transfer/Books-and-Resources/Library_Thermodynamics-An-Engineering-Approach.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=539060",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=539060",
+    "title": "In the Maulana Azad Library: Thermodynamics : an engineering approach in SI Units, Yunus A. Cengel (Mc-Graw Hill 2022)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Books-and-Resources/Library_Materials-Science-and-Engineering-An-Introduction.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=154039",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=154039",
+    "title": "In the Maulana Azad Library: Meterials science and engineering : an introduction, William D. Callister, 6th ed. (Wiley India 2006)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem3/MEC2432_Material-Science/Books-and-Resources/Library_Materials-Science-and-Engineering-An-Introduction_10e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=154039",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=154039",
+    "title": "In the Maulana Azad Library: Meterials science and engineering : an introduction, William D. Callister, 6th ed. (Wiley India 2006)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (10th edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/EEA2042_Automotive-Electrical-and-Electronic-System/Books-and-Resources/Book_Electrical-and-Electronic-Principles.link",
+   "url": "https://openlibrary.org/search?q=Electrical%20and%20Electronic%20Principles",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Electrical%20and%20Electronic%20Principles",
+    "title": "Book: Electrical and Electronic Principles - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AMS2622_Numerical-Analysis-Transforms-Probability/Books-and-Resources/Book_Numerical-Methods.link",
+   "url": "https://openlibrary.org/search?q=Numerical%20Methods%20Venkatraman",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Numerical%20Methods%20Venkatraman",
+    "title": "Book: Numerical Methods (Venkatraman) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem4/AMS2622_Numerical-Analysis-Transforms-Probability/Books-and-Resources/Library_Introductory-Methods-of-Numerical-Analysis_5e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=314459",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=314459",
+    "title": "In the Maulana Azad Library: Introductory Methods of Numerical Analysis, S.S. Sastry, 5th ed (PHI 2013)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2452_Vehicle-Body-Design/Books-and-Resources/Book_Introduction-to-Human-Factors-and-Ergonomics_4e.link",
+   "url": "https://openlibrary.org/search?q=Introduction%20to%20Human%20Factors%20and%20Ergonomics%20Bridger",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Introduction%20to%20Human%20Factors%20and%20Ergonomics%20Bridger",
+    "title": "Book: Introduction to Human Factors and Ergonomics (Bridger, 4th edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2452_Vehicle-Body-Design/Books-and-Resources/Book_Automotive-Ergonomics-Driver-Vehicle-Interaction.link",
+   "url": "https://openlibrary.org/search?q=Automotive%20Ergonomics%3A%20Driver-Vehicle%20Interaction%20Gkikas",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Automotive%20Ergonomics%3A%20Driver-Vehicle%20Interaction%20Gkikas",
+    "title": "Book: Automotive Ergonomics: Driver-Vehicle Interaction (Gkikas) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2452_Vehicle-Body-Design/Books-and-Resources/Book_Ergonomics-in-the-Automotive-Design-Process.link",
+   "url": "https://openlibrary.org/search?q=Ergonomics%20in%20the%20Automotive%20Design%20Process%20Bhise",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Ergonomics%20in%20the%20Automotive%20Design%20Process%20Bhise",
+    "title": "Book: Ergonomics in the Automotive Design Process (Bhise) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2452_Vehicle-Body-Design/Books-and-Resources/Book_Indian-Anthropometric-Dimensions-for-Ergonomic-Design-Practice.link",
+   "url": "https://openlibrary.org/search?q=Indian%20Anthropometric%20Dimensions%20for%20Ergonomic%20Design%20Practice%20Chakrabarti",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Indian%20Anthropometric%20Dimensions%20for%20Ergonomic%20Design%20Practice%20Chakrabarti",
+    "title": "Book: Indian Anthropometric Dimensions for Ergonomic Design Practice (Chakrabarti) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2452_Vehicle-Body-Design/Books-and-Resources/Library_Shigley-s-Mechanical-Engineering-Design_10e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=626195",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=626195",
+    "title": "In the Maulana Azad Library: Shigley's Mechanical Engineering Design, Richard G. Budynas, 11th.ed. (McGraw Hill Education (India) Pvt.Ltd. 2021)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (10th edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AEC2452_Vehicle-Body-Design/Books-and-Resources/Book_Measurement-Instrumentation-and-Sensors-Handbook.link",
+   "url": "https://openlibrary.org/search?q=Measurement%2C%20Instrumentation%2C%20and%20Sensors%20Handbook",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Measurement%2C%20Instrumentation%2C%20and%20Sensors%20Handbook",
+    "title": "Book: Measurement, Instrumentation, and Sensors Handbook - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/MEE4430-EME453_Numerical-Control-of-Machine-Tools/Books-and-Resources/Book_CNC-Machines.link",
+   "url": "https://openlibrary.org/search?q=CNC%20Machines%20Pabla",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=CNC%20Machines%20Pabla",
+    "title": "Book: CNC Machines (Pabla) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Books-and-Resources/Library_Design-of-Machine-Elements_3e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=275379",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=275379",
+    "title": "In the Maulana Azad Library: Design of machine elements, V.B. Bhandari, 3rd ed (McGraw Hill 2013)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Books-and-Resources/Library_A-Textbook-of-Machine-Design.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=270581",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=270581",
+    "title": "In the Maulana Azad Library: Textbook of machine design (S.I. Units), Khurmi, R.S (Eurasia Pub. House 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Books-and-Resources/Library_Shigley-s-Mechanical-Engineering-Design_8e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=626195",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=626195",
+    "title": "In the Maulana Azad Library: Shigley's Mechanical Engineering Design, Richard G. Budynas, 11th.ed. (McGraw Hill Education (India) Pvt.Ltd. 2021)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (8th edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Books-and-Resources/Book_Machine-Design-Data-Book.link",
+   "url": "https://openlibrary.org/search?q=Machine%20Design%20Data%20Book%20Bhandari",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Machine%20Design%20Data%20Book%20Bhandari",
+    "title": "Book: Machine Design Data Book (Bhandari) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/AEC3342_Automotive-Hydraulic-and-Pneumatic-Systems/Books-and-Resources/Book_Fluid-Power-with-Applications_7e.link",
+   "url": "https://openlibrary.org/search?q=Fluid%20Power%20with%20Applications%20Esposito",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Fluid%20Power%20with%20Applications%20Esposito",
+    "title": "Book: Fluid Power with Applications (Esposito, 7th edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/Books-and-Resources/Library_Theory-of-Machines.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=251062",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=251062",
+    "title": "In the Maulana Azad Library: Theory of machines, R. S. Khurmi (and) J. K. Gupta, Mult. rev.updt.ed (Eurasia Pub. 2012)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/Books-and-Resources/Library_Mechanism-and-Machine-Theory.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=321119",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=321119",
+    "title": "In the Maulana Azad Library: Mechanism and machine theory, J. S. Rao, 2nd ed. (448521 2015)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/Books-and-Resources/Library_Theory-of-Machines_3e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=170105",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=170105",
+    "title": "In the Maulana Azad Library: Theory of machines, S.S. Rattan, 3rd ed. (Tata Mcgraw-Hill Pub. 2010)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem6/MEC3122-AEC3122_Machinery-Dynamics/Books-and-Resources/Library_Theory-of-Machines_14e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=161654",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=161654",
+    "title": "In the Maulana Azad Library: Theory of machines, R. S. Khurmi (and) J. K. Gupta, 14th ed. (Eurasia Pub. 2009)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COO4460_Selected-Topics-in-Computer-Engineering-I/Books-and-Resources/Library_Operating-System-Concepts_9e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=538924",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=538924",
+    "title": "In the Maulana Azad Library: Operating System Concepts, Abraham Silberschatz (Wiley 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (9th edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem7/MEC4112_Mechanical-Vibrations/Books-and-Resources/Library_Mechanical-Vibrations_6e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=362492",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=362492",
+    "title": "In the Maulana Azad Library: Mechanical vibrations : in SI Units, Singiresu S. Rao ; SI conversion by Philip Griffin, 6th ed (Pearson Education 2016)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2012-PKC2112_Basic-Principles-of-Chemical-Engineering/Books-and-Resources/Book_Elementary-Principles-of-Chemical-Processes_3e.link",
+   "url": "https://openlibrary.org/search?q=Elementary%20Principles%20of%20Chemical%20Processes%20Felder",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Elementary%20Principles%20of%20Chemical%20Processes%20Felder",
+    "title": "Book: Elementary Principles of Chemical Processes (Felder, 3rd edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2902_Computer-Applications-Lab/Books-and-Resources/Book_Chemical-Engineering-Computation-with-MATLAB_2e.link",
+   "url": "https://openlibrary.org/search?q=Chemical%20Engineering%20Computation%20with%20MATLAB%20Yeo",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Chemical%20Engineering%20Computation%20with%20MATLAB%20Yeo",
+    "title": "Book: Chemical Engineering Computation with MATLAB (Yeo, 2nd edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032-PKC2152_Fluid-Mechanics/Books-and-Resources/Library_Fluid-Mechanics_4e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=615059",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=615059",
+    "title": "In the Maulana Azad Library: Fluid mechanics, Frank M. White, 9th ed. (McGraw-Hill; second reprint 2024)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (4th edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032-PKC2152_Fluid-Mechanics/Books-and-Resources/Library_A-Textbook-of-Fluid-Mechanics-and-Hydraulic-Machines.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=540115",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=540115",
+    "title": "In the Maulana Azad Library: Textbook of Fluid mechanics and Hydraulic machines : in SI units R.K.Rajput, Rajput, R. K (S.Chand 2018)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032-PKC2152_Fluid-Mechanics/Books-and-Resources/Book_Fundamentals-of-Fluid-Mechanics_6e.link",
+   "url": "https://openlibrary.org/search?q=Fundamentals%20of%20Fluid%20Mechanics%20Munson",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Fundamentals%20of%20Fluid%20Mechanics%20Munson",
+    "title": "Book: Fundamentals of Fluid Mechanics (Munson, 6th edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032-PKC2152_Fluid-Mechanics/Books-and-Resources/Library_Fluid-Mechanics-and-Hydraulic-Machines.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=296972",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=296972",
+    "title": "In the Maulana Azad Library: Textbook of fluid mechanics and hydraulic machines: S. I. units, Bansal, R. K (Laxmi Pubs. 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/Books-and-Resources/Library_Heat-Transfer_10e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=147500",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=147500",
+    "title": "In the Maulana Azad Library: Heat transfer, J.P.Holman, 9th ed. (Tata McGraw-Hill 2004)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (10th edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/Books-and-Resources/Library_Heat-Transfer.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=147500",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=147500",
+    "title": "In the Maulana Azad Library: Heat transfer, J.P.Holman, 9th ed. (Tata McGraw-Hill 2004)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/Books-and-Resources/Library_Heat-Transfer-A-Practical-Approach.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=156304",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=156304",
+    "title": "In the Maulana Azad Library: Heat and mass transfer : a practical approach, Yunus A. Cengel, 3rd ed. (Tata McGraw-Hill 2007)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/Books-and-Resources/Book_Heat-and-Mass-Transfer-Solved-Problems.link",
+   "url": "https://openlibrary.org/search?q=Heat%20and%20Mass%20Transfer%20Solved%20Problems%20Raveendiran",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Heat%20and%20Mass%20Transfer%20Solved%20Problems%20Raveendiran",
+    "title": "Book: Heat and Mass Transfer Solved Problems (Raveendiran) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem4/ELC2152_Analog-Electronics/Books-and-Resources/Book_Principles-of-Active-Network-Synthesis-and-Design.link",
+   "url": "https://openlibrary.org/search?q=Principles%20of%20Active%20Network%20Synthesis%20and%20Design%20Daryanani",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Principles%20of%20Active%20Network%20Synthesis%20and%20Design%20Daryanani",
+    "title": "Book: Principles of Active Network Synthesis and Design (Daryanani) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3212_Control-Systems/Books-and-Resources/Library_Control-Systems-Theory-and-Applications.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=365710",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=365710",
+    "title": "In the Maulana Azad Library: Control systems theory and applications, Smarajit, 2nd ed (Pearson 2015)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/Books-and-Resources/Library_A-Guide-to-MATLAB-for-Beginners-and-Experienced-Users.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=312536",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=312536",
+    "title": "In the Maulana Azad Library: A Guide to Matlab : For beginners and Experienced Users, Brian R. Hunt, 3rd (Cambridge University Press 2006)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/Books-and-Resources/Book_Introduction-to-MATLAB-for-Engineers.link",
+   "url": "https://openlibrary.org/search?q=Introduction%20to%20MATLAB%20for%20Engineers",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Introduction%20to%20MATLAB%20for%20Engineers",
+    "title": "Book: Introduction to MATLAB for Engineers - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/Books-and-Resources/Library_Getting-Started-with-MATLAB.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=157359",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=157359",
+    "title": "In the Maulana Azad Library: Getting started with MATLAB 7 : a quick introduction for scientists and engineers, Rudra Pratap (Oxford Univ. pr. 2007)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/Books-and-Resources/Library_MATLAB-An-Introduction-with-Applications_4e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=342843",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=342843",
+    "title": "In the Maulana Azad Library: MATLAB : an introduction with applications, Amos Gilat, 4th ed",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/CHO4260_Matlab-for-Scientists-and-Engineers/Books-and-Resources/Library_Mastering-MATLAB_8e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=295457",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=295457",
+    "title": "In the Maulana Azad Library: Mastering Matlab 7, Duane Hanselman (Pearson 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (8th edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3311_Microprocessors-and-Microcontrollers/Books-and-Resources/Book_Z80-Microprocessor.link",
+   "url": "https://openlibrary.org/search?q=Z80%20Microprocessor",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Z80%20Microprocessor",
+    "title": "Book: Z80 Microprocessor - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3311_Microprocessors-and-Microcontrollers/Books-and-Resources/Book_Electronics-and-Telecommunication-Engineering-Preliminary-Paper-II.link",
+   "url": "https://openlibrary.org/search?q=Electronics%20and%20Telecommunication%20Engineering%20Preliminary%20Paper-II",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Electronics%20and%20Telecommunication%20Engineering%20Preliminary%20Paper-II",
+    "title": "Book: Electronics and Telecommunication Engineering Preliminary Paper-II - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3512_Microwaves-and-Antennas/Books-and-Resources/Library_Microwave-Engineering.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=366349",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=366349",
+    "title": "In the Maulana Azad Library: Microwave Engineering, David M. Pozar, 3rd ed. (John Wiley & Sons 2005)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3410_Principles-of-Communication-Engineering-Ii/Books-and-Resources/Library_Modern-Digital-and-Analog-Communication-Systems_3e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=313149",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=313149",
+    "title": "In the Maulana Azad Library: MODERN DIGITAL AND ANALOG COMMUNICATION SYSTEMS, B.P. Lathi, 3rd ed (Oxford 2007)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3410_Principles-of-Communication-Engineering-Ii/Books-and-Resources/Library_Communication-Systems_4e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=154558",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=154558",
+    "title": "In the Maulana Azad Library: Communication systems, Simon Haykin, 4th ed (John Wiley 2006)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3410_Principles-of-Communication-Engineering-Ii/Books-and-Resources/Library_Communication-Systems.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=464235",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=464235",
+    "title": "In the Maulana Azad Library: Modern digital and analog communication systems, B. P. Lathi, 4th ed (Oxford Univ. Press 2010)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/Books-and-Resources/Library_Silicon-VLSI-Technology.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=366135",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=366135",
+    "title": "In the Maulana Azad Library: Silicon vlsi technology : Fundamentals, practice and modeling, James D Plummer (Pearson 2015)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/Books-and-Resources/Book_The-Science-and-Engineering-of-Microelectronic-Fabrication.link",
+   "url": "https://openlibrary.org/search?q=The%20Science%20and%20Engineering%20of%20Microelectronic%20Fabrication%20Campbell",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=The%20Science%20and%20Engineering%20of%20Microelectronic%20Fabrication%20Campbell",
+    "title": "Book: The Science and Engineering of Microelectronic Fabrication (Campbell) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/Books-and-Resources/Book_Fabrication-Engineering-at-the-Micro-and-Nanoscale.link",
+   "url": "https://openlibrary.org/search?q=Fabrication%20Engineering%20at%20the%20Micro-%20and%20Nanoscale%20Campbell",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Fabrication%20Engineering%20at%20the%20Micro-%20and%20Nanoscale%20Campbell",
+    "title": "Book: Fabrication Engineering at the Micro- and Nanoscale (Campbell) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/Books-and-Resources/Book_Analysis-and-Design-of-Digital-Integrated-Circuits.link",
+   "url": "https://openlibrary.org/search?q=Analysis%20and%20Design%20of%20Digital%20Integrated%20Circuits%20Hodges",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Analysis%20and%20Design%20of%20Digital%20Integrated%20Circuits%20Hodges",
+    "title": "Book: Analysis and Design of Digital Integrated Circuits (Hodges) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/Books-and-Resources/Book_CMOS-Digital-Integrated-Circuits-A-First-Course.link",
+   "url": "https://openlibrary.org/search?q=CMOS%20Digital%20Integrated%20Circuits%3A%20A%20First%20Course",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=CMOS%20Digital%20Integrated%20Circuits%3A%20A%20First%20Course",
+    "title": "Book: CMOS Digital Integrated Circuits: A First Course - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/Books-and-Resources/Book_Logical-Effort-Designing-Fast-CMOS-Circuits.link",
+   "url": "https://openlibrary.org/search?q=Logical%20Effort%3A%20Designing%20Fast%20CMOS%20Circuits%20Sutherland",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Logical%20Effort%3A%20Designing%20Fast%20CMOS%20Circuits%20Sutherland",
+    "title": "Book: Logical Effort: Designing Fast CMOS Circuits (Sutherland) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/Books-and-Resources/Book_CMOS-Transistor-Layout-KungFu.link",
+   "url": "https://openlibrary.org/search?q=CMOS%20Transistor%20Layout%20KungFu%20Lee",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=CMOS%20Transistor%20Layout%20KungFu%20Lee",
+    "title": "Book: CMOS Transistor Layout KungFu (Lee) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/Books-and-Resources/Library_Design-of-Analog-CMOS-Integrated-Circuits_2e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=356994",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=356994",
+    "title": "In the Maulana Azad Library: Design of analog CMOS Integrated Circuits Behzad Razavi, Razavi, Behzad, 2nd ed. (McGraw-Hill Education 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/Books-and-Resources/Library_Fundamentals-of-Microelectronics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=597972",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=597972",
+    "title": "In the Maulana Azad Library: Fundamentals of Microelectronics : with Robotics and Bioengineering applications, 3rd ed. (Wiley 2021)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3422_Digital-Communications/Books-and-Resources/Library_Digital-Communications_5e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=255296",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=255296",
+    "title": "In the Maulana Azad Library: Digital communications, John G.Proakis; Masoud Salehi, 5th ed. (McGraw Hill 2008)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3422_Digital-Communications/Books-and-Resources/Book_Digital-Communications_5e.link",
+   "url": "https://openlibrary.org/search?q=Digital%20Communications%20Stamatiou",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Digital%20Communications%20Stamatiou",
+    "title": "Book: Digital Communications (Stamatiou, 5th edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3622_Digital-System-Design/Books-and-Resources/Library_Digital-Systems-Design.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=367140",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=367140",
+    "title": "In the Maulana Azad Library: Digital systems design using Verilog, Charles H Roth (Cengage Learning 2017)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3622_Digital-System-Design/Books-and-Resources/Library_Digital-Systems-Design-Using-Verilog_1e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=367140",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=367140",
+    "title": "In the Maulana Azad Library: Digital systems design using Verilog, Charles H Roth (Cengage Learning 2017)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (1st edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3622_Digital-System-Design/Books-and-Resources/Book_Design-Through-Verilog-HDL.link",
+   "url": "https://openlibrary.org/search?q=Design%20Through%20Verilog%20HDL%20Padmanabhan",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Design%20Through%20Verilog%20HDL%20Padmanabhan",
+    "title": "Book: Design Through Verilog HDL (Padmanabhan) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3622_Digital-System-Design/Books-and-Resources/Book_Verilog-Digital-System-Design_2e.link",
+   "url": "https://openlibrary.org/search?q=Verilog%20Digital%20System%20Design%20Navabi",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Verilog%20Digital%20System%20Design%20Navabi",
+    "title": "Book: Verilog Digital System Design (Navabi, 2nd edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3622_Digital-System-Design/Books-and-Resources/Book_Verilog-HDL-A-Guide-to-Digital-Design-and-Synthesis.link",
+   "url": "https://openlibrary.org/search?q=Verilog%20HDL%3A%20A%20Guide%20to%20Digital%20Design%20and%20Synthesis%20Palnitkar",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Verilog%20HDL%3A%20A%20Guide%20to%20Digital%20Design%20and%20Synthesis%20Palnitkar",
+    "title": "Book: Verilog HDL: A Guide to Digital Design and Synthesis (Palnitkar) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3622_Digital-System-Design/Books-and-Resources/Book_Verilog-HDL-A-Guide-to-Digital-Design-and-Synthesis_2e.link",
+   "url": "https://openlibrary.org/search?q=Verilog%20HDL%3A%20A%20Guide%20to%20Digital%20Design%20and%20Synthesis%20Palnitkar",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Verilog%20HDL%3A%20A%20Guide%20to%20Digital%20Design%20and%20Synthesis%20Palnitkar",
+    "title": "Book: Verilog HDL: A Guide to Digital Design and Synthesis (Palnitkar, 2nd edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Electives/COA3600_Data-Structures-and-Programming-Electronics-Dept/Books-and-Resources/Library_Operating-System-Concepts_9e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=538924",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=538924",
+    "title": "In the Maulana Azad Library: Operating System Concepts, Abraham Silberschatz (Wiley 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (9th edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3642_DIgital-IC-Design/Books-and-Resources/Library_Digital-Integrated-Circuits-A-Design-Perspective.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=524870",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=524870",
+    "title": "In the Maulana Azad Library: Digital integrated circuits : a design perspective, Jan M. Rabaey, 2nd ed (Pearson c2016)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/Sem5/ELC3642_DIgital-IC-Design/Books-and-Resources/Library_Digital-Integrated-Circuits-A-Design-Perspective_2e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=524870",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=524870",
+    "title": "In the Maulana Azad Library: Digital integrated circuits : a design perspective, Jan M. Rabaey, 2nd ed (Pearson c2016)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELE4510_Fiber-Optic-Communications/Books-and-Resources/Book_Optical-Fiber-Communications-Principles-and-Practice_3e.link",
+   "url": "https://openlibrary.org/search?q=Optical%20Fiber%20Communications%3A%20Principles%20and%20Practice%20Senior",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Optical%20Fiber%20Communications%3A%20Principles%20and%20Practice%20Senior",
+    "title": "Book: Optical Fiber Communications: Principles and Practice (Senior, 3rd edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/EZH3020-EEZH3020_Intellectual-Property-Rights-for-Engineers/Books-and-Resources/Library_Law-Relating-to-Intellectual-Property-Rights.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=383756",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=383756",
+    "title": "In the Maulana Azad Library: Law relating to Intellectual Property Rights : copyrights, patents, trademarks, designs, Geographical indications, plant varieties and farmer's rights, Biological Diversity, Semiconductor Layout Designs, Trade secrets, Traditional knowledge, Blockchain technology, Artificial Intelligence, M. K. Bhandari, 6th ed (Central Law Pubs. 2021)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC3311_Microprocessors-and-Microcontrollers/Books-and-Resources/Library_Embedded-Systems.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=524869",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=524869",
+    "title": "In the Maulana Azad Library: Embedded systems : architecture, programming and design, Raj Kamal, 3rd ed (McGraw-Hill c2015)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Books-and-Resources/Library_Differential-Calculus.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=265346",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=265346",
+    "title": "In the Maulana Azad Library: Text book on differential calculus, Gorakh Prasad; revised by Chandrika Prasad, 18th ed (Pothishala 2013)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Books-and-Resources/Library_Engineering-Thermodynamics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=362512",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=362512",
+    "title": "In the Maulana Azad Library: Engineering Thermodynamics, P. K. Nag, 6th ed (McGraw Hill Education 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Books-and-Resources/Book_Steam-Tables-with-Mollier-Diagram-in-S-I-Units.link",
+   "url": "https://openlibrary.org/search?q=Steam%20Tables%20with%20Mollier%20Diagram%20in%20S.I.%20Units%20Khurmi",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Steam%20Tables%20with%20Mollier%20Diagram%20in%20S.I.%20Units%20Khurmi",
+    "title": "Book: Steam Tables with Mollier Diagram in S.I. Units (Khurmi) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Books-and-Resources/Library_Solid-State-Physics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=151595",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=151595",
+    "title": "In the Maulana Azad Library: Solid state physics, R. K. Puri, 2nd rev. ed. (S. Chand 2006)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Books-and-Resources/Library_Vector-Mechanics-for-Engineers-Dynamics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=361267",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=361267",
+    "title": "In the Maulana Azad Library: Vector mechanics for Engineers : dynamics, Ferdinand P. Beer, 12th ed (Tata McGraw-Hill 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Books-and-Resources/Library_Vector-Mechanics-for-Engineers.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=361267",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=361267",
+    "title": "In the Maulana Azad Library: Vector mechanics for Engineers : dynamics, Ferdinand P. Beer, 12th ed (Tata McGraw-Hill 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Books-and-Resources/Library_Vector-Mechanics-for-Engineers-Statics-and-Dynamics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=167638",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=167638",
+    "title": "In the Maulana Azad Library: Vector mechanics for engineers: Statics and dynamics(SI units), Beer, Ferdinand P (Tata McGraw-Hill 2009)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Books-and-Resources/Library_Microelectronic-Circuits.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=598133",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=598133",
+    "title": "In the Maulana Azad Library: Microelectronic Circuits : theory and aplications, 7th ed. (Oxford Univ. Press 2017)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Books-and-Resources/Library_Solid-State-Electronic-Devices_6e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=530433",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=530433",
+    "title": "In the Maulana Azad Library: Solid State Electronic devices, Ben G.Streetman, 7th ed (Pearson Education c2016)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (6th edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Books-and-Resources/Library_Electronic-Devices-and-Circuit-Theory_10e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=269265",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=269265",
+    "title": "In the Maulana Azad Library: Electronic devices and circuit theory, Robert Boylestad (and) Louis Nashelsky, 10th ed (Pearson 2013)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Books-and-Resources/Library_Vector-Mechanics-for-Engineers-Dynamics_10e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=273959",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=273959",
+    "title": "In the Maulana Azad Library: Vector mechanics for engineers : dynamics, Ferdinand P. Beer, 10th ed (McGraw Hill Education 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Library_Advanced-Engineering-Mathematics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=250668",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=250668",
+    "title": "In the Maulana Azad Library: Advanced engineering mathematics Erwin Kreyzig, Kreyszig, Erwin, 9th ed (Wiley India 2012)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/COA1912_Computer-Programming-Lab/Books-and-Resources/Book_Python-Notes-for-Professionals.link",
+   "url": "https://openlibrary.org/search?q=Python%20Notes%20for%20Professionals%20GoalKicker.com",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Python%20Notes%20for%20Professionals%20GoalKicker.com",
+    "title": "Book: Python Notes for Professionals (GoalKicker.com) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/Books-and-Resources/Library_Engineering-Thermodynamics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=362512",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=362512",
+    "title": "In the Maulana Azad Library: Engineering Thermodynamics, P. K. Nag, 6th ed (McGraw Hill Education 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Books-and-Resources/Book_Textbook-of-Engineering-Drawing_2e.link",
+   "url": "https://openlibrary.org/search?q=Textbook%20of%20Engineering%20Drawing%20Reddy",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Textbook%20of%20Engineering%20Drawing%20Reddy",
+    "title": "Book: Textbook of Engineering Drawing (Reddy, 2nd edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Books-and-Resources/Library_Concepts-of-Modern-Physics_6e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=253336",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=253336",
+    "title": "In the Maulana Azad Library: Concepts of modern physics, Arthur Beiser, 6th ed. (Tata McGraw-Hill 2012)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Library_Higher-Engineering-Mathematics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=296542",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=296542",
+    "title": "In the Maulana Azad Library: Higher engineering mathematics, B.S. Grewal, 43rd ed (Khanna Pub. 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Book_Learning-Java_4e.link",
+   "url": "https://openlibrary.org/search?q=Learning%20Java%20Niemeyer",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Learning%20Java%20Niemeyer",
+    "title": "Book: Learning Java (Niemeyer, 4th edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Books-and-Resources/Book_Engineering-Chemistry.link",
+   "url": "https://openlibrary.org/search?q=Engineering%20Chemistry%20Mukhopadhyay",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Engineering%20Chemistry%20Mukhopadhyay",
+    "title": "Book: Engineering Chemistry (Mukhopadhyay) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Books-and-Resources/Library_Fundamentals-of-Electric-Circuits_5e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=284189",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=284189",
+    "title": "In the Maulana Azad Library: Fundamentals of electric circuits, Charles K. Alexander, 5th ed (McGraw Hill 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/AMS1122_Higher-Mathematics-II/Books-and-Resources/Library_Advanced-Engineering-Mathematics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=539214",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=539214",
+    "title": "In the Maulana Azad Library: Advanced Engineering Mathematics : for the students of M.E., B.E., and other Engineering examinations, H. K. Dass (S. Chand 2022)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/Books-and-Resources/Library_Mechanics-of-Materials.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=383613",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=383613",
+    "title": "In the Maulana Azad Library: Mechanics of materials : in SI Units, R. C. Hibbeler ; SI edition contributions by K. S. Vijay Sekar, 9th ed (Pearson India Edu. 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Books-and-Resources/Library_Solid-State-Electronic-Devices_7e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=530433",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=530433",
+    "title": "In the Maulana Azad Library: Solid State Electronic devices, Ben G.Streetman, 7th ed (Pearson Education c2016)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Books-and-Resources/Library_Microelectronic-Circuits_7e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=598133",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=598133",
+    "title": "In the Maulana Azad Library: Microelectronic Circuits : theory and aplications, 7th ed. (Oxford Univ. Press 2017)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Books-and-Resources/Library_Advanced-Engineering-Mathematics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=285139",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=285139",
+    "title": "In the Maulana Azad Library: Advanced Engineering Mathematics, R.K.Jain & S.R.K. Iyenger, 4th ed. (Narosa Publishing House 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1110_Environmental-Studies/Books-and-Resources/Library_Environmental-Studies-for-Undergraduate-Courses.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=626453",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=626453",
+    "title": "In the Maulana Azad Library: Textbook of Environmental Studies for Undergraduate Courses: As per 2023 UGC syllabus (NEP guidelines), Erach Bharucha, 4th.ed. (Universities Press 2025)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1110_Engineering-Thermodynamics/Books-and-Resources/Library_Engineering-Thermodynamics_5e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=320809",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=320809",
+    "title": "In the Maulana Azad Library: Engineering Thermodynamics, P.K.Nag, 5th ed (McGraw Hill Education 2016)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Books-and-Resources/Library_Vector-Mechanics-for-Engineers-Statics_11e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=362605",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=362605",
+    "title": "In the Maulana Azad Library: Vector mechanics for Engineers : statics, Ferdinand P. Beer, 12th ed (McGraw Hill Edu. 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (11th edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Books-and-Resources/Library_Vector-Mechanics-for-Engineers-Statics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=362605",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=362605",
+    "title": "In the Maulana Azad Library: Vector mechanics for Engineers : statics, Ferdinand P. Beer, 12th ed (McGraw Hill Edu. 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Books-and-Resources/Book_Automobile-Engineering-Technician-Workshop-Technology.link",
+   "url": "https://openlibrary.org/search?q=Automobile%20Engineering%20Technician%3A%20Workshop%20Technology",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Automobile%20Engineering%20Technician%3A%20Workshop%20Technology",
+    "title": "Book: Automobile Engineering Technician: Workshop Technology - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/MEA1122_Engineering-Mechanics/Books-and-Resources/Library_Engineering-Mechanics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=154052",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=154052",
+    "title": "In the Maulana Azad Library: Engineering mechanics, J.L. Meriam, 5th ed. (Wiley India 2006)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Library_Advanced-Engineering-Mathematics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=285139",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=285139",
+    "title": "In the Maulana Azad Library: Advanced Engineering Mathematics, R.K.Jain & S.R.K. Iyenger, 4th ed. (Narosa Publishing House 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Library_Thermodynamics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=23021",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=23021",
+    "title": "In the Maulana Azad Library: Engineering thermodynamics, D. B. Spalding (Arnold 1958)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/Books-and-Resources/Book_A-Complete-Guide-to-Programming-in-C.link",
+   "url": "https://openlibrary.org/search?q=A%20Complete%20Guide%20to%20Programming%20in%20C%2B%2B%20Kirch-Prinz",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=A%20Complete%20Guide%20to%20Programming%20in%20C%2B%2B%20Kirch-Prinz",
+    "title": "Book: A Complete Guide to Programming in C++ (Kirch-Prinz) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Books-and-Resources/Library_Introductory-Methods-of-Numerical-Analysis.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=314459",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=314459",
+    "title": "In the Maulana Azad Library: Introductory Methods of Numerical Analysis, S.S. Sastry, 5th ed (PHI 2013)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/Sem4/AMS2322_Numerical-Methods-and-Optimization/Books-and-Resources/Book_Numerical-Methods.link",
+   "url": "https://openlibrary.org/search?q=Numerical%20Methods%20Venkataraman",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Numerical%20Methods%20Venkataraman",
+    "title": "Book: Numerical Methods (Venkataraman) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/ELA3022_Fundamentals-of-Communication-Engineering/Books-and-Resources/Library_Electronic-Communication-Systems_4e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=142606",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=142606",
+    "title": "In the Maulana Azad Library: Electronic communication systems, George Kennedy, 4th ed (Tata McGraw- Hill 2003)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/Books-and-Resources/Library_High-Voltage-Engineering_2e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=351369",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=351369",
+    "title": "In the Maulana Azad Library: High voltage engineering, M.S.Naidu, 5th ed",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (2nd edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/Books-and-Resources/Book_High-Voltage-Engineering-Fundamentals_2e.link",
+   "url": "https://openlibrary.org/search?q=High%20Voltage%20Engineering%3A%20Fundamentals%20Kuffel",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=High%20Voltage%20Engineering%3A%20Fundamentals%20Kuffel",
+    "title": "Book: High Voltage Engineering: Fundamentals (Kuffel, 2nd edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Books-and-Resources/Book_Measurement-and-Instrumentation-Principles.link",
+   "url": "https://openlibrary.org/search?q=Measurement%20and%20Instrumentation%20Principles%20Morris",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Measurement%20and%20Instrumentation%20Principles%20Morris",
+    "title": "Book: Measurement and Instrumentation Principles (Morris) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/Books-and-Resources/Library_Power-Electronics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=297115",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=297115",
+    "title": "In the Maulana Azad Library: Power electronics, Jamil Asghar, M.S (PHI Learning 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/Books-and-Resources/Library_Automatic-Control-Systems_9e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=365734",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=365734",
+    "title": "In the Maulana Azad Library: Automatic control systems, Farid Golnaraghi, 9th ed (Wiley 2010)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/Books-and-Resources/Library_Control-Systems-Engineering_7e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=268372",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=268372",
+    "title": "In the Maulana Azad Library: Control systems engineering : international student version, Norman S. Nise, 6th ed. (Wiley 2013)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (7th edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3112_Electrical-Drives/Books-and-Resources/Book_Electric-Motor-Drives-Modeling-Analysis-and-Control.link",
+   "url": "https://openlibrary.org/search?q=Electric%20Motor%20Drives%3A%20Modeling%2C%20Analysis%20and%20Control",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Electric%20Motor%20Drives%3A%20Modeling%2C%20Analysis%20and%20Control",
+    "title": "Book: Electric Motor Drives: Modeling, Analysis and Control - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3112_Electrical-Drives/Books-and-Resources/Library_Fundamentals-of-Electrical-Drives.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=320761",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=320761",
+    "title": "In the Maulana Azad Library: Fundamentals of electrical drives, Gopal K. Dubey, 2nd ed (Narosa Publishing 2016)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3112_Electrical-Drives/Books-and-Resources/Book_Power-Semiconductor-Controlled-Drives.link",
+   "url": "https://openlibrary.org/search?q=Power%20Semiconductor%20Controlled%20Drives%20Dubey",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Power%20Semiconductor%20Controlled%20Drives%20Dubey",
+    "title": "Book: Power Semiconductor Controlled Drives (Dubey) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Books-and-Resources/Book_Microcontroller-and-Embedded-Systems.link",
+   "url": "https://openlibrary.org/search?q=Microcontroller%20and%20Embedded%20Systems",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Microcontroller%20and%20Embedded%20Systems",
+    "title": "Book: Microcontroller and Embedded Systems - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Books-and-Resources/Book_The-8051-Microcontroller-Architecture-Programming-and-Applications.link",
+   "url": "https://openlibrary.org/search?q=The%208051%20Microcontroller%3A%20Architecture%2C%20Programming%20and%20Applications%20Ayala",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=The%208051%20Microcontroller%3A%20Architecture%2C%20Programming%20and%20Applications%20Ayala",
+    "title": "Book: The 8051 Microcontroller: Architecture, Programming and Applications (Ayala) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Books-and-Resources/Library_The-8051-Microcontroller-and-Embedded-Systems-Using-Assembly-and-C.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=356916",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=356916",
+    "title": "In the Maulana Azad Library: 8051 Microcontroller and Embedded Systems : Using Assembly and C, Muhammad Ali Mazidi, 2nd ed. (Pearson 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3712_Microcontroller-Systems-and-Applications/Books-and-Resources/Book_The-8051-Microcontroller-based-Embedded-Systems.link",
+   "url": "https://openlibrary.org/search?q=The%208051%20Microcontroller%20based%20Embedded%20Systems%20Patel",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=The%208051%20Microcontroller%20based%20Embedded%20Systems%20Patel",
+    "title": "Book: The 8051 Microcontroller based Embedded Systems (Patel) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3322_Electrical-Power-Generation-and-Utilization/Books-and-Resources/Book_Generation-and-Utilization-of-Electrical-Energy.link",
+   "url": "https://openlibrary.org/search?q=Generation%20and%20Utilization%20of%20Electrical%20Energy%20Sivanagaraju",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Generation%20and%20Utilization%20of%20Electrical%20Energy%20Sivanagaraju",
+    "title": "Book: Generation and Utilization of Electrical Energy (Sivanagaraju) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3322_Electrical-Power-Generation-and-Utilization/Books-and-Resources/Book_Elements-of-Electrical-Power-Station-Design.link",
+   "url": "https://openlibrary.org/search?q=Elements%20of%20Electrical%20Power%20Station%20Design%20Deshpande",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Elements%20of%20Electrical%20Power%20Station%20Design%20Deshpande",
+    "title": "Book: Elements of Electrical Power Station Design (Deshpande) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3322_Electrical-Power-Generation-and-Utilization/Books-and-Resources/Library_Generation-of-Electrical-Energy.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=270985",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=270985",
+    "title": "In the Maulana Azad Library: Generation of electrical energy, B.R. Gupta (Eurasia Publishing House 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4712_Numerical-Computational-Methods-in-Electrical-Engineering/Books-and-Resources/Book_An-Introduction-to-Error-Analysis-The-Study-of-Uncertainties-in-Physic_2e.link",
+   "url": "https://openlibrary.org/search?q=An%20Introduction%20to%20Error%20Analysis%3A%20The%20Study%20of%20Uncertainties%20in%20Physical%20Measurements%20Taylor",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=An%20Introduction%20to%20Error%20Analysis%3A%20The%20Study%20of%20Uncertainties%20in%20Physical%20Measurements%20Taylor",
+    "title": "Book: An Introduction to Error Analysis: The Study of Uncertainties in Physical Measurements (Taylor, 2nd edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4712_Numerical-Computational-Methods-in-Electrical-Engineering/Books-and-Resources/Book_LabVIEW-Graphical-Programming-Course.link",
+   "url": "https://openlibrary.org/search?q=LabVIEW%20Graphical%20Programming%20Course%20Instruments",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=LabVIEW%20Graphical%20Programming%20Course%20Instruments",
+    "title": "Book: LabVIEW Graphical Programming Course (Instruments) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4712_Numerical-Computational-Methods-in-Electrical-Engineering/Books-and-Resources/Book_Virtual-Instrumentation-Using-LabVIEW.link",
+   "url": "https://openlibrary.org/search?q=Virtual%20Instrumentation%20Using%20LabVIEW%20Jerome",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Virtual%20Instrumentation%20Using%20LabVIEW%20Jerome",
+    "title": "Book: Virtual Instrumentation Using LabVIEW (Jerome) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4322_Power-Quality/Books-and-Resources/Book_Electrical-Power-Systems-Quality_2e.link",
+   "url": "https://openlibrary.org/search?q=Electrical%20Power%20Systems%20Quality%20Dugan",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Electrical%20Power%20Systems%20Quality%20Dugan",
+    "title": "Book: Electrical Power Systems Quality (Dugan, 2nd edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Books-and-Resources/Library_Control-Systems-Engineering.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=531259",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=531259",
+    "title": "In the Maulana Azad Library: Control systems engineering : theory and problems, D.P.Kothari (New Age International c2017)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Books-and-Resources/Library_Power-System-Protection.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=251130",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=251130",
+    "title": "In the Maulana Azad Library: Power system protection and switchgear, Badri Ram (Tata McGraw-Hill 2012)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Sem6/EEC3332_Power-System-Protection/Books-and-Resources/Library_Protection-and-Switchgear.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=154768",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=154768",
+    "title": "In the Maulana Azad Library: Switchgear and protection, J.B. Gupta, (2nd ed.) (S.K.Kataria & Sons 2005)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4522_Process-Instrumentation-and-Control/Books-and-Resources/Library_Modern-Control-Engineering_5e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=327105",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=327105",
+    "title": "In the Maulana Azad Library: Modern control engineering, Katsuhiko Ogata, 5th ed. (Pearson. 2025)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4522_Process-Instrumentation-and-Control/Books-and-Resources/Library_Process-Control-Instrumentation-Technology_8e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=348253",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=348253",
+    "title": "In the Maulana Azad Library: Process Control Instrumentation Technology Curtis D. Johnson, Johnson, Curtis D",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (8th edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4362_Smart-Grid/Books-and-Resources/Book_The-Smart-Grid-An-Introduction.link",
+   "url": "https://openlibrary.org/search?q=The%20Smart%20Grid%3A%20An%20Introduction",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=The%20Smart%20Grid%3A%20An%20Introduction",
+    "title": "Book: The Smart Grid: An Introduction - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4232_Solar-Photovoltaic-Systems/Books-and-Resources/Book_Solar-Photovoltaic-Technology-and-Systems.link",
+   "url": "https://openlibrary.org/search?q=Solar%20Photovoltaic%20Technology%20and%20Systems%20Solanki",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Solar%20Photovoltaic%20Technology%20and%20Systems%20Solanki",
+    "title": "Book: Solar Photovoltaic Technology and Systems (Solanki) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/ELA1112_Principles-of-Electronics-Engg/Books-and-Resources/Library_Electronic-Devices-and-Circuit-Theory.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=356513",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=356513",
+    "title": "In the Maulana Azad Library: Electronic devices and circuit theory, Robert Boylestad, 11th ed (Pearson 2017)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Books-and-Resources/Library_Thomas-Calculus_12e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=337752",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=337752",
+    "title": "In the Maulana Azad Library: Thomas' Calculus, George B.Thomas, 12th ed",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Books-and-Resources/Library_Solid-State-Electronic-Devices.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=530433",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=530433",
+    "title": "In the Maulana Azad Library: Solid State Electronic devices, Ben G.Streetman, 7th ed (Pearson Education c2016)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/APS1112_Applied-Physics/Books-and-Resources/Library_Concepts-of-Modern-Physics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=365755",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=365755",
+    "title": "In the Maulana Azad Library: Concepts of modern physics, Arthur Beiser, 7th ed. (McGraw-Hill Publishing 2015)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/ME111-EME111_Applied-Mechanics/Books-and-Resources/Library_Vector-Mechanics-for-Engineers.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=361267",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=361267",
+    "title": "In the Maulana Azad Library: Vector mechanics for Engineers : dynamics, Ferdinand P. Beer, 12th ed (Tata McGraw-Hill 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1112_English/Books-and-Resources/Library_Animal-Farm.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=321094",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=321094",
+    "title": "In the Maulana Azad Library: Animal Farm, George Orwell (448467 2015)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Books-and-Resources/Library_Thermodynamics-An-Engineering-Approach.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=539060",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=539060",
+    "title": "In the Maulana Azad Library: Thermodynamics : an engineering approach in SI Units, Yunus A. Cengel (Mc-Graw Hill 2022)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/MEA1112_Thermal-Sciences/Books-and-Resources/Book_Fundamentals-of-Engineering-Thermodynamics_7e.link",
+   "url": "https://openlibrary.org/search?q=Fundamentals%20of%20Engineering%20Thermodynamics%20Moran",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Fundamentals%20of%20Engineering%20Thermodynamics%20Moran",
+    "title": "Book: Fundamentals of Engineering Thermodynamics (Moran, 7th edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Books-and-Resources/Library_A-Textbook-of-Electrical-Technology_1e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=488387",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=488387",
+    "title": "In the Maulana Azad Library: Textbook of electrical technology B. L. Theraja [and] A. K. Theraja, revised, S.G. Tarnekar, 23rd rev. multicolour ed. (S. Chand [ rep. 210])",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (1st edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Mechanical-Engineering/_Old-Syllabus-Subjects/EE204-EEE204_Electrical-Technology/Books-and-Resources/Library_Electric-Machines.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=329404",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=329404",
+    "title": "In the Maulana Azad Library: Electric Machines : A Textbook, Ashfaq Hussain, 2nd ed",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2032-PKC2152_Fluid-Mechanics/Books-and-Resources/Library_Fluid-Mechanics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=296972",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=296972",
+    "title": "In the Maulana Azad Library: Textbook of fluid mechanics and hydraulic machines: S. I. units, Bansal, R. K (Laxmi Pubs. 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/_Old-Syllabus-Subjects/AM241_Higher-Mathematics/Books-and-Resources/Library_Advanced-Engineering-Mathematics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=539214",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=539214",
+    "title": "In the Maulana Azad Library: Advanced Engineering Mathematics : for the students of M.E., B.E., and other Engineering examinations, H. K. Dass (S. Chand 2022)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2062_Heat-Transfer-Operations/Books-and-Resources/Book_Heat-Transfer.link",
+   "url": "https://openlibrary.org/search?q=Heat%20Transfer%20%C3%87engel",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Heat%20Transfer%20%C3%87engel",
+    "title": "Book: Heat Transfer (Çengel) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a copy of this book; it is not published here. The AMU library catalogue doesn't list it; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering/Books-and-Resources/Library_Applied-Numerical-Methods-with-MATLAB-for-Engineers-and-Scientists_3e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=537561",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=537561",
+    "title": "In the Maulana Azad Library: Applied Numerical methods : with MATLAB for Engineers and Scientists, Steven C. Chapra (McGraw Hill Edu. 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book (3rd edition); it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2072_Numerical-Methods-in-Chemical-Engineering/Books-and-Resources/Library_Introductory-Methods-of-Numerical-Analysis.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=314459",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=314459",
+    "title": "In the Maulana Azad Library: Introductory Methods of Numerical Analysis, S.S. Sastry, 5th ed (PHI 2013)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem3/CHC2052_Chemical-Engineering-Thermodynamics/Books-and-Resources/Library_Introduction-to-Chemical-Engineering-Thermodynamics.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=525300",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=525300",
+    "title": "In the Maulana Azad Library: Introduction to chemical engineering Thermodynamics, J. M. Smith, 7th ed (Tata McGraw Hill C2011)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2092_Equilibrium-Stage-Processes/Books-and-Resources/Library_Transport-Processes-and-Unit-Operations.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=142625",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=142625",
+    "title": "In the Maulana Azad Library: Transport processes and unit operations, Christie J. Geankoplis, 3rd ed. (Prentice-Hall of India 2003)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Chemical-Engineering/Sem4/CHC2002_Process-Instrumentation/Books-and-Resources/Library_Instrumentation-Measurement-and-Analysis.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=530488",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=530488",
+    "title": "In the Maulana Azad Library: Instrumentation, measurement and analysis, B.C.Nakra, 4th ed (McGraw Hill c2017)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a copy of this book; it is not published here. Borrow it from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/EZH1912_Communication-Skills-Lab/Books-and-Resources/Reference_How-to-Write-a-Scientific-Research-Paper.link",
+   "url": "https://www.researchgate.net/publication/310912880",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://www.researchgate.net/publication/310912880",
+    "title": "Reference: How to Write a Scientific Research Paper",
+    "note": "A published paper the upload had; linked rather than copied."
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/Electrical-Engineering/Electives/EEE4712_Numerical-Computational-Methods-in-Electrical-Engineering/Books-and-Resources/Reference_Codes-in-MATLAB-for-Particle-Swarm-Optimization.link",
+   "url": "https://doi.org/10.13140/RG.2.1.1078.7608",
+   "t": 1794852629,
+   "meta": {
+    "url": "https://doi.org/10.13140/RG.2.1.1078.7608",
+    "title": "Reference: Codes in MATLAB for Particle Swarm Optimization",
+    "note": "A published paper the upload had; linked rather than copied."
+   }
+  }
+ ]
+}
