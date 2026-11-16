@@ -501,6 +501,22 @@
    "covers": "MBBS 4th Professional previous year papers (professional exams and other material), Jawaharlal Nehru Medical College, AMU",
    "status": "reference",
    "note": "Not collected yet: Faculty of Medicine, outside the current B.Tech focus."
+  },
+  {
+   "title": "Aligarh Muslim University: departments",
+   "url": "https://www.amu.ac.in/",
+   "credit": "Aligarh Muslim University",
+   "covers": "Syllabi, curricula, lab manuals and downloadable forms from all 118 departments (UG, PG, Ph.D., Useful Downloads), plus colleges, schools, polytechnics, centres and halls, from the university portal and its public catalogue (api.amu.ac.in)",
+   "status": "reference",
+   "note": "Not collected yet: scraped earlier by the maintainer; to be merged course by course."
+  },
+  {
+   "title": "Controller of Examinations, AMU",
+   "url": "https://www.amucontrollerexams.com/",
+   "credit": "Office of the Controller of Examinations, AMU",
+   "covers": "Admission guides, application forms, examination proformas, degree, marksheet and transcript forms, NEP course codes and Ph.D. ordinances",
+   "status": "reference",
+   "note": "Not collected yet: scraped earlier by the maintainer."
   }
  ]
 }
