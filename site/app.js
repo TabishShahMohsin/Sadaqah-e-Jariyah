@@ -249,7 +249,7 @@ function homeView() {
     <div class="stat"><div class="num">${fmtNum(pyqs)}</div><div class="cap">PYQs & Assignments</div></div>
     <div class="stat"><div class="num">${(r.size / 1e9).toFixed(1)}<small>GB</small></div><div class="cap">${fmtNum(videos)} lecture videos</div></div>
   </section>
-  ${umbrellas.map(u => `<h2 class="label"><a href="${href(u.p)}">${esc(label(u.n))}</a></h2>
+  ${umbrellas.map(u => `<h2 class="label"><a href="${href(u.p)}">${esc(label(u.n))}</a>${u.n === S.pg?.umbrella ? '<b>B.Tech & B.E. · ZHCET</b>' : ''}</h2>
   <div class="cards">${u.d.filter(d => !d.n.startsWith('_')).sort(branchOrder).map((d, i) => card(d, i, u.n === S.pg?.umbrella ? 'Branch' : 'Programme')).join('')}</div>`).join('')}
   ${branches.length ? `<h2 class="label">Branches</h2><div class="cards">${branches.map((d, i) => card(d, i, 'Branch')).join('')}</div>` : ''}
   ${others.length ? `<h2 class="label">Other</h2><div class="cards">${others.map((d, i) => card(d, i, 'Folder', true)).join('')}</div>` : ''}
@@ -1340,7 +1340,7 @@ async function boot() {
     S.root = idx.root;
     S.pg = idx.programmes || null;
     S.sources = idx.sources || [];
-    if (S.pg) Object.assign(NAMES, S.pg.labels || {}, { [S.pg.umbrella]: 'B.Tech & B.E.' }, S.pg.umbrellas || {});
+    if (S.pg) Object.assign(NAMES, S.pg.labels || {}, { [S.pg.umbrella]: 'Faculty of Engineering & Technology' }, S.pg.umbrellas || {});
     prep(S.root, '', null);
   } catch (e) {
     const local = /^(localhost|127\.|\[::1\]|)$/.test(location.hostname);
