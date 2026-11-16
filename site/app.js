@@ -85,6 +85,17 @@ function prep(node, path, parent) {
   if (node.course) S.courses.push(node);
   S.nodes.set(path, node);
 }
+// B.Tech & B.E. is a programme of the Faculty of Engineering & Technology, like BCA under Faculty-of-Science.
+// Its files stay at BTech-and-BE/… (links keep working); the faculty level is added here, in the tree only.
+const ENGG = 'Faculty-of-Engineering-and-Technology';
+function facultyOfEngineering() {
+  const r = S.root, bt = r.d.find(d => d.n === S.pg.umbrella);
+  if (!bt || S.nodes.has(ENGG)) return;
+  const v = { n: ENGG, p: ENGG, d: [bt], f: [], parent: r, count: bt.count, size: bt.size, latest: bt.latest, course: false };
+  bt.parent = v;
+  r.d = r.d.map(d => d === bt ? v : d).sort((a, b) => collator.compare(a.n, b.n));
+  S.nodes.set(ENGG, v);
+}
 const ancestors = node => { const a = []; for (let n = node; n && n.parent; n = n.parent) a.unshift(n); return a; };
 const courseOf = node => { for (let n = node; n; n = n.parent) if (n.course) return n; return null; };
 const hasCourses = node => node.d.some(d => d.course);
@@ -249,8 +260,8 @@ function homeView() {
     <div class="stat"><div class="num">${fmtNum(pyqs)}</div><div class="cap">PYQs & Assignments</div></div>
     <div class="stat"><div class="num">${(r.size / 1e9).toFixed(1)}<small>GB</small></div><div class="cap">${fmtNum(videos)} lecture videos</div></div>
   </section>
-  ${umbrellas.map(u => `<h2 class="label"><a href="${href(u.p)}">${esc(label(u.n))}</a>${u.n === S.pg?.umbrella ? '<b>B.Tech & B.E. · ZHCET</b>' : ''}</h2>
-  <div class="cards">${u.d.filter(d => !d.n.startsWith('_')).sort(branchOrder).map((d, i) => card(d, i, u.n === S.pg?.umbrella ? 'Branch' : 'Programme')).join('')}</div>`).join('')}
+  ${umbrellas.map(u => `<h2 class="label"><a href="${href(u.p)}">${esc(label(u.n))}</a></h2>
+  <div class="cards">${u.d.filter(d => !d.n.startsWith('_')).sort(branchOrder).map((d, i) => card(d, i, 'Programme')).join('')}</div>`).join('')}
   ${branches.length ? `<h2 class="label">Branches</h2><div class="cards">${branches.map((d, i) => card(d, i, 'Branch')).join('')}</div>` : ''}
   ${others.length ? `<h2 class="label">Other</h2><div class="cards">${others.map((d, i) => card(d, i, 'Folder', true)).join('')}</div>` : ''}
   <a class="cta hud" href="#/contribute"><span class="eyebrow"><span class="pulse"></span> Contribute</span><span class="cta-t">Have notes, past papers or lab work? Drop them here and they’ll be sorted into the right course.</span><span class="go">→</span></a>
@@ -313,12 +324,13 @@ function progPanel(node, p) {
 function dirView(node) {
   const progs = progsOf(node);
   if (progs.length) return branchView(node, progs);
-  const groups = node.d.filter(hasCourses).sort((a, b) => groupRank(a.n) - groupRank(b.n) || collator.compare(a.n, b.n));
+  const isBT = node.n === S.pg?.umbrella && node.parent?.n === ENGG;  // B.Tech & B.E.: every branch (and First Year, Shared Courses) as a card
+  const groups = isBT ? [] : node.d.filter(hasCourses).sort((a, b) => groupRank(a.n) - groupRank(b.n) || collator.compare(a.n, b.n));
   const terms = groups.filter(g => isTerm(g.n)).length;
-  const loose = node.d.filter(d => !hasCourses(d));
+  const loose = isBT ? node.d : node.d.filter(d => !hasCourses(d));
   const looseCourses = loose.filter(d => d.course);
   const folders = loose.filter(d => !d.course);
-  const parent = node.parent && node.parent !== S.root ? label(node.parent.n) : 'B.Tech';
+  const parent = node.parent && node.parent !== S.root ? label(node.parent.n) : 'Aligarh Muslim University';
   let i = 0;
   return `
   <header class="page-head">
@@ -326,7 +338,11 @@ function dirView(node) {
     <h1>${esc(label(node.n))}</h1>
     <div class="meta"><span><b>${fmtNum(node.count)}</b> files</span><span>${fmtSize(node.size)}</span>${terms ? `<span><b>${terms}</b> semesters</span>` : ''}</div>
   </header>
-  ${folders.length ? `<h2 class="label">Reference</h2><div class="cards">${folders.map((d, j) => card(d, j, 'Folder', true)).join('')}</div>` : ''}
+  ${folders.length ? (node.parent === S.root && /^Faculty-of-/.test(node.n)
+    ? `<h2 class="label">Programmes</h2><div class="cards">${folders.map((d, j) => card(d, j, 'Programme')).join('')}</div>`
+    : isBT
+    ? `<h2 class="label">Branches</h2><div class="cards">${folders.filter(d => !d.n.startsWith('_')).sort(branchOrder).map((d, j) => card(d, j, 'Branch')).join('')}</div>`
+    : `<h2 class="label">Reference</h2><div class="cards">${folders.map((d, j) => card(d, j, 'Folder', true)).join('')}</div>`) : ''}
   ${looseCourses.length ? `<section class="group"><div class="group-head"><span class="gi">—</span><h2>Courses</h2><span class="gc">${plural(looseCourses.length, 'course')}</span></div>${looseCourses.map((d, j) => courseRow(d, j)).join('')}</section>` : ''}
   ${groups.map(g => {
     const cs = g.d.filter(d => d.course), rest = g.d.filter(d => !d.course);
@@ -1340,8 +1356,9 @@ async function boot() {
     S.root = idx.root;
     S.pg = idx.programmes || null;
     S.sources = idx.sources || [];
-    if (S.pg) Object.assign(NAMES, S.pg.labels || {}, { [S.pg.umbrella]: 'Faculty of Engineering & Technology' }, S.pg.umbrellas || {});
+    if (S.pg) Object.assign(NAMES, S.pg.labels || {}, { [S.pg.umbrella]: 'B.Tech & B.E.', [ENGG]: 'Faculty of Engineering & Technology' }, S.pg.umbrellas || {});
     prep(S.root, '', null);
+    if (S.pg) facultyOfEngineering();
   } catch (e) {
     const local = /^(localhost|127\.|\[::1\]|)$/.test(location.hostname);
     $('#view').innerHTML = `<div class="loading">Couldn’t load the archive index (${esc(e.message)}).<br><br>${local ? 'Start the site with <code>python3 serve.py</code> from the repository folder.' : 'Please check your connection and <a href="" onclick="location.reload();return false">reload</a>.'}</div>`;
