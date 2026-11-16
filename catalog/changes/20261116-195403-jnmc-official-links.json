@@ -1,0 +1,59 @@
+{
+ "id": "20261116-195403-jnmc-official-links",
+ "created": "2026-11-16T19:54:03+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "official guideline links replacing coaching-app screenshots (JNMC)"
+ },
+ "ops": [
+  {
+   "op": "link",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4103-MBBD4104_General-Surgery/Books-and-Resources/WHO-Surgical-Safety-Checklist.link",
+   "url": "https://www.who.int/teams/integrated-health-services/patient-safety/research/safe-surgery/tool-and-resources",
+   "t": 1794858884,
+   "meta": {
+    "url": "https://www.who.int/teams/integrated-health-services/patient-safety/research/safe-surgery/tool-and-resources",
+    "title": "WHO Surgical Safety Checklist (official)",
+    "note": "The checklist itself, from WHO, in place of a screenshot from a coaching app.",
+    "source": "World Health Organization"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4103-MBBD4104_General-Surgery/Books-and-Resources/DAS-Difficult-Airway-Guidelines.link",
+   "url": "https://das.uk.com/guidelines/das_intubation_guidelines",
+   "t": 1794858884,
+   "meta": {
+    "url": "https://das.uk.com/guidelines/das_intubation_guidelines",
+    "title": "Difficult Airway Society guidelines for unanticipated difficult intubation (official)",
+    "note": "The official flowcharts, in place of a screenshot from a coaching app.",
+    "source": "Difficult Airway Society"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4108_Paediatrics/Books-and-Resources/IMNCI-Chart-Booklet.link",
+   "url": "https://nhm.gov.in/images/pdf/programmes/child-health/guidelines/imnci_chart_booklet.pdf",
+   "t": 1794858884,
+   "meta": {
+    "url": "https://nhm.gov.in/images/pdf/programmes/child-health/guidelines/imnci_chart_booklet.pdf",
+    "title": "IMNCI chart booklet (Govt. of India)",
+    "note": "Integrated Management of Neonatal and Childhood Illness charts, in place of a screenshot from a coaching app.",
+    "source": "National Health Mission"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/StatPearls_Free-Clinical-Reference.link",
+   "url": "https://www.ncbi.nlm.nih.gov/books/NBK430685/",
+   "t": 1794858884,
+   "meta": {
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK430685/",
+    "title": "StatPearls (free, peer-reviewed clinical topic reviews)",
+    "note": "Free alternative to the paid question-bank explanations: search any topic.",
+    "source": "NCBI Bookshelf"
+   }
+  }
+ ]
+}

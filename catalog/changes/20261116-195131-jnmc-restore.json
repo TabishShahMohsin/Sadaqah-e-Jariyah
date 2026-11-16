@@ -1,0 +1,607 @@
+{
+ "id": "20261116-195131-jnmc-restore",
+ "created": "2026-11-16T19:51:31+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "credit": "JNMC students' shared Drive",
+  "note": "restore batch"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-2/MBBD2003-MBBD2004_Pathology/Books-and-Resources/Viva-Questions_Gross-Specimens_Prof-Veena-Maheshwari.pdf",
+   "s": 30666014,
+   "h": "75622b5b3b3909797169e7c8157af7ec2a8a0b8b50ed85d926749af66e9a691c",
+   "t": 1794858691,
+   "meta": {
+    "title": "Viva questions on gross specimens (Prof. Veena Maheshwari, Kiran Alam, Anshu Jain; compiled by Shobhit Saxena)",
+    "summary": "JNMC Pathology faculty viva questions for gross specimens.",
+    "kind": "scan",
+    "author": "Prof. Veena Maheshwari, Prof. Kiran Alam, Prof. Anshu Jain",
+    "professor": "Prof. Veena Maheshwari",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4103-MBBD4104_General-Surgery/Books-and-Resources/Anaesthesiology_Pre-Anaesthetic-Evaluation-Form_JNMC-1.jpg",
+   "s": 3132048,
+   "h": "4aa6873f9d6ef02363ded51be3d16d4aa05beb5e0a7be7e584132ddf7c8407bd",
+   "t": 1794858691,
+   "meta": {
+    "title": "JNMC Department of Anaesthesiology: pre-anaesthetic evaluation form (page 1)",
+    "summary": "The department's pre-anaesthetic evaluation form.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4103-MBBD4104_General-Surgery/Books-and-Resources/Anaesthesiology_Pre-Anaesthetic-Evaluation-Form_JNMC-2.jpg",
+   "s": 3008188,
+   "h": "e66e7d38badaa4aa597258f5082a59ed3a48b7c943ba80a529f9269b730ceed4",
+   "t": 1794858691,
+   "meta": {
+    "title": "JNMC Department of Anaesthesiology: pre-anaesthetic evaluation form (page 2)",
+    "summary": "The department's pre-anaesthetic evaluation form.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Complete-Notes/Class-Notes_Dermatology_Handwritten-1.jpg",
+   "s": 235214,
+   "h": "dbe500aadbe4377f6a88f60a328de0e4b61c13f15780dbfb213913d11e3bc832",
+   "t": 1794858691,
+   "meta": {
+    "title": "Dermatology handwritten notes (1)",
+    "summary": "A student's handwritten dermatology notes.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Complete-Notes/Class-Notes_Dermatology_Sweat-Glands_Handwritten.jpg",
+   "s": 300787,
+   "h": "faaae46ddacc95add8ac66630b92da7126f6264dafd9b13647bcc9789a101c7b",
+   "t": 1794858691,
+   "meta": {
+    "title": "Dermatology handwritten notes: sweat glands",
+    "summary": "A student's handwritten dermatology notes.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4106-MBBD4107_Obstetrics-and-Gynaecology/Books-and-Resources/Specimen-Photo_OBG-Museum_01.jpg",
+   "s": 1950901,
+   "h": "a44a5da7596ba71eacfb6642256833035b9f35d90d6cfff65990217bb28a8988",
+   "t": 1794858691,
+   "meta": {
+    "title": "Obstetrics and gynaecology specimen (museum jar photo)",
+    "summary": "Photo of a specimen from the practical exam / museum.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4106-MBBD4107_Obstetrics-and-Gynaecology/Books-and-Resources/Specimen-Photo_OBG-Museum_02.jpg",
+   "s": 1982163,
+   "h": "439e22715065195dafee36535d06f6fe2aec90e5348c3fdb795797fc888fddd0",
+   "t": 1794858691,
+   "meta": {
+    "title": "Obstetrics and gynaecology specimen (museum jar photo)",
+    "summary": "Photo of a specimen from the practical exam / museum.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4106-MBBD4107_Obstetrics-and-Gynaecology/Books-and-Resources/Specimen-Photo_OBG-Museum_03.jpg",
+   "s": 1741936,
+   "h": "750b099471c49ed1973816e9719acd3f52a6a19226e9cd51b5efefca686eec4d",
+   "t": 1794858691,
+   "meta": {
+    "title": "Obstetrics and gynaecology specimen (museum jar photo)",
+    "summary": "Photo of a specimen from the practical exam / museum.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4106-MBBD4107_Obstetrics-and-Gynaecology/Books-and-Resources/Specimen-Photo_OBG-Museum_04.jpg",
+   "s": 1974343,
+   "h": "d158e2fdf620db19fabea8eadc66003975ec9b335a98fabf95876e03be1a3f65",
+   "t": 1794858691,
+   "meta": {
+    "title": "Obstetrics and gynaecology specimen (museum jar photo)",
+    "summary": "Photo of a specimen from the practical exam / museum.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4106-MBBD4107_Obstetrics-and-Gynaecology/Books-and-Resources/Specimen-Photo_OBG-Museum_05.jpg",
+   "s": 1930680,
+   "h": "e1cc137ebd7ef42a4696716fcac91e429be14f73cf8e77f84b14880feb88cdf7",
+   "t": 1794858691,
+   "meta": {
+    "title": "Obstetrics and gynaecology specimen (museum jar photo)",
+    "summary": "Photo of a specimen from the practical exam / museum.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4106-MBBD4107_Obstetrics-and-Gynaecology/Books-and-Resources/Specimen-Photo_OBG-Museum_06.jpg",
+   "s": 1802094,
+   "h": "f89cb053a9835198ab28369ec42a33700f053cf653af60a9058e06fcaa5e5946",
+   "t": 1794858691,
+   "meta": {
+    "title": "Obstetrics and gynaecology specimen (museum jar photo)",
+    "summary": "Photo of a specimen from the practical exam / museum.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4106-MBBD4107_Obstetrics-and-Gynaecology/Books-and-Resources/Specimen-Photo_OBG-Museum_07.jpg",
+   "s": 1994431,
+   "h": "4e7f93abf30ae000d643ddc23334660706b90353a07d91fb5d6825d7a2dc620b",
+   "t": 1794858691,
+   "meta": {
+    "title": "Obstetrics and gynaecology specimen (museum jar photo)",
+    "summary": "Photo of a specimen from the practical exam / museum.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4106-MBBD4107_Obstetrics-and-Gynaecology/Books-and-Resources/Specimen-Photo_OBG-Museum_08.jpg",
+   "s": 1729722,
+   "h": "90dcec9b4652684f61f4fc631910e78e2765ab36e0975252fc372a2922ceb78d",
+   "t": 1794858691,
+   "meta": {
+    "title": "Obstetrics and gynaecology specimen (museum jar photo)",
+    "summary": "Photo of a specimen from the practical exam / museum.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4106-MBBD4107_Obstetrics-and-Gynaecology/Books-and-Resources/Specimen-Photo_OBG-Museum_09.jpg",
+   "s": 2105227,
+   "h": "153bbbab9cf631d695f0795766ebdaf4779eace966e00befc1884c7a261f9662",
+   "t": 1794858691,
+   "meta": {
+    "title": "Obstetrics and gynaecology specimen (museum jar photo)",
+    "summary": "Photo of a specimen from the practical exam / museum.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4106-MBBD4107_Obstetrics-and-Gynaecology/Books-and-Resources/Specimen-Photo_OBG-Museum_10.jpg",
+   "s": 2073310,
+   "h": "9ab01a6f311ec024d9901e1e5b3e3bc2d8a7fd6cbe9cab4052df7e597fc6080a",
+   "t": 1794858691,
+   "meta": {
+    "title": "Obstetrics and gynaecology specimen (museum jar photo)",
+    "summary": "Photo of a specimen from the practical exam / museum.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4106-MBBD4107_Obstetrics-and-Gynaecology/Books-and-Resources/Specimen-Photo_OBG-Museum_11.jpg",
+   "s": 1853882,
+   "h": "7bb54c79c584b2afd25aff849d6154bc3ac367110bb5dc5a997b3e374d2e9b7d",
+   "t": 1794858691,
+   "meta": {
+    "title": "Obstetrics and gynaecology specimen (museum jar photo)",
+    "summary": "Photo of a specimen from the practical exam / museum.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4106-MBBD4107_Obstetrics-and-Gynaecology/Books-and-Resources/Specimen-Photo_OBG-Museum_12.jpg",
+   "s": 1805581,
+   "h": "d6364312539ec0cff1e3e10b5a008cb6b036b7c1cb07b5b0bb4d377ef3ed2873",
+   "t": 1794858691,
+   "meta": {
+    "title": "Obstetrics and gynaecology specimen (museum jar photo)",
+    "summary": "Photo of a specimen from the practical exam / museum.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4106-MBBD4107_Obstetrics-and-Gynaecology/Complete-Notes/Class-Notes_OBG_Handwritten-1.png",
+   "s": 451810,
+   "h": "d7140aa00dae4d19ddbc12b9f07d3bc4f9c9daeacc259b244fba76ed5540c6b8",
+   "t": 1794858691,
+   "meta": {
+    "title": "Obstetrics handwritten notes (1)",
+    "summary": "A student's handwritten obstetrics notes.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4106-MBBD4107_Obstetrics-and-Gynaecology/Complete-Notes/Class-Notes_Drugs-in-OBGY_Handwritten.png",
+   "s": 446030,
+   "h": "5ea1be6f2c02d8b098848c4575d226841ca2ea0bf428af226818caf222dc4d0f",
+   "t": 1794858691,
+   "meta": {
+    "title": "Drugs in obstetrics (inducing labour, uterotonics, PPH): handwritten notes",
+    "summary": "A student's handwritten notes.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4108_Paediatrics/Complete-Notes/Class-Notes_Paediatrics_Handwritten-1.jpg",
+   "s": 522792,
+   "h": "363f2334bfd9bbd6cec730e56ff5cbf13ec435cb14b0d21f406ab5cb3f575e49",
+   "t": 1794858691,
+   "meta": {
+    "title": "Paediatrics handwritten notes",
+    "summary": "A student's handwritten notes.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4108_Paediatrics/Books-and-Resources/Growth-Milestones_Chart-Photo.jpg",
+   "s": 1009623,
+   "h": "91d9178fe1dad7bdb31eada52f8f67469a3bb888c5f0313b71a27fb053049257",
+   "t": 1794858691,
+   "meta": {
+    "title": "Growth and developmental milestones chart (photo)",
+    "summary": "Photo of a milestones chart.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_Psychopharmacology-Slides_Dr-Sachin-Arora.pdf",
+   "s": 823027,
+   "h": "0b7268af3caf42f70d13948a16a3bac3eee64876f092fb13b417fccbd03bf2ae",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry: psychopharmacology, most important slides (Dr. Sachin Arora)",
+    "summary": "Concept-book chapter slides the author shared for students.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_Drugs-in-Deaddiction_Dr-Sachin-Arora.pdf",
+   "s": 757032,
+   "h": "a9bb7a0ae8a995ab26cef726cc25c17508b1dbb5263a0855e2597f8221919df4",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry: drugs used in de-addiction (Dr. Sachin Arora)",
+    "summary": "Slides the author shared for students.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_DVT-Revision-Test_Dr-Sachin-Arora.pdf",
+   "s": 4486996,
+   "h": "defcca1780bbc60140daf6b1e53b18342acccd6401a36b959058d8da98c5c36b",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry: DVT-based revision test (Dr. Sachin Arora)",
+    "summary": "High-yield psychiatry revision questions.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_INI-CET-Revision-Card_820.png",
+   "s": 142497,
+   "h": "be093fb61bb1465f9e18d8f9d3ca859c0523e45ba3e0dbcf4ac4dc676591a1ac",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry INI-CET revision card (Dr. Sachin Arora, 15-day series)",
+    "summary": "One of the daily revision cards the author posted publicly for students.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_INI-CET-Revision-Card_821.png",
+   "s": 138331,
+   "h": "bfa465a23da508937f885dd806b7e05c4f6121c174c7c98d75e0a08724656dad",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry INI-CET revision card (Dr. Sachin Arora, 15-day series)",
+    "summary": "One of the daily revision cards the author posted publicly for students.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_INI-CET-Revision-Card_822.png",
+   "s": 146885,
+   "h": "8c32830a1976baf606bdb8871b7aab977528fa89c9c10a193ddea467720d8781",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry INI-CET revision card (Dr. Sachin Arora, 15-day series)",
+    "summary": "One of the daily revision cards the author posted publicly for students.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_INI-CET-Revision-Card_823.png",
+   "s": 178306,
+   "h": "35d6d8d3ebd262fab497bc3aae4c6a7a653bb2755f86bbe4bdc27955603fe76e",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry INI-CET revision card (Dr. Sachin Arora, 15-day series)",
+    "summary": "One of the daily revision cards the author posted publicly for students.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_INI-CET-Revision-Card_824.png",
+   "s": 138982,
+   "h": "066aab78c414aa76ad01c619e3b940fff6b859296fa5cff1e217cce05f16be98",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry INI-CET revision card (Dr. Sachin Arora, 15-day series)",
+    "summary": "One of the daily revision cards the author posted publicly for students.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_INI-CET-Revision-Card_825.png",
+   "s": 122421,
+   "h": "38a049fe3d9b2610eb14ccf66973e8e9410937d69745696b739bb4bf75e9bafe",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry INI-CET revision card (Dr. Sachin Arora, 15-day series)",
+    "summary": "One of the daily revision cards the author posted publicly for students.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_INI-CET-Revision-Card_826.jpg",
+   "s": 145564,
+   "h": "ef0bec0ea7ddc1ca750caca89cfab10af890a63117f83c5ec9e3425dd3e3a474",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry INI-CET revision card (Dr. Sachin Arora, 15-day series)",
+    "summary": "One of the daily revision cards the author posted publicly for students.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_INI-CET-Revision-Card_827.png",
+   "s": 169484,
+   "h": "c28a1183f15cb934c32a8dc5523c01ff86ffe0072af539f9b71599616da7ab30",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry INI-CET revision card (Dr. Sachin Arora, 15-day series)",
+    "summary": "One of the daily revision cards the author posted publicly for students.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_INI-CET-Revision-Card_828.png",
+   "s": 163047,
+   "h": "38031a17564e98ee441eff88867fc91c747cd96d49757ac7517775e0c7bd7ed6",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry INI-CET revision card (Dr. Sachin Arora, 15-day series)",
+    "summary": "One of the daily revision cards the author posted publicly for students.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_INI-CET-Revision-Card_829.png",
+   "s": 158747,
+   "h": "3a9c9da6ef412a3ad94f2c4c2dd0191650e611250d3cf05f2433b178b48777f4",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry INI-CET revision card (Dr. Sachin Arora, 15-day series)",
+    "summary": "One of the daily revision cards the author posted publicly for students.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_INI-CET-Revision-Card_830.png",
+   "s": 148756,
+   "h": "565e487f94da31f485ac22386c6bc0d2399494b1353000200d6a1d099e259328",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry INI-CET revision card (Dr. Sachin Arora, 15-day series)",
+    "summary": "One of the daily revision cards the author posted publicly for students.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_INI-CET-Revision-Card_831.png",
+   "s": 120048,
+   "h": "b522d69358810795f9d4388ce3224ca9b11db47a202e1b65a3e414b7ff1d3b26",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry INI-CET revision card (Dr. Sachin Arora, 15-day series)",
+    "summary": "One of the daily revision cards the author posted publicly for students.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_INI-CET-Revision-Card_832.png",
+   "s": 103284,
+   "h": "6b0b52a949a79f097fb253cfa84c7562a759bbc0ab41d0a25aeafb495a8b3818",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry INI-CET revision card (Dr. Sachin Arora, 15-day series)",
+    "summary": "One of the daily revision cards the author posted publicly for students.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_INI-CET-Questions-2020-2023_Compiled.pdf",
+   "s": 2199537,
+   "h": "75cfc5ba592f7fa9956a1977b7f6ee21e1426bb49b8f10e7ff8f576276467508",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry: INI-CET previously asked questions 2020-2023 (compiled by Dr. Sachin Arora)",
+    "summary": "Recall-based INI-CET psychiatry questions; marked by the author as a shareable PDF for revision.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_NEET-PG-Questions-2018-2023_Compiled.pdf",
+   "s": 1481912,
+   "h": "5e6b5c5d38e94d387eb0bcd751f0835cd18057c053bd9ca5732712940cec128b",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry: NEET-PG previous six years' questions (compiled by Dr. Sachin Arora)",
+    "summary": "Recall-based NEET-PG psychiatry questions; marked by the author as a shareable PDF for revision.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_NEET-PG-Revision-in-14-Days.pdf",
+   "s": 1789551,
+   "h": "bfec01f6d083a77f6d867f3f93d94a4ae81d3b3d7ff5aa17513d697657defbcd",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry: NEET-PG revision in 14 one-page PDFs (Dr. Sachin Arora)",
+    "summary": "Daily one-page revision sheets the author shared for students.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_Sleep-Stages-EEG_Dr-Sachin-Arora.pdf",
+   "s": 1481197,
+   "h": "fc1e11280195dd627cb174bde88ef06f7df8e58a891100a6739700047732d42a",
+   "t": 1794858691,
+   "meta": {
+    "title": "Psychiatry: sleep stage identification slides (Dr. Sachin Arora)",
+    "summary": "Slides the author shared for students.",
+    "kind": "scan",
+    "author": "Dr. Sachin Arora (DAMS psychiatry faculty), shared for students",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4103-MBBD4104_General-Surgery/Complete-Notes/Class-Notes_Scrotal-Swellings_Handwritten.jpg",
+   "s": 496396,
+   "h": "a5646e87fcfa947e90ceda5602023137485f7aae325233d8c804df67435861b2",
+   "t": 1794858691,
+   "meta": {
+    "title": "Surgery handwritten notes: scrotal swellings",
+    "summary": "A student's handwritten notes.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4103-MBBD4104_General-Surgery/Complete-Notes/Class-Notes_Suture-Materials_Handwritten.jpg",
+   "s": 398820,
+   "h": "ba65c802808cab1cb2d82ab4db522365b79648a4524b394d3a9f72148ec19e6a",
+   "t": 1794858691,
+   "meta": {
+    "title": "Surgery handwritten notes: suture materials",
+    "summary": "A student's handwritten notes.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Medicine/MBBS/Prof-4/MBBD4103-MBBD4104_General-Surgery/Complete-Notes/Class-Notes_Parotid-Tumours_Handwritten.jpg",
+   "s": 643075,
+   "h": "9341776865dc957a8285ed1a51bc04af8416b663e8117c7c76c8cd0309bc841f",
+   "t": 1794858691,
+   "meta": {
+    "title": "Surgery handwritten notes: parotid tumours",
+    "summary": "A student's handwritten notes.",
+    "kind": "scan",
+    "credit": "JNMC students' shared Drive"
+   }
+  }
+ ]
+}

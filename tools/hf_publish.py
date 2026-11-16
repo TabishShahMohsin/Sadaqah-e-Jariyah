@@ -72,6 +72,19 @@ def clean_name(name):
     return f"{s}.{ext}" if ext else s
 
 
+_PUBLISH = None
+
+
+def publish_anyway():
+    """catalog/publish.txt: one archive path per line, reviewed and cleared despite the book heuristics."""
+    global _PUBLISH
+    if _PUBLISH is None:
+        f = os.path.join(REPO, "catalog", "publish.txt")
+        _PUBLISH = {l.strip() for l in open(f, encoding="utf-8")
+                    if l.strip() and not l.startswith("#")} if os.path.exists(f) else set()
+    return _PUBLISH
+
+
 def why_left_out(p, e, scan, skip):
     name = p.rsplit("/", 1)[-1]
     ext = rules.ext_of(name)
@@ -83,6 +96,8 @@ def why_left_out(p, e, scan, skip):
         return "empty file"
     if skip(p):
         return "catalog/exclude.txt"
+    if p in publish_anyway():
+        return None  # reviewed by hand: shared by the teacher or author for students
     if BOOKISH.search(name):
         return "book-like name"
     if (scan.get(e.get("h")) or {}).get("isbn") and "/Syllabus/" not in p:

@@ -1,0 +1,16 @@
+# Reviewed by hand: published even though the book heuristics (length, book-like name) would leave them out.
+# Each was shared by an AMU teacher, or by its author for students. One archive path per line.
+
+# JNMC (MBBS)
+Faculty-of-Medicine/MBBS/Prof-2/MBBD2003-MBBD2004_Pathology/Books-and-Resources/Viva-Questions_Gross-Specimens_Prof-Veena-Maheshwari.pdf
+Faculty-of-Medicine/MBBS/Prof-2/MBBD2003-MBBD2004_Pathology/Books-and-Resources/Z_Gross-Specimen_Images_Pathology.pdf
+Faculty-of-Medicine/MBBS/Prof-3/MBBD3101_Forensic-Medicine-and-Toxicology/Books-and-Resources/Forensic-Specimens_Atlas-of-Gross-Specimens.pdf
+Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Essential-Items-for-Practical-Exams_Edition-1.0.png
+Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Instrument_Description_Oxygen-Mask.pdf
+Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_DVT-Revision-Test_Dr-Sachin-Arora.pdf
+Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_Drugs-in-Deaddiction_Dr-Sachin-Arora.pdf
+Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_INI-CET-Questions-2020-2023_Compiled.pdf
+Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_NEET-PG-Questions-2018-2023_Compiled.pdf
+Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_NEET-PG-Revision-in-14-Days.pdf
+Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_Psychopharmacology-Slides_Dr-Sachin-Arora.pdf
+Faculty-of-Medicine/MBBS/Prof-4/MBBD4101-MBBD4102_General-Medicine/Books-and-Resources/Psychiatry_Sleep-Stages-EEG_Dr-Sachin-Arora.pdf
