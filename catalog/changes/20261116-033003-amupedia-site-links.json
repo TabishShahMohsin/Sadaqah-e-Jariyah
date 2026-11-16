@@ -1,0 +1,624 @@
+{
+ "id": "20261116-033003-amupedia-site-links",
+ "created": "2026-11-16T03:30:03+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "credit": "AMUPedia",
+  "note": "YouTube lecture links listed on the AMUPedia website (first-year subjects)"
+ },
+ "ops": [
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/YouTube_Unit-1_Lecture-01.link",
+   "url": "https://www.youtube.com/watch?v=ccaHV-ukK2o",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=ccaHV-ukK2o",
+    "title": "Unit 1, lecture 1: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/YouTube_Unit-1_Lecture-02.link",
+   "url": "https://www.youtube.com/watch?v=iwkFNEWqzgc",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=iwkFNEWqzgc",
+    "title": "Unit 1, lecture 2: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/YouTube_Unit-1_Lecture-03.link",
+   "url": "https://www.youtube.com/watch?v=7a9Yawt1O50",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=7a9Yawt1O50",
+    "title": "Unit 1, lecture 3: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/YouTube_Unit-1_Lecture-04.link",
+   "url": "https://www.youtube.com/watch?v=rDrQH9ma82o",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=rDrQH9ma82o",
+    "title": "Unit 1, lecture 4: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/YouTube_Unit-1_Lecture-05.link",
+   "url": "https://www.youtube.com/watch?v=1wjXVdwzgX8",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=1wjXVdwzgX8",
+    "title": "Unit 1, lecture 5: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/YouTube_Unit-1_Lecture-06.link",
+   "url": "https://www.youtube.com/watch?v=THONvuviGkc",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=THONvuviGkc",
+    "title": "Unit 1, lecture 6: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-1/YouTube_Unit-1_Lecture-07.link",
+   "url": "https://www.youtube.com/watch?v=ZOHMCsdDti0",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=ZOHMCsdDti0",
+    "title": "Unit 1, lecture 7: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/YouTube_Unit-2_Lecture-01.link",
+   "url": "https://www.youtube.com/watch?v=KijGLjxKlsY",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=KijGLjxKlsY",
+    "title": "Unit 2, lecture 1: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/YouTube_Unit-2_Lecture-02.link",
+   "url": "https://www.youtube.com/watch?v=JinafWKRSLU",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=JinafWKRSLU",
+    "title": "Unit 2, lecture 2: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/YouTube_Unit-2_Lecture-03.link",
+   "url": "https://www.youtube.com/watch?v=EGnI8WyYb3o",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=EGnI8WyYb3o",
+    "title": "Unit 2, lecture 3: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/YouTube_Unit-2_Lecture-04.link",
+   "url": "https://www.youtube.com/watch?v=Ac1mr2WrO-g",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=Ac1mr2WrO-g",
+    "title": "Unit 2, lecture 4: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/YouTube_Unit-2_Lecture-05.link",
+   "url": "https://www.youtube.com/watch?v=LEspaisjDFE",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=LEspaisjDFE",
+    "title": "Unit 2, lecture 5: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/YouTube_Unit-2_Lecture-06.link",
+   "url": "https://www.youtube.com/watch?v=WX6O9TiFYsA",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=WX6O9TiFYsA",
+    "title": "Unit 2, lecture 6: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/YouTube_Unit-2_Lecture-07.link",
+   "url": "https://www.youtube.com/watch?v=mco9p6EzR50",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=mco9p6EzR50",
+    "title": "Unit 2, lecture 7: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/YouTube_Unit-2_Lecture-08.link",
+   "url": "https://www.youtube.com/watch?v=CBrIHByAlrw",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=CBrIHByAlrw",
+    "title": "Unit 2, lecture 8: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/YouTube_Unit-2_Lecture-09.link",
+   "url": "https://www.youtube.com/watch?v=m8lmI6LQyWs",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=m8lmI6LQyWs",
+    "title": "Unit 2, lecture 9: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/YouTube_Unit-2_Lecture-10.link",
+   "url": "https://www.youtube.com/watch?v=CioY8ElsjO4",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=CioY8ElsjO4",
+    "title": "Unit 2, lecture 10: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/YouTube_Unit-2_Lecture-11.link",
+   "url": "https://www.youtube.com/watch?v=yhGOx0qhGF0",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=yhGOx0qhGF0",
+    "title": "Unit 2, lecture 11: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/YouTube_Unit-2_Lecture-12.link",
+   "url": "https://www.youtube.com/watch?v=zLQE8tO5G90",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=zLQE8tO5G90",
+    "title": "Unit 2, lecture 12: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/YouTube_Unit-2_Lecture-13.link",
+   "url": "https://www.youtube.com/watch?v=vfg1mmsSMMM",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=vfg1mmsSMMM",
+    "title": "Unit 2, lecture 13: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/YouTube_Unit-2_Lecture-14.link",
+   "url": "https://www.youtube.com/watch?v=9sLsX9DV5Fs",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=9sLsX9DV5Fs",
+    "title": "Unit 2, lecture 14: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/YouTube_Unit-2_Lecture-15.link",
+   "url": "https://www.youtube.com/watch?v=tF4vDQ6X7Kg",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=tF4vDQ6X7Kg",
+    "title": "Unit 2, lecture 15: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-2/YouTube_Unit-2_Lecture-16.link",
+   "url": "https://www.youtube.com/watch?v=S-qzRWJOlf8",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=S-qzRWJOlf8",
+    "title": "Unit 2, lecture 16: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/YouTube_Unit-3_Lecture-01.link",
+   "url": "https://www.youtube.com/watch?v=n4JJ3fNKHUc",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=n4JJ3fNKHUc",
+    "title": "Unit 3, lecture 1: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/YouTube_Unit-3_Lecture-02.link",
+   "url": "https://www.youtube.com/watch?v=qwJYHoalErk",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=qwJYHoalErk",
+    "title": "Unit 3, lecture 2: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/YouTube_Unit-3_Lecture-03.link",
+   "url": "https://www.youtube.com/watch?v=LDPGDtxezWs",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=LDPGDtxezWs",
+    "title": "Unit 3, lecture 3: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/YouTube_Unit-3_Lecture-04.link",
+   "url": "https://www.youtube.com/watch?v=jCmexnTwxmM",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=jCmexnTwxmM",
+    "title": "Unit 3, lecture 4: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-3/YouTube_Unit-3_Lecture-06.link",
+   "url": "https://www.youtube.com/watch?v=x4U4n4DaxZ8",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=x4U4n4DaxZ8",
+    "title": "Unit 3, lecture 6: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/YouTube_Unit-4_Lecture-01.link",
+   "url": "https://www.youtube.com/watch?v=vQcThbJJjOI",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=vQcThbJJjOI",
+    "title": "Unit 4, lecture 1: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/YouTube_Unit-4_Lecture-02.link",
+   "url": "https://www.youtube.com/watch?v=Qscs_AZTf7c",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=Qscs_AZTf7c",
+    "title": "Unit 4, lecture 2: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/YouTube_Unit-4_Lecture-03.link",
+   "url": "https://www.youtube.com/watch?v=tHqx1qxA8q4",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=tHqx1qxA8q4",
+    "title": "Unit 4, lecture 3: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/YouTube_Unit-4_Lecture-04.link",
+   "url": "https://www.youtube.com/watch?v=1HKn9IvYiEM",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=1HKn9IvYiEM",
+    "title": "Unit 4, lecture 4: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Phys-Sem/AMS1112_Applied-Mathematics-I/Unit-4/YouTube_Unit-4_Lecture-07.link",
+   "url": "https://www.youtube.com/watch?v=Y8CF01gbd_U",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=Y8CF01gbd_U",
+    "title": "Unit 4, lecture 7: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/YouTube_Unit-1_Lecture-08.link",
+   "url": "https://www.youtube.com/watch?v=k_FqhE0uNEU",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=k_FqhE0uNEU",
+    "title": "Unit 1, lecture 8: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/YouTube_Unit-1_Lecture-09.link",
+   "url": "https://www.youtube.com/watch?v=HKRFX7AtYig",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=HKRFX7AtYig",
+    "title": "Unit 1, lecture 9: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/YouTube_Unit-1_Lecture-10.link",
+   "url": "https://www.youtube.com/watch?v=aS5bkOMZRIs",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=aS5bkOMZRIs",
+    "title": "Unit 1, lecture 10: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-1/YouTube_Unit-1_Lecture-11.link",
+   "url": "https://www.youtube.com/watch?v=pTkNXgGXCjo",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=pTkNXgGXCjo",
+    "title": "Unit 1, lecture 11: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/YouTube_Unit-2_Lecture-01.link",
+   "url": "https://www.youtube.com/watch?v=-V87ANqaHD4",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=-V87ANqaHD4",
+    "title": "Unit 2, lecture 1: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/YouTube_Unit-2_Lecture-02.link",
+   "url": "https://www.youtube.com/watch?v=UdaDs-zKfsA",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=UdaDs-zKfsA",
+    "title": "Unit 2, lecture 2: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/YouTube_Unit-2_Lecture-03.link",
+   "url": "https://www.youtube.com/watch?v=cw9f33jLkd4",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=cw9f33jLkd4",
+    "title": "Unit 2, lecture 3: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/YouTube_Unit-2_Lecture-04.link",
+   "url": "https://www.youtube.com/watch?v=_RJRbGOAeok",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=_RJRbGOAeok",
+    "title": "Unit 2, lecture 4: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/YouTube_Unit-2_Lecture-05.link",
+   "url": "https://www.youtube.com/watch?v=vh_aCAHThTQ",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=vh_aCAHThTQ",
+    "title": "Unit 2, lecture 5: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-2/YouTube_Unit-2_Lecture-06.link",
+   "url": "https://www.youtube.com/watch?v=TvMLBLprbXo",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=TvMLBLprbXo",
+    "title": "Unit 2, lecture 6: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/YouTube_Unit-3_Lecture-01.link",
+   "url": "https://www.youtube.com/watch?v=AQqyGNOP_3o",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=AQqyGNOP_3o",
+    "title": "Unit 3, lecture 1: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/YouTube_Unit-3_Lecture-02.link",
+   "url": "https://www.youtube.com/watch?v=knuH97y6WrQ",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=knuH97y6WrQ",
+    "title": "Unit 3, lecture 2: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Unit-3/YouTube_Unit-3_Lecture-03.link",
+   "url": "https://www.youtube.com/watch?v=Y7_zKCnGgsI",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=Y7_zKCnGgsI",
+    "title": "Unit 3, lecture 3: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-1/YouTube-Playlist_Unit-1.link",
+   "url": "https://www.youtube.com/playlist?list=PLQvzPLYdJBGcGyREMkipXypbrwjJoJIpj",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLQvzPLYdJBGcGyREMkipXypbrwjJoJIpj",
+    "title": "Unit 1: YouTube playlist",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-2/YouTube-Playlist_Unit-2.link",
+   "url": "https://www.youtube.com/playlist?list=PLQvzPLYdJBGcodM-2_TvUUR1L5VJUBbdc",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLQvzPLYdJBGcodM-2_TvUUR1L5VJUBbdc",
+    "title": "Unit 2: YouTube playlist",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-3/YouTube-Playlist_Unit-3.link",
+   "url": "https://www.youtube.com/playlist?list=PLQvzPLYdJBGfoWZK9G7uiWlFHdZ2Xg2ZN",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLQvzPLYdJBGfoWZK9G7uiWlFHdZ2Xg2ZN",
+    "title": "Unit 3: YouTube playlist",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1112_Applied-Chemistry/Unit-4/YouTube-Playlist_Unit-4.link",
+   "url": "https://www.youtube.com/playlist?list=PLzSTglXGeoUuhXb4czCE_0fA2tQPA1yEk",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLzSTglXGeoUuhXb4czCE_0fA2tQPA1yEk",
+    "title": "Unit 4: YouTube playlist",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  },
+  {
+   "op": "link",
+   "p": "BTech-and-BE/First-Year-Common/Chem-Sem/ACS1912_Applied-Chemistry-Lab/Manuals/YouTube_Unit-1_Lecture-01.link",
+   "url": "https://www.youtube.com/watch?v=Sm4RubV1gCw",
+   "t": 1794799803,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=Sm4RubV1gCw",
+    "title": "Applied Chemistry Lab: YouTube video",
+    "source": "AMUPedia",
+    "credit": "AMUPedia"
+   }
+  }
+ ]
+}

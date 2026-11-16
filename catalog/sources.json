@@ -364,8 +364,9 @@
    "url": "https://amupedia.netlify.app/",
    "credit": "AMUPedia",
    "covers": "Notes, PYQs, assignments for B.Tech/B.E/B.Com/B.Sc",
-   "status": "reference",
-   "note": "open source: github.com/amupedia2021/Project-Amupedia; its Drive is amupedia2021@gmail.com (two folders above)"
+   "status": "merged",
+   "note": "open source: github.com/amupedia2021/Project-Amupedia. The whole site and its Drive folders were merged on 2026-11-16; its 'ECE AI' folder is IGDTUW material (parked), and its Computer Engineering Drive folder was a dead link.",
+   "change": "20261116-032925-amupedia-site"
   },
   {
    "title": "Dr. Kamran's Cloud",

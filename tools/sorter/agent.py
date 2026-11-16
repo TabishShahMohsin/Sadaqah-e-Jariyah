@@ -359,7 +359,7 @@ def run(items, archive, ctx, call, conventions, upload_text, log=print, on_batch
                         results.append(result_block(u["id"], {"error": f"not finished: no decision yet for {', '.join(open_ids)}"}))
                         continue
                     with lock:
-                        notes.extend(sess.tool("finish", u.get("input") or {})["notes"])
+                        notes.extend(sess.tool("finish", u.get("input") or {}).get("notes") or [])
                     results.append(result_block(u["id"], {"ok": True}))
                     finished = True
                 else:

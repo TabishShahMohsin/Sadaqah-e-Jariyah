@@ -32,6 +32,50 @@
    "progs": {},
    "kind": "lab",
    "evidence": "'ELC4910 list of experiments 2024-25' course outline and lab report cover"
+  },
+  "BTech-and-BE/Electronics-Engineering/_Old-Syllabus-Subjects/ELC2930_Instrumentation-Lab": {
+   "title": "Instrumentation Lab",
+   "codes": [
+    "ELC2930"
+   ],
+   "be": [],
+   "old": [],
+   "progs": {},
+   "kind": "lab",
+   "evidence": "lab report covers 'Instrumentation Lab Report, Subject Code ELC2930' (19ELB batch, via AMUPedia)"
+  },
+  "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC2900_Computer-Application-Lab-I": {
+   "title": "Computer Application Lab I",
+   "codes": [
+    "FTC2900"
+   ],
+   "be": [],
+   "old": [],
+   "progs": {},
+   "kind": "lab",
+   "evidence": "lab record covers 'Computer Application Lab I, FTC 2900' and the B.Tech III Sem 2021-22 time table (via AMUPedia)"
+  },
+  "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC2920_Unit-Operations-Lab-I": {
+   "title": "Unit Operations Lab I",
+   "codes": [
+    "FTC2920"
+   ],
+   "be": [],
+   "old": [],
+   "progs": {},
+   "kind": "lab",
+   "evidence": "'Syllabus FTC2920 (Including COs)' and record cover 'Unit operations lab - I, COURSE CODE: FTC2920', B.Tech Food Technology IV Sem (via AMUPedia)"
+  },
+  "BTech-and-BE/Food-Technology/_Old-Syllabus-Subjects/FTC2040_Food-Biochemistry": {
+   "title": "Food Biochemistry",
+   "codes": [
+    "FTC2040"
+   ],
+   "be": [],
+   "old": [],
+   "progs": {},
+   "kind": "theory",
+   "evidence": "assignment cover page 'Food Bio-chemistry (FTC2040)' and the Food biochemistry syllabus, Food Technology IV Sem (via AMUPedia)"
   }
  }
 }
