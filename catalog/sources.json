@@ -517,6 +517,13 @@
    "covers": "Admission guides, application forms, examination proformas, degree, marksheet and transcript forms, NEP course codes and Ph.D. ordinances",
    "status": "reference",
    "note": "Not collected yet: scraped earlier by the maintainer."
+  },
+  {
+   "title": "BCA (2021-24)",
+   "url": "https://drive.google.com/drive/folders/1WRcQb6A2U4fTzEa1ERvc_XmDaAeWNUdo",
+   "covers": "AMU BCA (Department of Computer Science), batch 2021-24: 1st, 2nd and 3rd year folders, question papers, and course structure and syllabus",
+   "status": "reference",
+   "note": "Not collected yet: BCA is outside the current B.Tech focus (for the other-faculties stage). Same owner as the MCA (2024-26) Drive."
   }
  ]
 }
