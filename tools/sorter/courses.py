@@ -16,7 +16,7 @@ def record(p, info, sha=None):
 
 def parse_codes(folder):
     head = folder.split("_", 1)[0]
-    return [c for c in head.split("-") if re.match(r"^[A-Z]{2,5}\d{3,4}[A-Z]?$", c)]
+    return [c for c in head.split("-") if re.match(r"^[A-Z]{2,5}\d[0-9A-Z]\d{1,2}[A-Z]?$", c)]
 
 
 def norm_code(s):

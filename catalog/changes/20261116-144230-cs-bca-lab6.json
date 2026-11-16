@@ -1,0 +1,143 @@
+{
+ "id": "20261116-144230-cs-bca-lab6",
+ "created": "2026-11-16T14:42:30+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "credit": "Mohd Rameez Khan",
+  "note": "BCA (B.Sc. Hons. Computer Applications), 6th semester Practical Lab 6 (CCB6P1), student's handwritten lab solutions, one PDF per week. Place each in Faculty-of-Science/BCA/Sem6/CCB6P1_Practical-Lab-6/Records as Handwritten-Solutions_Week-<N>.pdf. Shared by Mohd Rameez Khan."
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6P1_Practical-Lab-6/Records/Handwritten-Solutions_Week-1.pdf",
+   "s": 6116994,
+   "h": "9330e837a626296d017179f25471fd08167e2c683616c73a5884ea2d8f2e9190",
+   "t": 1794840150,
+   "meta": {
+    "title": "Handwritten lab solutions · week 1",
+    "summary": "Student's handwritten solutions for Practical Lab 6, week 1.",
+    "kind": "scan-handwritten",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6P1_Practical-Lab-6/Records/Handwritten-Solutions_Week-10.pdf",
+   "s": 1251807,
+   "h": "f3a6a4dbde35492d6427c7e952869f795f1af911515aaa6e8e48455a10d6003e",
+   "t": 1794840150,
+   "meta": {
+    "title": "Handwritten lab solutions · week 10",
+    "summary": "Student's handwritten solutions for Practical Lab 6, week 10.",
+    "kind": "scan-handwritten",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6P1_Practical-Lab-6/Records/Handwritten-Solutions_Week-11.pdf",
+   "s": 290137,
+   "h": "0f3136697f17dc39414c996918f4cc08a1f75e40108a46f2317585ef4fb4c8db",
+   "t": 1794840150,
+   "meta": {
+    "title": "Handwritten lab solutions · week 11",
+    "summary": "Student's handwritten solutions for Practical Lab 6, week 11.",
+    "kind": "scan-handwritten",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6P1_Practical-Lab-6/Records/Handwritten-Solutions_Week-12.pdf",
+   "s": 101761,
+   "h": "d7069fb7e9ad9c3bd0fb9b29296e8f687691b6aa8ed5d91a134c088ca9dec329",
+   "t": 1794840150,
+   "meta": {
+    "title": "Handwritten lab solutions · week 12",
+    "summary": "Student's handwritten solutions for Practical Lab 6, week 12.",
+    "kind": "scan-handwritten",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6P1_Practical-Lab-6/Records/Handwritten-Solutions_Week-2.pdf",
+   "s": 1581094,
+   "h": "895e9cb19aeac0240dbdf10dd104ac859323560295cb9cbe6016e0f33539fb61",
+   "t": 1794840150,
+   "meta": {
+    "title": "Handwritten lab solutions · week 2",
+    "summary": "Student's handwritten solutions for Practical Lab 6, week 2.",
+    "kind": "scan-handwritten",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6P1_Practical-Lab-6/Records/Handwritten-Solutions_Week-3-and-4.pdf",
+   "s": 835083,
+   "h": "9b768862f2563aa93ba936996f9d34f2fb666bfa8c3f225ecb6bf9e16c7e299c",
+   "t": 1794840150,
+   "meta": {
+    "title": "Handwritten lab solutions · week 3 and 4",
+    "summary": "Student's handwritten solutions for Practical Lab 6, week 3 and 4.",
+    "kind": "scan-handwritten",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6P1_Practical-Lab-6/Records/Handwritten-Solutions_Week-5-and-6.pdf",
+   "s": 874140,
+   "h": "62ac2c91b262a9263182401a4ff62ad3c6573f7c9188652e37c5d43d73f00385",
+   "t": 1794840150,
+   "meta": {
+    "title": "Handwritten lab solutions · week 5 and 6",
+    "summary": "Student's handwritten solutions for Practical Lab 6, week 5 and 6.",
+    "kind": "scan-handwritten",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6P1_Practical-Lab-6/Records/Handwritten-Solutions_Week-7.pdf",
+   "s": 458318,
+   "h": "c7499f9c9002fb9b5cdcbd907d4f2e2debe198701f19784c0a6ec041045fb0e5",
+   "t": 1794840150,
+   "meta": {
+    "title": "Handwritten lab solutions · week 7",
+    "summary": "Student's handwritten solutions for Practical Lab 6, week 7.",
+    "kind": "scan-handwritten",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6P1_Practical-Lab-6/Records/Handwritten-Solutions_Week-8.pdf",
+   "s": 878504,
+   "h": "1e1b8360ce3576fba59ac1bcf26de2434098c812992b20274aa44f3e550e220d",
+   "t": 1794840150,
+   "meta": {
+    "title": "Handwritten lab solutions · week 8",
+    "summary": "Student's handwritten solutions for Practical Lab 6, week 8.",
+    "kind": "scan-handwritten",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6P1_Practical-Lab-6/Records/Handwritten-Solutions_Week-9.pdf",
+   "s": 678561,
+   "h": "9266ea1c1fb77f9d5754514a0e2463c5628297671d9c909e4812d4756371a95d",
+   "t": 1794840150,
+   "meta": {
+    "title": "Handwritten lab solutions · week 9",
+    "summary": "Student's handwritten solutions for Practical Lab 6, week 9.",
+    "kind": "scan-handwritten",
+    "credit": "Mohd Rameez Khan"
+   }
+  }
+ ]
+}

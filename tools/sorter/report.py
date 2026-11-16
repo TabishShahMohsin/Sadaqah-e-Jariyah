@@ -2,6 +2,8 @@
 import json
 from collections import Counter, defaultdict
 
+UMBRELLAS = {"BTech-and-BE", "Faculty-of-Science"}  # mirrors tools/rules.py
+
 LABEL = {"place": "Placed", "credit": "Already in the archive (credited)", "duplicate": "Already in the archive (credited)",
          "twin": "Copy of another file in this upload", "link": "Link entries", "review": "Needs a person",
          "reject": "Not added", "ignored": "System files ignored", "unpacked": "Opened (zip or multi-sheet file)"}
@@ -23,7 +25,7 @@ def coverage_ok(items):
 
 def course_of(path):
     parts = path.split("/")
-    k = 1 if parts[0] == "BTech-and-BE" else 0
+    k = 1 if parts[0] in UMBRELLAS else 0
     return "/".join(parts[:k + 3]) if len(parts) > k + 3 else "/".join(parts[:-1])
 
 

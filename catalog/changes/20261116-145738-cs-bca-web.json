@@ -1,0 +1,442 @@
+{
+ "id": "20261116-145738-cs-bca-web",
+ "created": "2026-11-16T14:57:38+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "credit": "Mohd Rameez Khan",
+  "note": "BCA Practical Lab 5 (CCB5P2), Web Engineering lab assignments: students' own HTML/CSS pages."
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week10_P1A.html",
+   "s": 647,
+   "h": "491824ae4f14606d67d49da57a911174b8fb24170653d6b618baf6d180aecda1",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 10 · P1A",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week10_P1B.html",
+   "s": 217,
+   "h": "3b6387aff8356b6541c21734fd9212acb2f52f69aca509b2afd8173afb5a5739",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 10 · P1B",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week11_P1.html",
+   "s": 1682,
+   "h": "a2c4ac7955f9fb8db4ebd3736e35174429a427f4390e07eefd01d06c4f80f6b8",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 11 · P1",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week11_P2.html",
+   "s": 575,
+   "h": "af7609de1b5841c8d6aa52d56d4e6493d2704f3a1049631da0e1b8de4b896393",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 11 · P2",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week11_P3A.html",
+   "s": 498,
+   "h": "061251508236decfb62a99708058b575d5843bcc234bf0908857eac5a603bfe8",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 11 · P3A",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week11_P3B.html",
+   "s": 312,
+   "h": "87f0beb20633b129b39f03035b7afe1d8e7d9435ad8593d8de8ab2424a757b61",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 11 · P3B",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week11_P3C.html",
+   "s": 246,
+   "h": "1c9b72cebe44ad21dc9b93951594713d9f4c3a2c116e3e0dfe6d825f872fb254",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 11 · P3C",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week12_P1.html",
+   "s": 392,
+   "h": "2bd30f22c9762b7a692206843e796b043aa4780d65a26026adb635fcbbe62652",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 12 · P1",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week12_P2.html",
+   "s": 372,
+   "h": "e10384d56f6289e937ce473b78bd3ad9c0324d576f65d09ad184b7d53f844e79",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 12 · P2",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week12_P3.html",
+   "s": 711,
+   "h": "0f241394f373897ed29ce79376e899289a8c4402c7c72bc82b3723541896cd9a",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 12 · P3",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week12_P4.html",
+   "s": 978,
+   "h": "fb22d7a722f9e864b0043f2629f4ebebd310979e7f9fc26a9d41e648ccdd94e2",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 12 · P4",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week12_P5.html",
+   "s": 1488,
+   "h": "4f812563b9387e41d914e02c94c2feb382a98a7ea44a1f6ba2a07a4cb79b7aa6",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 12 · P5",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week12_P6.html",
+   "s": 979,
+   "h": "772587afb0bade85c451d6b2ec321fbd758fa010df37b274bc64156217e51fcc",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 12 · P6",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week13_Form1.html",
+   "s": 2254,
+   "h": "9275a9506066ca72a3a707cbdaa2f5f0d06f79bcc44639a261054be43102a87d",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 13 · Form1",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week13_Form2.html",
+   "s": 2032,
+   "h": "cb4722dd23410b328e97222a21cb8f585ff1368105f99f8e6a576027e3993739",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 13 · Form2",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week13_P1.html",
+   "s": 2205,
+   "h": "045d0f36aeca30fa36ce4d978f53fd04add2245b1683903f11546b3bb796c332",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 13 · P1",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week13_P2.html",
+   "s": 2294,
+   "h": "a625591276cd09e5d9a7ee496cae4ee739a41289b33edd466c97e1314f7badd5",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 13 · P2",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week13_P3.html",
+   "s": 297,
+   "h": "3c89d7e3187a7473ecda8f6953ef437a8b8dd002955e555edab0bf893b12875b",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 13 · P3",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week13_P4-1.html",
+   "s": 273,
+   "h": "e1ff090d5ee4b18a07f7779a2814b215c7778352339b58f733b84a6b6e58c98f",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 13 · P4-1",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week13_P4-2.html",
+   "s": 215,
+   "h": "278cc0f89fa25d8b2125f73615690d57b052ed2c65767939470ce0b2e51a85e6",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 13 · P4-2",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week13_P4-3.html",
+   "s": 503,
+   "h": "73dab20634ca2d48043b9e091a01f42b2726dbcd3735f9ccbab46622bf2a80ca",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 13 · P4-3",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week13_P5.html",
+   "s": 471,
+   "h": "a6a8b3aede1519147f1972350c59cb6045726c366082af9458da15aa517006c2",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 13 · P5",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week13_op.html",
+   "s": 182,
+   "h": "eeec479616bc0185d2aed9105ccbd126afe828a4684a1c13b146f6f5678df66a",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 13 · op",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week14_NW.html",
+   "s": 248,
+   "h": "221d94cd47f5f964e50f5997fe5389cd33cc54674845bd96fa049717a0a88e4d",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 14 · NW",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week14_P1.html",
+   "s": 2045,
+   "h": "15a81d9ed0e1aaf3dad0572619ae482607d902b3b8e5fd1f7bb6a63d03465715",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 14 · P1",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week14_P2.html",
+   "s": 222,
+   "h": "f399166a7b45af6fd14faef2447504af452844ec4dad36750f1d360d4ea52c23",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 14 · P2",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week14_P3.html",
+   "s": 1310,
+   "h": "bdcda2c5e0fa09f229bc137565e84ea470c76b93dadb4285fc3edf019cbb12da",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 14 · P3",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week14_name.css",
+   "s": 198,
+   "h": "4c7c6b2d7c207a036bd9d1bc5fa984570bd4a51c84311077cc99ea19b2f16d9e",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 14 · name",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week6_P1.html",
+   "s": 1023,
+   "h": "837b07935d5974166b7fde603bdbbc7a54da23445dd4e8dcc189a310bdb90e87",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 6 · P1",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week7_P1.html",
+   "s": 606,
+   "h": "5403dd157a2abe85c6cc693be1be6ae37c9b1dc1b101a7b4919c5fd586885756",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 7 · P1",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week7_P2.html",
+   "s": 1014,
+   "h": "5cb407138adaeed0bdc8964c161eb0b47ce019867983e7a0919debafd825dd25",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 7 · P2",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week8_P1.html",
+   "s": 263,
+   "h": "773e5b752ae8fea3360373928c6d26a090ec45d5d506a10e3df79d2b41c8655d",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 8 · P1",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB5P2_Practical-Lab-5/Records/Web-Engineering_Week9_P1.html",
+   "s": 343,
+   "h": "c81e7a7e67562d845cc69238989d9693ce55df57a8d485f16cbf1a8073fee687",
+   "t": 1794841058,
+   "meta": {
+    "title": "Web Engineering lab, week 9 · P1",
+    "summary": "Student's HTML/CSS page from the Web Engineering lab.",
+    "kind": "code",
+    "credit": "Mohd Rameez Khan"
+   }
+  }
+ ]
+}

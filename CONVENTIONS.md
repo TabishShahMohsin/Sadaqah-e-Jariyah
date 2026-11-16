@@ -24,7 +24,8 @@ that breaks a rule (older material is brought in line over time; the rules are n
 ## 1. Folder tree
 
 ```
-BTech-and-BE/                   umbrella for B.Tech & B.E. (other AMU programmes get their own umbrella later)
+BTech-and-BE/                   umbrella for B.Tech & B.E. (ZHCET)
+Faculty-of-Science/             one umbrella per AMU faculty, named after it; its programmes (BCA, MCA) sit where B.Tech has branches
  <Branch>/
   _Curriculum/                  course structures, syllabi bundles, notices
   _General-PYQs/                papers that don't belong to one course
@@ -40,6 +41,11 @@ BTech-and-BE/                   umbrella for B.Tech & B.E. (other AMU programmes
       Manuals/                  labs only
       Records/                  labs only
 ```
+
+Programmes under `Faculty-of-Science/`: `BCA` (B.Sc. (Hons.) Computer Applications, CCB courses plus the
+Mathematics MMB, Statistics STB and foundation courses its students take) and `MCA` (CAMS courses). A course another
+programme also takes stays in the first programme's folder until a second programme arrives, then moves to the
+umbrella's `Shared-Courses/`, as on the B.Tech side. Course codes may contain a letter (CCB1P1, CAMS2E09).
 
 Branch folders: `First-Year-Common`, `Computer-Engineering` (CoE & AI), `Electronics-Engineering` (ECE & VLSI),
 `Electrical-Engineering`, `Mechanical-Engineering` (ME, Automobile & B.E. ME), `Civil-Engineering`, `Chemical-Engineering`,

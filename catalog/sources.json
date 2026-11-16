@@ -471,10 +471,11 @@
    "title": "MCA (2024-26)",
    "url": "https://drive.google.com/drive/folders/1I3TB0un2N2nsLkdnsK9X1ANmOS82jC3E",
    "covers": "AMU MCA (Department of Computer Science), batch 2024-26: 1st, 2nd and 3rd semester folders",
-   "status": "reference",
-   "note": "Not collected yet: MCA is outside the current B.Tech focus (for the other-faculties stage). Shared by Mohd Rameez Khan (linkedin.com/in/mohd-rameez-khan-6934a5226).",
+   "status": "merged",
+   "note": "MCA is merged into Faculty-of-Science/ on 2026-11-16 as the first non-B.Tech programme. Shared by Mohd Rameez Khan (linkedin.com/in/mohd-rameez-khan-6934a5226).",
    "credit": "Mohd Rameez Khan",
-   "shared_by": "Mohd Rameez Khan"
+   "shared_by": "Mohd Rameez Khan",
+   "change": "20261116-145639-cs-mca"
   },
   {
    "title": "JNMC previous year papers · 1st Professional",
@@ -523,11 +524,12 @@
   {
    "title": "BCA (2021-24)",
    "url": "https://drive.google.com/drive/folders/1WRcQb6A2U4fTzEa1ERvc_XmDaAeWNUdo",
-   "covers": "AMU BCA (Department of Computer Science), batch 2021-24: 1st, 2nd and 3rd year folders, question papers, and course structure and syllabus",
-   "status": "reference",
-   "note": "Not collected yet: BCA is outside the current B.Tech focus (for the other-faculties stage). Shared by Mohd Rameez Khan (linkedin.com/in/mohd-rameez-khan-6934a5226).",
+   "covers": "AMU BCA, B.Sc. (Hons.) Computer Applications (Department of Computer Science), batch 2021-24: 1st, 2nd and 3rd year folders, question papers, and course structure and syllabus",
+   "status": "merged",
+   "note": "BCA is merged into Faculty-of-Science/ on 2026-11-16 as the first non-B.Tech programme. Shared by Mohd Rameez Khan (linkedin.com/in/mohd-rameez-khan-6934a5226).",
    "credit": "Mohd Rameez Khan",
-   "shared_by": "Mohd Rameez Khan"
+   "shared_by": "Mohd Rameez Khan",
+   "change": "20261116-144141-cs-bca"
   }
  ]
 }

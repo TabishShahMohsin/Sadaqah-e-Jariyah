@@ -34,7 +34,7 @@ function sectionRank(n) {
 // sej.org.in reaches Indian networks through Cloudflare data centres in Europe (seconds per request), while
 // sadaqah-e-jariyah.pages.dev is served from Delhi. On the custom domain, data and code come from pages.dev.
 const FAST = /(^|\.)sej\.org\.in$/.test(location.hostname) ? 'https://sadaqah-e-jariyah.pages.dev/' : '';
-const COURSE_RE = /^((?:[A-Z]{2,4}\d{3,4}[A-Z]?|(?:DE|OE)-\d+)(?:-[A-Z]{2,4}\d{3,4}[A-Z]?)*)_(.+)$/;
+const COURSE_RE = /^((?:[A-Z]{2,4}\d[0-9A-Z]\d{1,2}[A-Z]?|(?:DE|OE)-\d+)(?:-[A-Z]{2,4}\d[0-9A-Z]\d{1,2}[A-Z]?)*)_(.+)$/;
 function parseCourse(n) {
   const m = n.match(COURSE_RE);
   if (!m) return null;
@@ -57,7 +57,7 @@ const prettyFile = n => stem(n).replace(/^Z_/, '').replace(/_/g, ' · ').replace
 const KIND = { pdf: 'pdf', png: 'img', jpg: 'img', jpeg: 'img', gif: 'img', webp: 'img', svg: 'img', bmp: 'img',
   mp4: 'video', webm: 'video', mov: 'video', m4v: 'video', mkv: 'video', mp3: 'audio', wav: 'audio', m4a: 'audio', ogg: 'audio',
   link: 'link', ipynb: 'nb', md: 'md', ppt: 'office', pptx: 'office', doc: 'office', docx: 'office', xls: 'sheet', xlsx: 'sheet', ods: 'sheet' };
-const TEXT = new Set('txt c cpp cc c++ h hpp java py js ts csv tsv json sql sh m r log xml yaml yml html css asm a51 v vhd ino tex s'.split(' '));
+const TEXT = new Set('txt c cpp cc c++ h hpp java py js ts csv tsv json sql sh m r log xml yaml yml html htm css php jsp xsl asm a51 v vhd ino tex s'.split(' '));
 const kind = n => KIND[ext(n)] || (TEXT.has(ext(n)) ? 'text' : 'other');
 
 const fmtSize = b => b < 1e3 ? b + ' B' : b < 1e6 ? (b / 1e3).toFixed(0) + ' KB' : b < 1e9 ? (b / 1e6).toFixed(1) + ' MB' : (b / 1e9).toFixed(2) + ' GB';
@@ -234,7 +234,7 @@ function homeView() {
     <div class="hero-reveal">
       <h1 class="display">Sadaqah-e-Jariyah</h1>
       <p class="arabic" lang="ar">صدقة جارية</p>
-      <p class="lede">Notes, past papers, syllabi and lab work for every B.Tech semester at AMU, laid out so the next student never has to hunt for them.</p>
+      <p class="lede">Notes, past papers, syllabi and lab work for every B.Tech semester at AMU, and now BCA and MCA, laid out so the next student never has to hunt for them.</p>
     </div>
     <button class="hero-search" type="button" data-search>
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
@@ -248,7 +248,7 @@ function homeView() {
     <div class="stat"><div class="num">${(r.size / 1e9).toFixed(1)}<small>GB</small></div><div class="cap">${fmtNum(videos)} lecture videos</div></div>
   </section>
   ${umbrellas.map(u => `<h2 class="label"><a href="${href(u.p)}">${esc(label(u.n))}</a></h2>
-  <div class="cards">${u.d.filter(d => !d.n.startsWith('_')).sort(branchOrder).map((d, i) => card(d, i, 'Branch')).join('')}</div>`).join('')}
+  <div class="cards">${u.d.filter(d => !d.n.startsWith('_')).sort(branchOrder).map((d, i) => card(d, i, u.n === S.pg?.umbrella ? 'Branch' : 'Programme')).join('')}</div>`).join('')}
   ${branches.length ? `<h2 class="label">Branches</h2><div class="cards">${branches.map((d, i) => card(d, i, 'Branch')).join('')}</div>` : ''}
   ${others.length ? `<h2 class="label">Other</h2><div class="cards">${others.map((d, i) => card(d, i, 'Folder', true)).join('')}</div>` : ''}
   <a class="cta hud" href="#/contribute"><span class="eyebrow"><span class="pulse"></span> Contribute</span><span class="cta-t">Have notes, past papers or lab work? Drop them here and they’ll be sorted into the right course.</span><span class="go">→</span></a>
@@ -291,7 +291,7 @@ function progPanel(node, p) {
       ? `B.E. courses share their B.Tech twin’s folder (the B.E. code is the B.Tech code with an E in front), so open <b>${esc(progName(twin))}</b> above.`
       : 'Files can still be added to the semester folders below.'}</div>`;
   }
-  const fy = S.nodes.get((S.pg.umbrella || '') + '/First-Year-Common');
+  const fy = p.branch.startsWith((S.pg.umbrella || '') + '/') ? S.nodes.get(S.pg.umbrella + '/First-Year-Common') : null;
   const listed = new Set();
   const sems = Object.entries(p.semesters).map(([sem, items]) => {
     items.forEach(it => listed.add(it.p));
@@ -1338,7 +1338,7 @@ async function boot() {
     S.root = idx.root;
     S.pg = idx.programmes || null;
     S.sources = idx.sources || [];
-    if (S.pg) Object.assign(NAMES, S.pg.labels || {}, { [S.pg.umbrella]: 'B.Tech & B.E.' });
+    if (S.pg) Object.assign(NAMES, S.pg.labels || {}, { [S.pg.umbrella]: 'B.Tech & B.E.' }, S.pg.umbrellas || {});
     prep(S.root, '', null);
   } catch (e) {
     const local = /^(localhost|127\.|\[::1\]|)$/.test(location.hostname);

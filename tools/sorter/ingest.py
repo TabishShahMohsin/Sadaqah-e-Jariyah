@@ -19,7 +19,7 @@ DATASET_IMAGES = 150   # a folder holding this many images is a dataset (e.g. an
 MAX_UNZIPPED_BYTES = 8 * 1024 ** 3
 MAX_UNZIPPED_FILES = 5000
 REJECT_EXT = {"exe", "msi", "dmg", "apk", "app", "bat", "cmd", "com", "scr", "out", "class", "o", "obj", "dll", "so",
-              "html", "htm", "css", "svg", "lnk", "url", "webloc", "download", "crdownload", "part", "torrent", "iso"}
+              "svg", "lnk", "url", "webloc", "download", "crdownload", "part", "torrent", "iso"}
 
 
 def new_item(items, src, path, parent=None, fingerprint=True, **kw):

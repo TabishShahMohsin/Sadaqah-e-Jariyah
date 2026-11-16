@@ -442,7 +442,7 @@ def build_index(state, scan, repo_id, root=REPO):
     return idx, pub, left, unscanned
 
 
-COURSE_RE = re.compile(r"^((?:[A-Z]{2,4}\d{3,4}[A-Z]?|(?:DE|OE)-\d+)(?:-[A-Z]{2,4}\d{3,4}[A-Z]?)*)_(.+)$")  # as in site/app.js
+COURSE_RE = re.compile(r"^((?:[A-Z]{2,4}\d[0-9A-Z]\d{1,2}[A-Z]?|(?:DE|OE)-\d+)(?:-[A-Z]{2,4}\d[0-9A-Z]\d{1,2}[A-Z]?)*)_(.+)$")  # as in site/app.js
 
 
 def latest_release(repo_id):
@@ -468,7 +468,7 @@ def write_api(out, idx, pub, repo_id):
     def where(p):  # the same reading of a path the website does: branch, semester (or group), course, section
         parts = p.split("/")
         w = {}
-        if len(parts) > 2 and parts[0] == "BTech-and-BE":
+        if len(parts) > 2 and parts[0] in rules.UMBRELLAS:
             w["branch"] = labels.get(parts[1], parts[1].replace("-", " "))
             m = re.fullmatch(r"Sem(\d+)", parts[2])
             w["semester" if m else "group"] = int(m.group(1)) if m else parts[2].strip("_").replace("-", " ")
