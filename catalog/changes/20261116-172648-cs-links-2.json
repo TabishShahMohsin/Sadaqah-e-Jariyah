@@ -1,0 +1,22 @@
+{
+ "id": "20261116-172648-cs-links-2",
+ "created": "2026-11-16T17:26:48+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "link for a long open-access reference"
+ },
+ "ops": [
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6S3_Seminar-Presentation/Books-and-Resources/Reference_Remote-Sensing-Planetary-Topography-Review.link",
+   "url": "https://doi.org/10.3390/rs15122954",
+   "t": 1794850008,
+   "meta": {
+    "url": "https://doi.org/10.3390/rs15122954",
+    "title": "Reference: Remote sensing and data analyses on planetary topography (Remote Sensing 2023, open access)",
+    "note": "Open-access review; its 58-page PDF is kept but not shown here (long reference files are left out), so it is linked."
+   }
+  }
+ ]
+}

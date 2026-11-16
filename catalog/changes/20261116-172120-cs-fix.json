@@ -1,0 +1,114 @@
+{
+ "id": "20261116-172120-cs-fix",
+ "created": "2026-11-16T17:21:20+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "sorted_by": "sorter",
+  "credit": "Mohd Rameez Khan",
+  "note": "fix batch"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6S3_Seminar-Presentation/Books-and-Resources/Reference_Crop-Journal-2024_Remote-Sensing-Review.pdf",
+   "s": 2440338,
+   "h": "e89b309068dc134a71c905378574a19ab7b35c206c9b615e9979088e45bcbec0",
+   "t": 1794849680,
+   "meta": {
+    "title": "Reference paper · The Crop Journal 12 (2024) 45-57",
+    "summary": "Open-access review (CC BY-NC-ND 4.0), doi:10.1016/j.cj.2023.10.005; a seminar reference.",
+    "kind": "typed",
+    "url": "https://doi.org/10.1016/j.cj.2023.10.005",
+    "source": "open-access journal",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6S3_Seminar-Presentation/Books-and-Resources/Reference_Remote-Sensing-Medicinal-Plant-Identification-Review.pdf",
+   "s": 2735261,
+   "h": "0c292a697d10ddf8eb50e352d0644230270a30cb19e12818fc422ee0d62a0b7e",
+   "t": 1794849680,
+   "meta": {
+    "title": "Reference paper · Remote sensing in Chinese medicinal plant identification (Remote Sensing 2023)",
+    "summary": "Open-access MDPI review (CC BY 4.0), doi:10.3390/rs15235580; a seminar reference.",
+    "kind": "typed",
+    "url": "https://doi.org/10.3390/rs15235580",
+    "source": "open-access journal",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6S3_Seminar-Presentation/Books-and-Resources/Reference_Remote-Sensing-Rice-Wheat-Canopy-Nitrogen-Review.pdf",
+   "s": 2145855,
+   "h": "7c30ea51474800226cb35620f8a07f1c293b986862f889dfbaf36cb76c88b8ee",
+   "t": 1794849680,
+   "meta": {
+    "title": "Reference paper · Remote sensing of rice and wheat canopy nitrogen (Remote Sensing 2022)",
+    "summary": "Open-access MDPI review (CC BY 4.0), doi:10.3390/rs14225712; a seminar reference.",
+    "kind": "typed",
+    "url": "https://doi.org/10.3390/rs14225712",
+    "source": "open-access journal",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6S3_Seminar-Presentation/Books-and-Resources/Reference_Remote-Sensing-Planetary-Topography-Review.pdf",
+   "s": 17188704,
+   "h": "f196c65c737b05a5af69adcc6cb16217c4ca6a746620297d68591ec629f3ae12",
+   "t": 1794849680,
+   "meta": {
+    "title": "Reference paper · Remote sensing and data analyses on planetary topography (Remote Sensing 2023)",
+    "summary": "Open-access MDPI review (CC BY 4.0), doi:10.3390/rs15122954; a seminar reference.",
+    "kind": "typed",
+    "url": "https://doi.org/10.3390/rs15122954",
+    "source": "open-access journal",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6S3_Seminar-Presentation/Books-and-Resources/Reference_Landslide-Susceptibility-Multi-Modal-Remote-Sensing.pdf",
+   "s": 3563188,
+   "h": "5f917dfa6f103ada8f39b54157e03b9134fdd4776e6b4f889405588ffe914bed",
+   "t": 1794849680,
+   "meta": {
+    "title": "Reference paper · Landslide and mudslide susceptibility from multi-modal remote sensing (Land 2023)",
+    "summary": "Open-access MDPI article (CC BY 4.0), doi:10.3390/land12101949; a seminar reference.",
+    "kind": "typed",
+    "url": "https://doi.org/10.3390/land12101949",
+    "source": "open-access journal",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/MCA/_Old-Syllabus-Subjects/CSM2205_Design-and-Analysis-of-Algorithms/PYQs-and-Assignments/Sem-End_CSM2205.pdf",
+   "s": 355468,
+   "h": "6c395698d0f2306311e63f658762ae0fbec042b2e75e5bb795c18ab8c4e86e0c",
+   "t": 1794849680,
+   "meta": {
+    "title": "End-semester paper · Design and Analysis of Algorithms (CSM-2205, older MCA scheme)",
+    "summary": "MCA II semester end-semester paper from the older scheme.",
+    "kind": "typed",
+    "credit": "Mohd Rameez Khan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/MCA/Sem1/CAMS1005_Soft-Skills-Development-and-Technical-Communication/PYQs-and-Assignments/Sem-End_2018-20_CSM1106.pdf",
+   "s": 2557730,
+   "h": "5cf5658259bf1029568e5e8d17ce8d2632ed474b2cceb0dae105bb381cbbbb4b",
+   "t": 1794849680,
+   "meta": {
+    "title": "End-semester papers 2018-2020 · Soft Skills Development (older code CSM-1106)",
+    "summary": "Older-scheme Soft Skills Development end-semester papers, 2018 to 2020.",
+    "kind": "typed",
+    "credit": "Mohd Rameez Khan"
+   }
+  }
+ ]
+}

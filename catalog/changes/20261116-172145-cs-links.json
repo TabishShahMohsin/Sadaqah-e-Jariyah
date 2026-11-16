@@ -1,0 +1,962 @@
+{
+ "id": "20261116-172145-cs-links",
+ "created": "2026-11-16T17:21:45+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "credit": "Mohd Rameez Khan",
+  "note": "Links in place of what the BCA/MCA upload had but the archive cannot copy: books (Maulana Azad Library catalogue, or Open Library when the library lacks them), third-party software, published papers and tutorials."
+ },
+ "ops": [
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem1/MMB151_Calculus/Books-and-Resources/Library_Differential-and-Integral-Calculus.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=35874",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=35874",
+    "title": "In the Maulana Azad Library: Differential and integral calculus, N. Piskunov; translated from the Russian by George Yank, (2nd ed.) (Mir Publishers 1996)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem1/MMB151_Calculus/Books-and-Resources/Library_Text-Book-on-Differential-Calculus.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=265346",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=265346",
+    "title": "In the Maulana Azad Library: Text book on differential calculus, Gorakh Prasad; revised by Chandrika Prasad, 18th ed (Pothishala 2013)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem1/MMB151_Calculus/Books-and-Resources/Library_Text-Book-on-Integral-Calculus.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=148105",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=148105",
+    "title": "In the Maulana Azad Library: Text book on integral calculus and elementry differential equations, Gorakh Prasad; revised by Chandrika Prasad, 16th ed. (Pothishala Private 2012)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem3/MMB353_Advanced-Calculus/Books-and-Resources/Library_Thomas-Calculus_12e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=337752",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=337752",
+    "title": "In the Maulana Azad Library: Thomas' Calculus, George B.Thomas, 12th ed (485154)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem3/MMB353_Advanced-Calculus/Books-and-Resources/Library_Thomas-Calculus_13e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=361127",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=361127",
+    "title": "In the Maulana Azad Library: Calculus and analytic geometry, George B. Thomas, 9th ed. (Pearson India 2020)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy of the 13th edition; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem3/CCB352_Database-Management-System/Books-and-Resources/Library_Fundamentals-of-Database-Systems_7e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=531143",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=531143",
+    "title": "In the Maulana Azad Library: Fundamentals of database systems, Ramez Elmasri, 7th ed (Pearson Education c2017)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Electives/CCB663_Data-Mining/Books-and-Resources/Library_Fundamentals-of-Database-Systems_7e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=531143",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=531143",
+    "title": "In the Maulana Azad Library: Fundamentals of database systems, Ramez Elmasri, 7th ed (Pearson Education c2017)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem4/MMB453_Linear-Algebra/Books-and-Resources/Library_Introduction-to-Linear-Algebra.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=373758",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=373758",
+    "title": "In the Maulana Azad Library: Introduction to linear algebra, V. Krishnamurthy (Affiliated east-west Press 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Electives/CCB554_Computer-System-Architecture/Books-and-Resources/Library_Computer-Organization-and-Design_5e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=312228",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=312228",
+    "title": "In the Maulana Azad Library: Computer Organization and Design : The Hardware/Software Interface, David D Patterson, 4th ed (Morgan Kaufmann 2010)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy of the 5th edition; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Electives/CCB554_Computer-System-Architecture/Books-and-Resources/Library_Computer-Organization-and-Architecture_10e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=367649",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=367649",
+    "title": "In the Maulana Azad Library: Computer organization and architecture : designing for performance, William Stallings, 10th ed (Pearson 2018)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Books-and-Resources/Library_Systems-Programming.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=155841",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=155841",
+    "title": "In the Maulana Azad Library: Systems programming and operating systems, D. M. Dhamdhere, 2nd rev. ed. (Tata McGraw-Hill 2006)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Books-and-Resources/Book_Theory-and-Practice-of-Compiler-Writing.link",
+   "url": "https://openlibrary.org/search?q=Theory%20and%20Practice%20of%20Compiler%20Writing%20Tremblay",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Theory%20and%20Practice%20of%20Compiler%20Writing%20Tremblay",
+    "title": "Book: Theory and Practice of Compiler Writing (Tremblay) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a scanned copy; it is not published here. The AMU library catalogue doesn't list this book; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Electives/CCB574_Organizational-Behaviour/Books-and-Resources/Library_Organizational-Behavior_12e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=302464",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=302464",
+    "title": "In the Maulana Azad Library: Organizational behavior : an evidence-based approach, Fred Luthans, 12th Indian ed (McGraw-Hill 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy of the 12th edition; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Electives/CCB574_Organizational-Behaviour/Books-and-Resources/Library_Management-and-Organisational-Behaviour_7e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=170447",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=170447",
+    "title": "In the Maulana Azad Library: Management and organisational behaviour Laurie J.Mullins, 7th ed. (Dorling Kindersley 2005)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Electives/CCB574_Organizational-Behaviour/Books-and-Resources/Library_Organisational-Behaviour.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=370578",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=370578",
+    "title": "In the Maulana Azad Library: Organisational behaviour, L.M. Prasad, 4th rev. & enl. ed (Sultan Chand 2008)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Electives/CCB574_Organizational-Behaviour/Books-and-Resources/Library_Organizational-Behavior_15e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=516995",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=516995",
+    "title": "In the Maulana Azad Library: Organizational behavior, Stephen P. Robbins, 15th ed (Pearson Education c2013)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Electives/CCB564_Programming-Using-Java/Books-and-Resources/Library_Big-Java_4e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=367650",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=367650",
+    "title": "In the Maulana Azad Library: Big Java : early objects, Cay Horstmann, 5th ed. (Wiley India 2017)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy of the 4th edition; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Electives/CCB564_Programming-Using-Java/Books-and-Resources/Library_Java-Concepts_5e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=313864",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=313864",
+    "title": "In the Maulana Azad Library: JAVA CONCEPTS : Early Objects, Cay Horstmann, 7th ed (Wiley 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy of the 5th edition; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Electives/CCB564_Programming-Using-Java/Books-and-Resources/Book_Java-for-Everyone_2e.link",
+   "url": "https://openlibrary.org/search?q=Java%20for%20Everyone%20Horstmann",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Java%20for%20Everyone%20Horstmann",
+    "title": "Book: Java for Everyone (Horstmann, 2nd edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a scanned copy; it is not published here. The AMU library catalogue doesn't list this book; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Electives/CCB564_Programming-Using-Java/Books-and-Resources/Library_Java-How-to-Program_9e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=276115",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=276115",
+    "title": "In the Maulana Azad Library: Java : how to program, Paul Deitel, 9th ed (PHI Learning 2013)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Electives/CCB564_Programming-Using-Java/Books-and-Resources/Book_Java-in-a-Nutshell_6e.link",
+   "url": "https://openlibrary.org/search?q=Java%20in%20a%20Nutshell%20Flanagan",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Java%20in%20a%20Nutshell%20Flanagan",
+    "title": "Book: Java in a Nutshell (Flanagan, 6th edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a scanned copy; it is not published here. The AMU library catalogue doesn't list this book; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB553_Web-Engineering/Books-and-Resources/Library_Learning-PHP-MySQL-JavaScript.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=361073",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=361073",
+    "title": "In the Maulana Azad Library: Learning PHP, MySQL & JavaScript : With jQuery, CSS & HTML5, Robin Nixon, 4th ed (Shroff Pub. 2017)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB553_Web-Engineering/Books-and-Resources/Book_Learning-Web-Design_4e.link",
+   "url": "https://openlibrary.org/search?q=Learning%20Web%20Design%20Robbins",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Learning%20Web%20Design%20Robbins",
+    "title": "Book: Learning Web Design (Robbins, 4th edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a scanned copy; it is not published here. The AMU library catalogue doesn't list this book; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB553_Web-Engineering/Books-and-Resources/Library_Web-Engineering-a-Practitioner-s-Approach.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=367637",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=367637",
+    "title": "In the Maulana Azad Library: Web Engineering : a practitioner's approach, Roger S. Pressman (McGraw Hill 2016)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB553_Web-Engineering/Books-and-Resources/Library_Web-Engineering.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=154862",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=154862",
+    "title": "In the Maulana Azad Library: Web engineering : the discipline of systematic development of Web applications, edited by Grti Kappel ... (et al.) (Wiley 2006)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB553_Web-Engineering/Books-and-Resources/Library_Web-Technologies.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=316142",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=316142",
+    "title": "In the Maulana Azad Library: WEB TECHNOLOGIES : TCP/IP, Web/Java Programming, and Cloud Computing, Achyut Godbole, 3rd ed (McGraw-Hill Education 2013)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB653_Computer-Networks/Books-and-Resources/Library_Computer-Networking-a-Top-Down-Approach_7e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=614664",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=614664",
+    "title": "In the Maulana Azad Library: Computer networking: a top-down approach featuring the internet, James F. Kurose, 8th ed. (Pearson; reprint 2024)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy of the 7th edition; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB653_Computer-Networks/Books-and-Resources/Library_Computer-Networks_4e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=170578",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=170578",
+    "title": "In the Maulana Azad Library: Computer networks, Andrew S. Tanenbaum, 4th ed. (Pearson Education 2009)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB653_Computer-Networks/Books-and-Resources/Library_Data-and-Computer-Communications_8e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=306540",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=306540",
+    "title": "In the Maulana Azad Library: Data and Computer Communications : a textbook, William Stallings, 8th ed. (Pearson Education 2009)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB653_Computer-Networks/Books-and-Resources/Library_Data-Communications-and-Networking_4e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=319684",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=319684",
+    "title": "In the Maulana Azad Library: Data Communications and Networking, Behrouz A. Forouzan, 4th ed (Tata McGraw-Hill Education 2009)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB653_Computer-Networks/Books-and-Resources/Library_Data-Communications-and-Networking_5e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=373846",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=373846",
+    "title": "In the Maulana Azad Library: Data communications and networking, Behrouz A. Forouzan, 5th ed (Tata McGraw-Hill 2020)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Electives/CCB663_Data-Mining/Books-and-Resources/Library_Data-Mining-Concepts-and-Techniques_3e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=530535",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=530535",
+    "title": "In the Maulana Azad Library: Data mining : concepts and techniques, Jiawei Han, 3rd ed. (Elsevier c2012)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Electives/CCB663_Data-Mining/Books-and-Resources/Book_Survey-of-Text-Mining.link",
+   "url": "https://openlibrary.org/search?q=Survey%20of%20Text%20Mining%20Berry",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Survey%20of%20Text%20Mining%20Berry",
+    "title": "Book: Survey of Text Mining (Berry) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a scanned copy; it is not published here. The AMU library catalogue doesn't list this book; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB654_Discrete-Structures/Books-and-Resources/Book_Concrete-Mathematics_2e.link",
+   "url": "https://openlibrary.org/search?q=Concrete%20Mathematics%20Graham",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Concrete%20Mathematics%20Graham",
+    "title": "Book: Concrete Mathematics (Graham, 2nd edition) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a scanned copy; it is not published here. The AMU library catalogue doesn't list this book; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB654_Discrete-Structures/Books-and-Resources/Library_Discrete-Mathematical-Structures_3e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=145424",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=145424",
+    "title": "In the Maulana Azad Library: Discrete mathematical structures, Bernard Kolman, 4th ed. (Prentice-Hall of India 2003)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy of the 3rd edition; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB654_Discrete-Structures/Books-and-Resources/Library_Discrete-Mathematical-Structures_6e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=145424",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=145424",
+    "title": "In the Maulana Azad Library: Discrete mathematical structures, Bernard Kolman, 4th ed. (Prentice-Hall of India 2003)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy of the 6th edition; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB654_Discrete-Structures/Books-and-Resources/Book_Discrete-Mathematics-for-Computer-Scientists-and-Mathematicians.link",
+   "url": "https://openlibrary.org/search?q=Discrete%20Mathematics%20for%20Computer%20Scientists%20and%20Mathematicians%20Mott",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Discrete%20Mathematics%20for%20Computer%20Scientists%20and%20Mathematicians%20Mott",
+    "title": "Book: Discrete Mathematics for Computer Scientists and Mathematicians (Mott) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a scanned copy; it is not published here. The AMU library catalogue doesn't list this book; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB654_Discrete-Structures/Books-and-Resources/Library_Art-of-Computer-Programming_3e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=368242",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=368242",
+    "title": "In the Maulana Azad Library: Art of computer programming, Donald E.Knuth, 3rd ed. (Pearson Education 2011)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem1/CAMS1001_Data-Structure-Using-Cpp/Books-and-Resources/Library_Data-Structures-and-Program-Design-in-C.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=312663",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=312663",
+    "title": "In the Maulana Azad Library: DATA STRUCTURES AND PROGRAM DESIGN IN C, Robert L. Kruse, 2nd ed (Pearson/Prentice-Hall 2013)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem1/CAMS1002_Digital-Logic-and-Computer-Architecture/Books-and-Resources/Library_Computer-Organization-and-Architecture_10e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=367649",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=367649",
+    "title": "In the Maulana Azad Library: Computer organization and architecture : designing for performance, William Stallings, 10th ed (Pearson 2018)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem1/CAMS1002_Digital-Logic-and-Computer-Architecture/Books-and-Resources/Library_Digital-Logic-and-Computer-Design.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=313084",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=313084",
+    "title": "In the Maulana Azad Library: Digital Logic and Computer Design, M. Morris Mano (Pearson 2013)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem1/CAMS1003_Database-Management-System/Books-and-Resources/Library_Introduction-to-Database-Systems_8e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=166260",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=166260",
+    "title": "In the Maulana Azad Library: Introduction to database systems, C. J. Date, 8th ed. (Pearson Education Asia 2009)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem1/CAMS1003_Database-Management-System/Books-and-Resources/Library_Fundamentals-of-Database-Systems_7e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=531143",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=531143",
+    "title": "In the Maulana Azad Library: Fundamentals of database systems, Ramez Elmasri, 7th ed (Pearson Education c2017)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem1/CAMS1005_Soft-Skills-Development-and-Technical-Communication/Books-and-Resources/Library_Effective-Technical-Communication_2e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=530520",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=530520",
+    "title": "In the Maulana Azad Library: Effective Technical Communication, M. Ashraf Rizvi (Tata McGraw-Hill c2005)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy of the 2nd edition; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem1/CAMS1005_Soft-Skills-Development-and-Technical-Communication/Books-and-Resources/Library_Emotional-Intelligence.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=319918",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=319918",
+    "title": "In the Maulana Azad Library: Working With emotional Intelligence, Daniel (Bloomsbury Pub 2013)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem1/CAMS1005_Soft-Skills-Development-and-Technical-Communication/Books-and-Resources/Library_How-to-Win-Friends-and-Influence-People.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=301235",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=301235",
+    "title": "In the Maulana Azad Library: How to win friends and influence people, Dale Carnegie (Vermilion 2004)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem1/CAMS1005_Soft-Skills-Development-and-Technical-Communication/Books-and-Resources/Library_Technical-Communication-Principles-and-Practice.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=357014",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=357014",
+    "title": "In the Maulana Azad Library: Technical communication : principles and practice, Meenakshi Raman, 3rd ed. (Oxford univ. press. 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem1/CAMS1005_Soft-Skills-Development-and-Technical-Communication/Books-and-Resources/Book_Technical-Communication.link",
+   "url": "https://openlibrary.org/search?q=Technical%20Communication%20Gerson",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Technical%20Communication%20Gerson",
+    "title": "Book: Technical Communication (Gerson) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a scanned copy; it is not published here. The AMU library catalogue doesn't list this book; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem2/CAMS2001_Object-Oriented-Programming-Using-Java/Books-and-Resources/Library_Java-the-Complete-Reference_12e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=292495",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=292495",
+    "title": "In the Maulana Azad Library: Java TM 2: the complete reference : the complete reference Herbert Schildt, 5th ed (Tata McGraw- Hill 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy of the 12th edition; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem2/CAMS2002_Data-Communication-and-Computer-Networks/Books-and-Resources/Library_Computer-Networks_4e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=170578",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=170578",
+    "title": "In the Maulana Azad Library: Computer networks, Andrew S. Tanenbaum, 4th ed. (Pearson Education 2009)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem2/CAMS2002_Data-Communication-and-Computer-Networks/Books-and-Resources/Library_Computer-Networks_5e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=364271",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=364271",
+    "title": "In the Maulana Azad Library: Computer Networks, Andrew S. Tanenbaum, 5th ed (Pearson 2019)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem2/CAMS2002_Data-Communication-and-Computer-Networks/Books-and-Resources/Library_Data-and-Computer-Communications_8e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=306540",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=306540",
+    "title": "In the Maulana Azad Library: Data and Computer Communications : a textbook, William Stallings, 8th ed. (Pearson Education 2009)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem2/CAMS2002_Data-Communication-and-Computer-Networks/Books-and-Resources/Library_Computer-Networking-a-Top-Down-Approach_7e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=614664",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=614664",
+    "title": "In the Maulana Azad Library: Computer networking: a top-down approach featuring the internet, James F. Kurose, 8th ed. (Pearson; reprint 2024)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy of the 7th edition; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem2/CAMS2002_Data-Communication-and-Computer-Networks/Books-and-Resources/Library_Data-Communications-and-Networking_4e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=319684",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=319684",
+    "title": "In the Maulana Azad Library: Data Communications and Networking, Behrouz A. Forouzan, 4th ed (Tata McGraw-Hill Education 2009)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem2/CAMS2002_Data-Communication-and-Computer-Networks/Books-and-Resources/Library_Data-Communications-and-Networking_5e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=373846",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=373846",
+    "title": "In the Maulana Azad Library: Data communications and networking, Behrouz A. Forouzan, 5th ed (Tata McGraw-Hill 2020)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Electives/CAMS2E09_Web-Based-Programming/Books-and-Resources/Book_HTML-CSS-Coding-Practice-Exercises.link",
+   "url": "https://openlibrary.org/search?q=HTML%20CSS%20Coding%20Practice%20Exercises%20Tam",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=HTML%20CSS%20Coding%20Practice%20Exercises%20Tam",
+    "title": "Book: HTML CSS Coding Practice Exercises (Tam) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a scanned copy; it is not published here. The AMU library catalogue doesn't list this book; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Electives/CAMS2E09_Web-Based-Programming/Books-and-Resources/Book_HTML-and-CSS-Crash-Course.link",
+   "url": "https://openlibrary.org/search?q=HTML%20and%20CSS%20Crash%20Course%20McMahon",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=HTML%20and%20CSS%20Crash%20Course%20McMahon",
+    "title": "Book: HTML and CSS Crash Course (McMahon) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a scanned copy; it is not published here. The AMU library catalogue doesn't list this book; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Electives/CAMS2E06_E-Commerce/Books-and-Resources/Library_Electronic-Commerce_4e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=316699",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=316699",
+    "title": "In the Maulana Azad Library: Electronic Commerce : Framework, Technologies and Applcations, Bharat Bhasker, 4th ed (MvGraw Hill Education 2013)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem3/CAMS3001_Operating-System-and-Shell-Programming/Books-and-Resources/Library_Modern-Operating-Systems_4e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=314747",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=314747",
+    "title": "In the Maulana Azad Library: MODERN OPERATING SYSTEMS, Andrew S. Tanenbaum, 3rd ed (PHI 2013)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy of the 4th edition; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem3/CAMS3001_Operating-System-and-Shell-Programming/Books-and-Resources/Library_Operating-Systems-a-Concept-Based-Approach.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=538920",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=538920",
+    "title": "In the Maulana Azad Library: Operating Systems : A Concept-Based Approach, Dhananjay M. Dhamdhere (McGraw Hill Education (INDIA) Private Limited 2017)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem3/CAMS3001_Operating-System-and-Shell-Programming/Books-and-Resources/Library_Introduction-to-Operating-Systems.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=314761",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=314761",
+    "title": "In the Maulana Azad Library: An Introduction to Operating Systems, Harvey M. Deitel, 2nd ed (Pearson Education 2006)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem3/CAMS3001_Operating-System-and-Shell-Programming/Books-and-Resources/Library_UNIX-Concepts-and-Applications_4e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=320095",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=320095",
+    "title": "In the Maulana Azad Library: UNIX : Concepts and Applications, Sumitabha Das, 4th ed (McGraw-Hill Education 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem3/CAMS3001_Operating-System-and-Shell-Programming/Books-and-Resources/Library_Operating-Systems-Internals-and-Design-Principles_7e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=314737",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=314737",
+    "title": "In the Maulana Azad Library: OPERATING SYSTEMS : INTERNALS AND DESIGN PRINCIPLES, William Stallings, 7th ed (Pearson 2014)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem3/CAMS3003_Theory-of-Computation/Books-and-Resources/Library_Introduction-to-Formal-Languages-and-Automata_5e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=249768",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=249768",
+    "title": "In the Maulana Azad Library: Introduction to formal languages and automata, Peter Linz, 5th ed (Jones and Bartlett 2011)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem3/CAMS3003_Theory-of-Computation/Books-and-Resources/Library_Introduction-to-Formal-Languages-and-Automata_6e.link",
+   "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=355889",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://webopac.amu.ac.in/cgi-bin/koha/opac-detail.pl?biblionumber=355889",
+    "title": "In the Maulana Azad Library: An Introduction to Formal Language and Automata, Peter Linz, 6th ed (Jones and Bartlett Learning 2018)",
+    "source": "Maulana Azad Library catalogue",
+    "note": "The upload had a scanned copy; it is not published here. Borrow the book from the library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Electives/CAMS3E02_Network-Programming/Books-and-Resources/Book_Network-Security-the-Complete-Reference.link",
+   "url": "https://openlibrary.org/search?q=Network%20Security%20the%20Complete%20Reference%20Bragg",
+   "t": 1794849705,
+   "meta": {
+    "url": "https://openlibrary.org/search?q=Network%20Security%20the%20Complete%20Reference%20Bragg",
+    "title": "Book: Network Security the Complete Reference (Bragg) - not in the AMU library catalogue",
+    "source": "Open Library",
+    "note": "The upload had a scanned copy; it is not published here. The AMU library catalogue doesn't list this book; the link finds it on Open Library."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem2/CAMS2001_Object-Oriented-Programming-Using-Java/Books-and-Resources/Download_SQLite-3.49.1-Source.link",
+   "url": "https://www.sqlite.org/2025/sqlite-src-3490100.zip",
+   "t": 1794849705,
+   "meta": {
+    "title": "SQLite 3.49.1 source code (official download)",
+    "note": "The upload had this release's full source tree; it is linked from sqlite.org instead of copied.",
+    "source": "sqlite.org",
+    "url": "https://www.sqlite.org/2025/sqlite-src-3490100.zip"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem2/CAMS2001_Object-Oriented-Programming-Using-Java/Books-and-Resources/Download_DB-Browser-for-SQLite-3.13.1.link",
+   "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.13.1",
+   "t": 1794849705,
+   "meta": {
+    "title": "DB Browser for SQLite 3.13.1 (official release, Windows 64-bit and others)",
+    "note": "The upload had the Windows installer files; they are linked from the official release page instead of copied.",
+    "source": "sqlitebrowser.org",
+    "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.13.1"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem2/CAMS2P01_Laboratory-Course-II/Books-and-Resources/Download_SQLite-3.49.1-Source.link",
+   "url": "https://www.sqlite.org/2025/sqlite-src-3490100.zip",
+   "t": 1794849705,
+   "meta": {
+    "title": "SQLite 3.49.1 source code (official download)",
+    "note": "The upload had this release's full source tree; it is linked from sqlite.org instead of copied.",
+    "source": "sqlite.org",
+    "url": "https://www.sqlite.org/2025/sqlite-src-3490100.zip"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem2/CAMS2P01_Laboratory-Course-II/Books-and-Resources/Download_DB-Browser-for-SQLite-3.13.1.link",
+   "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.13.1",
+   "t": 1794849705,
+   "meta": {
+    "title": "DB Browser for SQLite 3.13.1 (official release, Windows 64-bit and others)",
+    "note": "The upload had the Windows installer files; they are linked from the official release page instead of copied.",
+    "source": "sqlitebrowser.org",
+    "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.13.1"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6S3_Seminar-Presentation/Books-and-Resources/Reference_GIS-Encyclopedia-Chapter.link",
+   "url": "https://doi.org/10.1016/B978-0-08-097086-8.91027-4",
+   "t": 1794849705,
+   "meta": {
+    "title": "Reference: Geographic Information Systems (encyclopedia chapter, Elsevier)",
+    "note": "A seminar reference; the paper itself is not ours to republish, so it is linked.",
+    "url": "https://doi.org/10.1016/B978-0-08-097086-8.91027-4"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6S3_Seminar-Presentation/Books-and-Resources/Reference_Literature-Review-Report.link",
+   "url": "https://www.researchgate.net/publication/324223737",
+   "t": 1794849705,
+   "meta": {
+    "title": "Reference: literature review technical report (ResearchGate)",
+    "note": "A seminar reference; the paper itself is not ours to republish, so it is linked.",
+    "url": "https://www.researchgate.net/publication/324223737"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6S3_Seminar-Presentation/Books-and-Resources/Reference_Review-on-LiDAR-Technology.link",
+   "url": "https://ssrn.com/abstract=3604309",
+   "t": 1794849705,
+   "meta": {
+    "title": "Reference: Review on LiDAR technology, Neoge & Mehendale (SSRN)",
+    "note": "A seminar reference; the paper itself is not ours to republish, so it is linked.",
+    "url": "https://ssrn.com/abstract=3604309"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/BCA/Sem6/CCB6S3_Seminar-Presentation/Books-and-Resources/Reference_Short-Survey-of-Hyperspectral-Remote-Sensing.link",
+   "url": "https://doi.org/10.1109/RAST.2013.6581194",
+   "t": 1794849705,
+   "meta": {
+    "title": "Reference: A short survey of hyperspectral remote sensing (IEEE RAST 2013)",
+    "note": "A seminar reference; the paper itself is not ours to republish, so it is linked.",
+    "url": "https://doi.org/10.1109/RAST.2013.6581194"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem3/CAMS3P01_Laboratory-Course-III/Books-and-Resources/Reference_IJCRT-2024_Placement-Management-System.link",
+   "url": "https://scholar.google.com/scholar?q=%22Placement%20Management%20System%22%20Gayathri%20IJCRT%202024",
+   "t": 1794849705,
+   "meta": {
+    "title": "Reference: Placement Management System, IJCRT 12(4), April 2024",
+    "note": "A mini-project reference; the paper is linked through Google Scholar rather than copied.",
+    "url": "https://scholar.google.com/scholar?q=%22Placement%20Management%20System%22%20Gayathri%20IJCRT%202024"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem3/CAMS3P01_Laboratory-Course-III/Books-and-Resources/Reference_IJNRD-2024_Campus-Recruitment-Management-System.link",
+   "url": "https://scholar.google.com/scholar?q=%22Campus%20Recruitment%20Management%20System%22%20IJNRD%202024",
+   "t": 1794849705,
+   "meta": {
+    "title": "Reference: Campus Recruitment Management System, IJNRD 9(9), September 2024",
+    "note": "A mini-project reference; the paper is linked through Google Scholar rather than copied.",
+    "url": "https://scholar.google.com/scholar?q=%22Campus%20Recruitment%20Management%20System%22%20IJNRD%202024"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Electives/CAMS2E09_Web-Based-Programming/Books-and-Resources/Reference_GIGW-Guidelines-for-Indian-Government-Websites.link",
+   "url": "https://guidelines.india.gov.in/",
+   "t": 1794849705,
+   "meta": {
+    "title": "Guidelines for Indian Government Websites and Apps (GIGW 3.0), official site",
+    "note": "The upload had the 144-page GIGW manual; it is linked from the official site.",
+    "url": "https://guidelines.india.gov.in/"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem1/CAMS1004_Analysis-and-Design-of-Information-Systems/Books-and-Resources/Tutorial_Object-Oriented-Analysis-and-Design.link",
+   "url": "https://www.tutorialspoint.com/object_oriented_analysis_design/index.htm",
+   "t": 1794849705,
+   "meta": {
+    "title": "Object-Oriented Analysis & Design tutorial (Tutorials Point)",
+    "note": "The upload had this tutorial as a PDF; linked instead.",
+    "url": "https://www.tutorialspoint.com/object_oriented_analysis_design/index.htm"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem1/CAMS1004_Analysis-and-Design-of-Information-Systems/Books-and-Resources/Tutorial_Software-Testing.link",
+   "url": "https://www.tutorialspoint.com/software_testing/index.htm",
+   "t": 1794849705,
+   "meta": {
+    "title": "Software Testing tutorial (Tutorials Point)",
+    "note": "The upload had this tutorial as a PDF; linked instead.",
+    "url": "https://www.tutorialspoint.com/software_testing/index.htm"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem1/CAMS1005_Soft-Skills-Development-and-Technical-Communication/Books-and-Resources/NCERT_Psychology-Class-12_Social-Influence-and-Group-Processes.link",
+   "url": "https://ncert.nic.in/textbook/pdf/lepy107.pdf",
+   "t": 1794849705,
+   "meta": {
+    "title": "NCERT Psychology, Class XII: Social Influence and Group Processes (free official textbook)",
+    "note": "The upload had this chapter scanned; NCERT publishes the book free on its site.",
+    "url": "https://ncert.nic.in/textbook/pdf/lepy107.pdf"
+   }
+  }
+ ]
+}

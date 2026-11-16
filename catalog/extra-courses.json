@@ -76,6 +76,17 @@
    "progs": {},
    "kind": "theory",
    "evidence": "assignment cover page 'Food Bio-chemistry (FTC2040)' and the Food biochemistry syllabus, Food Technology IV Sem (via AMUPedia)"
+  },
+  "Faculty-of-Science/MCA/_Old-Syllabus-Subjects/CSM2205_Design-and-Analysis-of-Algorithms": {
+   "title": "Design and Analysis of Algorithms",
+   "codes": [
+    "CSM2205"
+   ],
+   "be": [],
+   "old": [],
+   "progs": {},
+   "kind": "old",
+   "evidence": "MCA II semester end-semester paper 'Design and Analysis of Algorithms (CSM-2205)', older MCA scheme (shared by Mohd Rameez Khan)"
   }
  }
 }
