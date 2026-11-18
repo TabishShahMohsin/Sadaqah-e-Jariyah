@@ -196,6 +196,8 @@ function render(node) {
   seo(SITE_URL + href(node.p), false);
   window.scrollTo(0, 0);
   bindView(v);
+  if (node.course) countView(node);
+  $$('[data-hot]', v).forEach(fillHot);
 }
 
 // the address search engines should list for this page; 'noindex' on pages that don't exist
@@ -426,43 +428,71 @@ function branchView(node, progs) {
 }
 
 /* ── hot right now (staging only) ─────────────────────
-   A B.Tech branch's courses of this term's semesters (odd: July–December, even: January–June) with the newest
-   material and the most past papers, i.e. what students are likely studying for now; and the files added last.
-   Worked out from the index alone: no view counts, nothing stored. */
+   On a B.Tech branch page: the branch's courses students opened most in the last 7 days. The live site counts one
+   view per course per browser session (functions/api/views.js, kept in the D1 database); staging shows the ranking.
+   Until there are views, it falls back to this term's courses with the most new material and past papers. */
+const VIEWS_API = 'https://sadaqah-e-jariyah.pages.dev/api/views';   // the live site's counts, also for staging
+function countView(course) {
+  if (STAGING || EMBED || !navigator.sendBeacon) return;
+  try {
+    const seen = JSON.parse(sessionStorage.getItem('sej-viewed') || '[]');
+    if (seen.includes(course.p)) return;
+    seen.push(course.p);
+    sessionStorage.setItem('sej-viewed', JSON.stringify(seen.slice(-200)));
+  } catch { /* storage unavailable: count anyway */ }
+  try { navigator.sendBeacon((FAST || '/') + 'api/views', JSON.stringify({ p: course.p })); } catch { /* not counted */ }
+}
+let viewsReq = null;
 const DAY = 86400;
 function hotTopics(node, progs) {
   if (!STAGING || !S.pg?.umbrella || !node.p.startsWith(S.pg.umbrella + '/')) return '';
-  const odd = new Date().getMonth() >= 6, now = Date.now() / 1000;
-  const courses = new Map();
-  for (const p of progs) for (const [sem, items] of Object.entries(p.semesters || {})) {
-    if ((+sem % 2 === 1) !== odd) continue;
-    for (const it of items) { const c = S.nodes.get(it.p); if (c && c.count) courses.set(c.p, { c, sem: +sem }); }
+  return `<section class="hot" data-hot="${esc(node.p)}">
+    <div class="hot-head"><span class="pulse"></span><h2>Hot right now</h2><span class="gc">Loading…</span></div></section>`;
+}
+function branchCourses(node) {
+  const out = new Map();
+  for (const p of progsOf(node)) for (const [sem, items] of Object.entries(p.semesters || {})) {
+    for (const it of items) { const c = S.nodes.get(it.p); if (c) out.set(c.p, { c, sem: +sem }); }
   }
-  const rows = [...courses.values()].map(x => {
+  for (const c of S.courses) if (c.p.startsWith(node.p + '/') && !out.has(c.p)) out.set(c.p, { c, sem: null });
+  return out;
+}
+function hotRow(x, j, note) {
+  const c = parseCourse(x.c.n);
+  return `<a class="course hot-row" href="${href(x.c.p)}">
+    <span class="ci">${pad(j + 1)}</span>
+    <span class="cc">${(c ? c.codes : []).map(k => `<i>${esc(k)}</i>`).join('') || '—'}</span>
+    <span class="ct">${esc(label(x.c.n))}<small>${x.sem ? `Semester ${x.sem} · ` : ''}${note}</small></span>
+    <span class="cov"></span>
+    <span class="cn">${plural(x.c.count, 'file')}</span>
+    <span class="arr">→</span>
+  </a>`;
+}
+async function fillHot(sec) {
+  const node = S.nodes.get(sec.dataset.hot);
+  if (!node) return;
+  const courses = branchCourses(node);
+  let views = null;
+  try { views = await (viewsReq ||= fetch(VIEWS_API).then(r => r.ok ? r.json() : null).catch(() => null)); } catch { /* offline */ }
+  if (!sec.isConnected) return;
+  const head = (note) => `<div class="hot-head"><span class="pulse"></span><h2>Hot right now</h2><span class="gc">${note}</span></div>`;
+  const viewed = (views?.courses || []).filter(v => courses.has(v.p) && v.n > 0).slice(0, 6);
+  if (viewed.length) {
+    sec.innerHTML = head(`Most opened in the last ${views.days} days`) +
+      viewed.map((v, j) => hotRow(courses.get(v.p), j, `<b>${plural(v.n, 'view')}</b>`)).join('');
+    return;
+  }
+  // no views counted for this branch yet: this term's courses with the newest material and most past papers
+  const odd = new Date().getMonth() >= 6, now = Date.now() / 1000;
+  const rows = [...courses.values()].filter(x => x.sem && (x.sem % 2 === 1) === odd && x.c.count).map(x => {
     const fs = S.all.filter(f => f.p.startsWith(x.c.p + '/') && f.k !== 'link');
     const fresh = fs.filter(f => now - f.m < 60 * DAY).length;
     const pyq = fs.filter(f => f.p.includes('/PYQs-and-Assignments/')).length;
-    return { ...x, fresh, pyq, score: Math.min(fresh, 10) * 2 + Math.min(pyq, 30) };  // capped: the archive's own bulk imports look 'new' too
+    return { ...x, fresh, pyq, score: Math.min(fresh, 10) * 2 + Math.min(pyq, 30) };
   }).filter(x => x.score > 0).sort((a, b) => b.score - a.score).slice(0, 6);
-  const mine = new Set(courses.keys());
-  const newest = S.all.filter(f => f.k !== 'link' && now - f.m < 30 * DAY && [...mine].some(c => f.p.startsWith(c + '/')))
-    .sort((a, b) => b.m - a.m).slice(0, 6);
-  if (!rows.length && !newest.length) return '';
-  return `<section class="hot">
-    <div class="hot-head"><span class="pulse"></span><h2>Hot right now</h2><span class="gc">${odd ? 'Odd' : 'Even'}-semester term · from the newest material and past papers</span></div>
-    ${rows.map((x, j) => {
-      const c = parseCourse(x.c.n);
-      return `<a class="course hot-row" href="${href(x.c.p)}">
-        <span class="ci">${pad(j + 1)}</span>
-        <span class="cc">${(c ? c.codes : []).map(k => `<i>${esc(k)}</i>`).join('') || '—'}</span>
-        <span class="ct">${esc(label(x.c.n))}<small>Semester ${x.sem}${x.fresh ? ` · <b>${x.fresh} new</b>` : ''}${x.pyq ? ` · ${plural(x.pyq, 'past paper')}` : ''}</small></span>
-        <span class="cov"></span>
-        <span class="cn">${plural(x.c.count, 'file')}</span>
-        <span class="arr">→</span>
-      </a>`;
-    }).join('')}
-    ${newest.length ? `<h3 class="hot-sub">Just added</h3>${fileRows(newest, { ctx: true })}` : ''}
-  </section>`;
+  if (!rows.length) { sec.remove(); return; }
+  sec.innerHTML = head(`No views counted yet · this term's courses with the most new material and past papers`) +
+    rows.map((x, j) => hotRow(x, j, [x.fresh && `<b>${x.fresh} new</b>`, x.pyq && plural(x.pyq, 'past paper')].filter(Boolean).join(' · '))).join('');
 }
 
 function flatten(dir, depth = 0) {

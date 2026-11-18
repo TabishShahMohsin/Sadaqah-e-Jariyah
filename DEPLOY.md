@@ -32,7 +32,7 @@ tools/deploy.sh production            # the same commit, live
 
 Because production's file links are pinned to a tag, files moved or removed on the dataset's `main` don't break the
 live site; they reach it only with the next production deploy. Features on trial show only on staging (in
-`site/app.js`, behind `STAGING`; today: "Hot right now" on B.Tech branch pages). A bad production deploy is rolled
+`site/app.js`, behind `STAGING`; today: "Hot right now" on B.Tech branch pages: the branch's most opened courses of the last 7 days, counted by the live site in the D1 database, `functions/api/views.js`). A bad production deploy is rolled
 back in Cloudflare: Workers & Pages → sadaqah-e-jariyah → Deployments → an earlier one → Rollback.
 
 ## 0. Stay anonymous (do this first)
