@@ -1,0 +1,15 @@
+{
+ "id": "20261118-122612-aarish-github-fix",
+ "created": "2026-11-18T12:26:12+00:00",
+ "source": {
+  "kind": "link",
+  "by": "maintainer"
+ },
+ "ops": [
+  {
+   "op": "remove",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3932_Algorithms-and-OS-Lab/Books-and-Resources/Algorithms-Lab-Codes_AIC3930.link",
+   "reason": "not linked: the maintainer chose to leave AIC3930 out"
+  }
+ ]
+}
