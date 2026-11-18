@@ -554,6 +554,12 @@ def cmd_site(a, root=REPO):
         shutil.copytree(os.path.join(root, "site", sub), os.path.join(out, sub), dirs_exist_ok=True)
     with open(os.path.join(out, "_headers"), "w") as fh:
         fh.write(HEADERS)
+    # Pages Functions run only where needed: pages (functions/_middleware.js sends pages.dev page requests to
+    # sej.org.in) and the API; the code, styles, data and fonts that sej.org.in loads from pages.dev skip them.
+    with open(os.path.join(out, "_routes.json"), "w") as fh:
+        json.dump({"version": 1, "include": ["/*"],
+                   "exclude": ["/app.js", "/app.css", "/index.json", "/fonts/*", "/vendor/*", "/brand/*",
+                               "/sitemap.xml", "/robots.txt"]}, fh)
     import seo_pages
     with open(os.path.join(root, "site", "app.js"), encoding="utf-8") as fh:
         n_pages = seo_pages.write(out, idx, html, fh.read())
