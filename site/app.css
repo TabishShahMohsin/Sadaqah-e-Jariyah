@@ -48,7 +48,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .search-btn:hover { background: var(--fog2); color: var(--ink); }
 .search-btn kbd { background: #fff; }
 
-main { width: 100%; max-width: var(--w); margin: 0 auto; padding-block: 0 120px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); flex: 1; animation: fade .5s var(--ease) both; }
+main { width: 100%; max-width: var(--w); margin: 0 auto; padding-block: 0 120px; min-height: 100vh; min-height: 100svh;  /* the footer starts below the screen, so it doesn't jump as the page fills in (CLS) */
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); flex: 1; animation: fade .5s var(--ease) both; }
 @keyframes fade { from { opacity: 0; } }
 .loading { padding: 140px 0; text-align: center; font-size: 14px; color: var(--mute); }
 .spinner { display: inline-block; width: 12px; height: 12px; border: 1.5px solid var(--line2); border-top-color: var(--ink); border-radius: 50%; animation: spin .8s linear infinite; vertical-align: -1px; margin-right: 8px; }

@@ -546,6 +546,10 @@ def cmd_site(a, root=REPO):
         html = html.replace(asset, f'{attr}="{FAST_ORIGIN}{path}')
     with open(os.path.join(out, "index.html"), "w", encoding="utf-8") as fh:
         fh.write(html)
+    # Addresses that are no page get a real 404 status (stray and bot requests), still with the app, which shows a
+    # file's preview when the address is a file and "Nothing at this address" (noindex) otherwise.
+    with open(os.path.join(out, "404.html"), "w", encoding="utf-8") as fh:
+        fh.write(html)
     for sub in ("fonts", "brand", "vendor"):
         shutil.copytree(os.path.join(root, "site", sub), os.path.join(out, sub), dirs_exist_ok=True)
     with open(os.path.join(out, "_headers"), "w") as fh:
