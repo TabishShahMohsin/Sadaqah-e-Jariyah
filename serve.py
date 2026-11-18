@@ -57,6 +57,8 @@ class Handler(BaseHTTPRequestHandler):
             return None
         full = os.path.realpath(os.path.join(base, *parts))
         if not full.startswith(os.path.realpath(base) + os.sep) or not os.path.isfile(full):
+            if base == SITE and "." not in parts[-1]:  # a page address (/Faculty-of-Science/BCA/): the app routes it
+                return os.path.join(SITE, "index.html")
             return None
         return full
 

@@ -66,7 +66,14 @@ const fmtSize = b => b < 1e3 ? b + ' B' : b < 1e6 ? (b / 1e3).toFixed(0) + ' KB'
 const fmtNum = n => n.toLocaleString('en-IN');
 const fmtDate = t => !t ? '' : new Date(t * 1000).toLocaleDateString('en-GB', { month: 'short', year: 'numeric' });
 const plural = (n, w) => `${fmtNum(n)} ${w}${n === 1 ? '' : 's'}`;
-const href = p => '#/' + p.split('/').map(encodeURIComponent).join('/');
+// Pages have real addresses (sej.org.in/Faculty-of-Science/BCA/), so search engines can find and list them.
+// Folders end in '/', files don't. The offline single-file build (EMBED) keeps '#/…' addresses.
+const href = p => {
+  const enc = p.split('/').map(encodeURIComponent).join('/');
+  if (EMBED) return '#/' + enc;
+  return p ? '/' + enc + (S.files.has(p) ? '' : '/') : '/';
+};
+const SITE_URL = 'https://sej.org.in';
 const fileUrl = f => S.base === null ? '#' : S.base + f.p.split('/').map(encodeURIComponent).join('/');
 const pad = (n, w = 2) => String(n).padStart(w, '0');
 
@@ -101,7 +108,12 @@ function context(f) {
 const EMBED = !!document.getElementById('sej-data');
 const navStack = [];
 function nav(p, replace = false) {
-  if (!EMBED) { replace ? location.replace(href(p)) : (location.hash = href(p)); return; }
+  if (!EMBED) {
+    if (replace || href(p) === location.pathname) history.replaceState(null, '', href(p));
+    else history.pushState(null, '', href(p));
+    route();
+    return;
+  }
   if (S.files.has(p) || S.files.has(S.cur)) replace = true;
   if (!replace && S.cur !== p) navStack.push(S.cur || '');
   S.cur = p;
@@ -110,9 +122,24 @@ function nav(p, replace = false) {
 function goBack() { if (navStack.length) { S.cur = navStack.pop(); route(); } }
 function currentPath() {
   if (EMBED) return S.cur || '';
-  let h = location.hash.replace(/^#\/?/, '');
-  try { h = decodeURIComponent(h); } catch { /* keep raw */ }
-  return h.replace(/\/+$/, '');
+  const dec = x => x.split('/').map(s => { try { return decodeURIComponent(s); } catch { return s; } }).join('/');
+  if (location.hash.startsWith('#/')) {  // an old '#/…' link: open it at its real address
+    const h = dec(location.hash.slice(2)).replace(/\/+$/, '');
+    history.replaceState(null, '', href(h));
+    return h;
+  }
+  return dec(location.pathname).replace(/^\/+|\/+$/g, '').replace(/^index\.html$/, '');
+}
+// in-site links open without reloading the page
+function onLinkClick(e) {
+  if (e.defaultPrevented || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+  const a = e.target.closest('a[href]');
+  if (!a || a.target || a.hasAttribute('download')) return;
+  const h = a.getAttribute('href');
+  const ours = EMBED ? h.startsWith('#/') : h.startsWith('/') && !h.startsWith('//') && !/^\/(api|vendor|brand|fonts|cdn-cgi)\//.test(h) && !/\.(json|xml|txt)$/.test(h);
+  if (!ours) return;
+  e.preventDefault();
+  nav((EMBED ? h.slice(2) : h.slice(1)).split('#')[0].replace(/\/+$/, '').split('/').map(s => { try { return decodeURIComponent(s); } catch { return s; } }).join('/'));
 }
 function route() {
   const p = currentPath();
@@ -129,7 +156,7 @@ function route() {
   const node = S.nodes.get(p);
   if (!node) {
     const to = moved(p);
-    if (to && (S.nodes.has(to) || S.files.has(to))) { location.replace(href(to)); return; }
+    if (to && (S.nodes.has(to) || S.files.has(to))) { nav(to, true); return; }
     notFound(p); return;
   }
   const course = courseOf(node);
@@ -146,9 +173,10 @@ function notFound(p) {
   if (S.rendered === key) return;
   pageShell(key, 'Not found', `<header class="page-head"><div class="eyebrow">404</div><h1>Nothing at this address</h1>
     <p class="lede-sm">There is no folder or file called <code>${esc(p)}</code>. It may have been moved or renamed.</p>
-    <p style="margin-top:22px"><a class="pill-btn solid" href="#/">Back to home</a>&nbsp; <button class="pill-btn" type="button" data-search>Search</button></p></header>`);
+    <p style="margin-top:22px"><a class="pill-btn solid" href="${href('')}">Back to home</a>&nbsp; <button class="pill-btn" type="button" data-search>Search</button></p></header>`);
   $('#crumbs').innerHTML = '';
   $$('[data-search]', $('#view')).forEach(b => b.addEventListener('click', openPalette));
+  seo(null, true);
 }
 
 function render(node) {
@@ -158,9 +186,23 @@ function render(node) {
   const bb = $('#backBtn'); if (bb) bb.hidden = !EMBED || node === S.root;
   const v = $('#view');
   v.innerHTML = node === S.root ? homeView() : node.course ? courseView(node) : dirView(node);
-  document.title = node === S.root ? 'Sadaqah-e-Jariyah' : `${label(node.n)} — Sadaqah-e-Jariyah`;
+  const codes = node.course ? (parseCourse(node.n)?.codes || []).join(' / ') : '';
+  document.title = node === S.root ? 'Sadaqah-e-Jariyah — AMU notes, PYQs & syllabus (B.Tech, BCA, MCA, MBBS)'
+    : `${label(node.n)}${codes ? ` (${codes})` : ''} – ${node.course ? 'Notes, PYQs & Syllabus' : 'AMU Notes, PYQs & Syllabus'} | Sadaqah-e-Jariyah`;
+  seo(SITE_URL + href(node.p), false);
   window.scrollTo(0, 0);
   bindView(v);
+}
+
+// the address search engines should list for this page; 'noindex' on pages that don't exist
+function seo(canonical, noindex) {
+  if (EMBED) return;
+  let c = document.querySelector('link[rel=canonical]');
+  if (canonical) { if (!c) { c = document.createElement('link'); c.rel = 'canonical'; document.head.appendChild(c); } c.href = canonical; }
+  else c?.remove();
+  let m = document.querySelector('meta[name=robots]');
+  if (noindex) { if (!m) { m = document.createElement('meta'); m.name = 'robots'; document.head.appendChild(m); } m.content = 'noindex'; }
+  else m?.remove();
 }
 
 function crumbs(node) {
@@ -260,7 +302,7 @@ function homeView() {
   <div class="cards">${u.d.filter(d => !d.n.startsWith('_')).sort(branchOrder).map((d, i) => card(d, i, 'Programme')).join('')}</div>`).join('')}
   ${branches.length ? `<h2 class="label">Branches</h2><div class="cards">${branches.map((d, i) => card(d, i, 'Branch')).join('')}</div>` : ''}
   ${others.length ? `<h2 class="label">Other</h2><div class="cards">${others.map((d, i) => card(d, i, 'Folder', true)).join('')}</div>` : ''}
-  <a class="cta hud" href="#/contribute"><span class="eyebrow"><span class="pulse"></span> Contribute</span><span class="cta-t">Have notes, past papers or lab work? Drop them here and they’ll be sorted into the right course.</span><span class="go">→</span></a>
+  <a class="cta hud" href="${href('contribute')}"><span class="eyebrow"><span class="pulse"></span> Contribute</span><span class="cta-t">Have notes, past papers or lab work? Drop them here and they’ll be sorted into the right course.</span><span class="go">→</span></a>
   <h2 class="label">Recently added</h2>
   ${fileRows(recent, { ctx: true })}`;
 }
@@ -602,7 +644,7 @@ let xlsxLib = null;
 function loadXlsx() {
   return xlsxLib || (xlsxLib = new Promise((ok, bad) => {
     const s = document.createElement('script');
-    s.src = new URL('vendor/sheetjs/xlsx.full.min.js', location.href).href;
+    s.src = new URL((EMBED ? '' : '/') + 'vendor/sheetjs/xlsx.full.min.js', location.href).href;
     s.onload = () => ok(window.XLSX);
     s.onerror = () => { xlsxLib = null; bad(new Error('sheetjs')); };
     document.head.appendChild(s);
@@ -644,7 +686,7 @@ async function renderSheet(f, url, body, token) {
 }
 /* ── PDF pages, drawn by pdf.js where the browser can't show a PDF inline (Android, iOS, tablets) ── */
 const NATIVE_PDF = navigator.pdfViewerEnabled === true && !matchMedia('(pointer: coarse)').matches;
-const PDFJS = new URL('vendor/pdfjs/', location.href).href;
+const PDFJS = new URL((EMBED ? '' : '/') + 'vendor/pdfjs/', location.href).href;
 let pdfjs = null, stopPdfFn = null;
 /* Desktop: the site downloads the PDF itself (retrying if the connection drops, e.g.
    "A network change was detected"), then hands it to the browser's own viewer from memory.
@@ -911,6 +953,7 @@ function pageShell(key, crumbLabel, html) {
   const bb = $('#backBtn'); if (bb) bb.hidden = !EMBED;
   $('#view').innerHTML = html;
   document.title = `${crumbLabel} — Sadaqah-e-Jariyah`;
+  if (!key.startsWith('404:')) seo(SITE_URL + href(key), key.startsWith('status'));
   window.scrollTo(0, 0);
 }
 
@@ -972,7 +1015,7 @@ const papers = files.filter(f => f.section === 'PYQs-and-Assignments' && f.cours
       <p class="lede-sm">File URLs point at the latest version. To pin a fixed version, replace <code>/resolve/main/</code> with <code>/resolve/&lt;release&gt;/</code>, using a release tag from the dataset${dataset ? ` (<a href="${esc(dataset)}/tree/main" target="_blank" rel="noopener">browse versions ↗</a>)` : ''}.</p>
       <p class="lede-sm">Please fetch <code>files.json</code> once and cache it rather than on every page view, and mention <b>Sadaqah-e-Jariyah</b> and each file's own credit (its <code>meta</code>) where you show the material. Hugging Face limits heavy anonymous use, so a high-traffic app should use a Hugging Face token.</p>
     </section>`);
-  fetch(FAST + 'api/v1/stats.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : null).then(j => {
+  fetch((FAST || '/') + 'api/v1/stats.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : null).then(j => {
     const el = $('#apiUse');
     if (el && j && j.calls) el.textContent = `API use in the last 30 days: ${j.calls.toLocaleString()} calls from ${j.clients.toLocaleString()} ${j.clients === 1 ? 'app' : 'apps'}.`;
   }).catch(() => {});
@@ -1104,7 +1147,7 @@ async function droppedFiles(dt) {
 }
 // Visit count from the Pages Function (functions/api/visitors.js). Asked for as soon as the script runs, so it
 // arrives with the index; the last known count shows at once meanwhile. Not there on the local server: nothing shown.
-const VISITS = fetch(FAST + 'api/visitors', { cache: 'no-store' }).then(r => r.ok ? r.json() : {}).then(j => j.count).catch(() => null);
+const VISITS = fetch((FAST || '/') + 'api/visitors', { cache: 'no-store' }).then(r => r.ok ? r.json() : {}).then(j => j.count).catch(() => null);
 function showVisitors() {
   const el = $('#footVisits');
   const put = n => { if (Number.isFinite(n) && n > 0) { el.textContent = plural(n, 'visit'); el.hidden = false; } };
@@ -1297,15 +1340,9 @@ function wire() {
     if (!EMBED && S.pushed) { S.pushed = false; history.back(); return; }  // back to the list exactly as it was, no history trap
     nav(S.preview.parent.p, true);
   });
+  document.addEventListener('click', onLinkClick);
   if (EMBED) {
-    document.addEventListener('click', e => {
-      const a = e.target.closest('a[href^="#/"]');
-      if (!a || e.metaKey || e.ctrlKey) return;
-      e.preventDefault();
-      let p = a.getAttribute('href').slice(2);
-      p = p.split('/').map(decodeURIComponent).join('/');
-      nav(p);
-    });
+    $$('a[href^="/"]').forEach(a => a.setAttribute('href', '#' + a.getAttribute('href').replace(/\/$/, '')));  // the page's own links
     $('#backBtn')?.addEventListener('click', goBack);
   }
   $('#scrim').addEventListener('click', () => $('#closeBtn').click());
@@ -1332,7 +1369,7 @@ function wire() {
     else if (S.preview && e.key === 'ArrowLeft') step(-1);
     else if (S.preview && e.key === 'ArrowRight') step(1);
   });
-  if (!EMBED) window.addEventListener('hashchange', route);
+  if (!EMBED) { window.addEventListener('popstate', route); window.addEventListener('hashchange', route); }
 }
 
 async function boot() {
@@ -1341,11 +1378,12 @@ async function boot() {
     let idx;
     if (EMBED) idx = JSON.parse(document.getElementById('sej-data').textContent);
     else {
-      const r = await fetch(FAST + 'index.json', { cache: 'no-store' });
+      const r = await fetch((FAST || '/') + 'index.json', { cache: 'no-store' });
       if (!r.ok) throw new Error('HTTP ' + r.status);
       idx = await r.json();
     }
     S.base = idx.fileBase === null ? null : (idx.fileBase || 'files/');
+    if (S.base && !EMBED && !/^(https?:)?\//.test(S.base)) S.base = '/' + S.base;  // the local server's files/, from any page
     S.api = idx.api || null;
     S.turnstile = idx.turnstile || null;
     S.generated = idx.generated;

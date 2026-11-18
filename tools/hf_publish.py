@@ -437,7 +437,9 @@ HEADERS = ("/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: no-referre
            "/fonts/*\n  Cache-Control: public, max-age=31536000, immutable\n  Access-Control-Allow-Origin: *\n/vendor/*\n  Cache-Control: public, max-age=2592000\n"
            "/brand/*\n  Cache-Control: public, max-age=604800\n/index.json\n  Cache-Control: no-cache\n  Access-Control-Allow-Origin: *\n"
            "/api/v1/*\n  Cache-Control: no-cache\n  Access-Control-Allow-Origin: *\n"
-           "/app.js\n  Access-Control-Allow-Origin: *\n/app.css\n  Access-Control-Allow-Origin: *\n")
+           "/app.js\n  Access-Control-Allow-Origin: *\n/app.css\n  Access-Control-Allow-Origin: *\n"
+           # search engines list sej.org.in only, not the pages.dev copies of the same pages
+           "https://:project.pages.dev/*\n  X-Robots-Tag: noindex\n")
 # Where the page's code, styles and fonts load from (see FAST in site/app.js): pages.dev is served from India,
 # the custom domain sej.org.in from Europe. The page itself may come from either; these always come from here.
 FAST_ORIGIN = "https://sadaqah-e-jariyah.pages.dev/"
@@ -539,8 +541,8 @@ def cmd_site(a, root=REPO):
         shutil.copyfile(os.path.join(root, "site", f), os.path.join(out, f))
     with open(os.path.join(root, "site", "index.html"), encoding="utf-8") as fh:
         html = fh.read()
-    for asset in ('href="app.css"', 'src="app.js"', 'href="fonts/'):
-        attr, path = asset.split('="')
+    for asset in ('href="/app.css"', 'src="/app.js"', 'href="/fonts/'):
+        attr, path = asset.split('="/')
         html = html.replace(asset, f'{attr}="{FAST_ORIGIN}{path}')
     with open(os.path.join(out, "index.html"), "w", encoding="utf-8") as fh:
         fh.write(html)
@@ -548,6 +550,10 @@ def cmd_site(a, root=REPO):
         shutil.copytree(os.path.join(root, "site", sub), os.path.join(out, sub), dirs_exist_ok=True)
     with open(os.path.join(out, "_headers"), "w") as fh:
         fh.write(HEADERS)
+    import seo_pages
+    with open(os.path.join(root, "site", "app.js"), encoding="utf-8") as fh:
+        n_pages = seo_pages.write(out, idx, html, fh.read())
+    print(f"{n_pages:,} pages for search engines, sitemap.xml, robots.txt")
     with open(os.path.join(out, "index.json.tmp"), "w", encoding="utf-8") as fh:
         json.dump(idx, fh, ensure_ascii=False, separators=(",", ":"))
     os.replace(os.path.join(out, "index.json.tmp"), os.path.join(out, "index.json"))
