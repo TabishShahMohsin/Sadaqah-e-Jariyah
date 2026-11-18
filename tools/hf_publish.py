@@ -607,7 +607,7 @@ def cmd_site(a, root=REPO):
     print(f"File links point to: {idx['fileBase']}")
     print("Deploy (from the repo folder, so functions/ is included):\n"
           f"  npx wrangler pages deploy {os.path.relpath(out, REPO)} --project-name sadaqah-e-jariyah --branch {a.env}"
-          + ("\n  → https://staging.sadaqah-e-jariyah.pages.dev" if staging else ""))
+          + ("\n  → https://staging.sej.org.in" if staging else ""))
 
 
 def main():

@@ -21,7 +21,7 @@ The site has two copies, both from this repo:
 
 | | address | file links | search engines |
 |---|---|---|---|
-| **staging** | https://staging.sadaqah-e-jariyah.pages.dev | the dataset's `main` (what the next release will be) | never listed |
+| **staging** | https://staging.sej.org.in | the dataset's `main` (what the next release will be) | never listed |
 | **production** | https://sej.org.in | pinned to the newest release tag (`v2026-11-18` …) | listed |
 
 ```

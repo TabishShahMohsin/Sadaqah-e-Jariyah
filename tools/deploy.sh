@@ -1,7 +1,7 @@
 #!/bin/sh
 # Deploy the website. Staging first, look at it, then production.
 #
-#   tools/deploy.sh staging      build _dist-staging  → https://staging.sadaqah-e-jariyah.pages.dev
+#   tools/deploy.sh staging      build _dist-staging  → https://staging.sej.org.in
 #                                file links read the dataset's main; noindex; features on trial (Hot right now)
 #   tools/deploy.sh production   build _dist          → https://sej.org.in
 #                                file links pinned to the newest release tag (run hf_publish.py push first)
