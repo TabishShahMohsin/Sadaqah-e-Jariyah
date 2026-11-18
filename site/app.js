@@ -196,8 +196,6 @@ function render(node) {
   seo(SITE_URL + href(node.p), false);
   window.scrollTo(0, 0);
   bindView(v);
-  if (node.course) countView(node);
-  $$('[data-hot]', v).forEach(fillHot);
 }
 
 // the address search engines should list for this page; 'noindex' on pages that don't exist
@@ -420,82 +418,10 @@ function branchView(node, progs) {
     <h1>${esc(label(node.n))}</h1>
     <div class="meta"><span><b>${fmtNum(node.count)}</b> files</span><span>${fmtSize(node.size)}</span><span><b>${nCourses}</b> courses</span></div>
   </header>
-  ${hotTopics(node, progs)}
   <nav class="progs" aria-label="Programme">${progs.map(x => `<button type="button" class="prog${x === p ? ' on' : ''}" data-prog="${esc(x.id)}" aria-pressed="${x === p}"><b>${esc(x.degree)}</b> ${esc(x.name)}</button>`).join('')}</nav>
   <div id="progPanel">${progPanel(node, p)}</div>
   ${extra.map(({ g, cs }) => `<section class="group"><div class="group-head"><span class="gi">+</span><h2><a href="${href(g.p)}">${esc(label(g.n))}</a></h2><span class="gc">${plural(cs.length, 'course')}</span></div>${cs.map((d, j) => courseRow(d, j)).join('')}</section>`).join('')}
   ${folders.length ? `<h2 class="label">Folders</h2><div class="cards">${folders.map((d, j) => card(d, j, 'Folder', true)).join('')}</div>` : ''}`;
-}
-
-/* ── hot right now (staging only) ─────────────────────
-   On a B.Tech branch page: the branch's courses students opened most in the last 7 days. The live site counts one
-   view per course per browser session (functions/api/views.js, kept in the D1 database); staging shows the ranking.
-   Until there are views, it falls back to this term's courses with the most new material and past papers. */
-const VIEWS_API = 'https://sadaqah-e-jariyah.pages.dev/api/views';   // the live site's counts, also for staging
-function countView(course) {
-  if (STAGING || EMBED) return;
-  try {
-    const seen = JSON.parse(sessionStorage.getItem('sej-viewed') || '[]');
-    if (seen.includes(course.p)) return;
-    seen.push(course.p);
-    sessionStorage.setItem('sej-viewed', JSON.stringify(seen.slice(-200)));
-  } catch { /* storage unavailable: count anyway */ }
-  // sent to the page's own address: privacy shields (Brave) drop beacons to another site such as pages.dev
-  const body = JSON.stringify({ p: course.p });
-  fetch('/api/views', { method: 'POST', body, keepalive: true, headers: { 'Content-Type': 'text/plain' } })
-    .catch(() => { try { navigator.sendBeacon('/api/views', body); } catch { /* not counted */ } });
-}
-let viewsReq = null;
-const DAY = 86400;
-function hotTopics(node, progs) {
-  if (!STAGING || !S.pg?.umbrella || !node.p.startsWith(S.pg.umbrella + '/')) return '';
-  return `<section class="hot" data-hot="${esc(node.p)}">
-    <div class="hot-head"><span class="pulse"></span><h2>Hot right now</h2><span class="gc">Loading…</span></div></section>`;
-}
-function branchCourses(node) {
-  const out = new Map();
-  for (const p of progsOf(node)) for (const [sem, items] of Object.entries(p.semesters || {})) {
-    for (const it of items) { const c = S.nodes.get(it.p); if (c) out.set(c.p, { c, sem: +sem }); }
-  }
-  for (const c of S.courses) if (c.p.startsWith(node.p + '/') && !out.has(c.p)) out.set(c.p, { c, sem: null });
-  return out;
-}
-function hotRow(x, j, note) {
-  const c = parseCourse(x.c.n);
-  return `<a class="course hot-row" href="${href(x.c.p)}">
-    <span class="ci">${pad(j + 1)}</span>
-    <span class="cc">${(c ? c.codes : []).map(k => `<i>${esc(k)}</i>`).join('') || '—'}</span>
-    <span class="ct">${esc(label(x.c.n))}<small>${x.sem ? `Semester ${x.sem} · ` : ''}${note}</small></span>
-    <span class="cov"></span>
-    <span class="cn">${plural(x.c.count, 'file')}</span>
-    <span class="arr">→</span>
-  </a>`;
-}
-async function fillHot(sec) {
-  const node = S.nodes.get(sec.dataset.hot);
-  if (!node) return;
-  const courses = branchCourses(node);
-  let views = null;
-  try { views = await (viewsReq ||= fetch(VIEWS_API, { cache: 'no-store' }).then(r => r.ok ? r.json() : null).catch(() => null)); } catch { /* offline */ }
-  if (!sec.isConnected) return;
-  const head = (note) => `<div class="hot-head"><span class="pulse"></span><h2>Hot right now</h2><span class="gc">${note}</span></div>`;
-  const viewed = (views?.courses || []).filter(v => courses.has(v.p) && v.n > 0).slice(0, 6);
-  if (viewed.length) {
-    sec.innerHTML = head(`Most opened in the last ${views.days} days`) +
-      viewed.map((v, j) => hotRow(courses.get(v.p), j, `<b>${plural(v.n, 'view')}</b>`)).join('');
-    return;
-  }
-  // no views counted for this branch yet: this term's courses with the newest material and most past papers
-  const odd = new Date().getMonth() >= 6, now = Date.now() / 1000;
-  const rows = [...courses.values()].filter(x => x.sem && (x.sem % 2 === 1) === odd && x.c.count).map(x => {
-    const fs = S.all.filter(f => f.p.startsWith(x.c.p + '/') && f.k !== 'link');
-    const fresh = fs.filter(f => now - f.m < 60 * DAY).length;
-    const pyq = fs.filter(f => f.p.includes('/PYQs-and-Assignments/')).length;
-    return { ...x, fresh, pyq, score: Math.min(fresh, 10) * 2 + Math.min(pyq, 30) };
-  }).filter(x => x.score > 0).sort((a, b) => b.score - a.score).slice(0, 6);
-  if (!rows.length) { sec.remove(); return; }
-  sec.innerHTML = head(`No views counted yet · this term's courses with the most new material and past papers`) +
-    rows.map((x, j) => hotRow(x, j, [x.fresh && `<b>${x.fresh} new</b>`, x.pyq && plural(x.pyq, 'past paper')].filter(Boolean).join(' · '))).join('');
 }
 
 function flatten(dir, depth = 0) {
