@@ -473,7 +473,7 @@ async function fillHot(sec) {
   if (!node) return;
   const courses = branchCourses(node);
   let views = null;
-  try { views = await (viewsReq ||= fetch(VIEWS_API).then(r => r.ok ? r.json() : null).catch(() => null)); } catch { /* offline */ }
+  try { views = await (viewsReq ||= fetch(VIEWS_API, { cache: 'no-store' }).then(r => r.ok ? r.json() : null).catch(() => null)); } catch { /* offline */ }
   if (!sec.isConnected) return;
   const head = (note) => `<div class="hot-head"><span class="pulse"></span><h2>Hot right now</h2><span class="gc">${note}</span></div>`;
   const viewed = (views?.courses || []).filter(v => courses.has(v.p) && v.n > 0).slice(0, 6);
