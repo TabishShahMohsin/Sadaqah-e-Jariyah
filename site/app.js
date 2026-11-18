@@ -433,14 +433,17 @@ function branchView(node, progs) {
    Until there are views, it falls back to this term's courses with the most new material and past papers. */
 const VIEWS_API = 'https://sadaqah-e-jariyah.pages.dev/api/views';   // the live site's counts, also for staging
 function countView(course) {
-  if (STAGING || EMBED || !navigator.sendBeacon) return;
+  if (STAGING || EMBED) return;
   try {
     const seen = JSON.parse(sessionStorage.getItem('sej-viewed') || '[]');
     if (seen.includes(course.p)) return;
     seen.push(course.p);
     sessionStorage.setItem('sej-viewed', JSON.stringify(seen.slice(-200)));
   } catch { /* storage unavailable: count anyway */ }
-  try { navigator.sendBeacon((FAST || '/') + 'api/views', JSON.stringify({ p: course.p })); } catch { /* not counted */ }
+  // sent to the page's own address: privacy shields (Brave) drop beacons to another site such as pages.dev
+  const body = JSON.stringify({ p: course.p });
+  fetch('/api/views', { method: 'POST', body, keepalive: true, headers: { 'Content-Type': 'text/plain' } })
+    .catch(() => { try { navigator.sendBeacon('/api/views', body); } catch { /* not counted */ } });
 }
 let viewsReq = null;
 const DAY = 86400;
