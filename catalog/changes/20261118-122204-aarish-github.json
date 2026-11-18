@@ -1,0 +1,103 @@
+{
+ "id": "20261118-122204-aarish-github",
+ "created": "2026-11-18T12:22:04+00:00",
+ "source": {
+  "kind": "link",
+  "by": "maintainer",
+  "credit": "Aarish Shah Mohsin",
+  "note": "Aarish Shah Mohsin's GitHub repositories of AI branch lab work"
+ },
+ "ops": [
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem4/AIC2152_AI-Tools-and-Techniques/Books-and-Resources/AI-Tools-Codes_AIC2150.link",
+   "url": "https://github.com/aarishshahmohsin/AIC2150",
+   "t": 1795004524,
+   "meta": {
+    "url": "https://github.com/aarishshahmohsin/AIC2150",
+    "title": "AI Tools and Techniques: code, assignments and MATLAB files (AIC2150)",
+    "credit": "Aarish Shah Mohsin",
+    "source": "GitHub",
+    "note": "Lab work implemented by the student; the code lives on GitHub."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem4/COC2942-AIC2912_Data-Structure-Lab/Books-and-Resources/Data-Structure-Lab-Codes_AIC2910.link",
+   "url": "https://github.com/aarishshahmohsin/AIC2910",
+   "t": 1795004524,
+   "meta": {
+    "url": "https://github.com/aarishshahmohsin/AIC2910",
+    "title": "Data Structure Lab programs in C/C++: linked list, trees, BST, hashing, sorting (AIC2910)",
+    "credit": "Aarish Shah Mohsin",
+    "source": "GitHub",
+    "note": "Lab work implemented by the student; the code lives on GitHub."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/_Old-Syllabus-Subjects/AIC2940_Python-Programming-Laboratory/Books-and-Resources/Python-Lab-Codes_AIC2940.link",
+   "url": "https://github.com/aarishshahmohsin/AIC2940",
+   "t": 1795004524,
+   "meta": {
+    "url": "https://github.com/aarishshahmohsin/AIC2940",
+    "title": "Python Programming Lab: lab files and assignments (AIC2940)",
+    "credit": "Aarish Shah Mohsin",
+    "source": "GitHub",
+    "note": "Lab work implemented by the student; the code lives on GitHub."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3932_Algorithms-and-OS-Lab/Books-and-Resources/Algorithms-Lab-Codes_AIC3930.link",
+   "url": "https://github.com/aarishshahmohsin/aic3930",
+   "t": 1795004524,
+   "meta": {
+    "url": "https://github.com/aarishshahmohsin/aic3930",
+    "title": "Algorithms lab programs: Dijkstra, Kruskal, BFS (AIC3930, AI branch)",
+    "credit": "Aarish Shah Mohsin",
+    "source": "GitHub",
+    "note": "Lab work implemented by the student; the code lives on GitHub."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/AIC3942_Machine-Learning-Lab/Books-and-Resources/ML-Lab-Codes_AIC3940.link",
+   "url": "https://github.com/aarishshahmohsin/aic3940",
+   "t": 1795004524,
+   "meta": {
+    "url": "https://github.com/aarishshahmohsin/aic3940",
+    "title": "Machine Learning Lab: weekly notebooks, from k-NN on (AIC3940)",
+    "credit": "Aarish Shah Mohsin",
+    "source": "GitHub",
+    "note": "Lab work implemented by the student; the code lives on GitHub."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem6/AIC3972_Deep-Learning-Lab/Books-and-Resources/Deep-Learning-Lab-Codes_AIC3970.link",
+   "url": "https://github.com/aarishshahmohsin/AIC3970",
+   "t": 1795004524,
+   "meta": {
+    "url": "https://github.com/aarishshahmohsin/AIC3970",
+    "title": "Deep Learning Lab: weekly programs, from the perceptron to neural networks (AIC3970)",
+    "credit": "Aarish Shah Mohsin",
+    "source": "GitHub",
+    "note": "Lab work implemented by the student; the code lives on GitHub."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem7/AIC4972_Advanced-AI-Lab/Books-and-Resources/Advanced-AI-Lab-Codes_AIC4970.link",
+   "url": "https://github.com/aarishshahmohsin/AIC4970",
+   "t": 1795004524,
+   "meta": {
+    "url": "https://github.com/aarishshahmohsin/AIC4970",
+    "title": "Advanced AI Lab: water jug, search, reinforcement learning, VAE, denoising autoencoder (AIC4970)",
+    "credit": "Aarish Shah Mohsin",
+    "source": "GitHub",
+    "note": "Lab work implemented by the student; the code lives on GitHub."
+   }
+  }
+ ]
+}
