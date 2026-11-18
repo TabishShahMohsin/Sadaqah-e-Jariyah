@@ -15,6 +15,26 @@ visitor ──► Contribute page ──► intake Worker ──► sej-inbox (p
                      "Publish" Action ──► sej-files (public R2) + rebuilt site on Cloudflare Pages
 ```
 
+## Everyday deploys: staging, then production
+
+The site has two copies, both from this repo:
+
+| | address | file links | search engines |
+|---|---|---|---|
+| **staging** | https://staging.sadaqah-e-jariyah.pages.dev | the dataset's `main` (what the next release will be) | never listed |
+| **production** | https://sej.org.in | pinned to the newest release tag (`v2026-11-18` …) | listed |
+
+```
+python3 tools/hf_publish.py push      # files to Hugging Face; ends with a new release tag
+tools/deploy.sh staging               # build + deploy staging, then look at it
+tools/deploy.sh production            # the same commit, live
+```
+
+Because production's file links are pinned to a tag, files moved or removed on the dataset's `main` don't break the
+live site; they reach it only with the next production deploy. Features on trial show only on staging (in
+`site/app.js`, behind `STAGING`; today: "Hot right now" on B.Tech branch pages). A bad production deploy is rolled
+back in Cloudflare: Workers & Pages → sadaqah-e-jariyah → Deployments → an earlier one → Rollback.
+
 ## 0. Stay anonymous (do this first)
 The project carries no maintainer's name anywhere. Things that would otherwise leak it:
 

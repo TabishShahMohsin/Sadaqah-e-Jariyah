@@ -33,7 +33,11 @@ function sectionRank(n) {
 }
 // sej.org.in reaches Indian networks through Cloudflare data centres in Europe (seconds per request), while
 // sadaqah-e-jariyah.pages.dev is served from Delhi. On the custom domain, data and code come from pages.dev.
-const FAST = /(^|\.)sej\.org\.in$/.test(location.hostname) ? 'https://sadaqah-e-jariyah.pages.dev/' : '';
+// The staging build (tools/hf_publish.py site --env staging) marks itself; it loads everything from its own address,
+// is never listed by search engines, doesn't count visits, and carries features being tried before the live site.
+const ENV = document.querySelector('meta[name="sej-env"]')?.content || 'production';
+const STAGING = ENV === 'staging';
+const FAST = !STAGING && /^(www\.)?sej\.org\.in$/.test(location.hostname) ? 'https://sadaqah-e-jariyah.pages.dev/' : '';
 const COURSE_RE = /^((?:[A-Z]{2,4}\d[0-9A-Z]\d{1,2}[A-Z]?|(?:DE|OE)-\d+)(?:-[A-Z]{2,4}\d[0-9A-Z]\d{1,2}[A-Z]?)*)_(.+)$/;
 function parseCourse(n) {
   const m = n.match(COURSE_RE);
@@ -197,6 +201,7 @@ function render(node) {
 // the address search engines should list for this page; 'noindex' on pages that don't exist
 function seo(canonical, noindex) {
   if (EMBED) return;
+  if (STAGING) noindex = true;
   let c = document.querySelector('link[rel=canonical]');
   if (canonical) { if (!c) { c = document.createElement('link'); c.rel = 'canonical'; document.head.appendChild(c); } c.href = canonical; }
   else c?.remove();
@@ -413,10 +418,51 @@ function branchView(node, progs) {
     <h1>${esc(label(node.n))}</h1>
     <div class="meta"><span><b>${fmtNum(node.count)}</b> files</span><span>${fmtSize(node.size)}</span><span><b>${nCourses}</b> courses</span></div>
   </header>
+  ${hotTopics(node, progs)}
   <nav class="progs" aria-label="Programme">${progs.map(x => `<button type="button" class="prog${x === p ? ' on' : ''}" data-prog="${esc(x.id)}" aria-pressed="${x === p}"><b>${esc(x.degree)}</b> ${esc(x.name)}</button>`).join('')}</nav>
   <div id="progPanel">${progPanel(node, p)}</div>
   ${extra.map(({ g, cs }) => `<section class="group"><div class="group-head"><span class="gi">+</span><h2><a href="${href(g.p)}">${esc(label(g.n))}</a></h2><span class="gc">${plural(cs.length, 'course')}</span></div>${cs.map((d, j) => courseRow(d, j)).join('')}</section>`).join('')}
   ${folders.length ? `<h2 class="label">Folders</h2><div class="cards">${folders.map((d, j) => card(d, j, 'Folder', true)).join('')}</div>` : ''}`;
+}
+
+/* ── hot right now (staging only) ─────────────────────
+   A B.Tech branch's courses of this term's semesters (odd: July–December, even: January–June) with the newest
+   material and the most past papers, i.e. what students are likely studying for now; and the files added last.
+   Worked out from the index alone: no view counts, nothing stored. */
+const DAY = 86400;
+function hotTopics(node, progs) {
+  if (!STAGING || !S.pg?.umbrella || !node.p.startsWith(S.pg.umbrella + '/')) return '';
+  const odd = new Date().getMonth() >= 6, now = Date.now() / 1000;
+  const courses = new Map();
+  for (const p of progs) for (const [sem, items] of Object.entries(p.semesters || {})) {
+    if ((+sem % 2 === 1) !== odd) continue;
+    for (const it of items) { const c = S.nodes.get(it.p); if (c && c.count) courses.set(c.p, { c, sem: +sem }); }
+  }
+  const rows = [...courses.values()].map(x => {
+    const fs = S.all.filter(f => f.p.startsWith(x.c.p + '/') && f.k !== 'link');
+    const fresh = fs.filter(f => now - f.m < 60 * DAY).length;
+    const pyq = fs.filter(f => f.p.includes('/PYQs-and-Assignments/')).length;
+    return { ...x, fresh, pyq, score: Math.min(fresh, 10) * 2 + Math.min(pyq, 30) };  // capped: the archive's own bulk imports look 'new' too
+  }).filter(x => x.score > 0).sort((a, b) => b.score - a.score).slice(0, 6);
+  const mine = new Set(courses.keys());
+  const newest = S.all.filter(f => f.k !== 'link' && now - f.m < 30 * DAY && [...mine].some(c => f.p.startsWith(c + '/')))
+    .sort((a, b) => b.m - a.m).slice(0, 6);
+  if (!rows.length && !newest.length) return '';
+  return `<section class="hot">
+    <div class="hot-head"><span class="pulse"></span><h2>Hot right now</h2><span class="gc">${odd ? 'Odd' : 'Even'}-semester term · from the newest material and past papers</span></div>
+    ${rows.map((x, j) => {
+      const c = parseCourse(x.c.n);
+      return `<a class="course hot-row" href="${href(x.c.p)}">
+        <span class="ci">${pad(j + 1)}</span>
+        <span class="cc">${(c ? c.codes : []).map(k => `<i>${esc(k)}</i>`).join('') || '—'}</span>
+        <span class="ct">${esc(label(x.c.n))}<small>Semester ${x.sem}${x.fresh ? ` · <b>${x.fresh} new</b>` : ''}${x.pyq ? ` · ${plural(x.pyq, 'past paper')}` : ''}</small></span>
+        <span class="cov"></span>
+        <span class="cn">${plural(x.c.count, 'file')}</span>
+        <span class="arr">→</span>
+      </a>`;
+    }).join('')}
+    ${newest.length ? `<h3 class="hot-sub">Just added</h3>${fileRows(newest, { ctx: true })}` : ''}
+  </section>`;
 }
 
 function flatten(dir, depth = 0) {
@@ -546,11 +592,11 @@ function openPreview(f) {
   $('#drBy').hidden = !by;
   $('#drBy').title = $('#drBy').textContent;
   // converted documents keep their original (.docx, .pptx …) in the dataset's history, at the release it was published in
-  const orig = f.meta && f.meta.orig && S.base && /\/resolve\/main\/$/.test(S.base) ? f.meta.orig : '';
+  const orig = f.meta && f.meta.orig && S.base && /\/resolve\/[^/]+\/$/.test(S.base) ? f.meta.orig : '';
   $('#drOrig').hidden = !orig;
   if (orig) {
     const at = orig.indexOf('/');
-    $('#drOrig').href = S.base.replace(/\/resolve\/main\/$/, '/resolve/' + orig.slice(0, at) + '/') + orig.slice(at + 1).split('/').map(encodeURIComponent).join('/') + '?download=true';
+    $('#drOrig').href = S.base.replace(/\/resolve\/[^/]+\/$/, '/resolve/' + orig.slice(0, at) + '/') + orig.slice(at + 1).split('/').map(encodeURIComponent).join('/') + '?download=true';
     $('#drOrig').textContent = 'Original ' + ext(orig).toUpperCase() + ' (before conversion to PDF)';
   }
   $('#drPos').textContent = `${i + 1} / ${sib.length}`;
@@ -1147,7 +1193,7 @@ async function droppedFiles(dt) {
 }
 // Visit count from the Pages Function (functions/api/visitors.js). Asked for as soon as the script runs, so it
 // arrives with the index; the last known count shows at once meanwhile. Not there on the local server: nothing shown.
-const VISITS = fetch((FAST || '/') + 'api/visitors', { cache: 'no-store' }).then(r => r.ok ? r.json() : {}).then(j => j.count).catch(() => null);
+const VISITS = STAGING ? Promise.resolve(null) : fetch((FAST || '/') + 'api/visitors', { cache: 'no-store' }).then(r => r.ok ? r.json() : {}).then(j => j.count).catch(() => null);
 function showVisitors() {
   const el = $('#footVisits');
   const put = n => { if (Number.isFinite(n) && n > 0) { el.textContent = plural(n, 'visit'); el.hidden = false; } };
@@ -1374,6 +1420,7 @@ function wire() {
 
 async function boot() {
   wire();
+  if (STAGING) document.body.insertAdjacentHTML('beforeend', '<a class="staging-badge" href="https://sej.org.in/" title="This is the staging site, where changes are checked before they go live. Open the live site.">Staging</a>');
   try {
     let idx;
     if (EMBED) idx = JSON.parse(document.getElementById('sej-data').textContent);

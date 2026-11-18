@@ -442,3 +442,15 @@ main { width: 100%; max-width: var(--w); margin: 0 auto; padding-block: 0 120px;
 /* the text a page carries for search engines and before the app starts (tools/seo_pages.py) */
 .seo-list { list-style: none; padding: 0; margin: 0 0 32px; display: grid; gap: 8px; }
 .seo-list a { color: inherit; }
+
+/* staging build only (see STAGING in app.js) */
+.staging-badge { position: fixed; left: 16px; bottom: 16px; z-index: 60; padding: 6px 12px; border-radius: 999px; background: #ff9f0a; color: #1d1d1f; font: 600 12px/1 var(--text, system-ui); letter-spacing: .06em; text-transform: uppercase; box-shadow: 0 6px 20px -8px rgba(0,0,0,.35); }
+.hot { margin: 8px 0 40px; padding: 20px 24px 8px; border-radius: 20px; background: var(--fog); }
+.hot-head { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; margin-bottom: 8px; }
+.hot-head h2 { font-size: 20px; font-weight: 600; letter-spacing: -.01em; }
+.hot-head .gc { color: var(--mute); font-size: 13px; }
+.hot .course { border-top-color: var(--line2, var(--line)); }
+.hot .ct small { display: block; color: var(--mute); font-size: 12.5px; font-weight: 400; margin-top: 3px; }
+.hot .ct small b { color: var(--accent-ink); font-weight: 600; }
+.hot-sub { font-size: 14px; font-weight: 600; color: var(--mute); margin: 20px 0 6px; }
+.hot .course:hover { background: #fff; }

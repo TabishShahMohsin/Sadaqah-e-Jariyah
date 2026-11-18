@@ -445,7 +445,7 @@ HEADERS = ("/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: no-referre
 FAST_ORIGIN = "https://sadaqah-e-jariyah.pages.dev/"
 
 
-def build_index(state, scan, repo_id, root=REPO):
+def build_index(state, scan, repo_id, root=REPO, ref=None):
     import build_index as bi
     pub, left, unscanned = select(state, scan, root)
     view = {}
@@ -457,12 +457,32 @@ def build_index(state, scan, repo_id, root=REPO):
         if e.get("link"):
             view[p] = e
     idx = {"name": "Sadaqah-e-Jariyah", "version": 1, "generated": sej.now_iso(),
-           "fileBase": f"https://huggingface.co/datasets/{repo_id}/resolve/main/",
+           "fileBase": f"https://huggingface.co/datasets/{repo_id}/resolve/{ref or pinned_ref(repo_id)}/",
            "programmes": bi.programmes(root), "sources": bi.sources(root), "root": sej.build_tree(view)}
     return idx, pub, left, unscanned
 
 
 COURSE_RE = re.compile(r"^((?:[A-Z]{2,4}\d[0-9A-Z]\d{1,2}[A-Z]?|(?:DE|OE)-\d+)(?:-[A-Z]{2,4}\d[0-9A-Z]\d{1,2}[A-Z]?)*)_(.+)$")  # as in site/app.js
+
+
+def pinned_ref(repo_id):
+    """The release the site's file links point to: the newest tag, when it is the dataset's current state.
+    A deployed site then keeps working while the dataset changes for the next one (files moved or removed on
+    main don't break it); the next build pins the next tag. Falls back to main (with a warning) when the dataset
+    has changes not yet tagged (run push first) or Hugging Face can't be reached."""
+    try:
+        from huggingface_hub import HfApi
+        api = HfApi()
+        head = api.dataset_info(repo_id).sha
+        tags = {t.name: t.target_commit for t in api.list_repo_refs(repo_id, repo_type="dataset").tags}
+        key = lambda t: [int(x) for x in re.findall(r"\d+", t)]  # noqa: E731
+        for name in sorted(tags, key=key, reverse=True):
+            if tags[name] == head:
+                return name
+        print("WARNING: the dataset's current state has no release tag (run push); file links point to main")
+    except Exception as e:  # noqa: BLE001
+        print(f"WARNING: couldn't read the dataset's release tags ({e}); file links point to main")
+    return "main"
 
 
 def latest_release(repo_id):
@@ -530,10 +550,13 @@ def cmd_site(a, root=REPO):
     repo_id = (os.environ.get("HF_REPO") or load_json(CONFIG, {}).get("repo_id") or "").strip()
     if not repo_id:
         raise SystemExit(f"Set repo_id in {os.path.relpath(CONFIG, REPO)} (or HF_REPO)")
-    idx, pub, left, unscanned = build_index(sej.load_state(), load_json(SCAN, {}), repo_id, root)
+    staging = a.env == "staging"
+    # staging reads the dataset's main (what the next release will be); production is pinned to a release tag
+    idx, pub, left, unscanned = build_index(sej.load_state(), load_json(SCAN, {}), repo_id, root, "main" if staging else None)
+    idx["env"] = a.env
     if unscanned:
         print(f"WARNING: {unscanned:,} files not checked yet (run scan); they are listed as they are")
-    out = a.out
+    out = a.out or os.path.join(REPO, "_dist-staging" if staging else "_dist")
     if os.path.isdir(os.path.join(out, "files")):
         raise SystemExit(f"{out}/files exists: the files are on Hugging Face now; move it out of the way first")
     os.makedirs(out, exist_ok=True)
@@ -541,9 +564,12 @@ def cmd_site(a, root=REPO):
         shutil.copyfile(os.path.join(root, "site", f), os.path.join(out, f))
     with open(os.path.join(root, "site", "index.html"), encoding="utf-8") as fh:
         html = fh.read()
-    for asset in ('href="/app.css"', 'src="/app.js"', 'href="/fonts/'):
-        attr, path = asset.split('="/')
-        html = html.replace(asset, f'{attr}="{FAST_ORIGIN}{path}')
+    if staging:  # its own code and data, never listed by search engines, marked for the app
+        html = html.replace("<head>", '<head>\n<meta name="sej-env" content="staging">\n<meta name="robots" content="noindex, nofollow">', 1)
+    else:
+        for asset in ('href="/app.css"', 'src="/app.js"', 'href="/fonts/'):
+            attr, path = asset.split('="/')
+            html = html.replace(asset, f'{attr}="{FAST_ORIGIN}{path}')
     with open(os.path.join(out, "index.html"), "w", encoding="utf-8") as fh:
         fh.write(html)
     # Addresses that are no page get a real 404 status (stray and bot requests), still with the app, which shows a
@@ -553,7 +579,7 @@ def cmd_site(a, root=REPO):
     for sub in ("fonts", "brand", "vendor"):
         shutil.copytree(os.path.join(root, "site", sub), os.path.join(out, sub), dirs_exist_ok=True)
     with open(os.path.join(out, "_headers"), "w") as fh:
-        fh.write(HEADERS)
+        fh.write(HEADERS + ("/*\n  X-Robots-Tag: noindex, nofollow\n" if staging else ""))
     # Pages Functions run only where needed: pages (functions/_middleware.js sends pages.dev page requests to
     # sej.org.in) and the API; the code, styles, data and fonts that sej.org.in loads from pages.dev skip them.
     with open(os.path.join(out, "_routes.json"), "w") as fh:
@@ -563,7 +589,13 @@ def cmd_site(a, root=REPO):
     import seo_pages
     with open(os.path.join(root, "site", "app.js"), encoding="utf-8") as fh:
         n_pages = seo_pages.write(out, idx, html, fh.read())
-    print(f"{n_pages:,} pages for search engines, sitemap.xml, robots.txt")
+    if staging:
+        os.remove(os.path.join(out, "sitemap.xml"))
+        with open(os.path.join(out, "robots.txt"), "w") as fh:
+            fh.write("User-agent: *\nDisallow: /\n")
+        print(f"{n_pages:,} pages (staging: not for search engines)")
+    else:
+        print(f"{n_pages:,} pages for search engines, sitemap.xml, robots.txt")
     with open(os.path.join(out, "index.json.tmp"), "w", encoding="utf-8") as fh:
         json.dump(idx, fh, ensure_ascii=False, separators=(",", ":"))
     os.replace(os.path.join(out, "index.json.tmp"), os.path.join(out, "index.json"))
@@ -572,8 +604,10 @@ def cmd_site(a, root=REPO):
     with open(report, "w", encoding="utf-8") as fh:
         fh.writelines(f"{why:40s} {p}\n" for p, why in sorted(left, key=lambda x: (x[1], x[0])))
     print(f"{out}: {len(pub):,} files listed, {len(left):,} left out (see {os.path.relpath(report, root)})")
+    print(f"File links point to: {idx['fileBase']}")
     print("Deploy (from the repo folder, so functions/ is included):\n"
-          "  npx wrangler pages deploy _dist --project-name sadaqah-e-jariyah --branch production")
+          f"  npx wrangler pages deploy {os.path.relpath(out, REPO)} --project-name sadaqah-e-jariyah --branch {a.env}"
+          + ("\n  → https://staging.sadaqah-e-jariyah.pages.dev" if staging else ""))
 
 
 def main():
@@ -588,7 +622,9 @@ def main():
     p.add_argument("--no-delete", action="store_true", help="leave files on Hugging Face that are no longer published")
     p.add_argument("--batch-mb", type=float, default=400, help="start a new commit once a batch reaches this size")
     p.add_argument("--skip-over", type=float, default=0, help="leave files bigger than this many MB for a later run")
-    p = sub.add_parser("site"); p.add_argument("--out", default=os.path.join(REPO, "_dist"))
+    p = sub.add_parser("site"); p.add_argument("--out", default=None, help="default: _dist, or _dist-staging")
+    p.add_argument("--env", choices=["production", "staging"], default="production",
+                   help="staging: its own address, file links to the dataset's main, noindex, features on trial")
     a = ap.parse_args()
     {"scan": cmd_scan, "push": cmd_push, "site": cmd_site}[a.cmd](a)
 
