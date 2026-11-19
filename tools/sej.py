@@ -37,7 +37,7 @@ CACHE = os.path.join(REPO, ".sej-cache", "hashes.json")
 sys.path.insert(0, HERE)
 import rules  # noqa: E402
 
-EXCLUDE_TOP = {".git", "_Inbox", "site", "node_modules", "__pycache__", "catalog", "tools", "worker", ".github", ".sej-cache", "setup", "_dist", "_Sources"}
+EXCLUDE_TOP = {".git", "_Inbox", "site", "node_modules", "__pycache__", "catalog", "tools", "worker", ".github", ".sej-cache", "setup", "_dist", "_dist-staging", "_Sources", "_Originals", "_Parked", "functions"}
 SKIP_FILES = {".DS_Store", "Thumbs.db", "desktop.ini", "Icon\r"}
 
 

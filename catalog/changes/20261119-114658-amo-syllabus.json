@@ -1,0 +1,40 @@
+{
+ "id": "20261119-114658-amo-syllabus",
+ "created": "2026-11-19T11:46:58+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "note": "Official 2026-27 syllabi of AMO3512/EAMO3512 and AMO4432/EAMO4432 (Department of Applied Mathematics, BOS 13-06-2026, from amu.ac.in useful downloads)",
+  "credit": "Department of Applied Mathematics, AMU (official)"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AM443_Advanced-Numerical-Methods/Syllabus/AMO4432_Syllabus_2026-27_Official.pdf",
+   "s": 367414,
+   "h": "8e6eae242bf9d911e78f032ccde6e84511907013652642427a8ab639eb64a292",
+   "t": 1795088810
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AM443_Advanced-Numerical-Methods/Syllabus/EAMO4432_Syllabus_2026-27_Official.pdf",
+   "s": 398091,
+   "h": "8e7a6cc76253cd7650981e61cce7bc0d1d3b95edc18cbb2900ebb74377cc91a8",
+   "t": 1795088810
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AMO3512-EAMO3510_Numerical-Techniques/Syllabus/AMO3512_Syllabus_2026-27_Official.pdf",
+   "s": 348191,
+   "h": "bba2f5b74214d6f258873fcde9c5811b46f552b5cf04592bd545974c30118e55",
+   "t": 1795088810
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Shared-Courses/_Old-Syllabus-Subjects/AMO3512-EAMO3510_Numerical-Techniques/Syllabus/EAMO3512_Syllabus_2026-27_Official.pdf",
+   "s": 379449,
+   "h": "501ef05e25985e5b1f22a19af872b84d7413a46b870432daf06aa32430f935b6",
+   "t": 1795088810
+  }
+ ]
+}
