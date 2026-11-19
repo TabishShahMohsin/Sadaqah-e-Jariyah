@@ -16,7 +16,7 @@ const mf = new Miniflare({
   d1Databases: ['DB'],
   bindings: {
     ALLOWED_ORIGINS: 'https://sej.example', GITHUB_REPO: 'me/sej',
-    TURNSTILE_SECRET: 'test', GITHUB_TOKEN: 'gh', ADMIN_TOKEN: 'admin-secret-123',
+    TURNSTILE_SECRET: 'test', GITHUB_TOKEN: 'gh', ADMIN_TOKEN: 'admin-secret-123', PUBLIC_REPO: 'true',
     LIMIT_PER_HOUR: '3',
   },
   outboundService: async (req) => {
@@ -51,12 +51,12 @@ const txt = new TextEncoder().encode('#include <stdio.h>\nint main(){return 0;}\
 const fakePng = new TextEncoder().encode('MZ this is really an exe');
 
 // 1. validation
-let r = await post('/api/submissions', { context: 'x', files: [{ name: 'a.pdf', size: 10 }], consent: true, turnstile: 'good' });
-ok(r.status === 400, 'rejects context that is too short');
+let r = await post('/api/submissions', { context: 'x', consent: true, turnstile: 'good' });
+ok(r.status === 400, 'needs at least one file or link');
 r = await post('/api/submissions', { context: 'Mid sem paper DBMS 2024', files: [{ name: 'evil.exe', size: 10 }], consent: true, turnstile: 'good' });
 ok(r.status === 400 && (await r.json()).error.includes('.exe'), 'rejects disallowed file type');
-r = await post('/api/submissions', { context: 'Mid sem paper DBMS 2024', links: ['https://evil.com/x'], consent: true, turnstile: 'good' });
-ok(r.status === 400, 'rejects non-Drive links');
+r = await post('/api/submissions', { context: 'Mid sem paper DBMS 2024', links: ['http://192.168.1.1/x'], consent: true, turnstile: 'good' });
+ok(r.status === 400, 'rejects links that are not public https pages');
 r = await post('/api/submissions', { context: 'Mid sem paper DBMS 2024', files: [{ name: 'a.pdf', size: 10 }], consent: true, turnstile: 'bad' });
 ok(r.status === 400 && (await r.json()).error.includes('human check'), 'rejects failed Turnstile');
 r = await post('/api/submissions', { context: 'Mid sem paper DBMS 2024', files: [{ name: 'a.pdf', size: 10 }], turnstile: 'good' });
@@ -98,7 +98,7 @@ r = await put(1, 1, txt); ok(r.status === 200, 'uploads the code file');
 r = await post(`/api/submissions/${s.id}/files/1/complete`, {}, s.token); ok((await r.json()).ok, 'completes the code file');
 
 const inbox = await mf.getR2Bucket('INBOX');
-const obj = await inbox.head(`inbox/${s.id}/00-DBMS-Mid-Sem.pdf`);
+const obj = await inbox.head(`inbox/${s.id}/0000-DBMS-Mid-Sem.pdf`);
 ok(obj && obj.size === pdf.length, 'object is in the private inbox with the right size and a safe name');
 
 r = await post(`/api/submissions/${s.id}/finish`, {}, s.token);
@@ -137,6 +137,15 @@ r = await call(`/api/admin/submissions/${s.id}`, { method: 'POST', body: JSON.st
 r = await call(`/api/submissions/${s.id}`);
 const st2 = await r.json();
 ok(st2.status === 'in_review' && st2.pr_url.endsWith('/pull/7'), 'status updates reach the contributor');
+const A = { headers: { Authorization: 'Bearer admin-secret-123' } };
+r = await call('/api/admin/submissions?status=in_review', A);
+ok((await r.json()).submissions.some(x => x.id === s.id), 'admin lists submissions by status');
+r = await call('/api/admin/submissions?status=in_review');
+ok(r.status === 403, 'listing needs the admin token');
+r = await call(`/api/admin/submissions/${s.id}/files/1`, A);
+ok(r.status === 200 && (await r.text()).includes('int main'), 'admin downloads an uploaded file');
+r = await call(`/api/admin/submissions/${s.id}/purge`, { method: 'POST', ...A });
+ok((await r.json()).purged === 2 && !(await inbox.head(`inbox/${s.id}/0000-DBMS-Mid-Sem.pdf`)), 'purge empties the inbox for a sorted submission');
 r = await call('/api/submissions/../../admin');
 ok(r.status === 404, 'odd paths are 404');
 

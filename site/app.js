@@ -1091,7 +1091,7 @@ function contributeView() {
         <div id="ts" class="ts"></div>
         <div class="err" id="cerr" role="alert" hidden></div>
         <button class="submit" id="csubmit" type="submit" ${live ? '' : 'disabled'}>Send contribution <span>→</span></button>
-        <p class="fine">Your description and file names appear publicly on GitHub, where the archive is maintained.</p>
+        <p class="fine">Files go to a private inbox that only the maintainers can open. Nothing is public until it has been checked and added to the archive.</p>
       </div>
     </section>
   </form>

@@ -44,3 +44,6 @@ catalog/hf-config.json
 
 # AI provider key (never commit)
 catalog/llm-config.json
+
+# Contribution intake admin token (never commit)
+catalog/intake-config.json

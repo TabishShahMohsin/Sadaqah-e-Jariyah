@@ -459,6 +459,10 @@ def build_index(state, scan, repo_id, root=REPO, ref=None):
     idx = {"name": "Sadaqah-e-Jariyah", "version": 1, "generated": sej.now_iso(),
            "fileBase": f"https://huggingface.co/datasets/{repo_id}/resolve/{ref or pinned_ref(repo_id)}/",
            "programmes": bi.programmes(root), "sources": bi.sources(root), "root": sej.build_tree(view)}
+    # the Contribute page opens when the intake API and its Turnstile site key are both set (worker/setup.sh)
+    sc = load_json(os.path.join(root, "catalog", "site-config.json"), {})
+    if sc.get("api") and sc.get("turnstile_sitekey"):
+        idx["api"], idx["turnstile"] = sc["api"].rstrip("/"), sc["turnstile_sitekey"]
     return idx, pub, left, unscanned
 
 

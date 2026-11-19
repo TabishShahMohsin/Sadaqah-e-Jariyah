@@ -15,6 +15,30 @@ visitor ──► Contribute page ──► intake Worker ──► sej-inbox (p
                      "Publish" Action ──► sej-files (public R2) + rebuilt site on Cloudflare Pages
 ```
 
+## Contributions (the Contribute page)
+
+```
+visitor ──► sej.org.in/contribute ──► intake Worker (intake.sej.org.in) ──► sej-inbox (private R2) + D1 record
+                                                     └──► GitHub issue (optional, notifies you)
+you ──► tools/intake.py pull <id> ──► tools/sort_inbox.py prepare / decide / apply ──► hf_publish push ──► deploy
+```
+
+One-time setup: `sh worker/setup.sh` (Cloudflare sign-in, R2 bucket, D1 database, Worker, admin token, Turnstile
+keys, optional GitHub token). It writes the Turnstile site key into `catalog/site-config.json`; the next
+`tools/deploy.sh` opens the form.
+
+Each contribution:
+
+```
+python3 tools/intake.py list --status received
+python3 tools/intake.py pull <id>                      # files → _Inbox/Contrib-<id>/; prints the prepare command
+python3 tools/sort_inbox.py prepare … / decide / apply # as for any inbox upload
+python3 tools/intake.py done <id> catalog/changes/<the change set>.json   # the contributor's page shows what went live
+python3 tools/intake.py purge <id>                     # empty the private inbox
+```
+
+Contributors follow their upload at `sej.org.in/status/<id>`. Rejecting: `tools/intake.py status <id> rejected --note "…"`.
+
 ## Everyday deploys: staging, then production
 
 The site has two copies, both from this repo:
