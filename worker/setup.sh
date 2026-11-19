@@ -10,13 +10,7 @@ say() { printf '\n\033[1m%s\033[0m\n' "$*"; }
 say "1/7  Cloudflare sign-in"
 $W whoami 2>/dev/null | grep -q "logged in" || $W login
 
-say "2/7  Private inbox bucket (R2: sej-inbox)"
-if ! out=$($W r2 bucket create sej-inbox 2>&1); then
-  case "$out" in
-    *already*|*exists*) echo "sej-inbox already exists" ;;
-    *) echo "$out"; echo "If R2 isn't enabled yet: Cloudflare dashboard → R2 Object Storage → enable it (free tier), then run this again."; exit 1 ;;
-  esac
-fi
+say "2/7  File storage: none (links only; R2 would need a paid activation)"
 
 say "3/7  Database (D1: sej-intake)"
 if ! grep -q 'database_id = "[0-9a-f-]\{36\}"' wrangler.toml; then

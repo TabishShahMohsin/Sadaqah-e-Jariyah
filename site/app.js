@@ -942,7 +942,7 @@ const C = {
   files: [], tsToken: '', tsWidget: null, busy: false, pollTimer: null,
 };
 const STAGES = [
-  ['received', 'Received', 'Your files are safely stored, waiting to be sorted.'],
+  ['received', 'Received', 'Received safely, waiting to be sorted.'],
   ['sorting', 'Sorting', 'The files are being read and matched to the right course.'],
   ['in_review', 'In review', 'A maintainer is checking the placement before it goes live.'],
   ['published', 'Published', 'Live on the site. Thank you!'],
@@ -1031,6 +1031,7 @@ function contributeView() {
   clearInterval(C.pollTimer);
   C.files = []; C.tsToken = ''; C.tsWidget = null;
   const live = !!S.api;
+  const uploads = S.uploads !== false;   // the intake may take links only (no file storage): Drive folders instead
   const courseOptions = S.courses.filter(c => parseCourse(c.n)).map(c => {
     return `<option value="${esc(`${label(c.n)} (${courseCodes(c.p).join('/')}, ${label(c.parent.n)})`)}"></option>`;
   }).join('');
@@ -1039,24 +1040,25 @@ function contributeView() {
   <header class="page-head">
     <div class="eyebrow"><span class="pulse"></span> Contribute</div>
     <h1>Add to the archive</h1>
-    <p class="lede-sm">Drop notes, past papers, syllabi or lab work. Each file is read and placed under the right course, then checked by a maintainer before it goes live. You don't need an account.</p>
+    <p class="lede-sm">${uploads ? 'Drop' : 'Share'} notes, past papers, syllabi or lab work. Each file is read and placed under the right course, then checked by a maintainer before it goes live. You don't need an account.</p>
   </header>
   ${live ? '' : `<div class="notice">Contributions aren’t open yet. Soon you’ll be able to drop files here.</div>`}
   <form class="cform" id="cform" novalidate>
     <section class="step">
       <div class="step-n">01</div>
       <div class="step-body">
-        <h2>Files</h2>
-        <label class="drop hud" id="drop" for="fileInput">
+        <h2>${uploads ? 'Files' : 'Links'}</h2>
+        ${uploads ? '' : `<p class="lede-sm">Put the files in a Google Drive folder (any mess is fine), set sharing to <b>“Anyone with the link”</b>, and paste the folder’s link below. Every file in it is fetched and sorted. YouTube playlists and other pages work too.</p>`}
+        ${uploads ? `<label class="drop hud" id="drop" for="fileInput">
           <input type="file" id="fileInput" multiple hidden>
           <input type="file" id="folderInput" webkitdirectory multiple hidden>
           <span class="drop-main">Drop files or whole folders here, or <u>choose files</u></span>
           <span class="drop-sub">Anything: PDFs, photos, slides, Word, zips, videos, code · messy names are fine · up to 500 MB each</span>
         </label>
         <button type="button" class="pill-btn folder-btn" id="folderBtn">Choose a folder</button>
-        <div class="flist" id="flist"></div>
-        <label class="field"><span>Or links <em>one per line · Google Drive folders and files (set to “Anyone with the link”), YouTube, websites</em></span>
-          <textarea id="links" rows="2" placeholder="https://drive.google.com/drive/folders/…"></textarea></label>
+        <div class="flist" id="flist"></div>` : ''}
+        <label class="field"><span>${uploads ? 'Or links' : 'Links'} <em>one per line · Google Drive folders and files (set to “Anyone with the link”), YouTube, websites</em></span>
+          <textarea id="links" rows="${uploads ? 2 : 4}" placeholder="https://drive.google.com/drive/folders/…"></textarea></label>
       </div>
     </section>
     <section class="step">
@@ -1091,7 +1093,7 @@ function contributeView() {
         <div id="ts" class="ts"></div>
         <div class="err" id="cerr" role="alert" hidden></div>
         <button class="submit" id="csubmit" type="submit" ${live ? '' : 'disabled'}>Send contribution <span>→</span></button>
-        <p class="fine">Files go to a private inbox that only the maintainers can open. Nothing is public until it has been checked and added to the archive.</p>
+        <p class="fine">${uploads ? 'Files go to a private inbox that only the maintainers can open.' : 'Only the maintainers see what you send.'} Nothing is public until it has been checked and added to the archive.</p>
       </div>
     </section>
   </form>
@@ -1184,6 +1186,7 @@ function loadTurnstile() {
 
 function bindContribute(live) {
   const drop = $('#drop'), input = $('#fileInput');
+  if (drop && input) {
   input.addEventListener('change', () => { addFiles([...input.files]); input.value = ''; });
   ['dragenter', 'dragover'].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.add('over'); }));
   ['dragleave', 'drop'].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.remove('over'); }));
@@ -1191,6 +1194,7 @@ function bindContribute(live) {
   const folder = $('#folderInput');
   $('#folderBtn').addEventListener('click', () => folder.click());
   folder.addEventListener('change', () => { addFiles([...folder.files]); folder.value = ''; });
+  }
   $$('#quick .chip').forEach(b => b.addEventListener('click', () => {
     const t = $('#context'); t.value = (t.value.trim() ? t.value.trim() + ', ' : '') + b.textContent.toLowerCase(); t.focus();
   }));
@@ -1392,6 +1396,7 @@ async function boot() {
     if (S.base && !EMBED && !/^(https?:)?\//.test(S.base)) S.base = '/' + S.base;  // the local server's files/, from any page
     S.api = idx.api || null;
     S.turnstile = idx.turnstile || null;
+    S.uploads = idx.uploads !== false;
     S.generated = idx.generated;
     S.root = idx.root;
     S.pg = idx.programmes || null;

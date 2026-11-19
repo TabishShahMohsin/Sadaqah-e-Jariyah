@@ -25,9 +25,11 @@ LIMIT_GLOBAL_BYTES_PER_DAY = "40000000000"
 #   GITHUB_TOKEN       optional: fine-grained token, this repo only, Issues read/write (opens an issue per contribution)
 #   ADMIN_TOKEN        long random string; tools/intake.py reads it from catalog/intake-config.json
 
-[[r2_buckets]]
-binding = "INBOX"
-bucket_name = "sej-inbox"        # PRIVATE bucket — never enable public access on it
+# File uploads need an R2 bucket (paid activation on Cloudflare), so the intake takes links only.
+# To take files too: enable R2, create a private bucket sej-inbox, and uncomment:
+# [[r2_buckets]]
+# binding = "INBOX"
+# bucket_name = "sej-inbox"        # PRIVATE bucket — never enable public access on it
 
 [[d1_databases]]
 binding = "DB"

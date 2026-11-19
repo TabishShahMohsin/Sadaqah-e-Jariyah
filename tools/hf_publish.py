@@ -463,6 +463,7 @@ def build_index(state, scan, repo_id, root=REPO, ref=None):
     sc = load_json(os.path.join(root, "catalog", "site-config.json"), {})
     if sc.get("api") and sc.get("turnstile_sitekey"):
         idx["api"], idx["turnstile"] = sc["api"].rstrip("/"), sc["turnstile_sitekey"]
+        idx["uploads"] = sc.get("uploads", True)
     return idx, pub, left, unscanned
 
 

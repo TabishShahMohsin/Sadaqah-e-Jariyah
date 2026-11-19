@@ -1,5 +1,6 @@
 {
- "_note": "Contribution intake (worker/). Filled in by worker/setup.sh; both are public values. The site's Contribute page opens when both are set.",
+ "_note": "Contribution intake (worker/). Filled in by worker/setup.sh; all public values. The Contribute page opens when api and turnstile_sitekey are set. uploads: false = links only (no R2 file storage).",
  "api": "https://intake.sej.org.in",
- "turnstile_sitekey": ""
+ "turnstile_sitekey": "",
+ "uploads": false
 }
