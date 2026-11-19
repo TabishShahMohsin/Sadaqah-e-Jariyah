@@ -13,17 +13,26 @@ $W whoami 2>/dev/null | grep -q "logged in" || $W login
 say "2/7  File storage: none (links only; R2 would need a paid activation)"
 
 say "3/7  Database (D1: sej-intake)"
-if ! grep -q 'database_id = "[0-9a-f-]\{36\}"' wrangler.toml; then
-  $W d1 create sej-intake >/dev/null 2>&1 || true
-  ID=$($W d1 info sej-intake --json | python3 -c 'import json,sys; print(json.load(sys.stdin)["uuid"])')
-  python3 - "$ID" <<'PY'
+d1_id() {  # the database's id from `d1 list --json`, empty if it doesn't exist
+  $W d1 list --json 2>/dev/null | python3 -c '
+import json, sys
+t = sys.stdin.read(); t = t[t.find("["):] if "[" in t else "[]"
+try: print(next((d["uuid"] for d in json.loads(t) if d.get("name") == "sej-intake"), ""))
+except ValueError: print("")'
+}
+ID=$(d1_id)
+if [ -z "$ID" ]; then
+  $W d1 create sej-intake
+  ID=$(d1_id)
+fi
+if [ -z "$ID" ]; then echo "Couldn't create or find the D1 database sej-intake (the error is above)."; exit 1; fi
+python3 - "$ID" <<'PY'
 import re, sys
 s = open("wrangler.toml").read()
 s = re.sub(r'database_id = "[^"]*"', f'database_id = "{sys.argv[1]}"', s)
 open("wrangler.toml", "w").write(s)
 PY
-  echo "database id $ID written to wrangler.toml"
-fi
+echo "database sej-intake: $ID"
 $W d1 execute sej-intake --remote --file=schema.sql -y >/dev/null && echo "tables ready"
 
 say "4/7  Deploy the intake Worker (intake.sej.org.in)"
