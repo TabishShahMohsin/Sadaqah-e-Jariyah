@@ -553,6 +553,110 @@
    "status": "merged",
    "note": "Linked from each course (Books & Resources) on 2026-11-18; the code stays on GitHub.",
    "credit": "Aarish Shah Mohsin"
+  },
+  {
+   "title": "Prof. M. M. Sufyan Beg · YouTube",
+   "url": "https://www.youtube.com/@mmsbeg/videos",
+   "covers": "Digital Logic and System Design (COC2070), 34 lectures, linked lecture by lecture and as one playlist; Introduction to Fuzzy Logic",
+   "status": "merged",
+   "note": "Linked from the courses on 2026-11-19 (videos stay on YouTube).",
+   "credit": "Prof. M. M. Sufyan Beg"
+  },
+  {
+   "title": "Shamsi Tutorial · YouTube",
+   "url": "https://www.youtube.com/@mwshamsi/playlists",
+   "covers": "Signals and Systems, Digital Signal Processing, Multirate Signal Processing, Linear Prediction, Verilog HDL",
+   "status": "merged",
+   "note": "Linked from the courses on 2026-11-19 (videos stay on YouTube).",
+   "credit": "Mohd. Wajid (Shamsi Tutorial)"
+  },
+  {
+   "title": "Dr. G. S. Javed · YouTube",
+   "url": "https://www.youtube.com/channel/UCphmQRh51xGOOwZaz3YSVmA",
+   "covers": "ELC3632/3952 Analog IC Design, ZHCET AMU playlist",
+   "status": "merged",
+   "note": "Linked from the courses on 2026-11-19 (videos stay on YouTube).",
+   "credit": "Dr. G. S. Javed"
+  },
+  {
+   "title": "Prof. Adil Sarwar · YouTube",
+   "url": "https://www.youtube.com/channel/UC9QLWTyVGiMvSRX5fwkPN7Q",
+   "covers": "Principles of Electrical Engineering",
+   "status": "merged",
+   "note": "Linked from the courses on 2026-11-19 (videos stay on YouTube).",
+   "credit": "Prof. Adil Sarwar"
+  },
+  {
+   "title": "Nidal Rafiuddin · YouTube",
+   "url": "https://www.youtube.com/channel/UCa9bW7K0pNFXx2C6rvQCWng",
+   "covers": "Principles of Electrical Engineering, Signals and Systems, Dynamic System Analysis II, Control, Instrumentation and Circuits labs, Digital Instrumentation",
+   "status": "merged",
+   "note": "Linked from the courses on 2026-11-19 (videos stay on YouTube).",
+   "credit": "Nidal Rafiuddin"
+  },
+  {
+   "title": "Dr. Afroz Alam · YouTube",
+   "url": "https://www.youtube.com/channel/UCWSZ1v5Ak1in7ESQnBuJINQ",
+   "covers": "Power System Analysis: per unit system, bus admittance matrix, fault analysis, stability",
+   "status": "merged",
+   "note": "Linked from the courses on 2026-11-19 (videos stay on YouTube).",
+   "credit": "Dr. Afroz Alam"
+  },
+  {
+   "title": "Mohammad Zaid · YouTube",
+   "url": "https://www.youtube.com/channel/UCUr4OnhN9lu_xj7_uDitDOg",
+   "covers": "Circuit Theory (EEC2710), Power Quality, Power System and HV Lab, Protection Lab",
+   "status": "merged",
+   "note": "Linked from the courses on 2026-11-19 (videos stay on YouTube).",
+   "credit": "Mohammad Zaid"
+  },
+  {
+   "title": "Engg_Edu · YouTube",
+   "url": "https://www.youtube.com/channel/UCNNrqZl7HEcydDwYl5l-TPw",
+   "covers": "Industrial Engineering, Workshop Practice, Engineering Economy (AMU Mechanical Engineering)",
+   "status": "merged",
+   "note": "Linked from the courses on 2026-11-19 (videos stay on YouTube).",
+   "credit": "Engg_Edu (YouTube)"
+  },
+  {
+   "title": "Computational Aero Lab · YouTube",
+   "url": "https://www.youtube.com/channel/UCQ7Mw7F-l8P399NH7BceXCg",
+   "covers": "Fluid Mechanics II (MEC3312)",
+   "status": "merged",
+   "note": "Linked from the courses on 2026-11-19 (videos stay on YouTube).",
+   "credit": "Computational Aero Lab (YouTube)"
+  },
+  {
+   "title": "TechnoSapiens · YouTube",
+   "url": "https://www.youtube.com/channel/UC3Rbfos6q_w6JGtXhn4xYdA",
+   "covers": "Engineering Graphics (MEA1910), Machine Design II welded joints (MEC3110)",
+   "status": "merged",
+   "note": "Linked from the courses on 2026-11-19 (videos stay on YouTube).",
+   "credit": "TechnoSapiens (YouTube)"
+  },
+  {
+   "title": "Dr. Zaid Mohammad · YouTube",
+   "url": "https://www.youtube.com/channel/UC0RnL1MSzOtgML7_WIde_lA",
+   "covers": "CEA1120 Strength of Materials, CEC2910 Materials Lab, CEC3950 CAD Lab",
+   "status": "merged",
+   "note": "Linked from the courses on 2026-11-19 (videos stay on YouTube).",
+   "credit": "Dr. Zaid Mohammad"
+  },
+  {
+   "title": "Prof. Mohd. Masroor Alam · YouTube",
+   "url": "https://www.youtube.com/channel/UCDntiVzFr81jinmObc4WmQQ",
+   "covers": "Engineering Geology: minerals, rocks and geological maps",
+   "status": "merged",
+   "note": "Linked from the courses on 2026-11-19 (videos stay on YouTube).",
+   "credit": "Prof. Mohd. Masroor Alam"
+  },
+  {
+   "title": "Misbahur Warsi · YouTube",
+   "url": "https://www.youtube.com/channel/UCe_945Rk-gtFZBkvnE8Iftg",
+   "covers": "Compiler Design (COC4060)",
+   "status": "merged",
+   "note": "Linked from the courses on 2026-11-19 (videos stay on YouTube).",
+   "credit": "Misbahur Warsi"
   }
  ]
 }

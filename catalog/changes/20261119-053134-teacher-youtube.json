@@ -1,0 +1,922 @@
+{
+ "id": "20261119-053134-teacher-youtube",
+ "created": "2026-11-19T05:31:34+00:00",
+ "source": {
+  "kind": "link",
+  "by": "maintainer",
+  "note": "AMU teachers' YouTube lectures, linked from their courses"
+ },
+ "ops": [
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Video-Lectures/Video-Lecture-01_Number-System.link",
+   "url": "https://www.youtube.com/watch?v=91d6TkDoFNE",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=91d6TkDoFNE",
+    "title": "DLSD lecture 1: Number System (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Video-Lectures/Video-Lecture-02_Binary-Number-System.link",
+   "url": "https://www.youtube.com/watch?v=OwMQCBcxmI8",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=OwMQCBcxmI8",
+    "title": "DLSD lecture 2: Binary Number System (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Video-Lectures/Video-Lecture-03_Complements-of-Numbers.link",
+   "url": "https://www.youtube.com/watch?v=D8cpJ-dupw0",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=D8cpJ-dupw0",
+    "title": "DLSD lecture 3: Complements of Numbers (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Video-Lectures/Video-Lecture-04_Subtraction-by-Complementation.link",
+   "url": "https://www.youtube.com/watch?v=aRma4JdSk7s",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=aRma4JdSk7s",
+    "title": "DLSD lecture 4: Subtraction by Complementation (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Video-Lectures/Video-Lecture-05_Binary-Codes-and-Binary-Logic.link",
+   "url": "https://www.youtube.com/watch?v=cItUnTx-OLs",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=cItUnTx-OLs",
+    "title": "DLSD lecture 5: Binary Codes and Binary Logic (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Video-Lectures/Video-Lecture-06_Boolean-Algebra.link",
+   "url": "https://www.youtube.com/watch?v=_JWfrK-pr9Q",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=_JWfrK-pr9Q",
+    "title": "DLSD lecture 6: Boolean Algebra (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Video-Lectures/Video-Lecture-07_Boolean-Functions.link",
+   "url": "https://www.youtube.com/watch?v=0vvWmYRiIqc",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=0vvWmYRiIqc",
+    "title": "DLSD lecture 7: Boolean Functions (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Video-Lectures/Video-Lecture-08_Simplificatoin-of-Boolean-Functions.link",
+   "url": "https://www.youtube.com/watch?v=nWXkoAgXS1U",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=nWXkoAgXS1U",
+    "title": "DLSD lecture 8: Simplificatoin of Boolean Functions (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Video-Lectures/Video-Lecture-09_Karnaugh-Maps.link",
+   "url": "https://www.youtube.com/watch?v=mFxXfUdGmH0",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=mFxXfUdGmH0",
+    "title": "DLSD lecture 9: Karnaugh Maps (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Video-Lectures/Video-Lecture-10_Two-Level-Implementations.link",
+   "url": "https://www.youtube.com/watch?v=jS5x-zU3Rjg",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=jS5x-zU3Rjg",
+    "title": "DLSD lecture 10: Two Level Implementations (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-1/Video-Lectures/Video-Lecture-11_Tabulation-Method.link",
+   "url": "https://www.youtube.com/watch?v=fSe9e4tYd_A",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=fSe9e4tYd_A",
+    "title": "DLSD lecture 11: Tabulation Method (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-2/Video-Lectures/Video-Lecture-12_Combinational-Circuits.link",
+   "url": "https://www.youtube.com/watch?v=PKMBmHuF-cw",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=PKMBmHuF-cw",
+    "title": "DLSD lecture 12: Combinational Circuits (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-2/Video-Lectures/Video-Lecture-13_Adders-and-Magnitude-Comparators.link",
+   "url": "https://www.youtube.com/watch?v=C2LIHFxB-Cw",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=C2LIHFxB-Cw",
+    "title": "DLSD lecture 13: Adders and Magnitude Comparators (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-2/Video-Lectures/Video-Lecture-14_Decoder-and-Demultiplexer.link",
+   "url": "https://www.youtube.com/watch?v=vhVOinzKiO4",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=vhVOinzKiO4",
+    "title": "DLSD lecture 14: Decoder and Demultiplexer (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-2/Video-Lectures/Video-Lecture-15_Encoder-and-Multiplexer.link",
+   "url": "https://www.youtube.com/watch?v=EvEXNyHxMTQ",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=EvEXNyHxMTQ",
+    "title": "DLSD lecture 15: Encoder and Multiplexer (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-2/Video-Lectures/Video-Lecture-16_ROM.link",
+   "url": "https://www.youtube.com/watch?v=fjFS9tfFGag",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=fjFS9tfFGag",
+    "title": "DLSD lecture 16: ROM (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-2/Video-Lectures/Video-Lecture-17_ROM-and-PLA.link",
+   "url": "https://www.youtube.com/watch?v=lXTS_52xUCA",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=lXTS_52xUCA",
+    "title": "DLSD lecture 17: ROM and PLA (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-2/Video-Lectures/Video-Lecture-18_Parity-bit-generator-checker.link",
+   "url": "https://www.youtube.com/watch?v=-LxUGFCDSuo",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=-LxUGFCDSuo",
+    "title": "DLSD lecture 18: Parity bit generator & checker (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-3/Video-Lectures/Video-Lecture-19_Sequential-Systems.link",
+   "url": "https://www.youtube.com/watch?v=8ul5MTJOUC4",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=8ul5MTJOUC4",
+    "title": "DLSD lecture 19: Sequential Systems (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-3/Video-Lectures/Video-Lecture-20_JK-and-T-Flip-Flops.link",
+   "url": "https://www.youtube.com/watch?v=ef3_qGUngys",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=ef3_qGUngys",
+    "title": "DLSD lecture 20: JK and T Flip Flops (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-3/Video-Lectures/Video-Lecture-21_Excitation-Tables.link",
+   "url": "https://www.youtube.com/watch?v=MibXpGE-B-I",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=MibXpGE-B-I",
+    "title": "DLSD lecture 21: Excitation Tables (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-3/Video-Lectures/Video-Lecture-22_Design-of-Sequential-Circuits.link",
+   "url": "https://www.youtube.com/watch?v=0pGU1ZWoR6o",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=0pGU1ZWoR6o",
+    "title": "DLSD lecture 22: Design of Sequential Circuits (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-3/Video-Lectures/Video-Lecture-23_Counters-and-Registers.link",
+   "url": "https://www.youtube.com/watch?v=NjwqxsJXfnw",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=NjwqxsJXfnw",
+    "title": "DLSD lecture 23: Counters and Registers (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-3/Video-Lectures/Video-Lecture-24_Shift-Registers.link",
+   "url": "https://www.youtube.com/watch?v=R-fAfEJKocU",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=R-fAfEJKocU",
+    "title": "DLSD lecture 24: Shift Registers (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-3/Video-Lectures/Video-Lecture-25_Up-Down-Counter.link",
+   "url": "https://www.youtube.com/watch?v=NuLL6Vb_ym4",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=NuLL6Vb_ym4",
+    "title": "DLSD lecture 25: Up Down Counter (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-3/Video-Lectures/Video-Lecture-26_RAM.link",
+   "url": "https://www.youtube.com/watch?v=BOmSMjYGjNE",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=BOmSMjYGjNE",
+    "title": "DLSD lecture 26: RAM (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/Video-Lectures/Video-Lecture-27_Register-Transfer-Logic.link",
+   "url": "https://www.youtube.com/watch?v=3K2fv-DOANY",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=3K2fv-DOANY",
+    "title": "DLSD lecture 27: Register Transfer Logic (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/Video-Lectures/Video-Lecture-28_Continuing-with-Register-Transfer-Logic.link",
+   "url": "https://www.youtube.com/watch?v=BvJy2Y3KY2M",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=BvJy2Y3KY2M",
+    "title": "DLSD lecture 28: Continuing with Register Transfer Logic (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/Video-Lectures/Video-Lecture-29_A-Simple-Computer.link",
+   "url": "https://www.youtube.com/watch?v=eq3ksHYrRNA",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=eq3ksHYrRNA",
+    "title": "DLSD lecture 29: A Simple Computer (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/Video-Lectures/Video-Lecture-30_Arithmatic-Circuit-Design.link",
+   "url": "https://www.youtube.com/watch?v=N5lNJ8F52dM",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=N5lNJ8F52dM",
+    "title": "DLSD lecture 30: Arithmatic Circuit Design (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/Video-Lectures/Video-Lecture-31_ALU-Design.link",
+   "url": "https://www.youtube.com/watch?v=s61sW2Zlvig",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=s61sW2Zlvig",
+    "title": "DLSD lecture 31: ALU Design (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/Video-Lectures/Video-Lecture-32_ALU-Design-continued.link",
+   "url": "https://www.youtube.com/watch?v=pAC_60apFLg",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=pAC_60apFLg",
+    "title": "DLSD lecture 32: ALU Design continued (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/Video-Lectures/Video-Lecture-33_Control-Signals-for-the-Processor.link",
+   "url": "https://www.youtube.com/watch?v=M3bKKBk8wkE",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=M3bKKBk8wkE",
+    "title": "DLSD lecture 33: Control Signals for the Processor (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Unit-4/Video-Lectures/Video-Lecture-34_Accumulator-Design.link",
+   "url": "https://www.youtube.com/watch?v=akiC_DNtK_Q",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=akiC_DNtK_Q",
+    "title": "DLSD lecture 34: Accumulator Design (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/Books-and-Resources/YouTube-Playlist_DLSD-Full-Course_Prof-Sufyan-Beg.link",
+   "url": "https://www.youtube.com/watch_videos?video_ids=91d6TkDoFNE,OwMQCBcxmI8,D8cpJ-dupw0,aRma4JdSk7s,cItUnTx-OLs,_JWfrK-pr9Q,0vvWmYRiIqc,nWXkoAgXS1U,mFxXfUdGmH0,jS5x-zU3Rjg,fSe9e4tYd_A,PKMBmHuF-cw,C2LIHFxB-Cw,vhVOinzKiO4,EvEXNyHxMTQ,fjFS9tfFGag,lXTS_52xUCA,-LxUGFCDSuo,8ul5MTJOUC4,ef3_qGUngys,MibXpGE-B-I,0pGU1ZWoR6o,NjwqxsJXfnw,R-fAfEJKocU,NuLL6Vb_ym4,BOmSMjYGjNE,3K2fv-DOANY,BvJy2Y3KY2M,eq3ksHYrRNA,N5lNJ8F52dM,s61sW2Zlvig,pAC_60apFLg,M3bKKBk8wkE,akiC_DNtK_Q",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch_videos?video_ids=91d6TkDoFNE,OwMQCBcxmI8,D8cpJ-dupw0,aRma4JdSk7s,cItUnTx-OLs,_JWfrK-pr9Q,0vvWmYRiIqc,nWXkoAgXS1U,mFxXfUdGmH0,jS5x-zU3Rjg,fSe9e4tYd_A,PKMBmHuF-cw,C2LIHFxB-Cw,vhVOinzKiO4,EvEXNyHxMTQ,fjFS9tfFGag,lXTS_52xUCA,-LxUGFCDSuo,8ul5MTJOUC4,ef3_qGUngys,MibXpGE-B-I,0pGU1ZWoR6o,NjwqxsJXfnw,R-fAfEJKocU,NuLL6Vb_ym4,BOmSMjYGjNE,3K2fv-DOANY,BvJy2Y3KY2M,eq3ksHYrRNA,N5lNJ8F52dM,s61sW2Zlvig,pAC_60apFLg,M3bKKBk8wkE,akiC_DNtK_Q",
+    "title": "Digital Logic and System Design, all 34 lectures (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube",
+    "note": "All lectures in order, as one YouTube playlist (made from the channel's videos: the channel has no playlist for this course)."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Science/MCA/Sem1/CAMS1002_Digital-Logic-and-Computer-Architecture/Books-and-Resources/YouTube-Playlist_Digital-Logic_Prof-Sufyan-Beg.link",
+   "url": "https://www.youtube.com/watch_videos?video_ids=91d6TkDoFNE,OwMQCBcxmI8,D8cpJ-dupw0,aRma4JdSk7s,cItUnTx-OLs,_JWfrK-pr9Q,0vvWmYRiIqc,nWXkoAgXS1U,mFxXfUdGmH0,jS5x-zU3Rjg,fSe9e4tYd_A,PKMBmHuF-cw,C2LIHFxB-Cw,vhVOinzKiO4,EvEXNyHxMTQ,fjFS9tfFGag,lXTS_52xUCA,-LxUGFCDSuo,8ul5MTJOUC4,ef3_qGUngys,MibXpGE-B-I,0pGU1ZWoR6o,NjwqxsJXfnw,R-fAfEJKocU,NuLL6Vb_ym4,BOmSMjYGjNE,3K2fv-DOANY,BvJy2Y3KY2M,eq3ksHYrRNA,N5lNJ8F52dM,s61sW2Zlvig,pAC_60apFLg,M3bKKBk8wkE,akiC_DNtK_Q",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch_videos?video_ids=91d6TkDoFNE,OwMQCBcxmI8,D8cpJ-dupw0,aRma4JdSk7s,cItUnTx-OLs,_JWfrK-pr9Q,0vvWmYRiIqc,nWXkoAgXS1U,mFxXfUdGmH0,jS5x-zU3Rjg,fSe9e4tYd_A,PKMBmHuF-cw,C2LIHFxB-Cw,vhVOinzKiO4,EvEXNyHxMTQ,fjFS9tfFGag,lXTS_52xUCA,-LxUGFCDSuo,8ul5MTJOUC4,ef3_qGUngys,MibXpGE-B-I,0pGU1ZWoR6o,NjwqxsJXfnw,R-fAfEJKocU,NuLL6Vb_ym4,BOmSMjYGjNE,3K2fv-DOANY,BvJy2Y3KY2M,eq3ksHYrRNA,N5lNJ8F52dM,s61sW2Zlvig,pAC_60apFLg,M3bKKBk8wkE,akiC_DNtK_Q",
+    "title": "Digital logic, 34 lectures from ZHCET's COC2070 (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube",
+    "note": "All lectures in order, as one YouTube playlist (made from the channel's videos: the channel has no playlist for this course)."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Electives/COE4440_Soft-Computing/Books-and-Resources/YouTube_Introduction-to-Fuzzy-Logic_Prof-Sufyan-Beg.link",
+   "url": "https://www.youtube.com/watch?v=GYVxLMVRQeQ",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=GYVxLMVRQeQ",
+    "title": "Introduction to Fuzzy Logic (Prof. M. M. Sufyan Beg, YouTube)",
+    "credit": "Prof. M. M. Sufyan Beg",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electronics-Engineering/Sem3/ELC2412_Signals-and-Systems/Books-and-Resources/YouTube-Playlist_Signals-and-Systems_Shamsi-Tutorial.link",
+   "url": "https://www.youtube.com/playlist?list=PLtshDKmv7tOY1geMXLD8qGEyGMzLqvpeB",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLtshDKmv7tOY1geMXLD8qGEyGMzLqvpeB",
+    "title": "Signals and Systems lectures (Mohd. Wajid (Shamsi Tutorial), YouTube)",
+    "credit": "Mohd. Wajid (Shamsi Tutorial)",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Books-and-Resources/YouTube-Playlist_Signals-and-Systems_Shamsi-Tutorial.link",
+   "url": "https://www.youtube.com/playlist?list=PLtshDKmv7tOY1geMXLD8qGEyGMzLqvpeB",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLtshDKmv7tOY1geMXLD8qGEyGMzLqvpeB",
+    "title": "Signals and Systems lectures (Mohd. Wajid (Shamsi Tutorial), YouTube)",
+    "credit": "Mohd. Wajid (Shamsi Tutorial)",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electronics-Engineering/Sem6/ELC3432_Digital-Signal-Processing/Books-and-Resources/YouTube-Playlist_Digital-Signal-Processing_Shamsi-Tutorial.link",
+   "url": "https://www.youtube.com/playlist?list=PLtshDKmv7tOZQUu9b59zicDnynJ3-v7LQ",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLtshDKmv7tOZQUu9b59zicDnynJ3-v7LQ",
+    "title": "Digital Signal Processing: digital filters and FIR design (Mohd. Wajid (Shamsi Tutorial), YouTube)",
+    "credit": "Mohd. Wajid (Shamsi Tutorial)",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Electives/EEE4742_Digital-Signal-Processing/Books-and-Resources/YouTube-Playlist_Digital-Signal-Processing_Shamsi-Tutorial.link",
+   "url": "https://www.youtube.com/playlist?list=PLtshDKmv7tOZQUu9b59zicDnynJ3-v7LQ",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLtshDKmv7tOZQUu9b59zicDnynJ3-v7LQ",
+    "title": "Digital Signal Processing: digital filters and FIR design (Mohd. Wajid (Shamsi Tutorial), YouTube)",
+    "credit": "Mohd. Wajid (Shamsi Tutorial)",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electronics-Engineering/Sem6/ELC3432_Digital-Signal-Processing/Books-and-Resources/YouTube-Playlist_Multirate-Signal-Processing_Shamsi-Tutorial.link",
+   "url": "https://www.youtube.com/playlist?list=PLtshDKmv7tOavMW1z7J4cmgBhQ0TRa50m",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLtshDKmv7tOavMW1z7J4cmgBhQ0TRa50m",
+    "title": "Multirate Signal Processing lectures (Mohd. Wajid (Shamsi Tutorial), YouTube)",
+    "credit": "Mohd. Wajid (Shamsi Tutorial)",
+    "source": "YouTube",
+    "note": "Beyond the course: advanced DSP."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electronics-Engineering/Sem6/ELC3432_Digital-Signal-Processing/Books-and-Resources/YouTube-Playlist_Linear-Prediction-and-Optimum-Linear-Filters_Shamsi-Tutorial.link",
+   "url": "https://www.youtube.com/watch_videos?video_ids=p7wg78Rx66A,V-yAK1mZjfc,NdDyCwaX50g,ZiWjTintsQI,gH7KGeX6MlM,oUpwWo1Z45Y,3IDPv1e4Q-U,WnQeUss6lfc",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch_videos?video_ids=p7wg78Rx66A,V-yAK1mZjfc,NdDyCwaX50g,ZiWjTintsQI,gH7KGeX6MlM,oUpwWo1Z45Y,3IDPv1e4Q-U,WnQeUss6lfc",
+    "title": "Linear Prediction and Optimum Linear Filters, 8 lectures (Mohd. Wajid (Shamsi Tutorial), YouTube)",
+    "credit": "Mohd. Wajid (Shamsi Tutorial)",
+    "source": "YouTube",
+    "note": "Beyond the course: advanced DSP. Only the lectures of the channel's playlist."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electronics-Engineering/Sem5/ELC3612_VLSI-Design-and-Technology/Books-and-Resources/YouTube-Playlist_Introduction-to-Verilog-HDL_Shamsi-Tutorial.link",
+   "url": "https://www.youtube.com/playlist?list=PLtshDKmv7tOZ3NR-FIKD4aHjrIxVL7bpv",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLtshDKmv7tOZ3NR-FIKD4aHjrIxVL7bpv",
+    "title": "Introduction to Verilog HDL, parts 1 and 2 (Mohd. Wajid (Shamsi Tutorial), YouTube)",
+    "credit": "Mohd. Wajid (Shamsi Tutorial)",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electronics-Engineering/Sem5/ELC3632_Analog-IC-Design/Books-and-Resources/YouTube-Playlist_ELC3632-Analog-IC-Design_Dr-GS-Javed.link",
+   "url": "https://www.youtube.com/playlist?list=PLG2YrJ9WLZwI",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLG2YrJ9WLZwI",
+    "title": "ELC3632/ELC3952 Analog IC Design, ZHCET AMU: layout lectures (Dr. G. S. Javed, YouTube)",
+    "credit": "Dr. G. S. Javed",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Books-and-Resources/YouTube-Playlist_Principles-of-Electrical-Engineering_Prof-Adil-Sarwar.link",
+   "url": "https://www.youtube.com/playlist?list=PL6-YM67LnmnhfKlrFAfv4pnOzxdvmxPas",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PL6-YM67LnmnhfKlrFAfv4pnOzxdvmxPas",
+    "title": "Principles of Electrical Engineering lectures (Prof. Adil Sarwar, YouTube)",
+    "credit": "Prof. Adil Sarwar",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/First-Year-Common/Chem-Sem/EEA1112_Principles-of-Electrical-Engg/Books-and-Resources/YouTube-Playlist_Principles-of-Electrical-Engineering_Nidal-Rafiuddin.link",
+   "url": "https://www.youtube.com/playlist?list=PLimPyhyS_5wwU33XjtzXDGvoNWskpqOOs",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLimPyhyS_5wwU33XjtzXDGvoNWskpqOOs",
+    "title": "Principles of Electrical Engineering lectures (Nidal Rafiuddin, YouTube)",
+    "credit": "Nidal Rafiuddin",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem3/EEC2732_Signals-and-Systems/Books-and-Resources/YouTube-Playlist_Signals-and-Systems_Nidal-Rafiuddin.link",
+   "url": "https://www.youtube.com/playlist?list=PLimPyhyS_5wx-fx6vwMkbAI1wDVJ1pF7N",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLimPyhyS_5wx-fx6vwMkbAI1wDVJ1pF7N",
+    "title": "Signals and Systems lectures (Nidal Rafiuddin, YouTube)",
+    "credit": "Nidal Rafiuddin",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem6/EEC3412_Dynamic-System-Analysis/Books-and-Resources/YouTube-Playlist_Dynamic-System-Analysis-II_Nidal-Rafiuddin.link",
+   "url": "https://www.youtube.com/playlist?list=PLimPyhyS_5wy6qsutMP5kpN3tgYcyBZ1M",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLimPyhyS_5wy6qsutMP5kpN3tgYcyBZ1M",
+    "title": "Dynamic System Analysis II (EEEC3410) lectures (Nidal Rafiuddin, YouTube)",
+    "credit": "Nidal Rafiuddin",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem7/EEC4922_Control-Lab/Books-and-Resources/YouTube-Playlist_Control-Lab_Nidal-Rafiuddin.link",
+   "url": "https://www.youtube.com/playlist?list=PLimPyhyS_5wwsv6T9Jfy_nGoGH9qX8Ul6",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLimPyhyS_5wwsv6T9Jfy_nGoGH9qX8Ul6",
+    "title": "Control Lab experiments (Nidal Rafiuddin, YouTube)",
+    "credit": "Nidal Rafiuddin",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem5/EEC3932_Instrumentation-Lab/Books-and-Resources/YouTube-Playlist_Instrumentation-Lab_Nidal-Rafiuddin.link",
+   "url": "https://www.youtube.com/playlist?list=PLimPyhyS_5wws2DV8fmObpysJUvSdIyYn",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLimPyhyS_5wws2DV8fmObpysJUvSdIyYn",
+    "title": "Instrumentation Lab experiments (Nidal Rafiuddin, YouTube)",
+    "credit": "Nidal Rafiuddin",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem4/EEC2932_Circuits-and-Measurements-Lab/Books-and-Resources/YouTube-Playlist_Circuit-and-Measurement-Lab_Nidal-Rafiuddin.link",
+   "url": "https://www.youtube.com/playlist?list=PLimPyhyS_5wyRDxV_DPhSXNYNMZknjOj_",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLimPyhyS_5wyRDxV_DPhSXNYNMZknjOj_",
+    "title": "Circuit and Measurement Lab experiments (Nidal Rafiuddin, YouTube)",
+    "credit": "Nidal Rafiuddin",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/Books-and-Resources/YouTube-Playlist_Digital-Instrumentation_Nidal-Rafiuddin.link",
+   "url": "https://www.youtube.com/playlist?list=PLimPyhyS_5wywCdCXX3lIOBfNWK9BW93V",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLimPyhyS_5wywCdCXX3lIOBfNWK9BW93V",
+    "title": "Digital Instrumentation lectures (Nidal Rafiuddin, YouTube)",
+    "credit": "Nidal Rafiuddin",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem5/EEC3312_Power-System-Analysis/Books-and-Resources/YouTube-Playlist_Power-System-Analysis_Dr-Afroz-Alam.link",
+   "url": "https://www.youtube.com/playlist?list=PLEVP-S4VFKO9skYbAegYfSQNXNJajL3oD",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLEVP-S4VFKO9skYbAegYfSQNXNJajL3oD",
+    "title": "Power System Analysis (Dr. Afroz Alam, YouTube)",
+    "credit": "Dr. Afroz Alam",
+    "source": "YouTube",
+    "note": "Dr. Afroz Alam taught in the Department of Electrical Engineering, ZHCET, from 2016 to 2022."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem5/EEC3312_Power-System-Analysis/Books-and-Resources/YouTube-Playlist_Per-Unit-System-in-Hindi_Dr-Afroz-Alam.link",
+   "url": "https://www.youtube.com/playlist?list=PLEVP-S4VFKO85zhnjJYg_ZCVh1_Wqpvqi",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLEVP-S4VFKO85zhnjJYg_ZCVh1_Wqpvqi",
+    "title": "Per Unit System (in Hindi) (Dr. Afroz Alam, YouTube)",
+    "credit": "Dr. Afroz Alam",
+    "source": "YouTube",
+    "note": "Dr. Afroz Alam taught in the Department of Electrical Engineering, ZHCET, from 2016 to 2022."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem5/EEC3312_Power-System-Analysis/Books-and-Resources/YouTube-Playlist_Bus-Admittance-Matrix_Dr-Afroz-Alam.link",
+   "url": "https://www.youtube.com/playlist?list=PLEVP-S4VFKO-BAGScDSifBQQLGXRPwjvb",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLEVP-S4VFKO-BAGScDSifBQQLGXRPwjvb",
+    "title": "Bus Admittance Matrix (Dr. Afroz Alam, YouTube)",
+    "credit": "Dr. Afroz Alam",
+    "source": "YouTube",
+    "note": "Dr. Afroz Alam taught in the Department of Electrical Engineering, ZHCET, from 2016 to 2022."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem5/EEC3312_Power-System-Analysis/Books-and-Resources/YouTube-Playlist_Fault-Analysis_Dr-Afroz-Alam.link",
+   "url": "https://www.youtube.com/playlist?list=PLEVP-S4VFKO982dA5wFyL__G18Awbqe7p",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLEVP-S4VFKO982dA5wFyL__G18Awbqe7p",
+    "title": "Fault Analysis (Dr. Afroz Alam, YouTube)",
+    "credit": "Dr. Afroz Alam",
+    "source": "YouTube",
+    "note": "Dr. Afroz Alam taught in the Department of Electrical Engineering, ZHCET, from 2016 to 2022."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem5/EEC3312_Power-System-Analysis/Books-and-Resources/YouTube-Playlist_Power-System-Stability_Dr-Afroz-Alam.link",
+   "url": "https://www.youtube.com/playlist?list=PLEVP-S4VFKO-2f4AMlzaTzq_2dxC_9_Ji",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLEVP-S4VFKO-2f4AMlzaTzq_2dxC_9_Ji",
+    "title": "Power System Stability (Dr. Afroz Alam, YouTube)",
+    "credit": "Dr. Afroz Alam",
+    "source": "YouTube",
+    "note": "Dr. Afroz Alam taught in the Department of Electrical Engineering, ZHCET, from 2016 to 2022."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem3/EEC2712_Circuit-Theory/Books-and-Resources/YouTube-Playlist_Circuit-Theory_Mohammad-Zaid.link",
+   "url": "https://www.youtube.com/watch_videos?video_ids=4ok2qu1b5Oo,e2H84gyWPGc,ylHBv0VlBWM,SKTCJ3fnxCA,hCMOJJuNwKk,X-xhPgqD7yk,AsZNFoEN06I,WzMbASupmCU,wJFn8BpN0Xg,Ll1Oj8fhs_o,9YcXf9QhYO4,70OniFF5PqE,Vv6o1MG7eJs,XHRcFniriKk,I_CvAFbS2Yo,UykUEKqUYCk,B0P6rybH5A8,wRKsKAROwBs,GiOzeoW6jYs,Y4whOUE-woM,vfMoijQS9VA,kCVn98eOHrA",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch_videos?video_ids=4ok2qu1b5Oo,e2H84gyWPGc,ylHBv0VlBWM,SKTCJ3fnxCA,hCMOJJuNwKk,X-xhPgqD7yk,AsZNFoEN06I,WzMbASupmCU,wJFn8BpN0Xg,Ll1Oj8fhs_o,9YcXf9QhYO4,70OniFF5PqE,Vv6o1MG7eJs,XHRcFniriKk,I_CvAFbS2Yo,UykUEKqUYCk,B0P6rybH5A8,wRKsKAROwBs,GiOzeoW6jYs,Y4whOUE-woM,vfMoijQS9VA,kCVn98eOHrA",
+    "title": "Circuit Theory (EEC2710), 22 lectures (Mohammad Zaid, YouTube)",
+    "credit": "Mohammad Zaid",
+    "source": "YouTube",
+    "note": "Lectures from the channel in course order, as one YouTube playlist."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Electives/EEE4322_Power-Quality/Books-and-Resources/YouTube-Playlist_Power-Quality_Mohammad-Zaid.link",
+   "url": "https://www.youtube.com/watch_videos?video_ids=DCY0K6x55Uk,s5KILv2aSUc,RMimcLo1jeE,iOkVWbT87ug,QDc_V663JEU,DoB0DA3PuSw,J6dimalhk20,TBjvLF3DYsE,llktZ4wSHUk,md6kdE1g-5k,EzZS_Uk1c_o",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch_videos?video_ids=DCY0K6x55Uk,s5KILv2aSUc,RMimcLo1jeE,iOkVWbT87ug,QDc_V663JEU,DoB0DA3PuSw,J6dimalhk20,TBjvLF3DYsE,llktZ4wSHUk,md6kdE1g-5k,EzZS_Uk1c_o",
+    "title": "Power Quality: harmonics and their mitigation, 11 lectures (Mohammad Zaid, YouTube)",
+    "credit": "Mohammad Zaid",
+    "source": "YouTube",
+    "note": "Lectures from the channel in order, as one YouTube playlist."
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem7/EEC4912_Power-System-Protection-Lab/Books-and-Resources/YouTube_Solid-State-Time-Delay-Relay_Mohammad-Zaid.link",
+   "url": "https://www.youtube.com/watch?v=TYA1GxRvFRs",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=TYA1GxRvFRs",
+    "title": "Experiment 2: performance of a solid state time delay relay (Mohammad Zaid, YouTube)",
+    "credit": "Mohammad Zaid",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem6/EEC3922_Power-System-and-High-Voltage-Lab/Books-and-Resources/YouTube-Playlist_Power-System-and-HV-Lab_Mohammad-Zaid.link",
+   "url": "https://www.youtube.com/watch_videos?video_ids=SgJF3EVClnA,rxF-nFLlmTM",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch_videos?video_ids=SgJF3EVClnA,rxF-nFLlmTM",
+    "title": "Power System and High Voltage Lab experiment, parts 1 and 2 (Mohammad Zaid, YouTube)",
+    "credit": "Mohammad Zaid",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Mechanical-Engineering/Sem5/MEC3412_Industrial-Engineering-and-Operations-Research/Books-and-Resources/YouTube-Playlist_Industrial-Engineering_Engg-Edu.link",
+   "url": "https://www.youtube.com/playlist?list=PLGAtpD6fzzqQ4IQYXRhhbpx51pt82XbZE",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLGAtpD6fzzqQ4IQYXRhhbpx51pt82XbZE",
+    "title": "Industrial Engineering lectures, AMU (Engg_Edu, YouTube)",
+    "credit": "Engg_Edu (YouTube)",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/First-Year-Common/Phys-Sem/MEA1922_Engineering-Workshop/Books-and-Resources/YouTube-Playlist_Workshop-Practice_Engg-Edu.link",
+   "url": "https://www.youtube.com/playlist?list=PLGAtpD6fzzqQ-tuqMKgCtS_2KE2YbPWpC",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLGAtpD6fzzqQ-tuqMKgCtS_2KE2YbPWpC",
+    "title": "Workshop Practice: Manufacturing Process Lab (Engg_Edu, YouTube)",
+    "credit": "Engg_Edu (YouTube)",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/MEA1920_Manufacturing-Process-Lab/Books-and-Resources/YouTube-Playlist_Workshop-Practice_Engg-Edu.link",
+   "url": "https://www.youtube.com/playlist?list=PLGAtpD6fzzqQ-tuqMKgCtS_2KE2YbPWpC",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLGAtpD6fzzqQ-tuqMKgCtS_2KE2YbPWpC",
+    "title": "Workshop Practice: Manufacturing Process Lab (Engg_Edu, YouTube)",
+    "credit": "Engg_Edu (YouTube)",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Shared-Courses/MEH3452-MEH2452_Engineering-Economy-and-Management/Books-and-Resources/YouTube_Introduction-to-Engineering-Economy_Engg-Edu.link",
+   "url": "https://www.youtube.com/watch?v=BcQD2ukza8A",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch?v=BcQD2ukza8A",
+    "title": "Lecture 1: Introduction to Engineering Economy, AMU (Engg_Edu, YouTube)",
+    "credit": "Engg_Edu (YouTube)",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Mechanical-Engineering/Sem5/MEC3312_Fluid-Mechanics-II/Books-and-Resources/YouTube-Playlist_Fluid-Mechanics-II_Computational-Aero-Lab.link",
+   "url": "https://www.youtube.com/playlist?list=PLPRDB_w6ISNxZtYNAjPFrJbVvpeQX8El9",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLPRDB_w6ISNxZtYNAjPFrJbVvpeQX8El9",
+    "title": "Fluid Mechanics II (MEC3312/EMEC3312) lectures (Computational Aero Lab, YouTube)",
+    "credit": "Computational Aero Lab (YouTube)",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/First-Year-Common/Chem-Sem/MEA1912_Engineering-Graphics-Lab/Books-and-Resources/YouTube-Playlist_Engineering-Graphics_TechnoSapiens.link",
+   "url": "https://www.youtube.com/watch_videos?video_ids=_bIcKbI-aLY,6RMU2cpY0NI,J8-jzsGheLs,PFLoTMgQGk4,fRqt2mRMTsQ",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch_videos?video_ids=_bIcKbI-aLY,6RMU2cpY0NI,J8-jzsGheLs,PFLoTMgQGk4,fRqt2mRMTsQ",
+    "title": "Engineering Graphics: lettering, drafter, first machine part, isometric projection (5 videos; TechnoSapiens, YouTube)",
+    "credit": "TechnoSapiens (YouTube)",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Mechanical-Engineering/Sem5/MEC3112_Machine-Design-II/Books-and-Resources/YouTube-Playlist_Design-of-Welded-Joints_TechnoSapiens.link",
+   "url": "https://www.youtube.com/watch_videos?video_ids=AjOJ5IMJR2E,9W8txGRyd14,dYNC_Vu4vN8,r1s_ZJkoArw,BUx9YYwxIUM,b-isYjdxf28,PgyylEWT4ZQ,23NrcQIw_ww,l1LwJsySMOs,a6qCnxzTUEg",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch_videos?video_ids=AjOJ5IMJR2E,9W8txGRyd14,dYNC_Vu4vN8,r1s_ZJkoArw,BUx9YYwxIUM,b-isYjdxf28,PgyylEWT4ZQ,23NrcQIw_ww,l1LwJsySMOs,a6qCnxzTUEg",
+    "title": "Machine Design II (MEC3110): design of welded joints, 10 lectures (TechnoSapiens, YouTube)",
+    "credit": "TechnoSapiens (YouTube)",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/First-Year-Common/_Old-Syllabus-Subjects/CEA1120_Strength-of-Materials/Books-and-Resources/YouTube-Playlist_Strength-of-Materials_Dr-Zaid-Mohammad.link",
+   "url": "https://www.youtube.com/playlist?list=PLn0sIuHs353jOSQxmkSlXp9RgEhkKX9Kj",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLn0sIuHs353jOSQxmkSlXp9RgEhkKX9Kj",
+    "title": "CEA1120 Strength of Materials lectures (Dr. Zaid Mohammad, Civil Engineering, AMU; YouTube)",
+    "credit": "Dr. Zaid Mohammad",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Civil-Engineering/Sem3/CEC2912_Civil-Engineering-Material-Lab/Books-and-Resources/YouTube-Playlist_Civil-Engineering-Materials-Lab_Dr-Zaid-Mohammad.link",
+   "url": "https://www.youtube.com/playlist?list=PLn0sIuHs353gIaixWwxPZ1O4JZ9RzPmiO",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLn0sIuHs353gIaixWwxPZ1O4JZ9RzPmiO",
+    "title": "CEC2910 Civil Engineering Materials Lab experiments (Dr. Zaid Mohammad, YouTube)",
+    "credit": "Dr. Zaid Mohammad",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Civil-Engineering/Sem6/CEC3952_CAD-Lab/Books-and-Resources/YouTube-Playlist_CAD-Lab-I_Dr-Zaid-Mohammad.link",
+   "url": "https://www.youtube.com/playlist?list=PLn0sIuHs353hdxPPVwbRaj9xIk8yxeUQM",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/playlist?list=PLn0sIuHs353hdxPPVwbRaj9xIk8yxeUQM",
+    "title": "CEC3950 CAD Lab I (Dr. Zaid Mohammad, YouTube)",
+    "credit": "Dr. Zaid Mohammad",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Civil-Engineering/Sem3/CEA2142_Engineering-Geology/Books-and-Resources/YouTube-Playlist_Minerals-and-Rocks_Prof-Masroor-Alam.link",
+   "url": "https://www.youtube.com/watch_videos?video_ids=pZ61eeRCbI0,gvWs4bb1hB0,KBIyLMwdHyw,ILXmWJzijeM,X_m03qrb-vo,lIoXMLJ1XqE,fWeMeJpMVwc,34RaVgplV4E,1uqsgQa2h5A,x2tXqhI6238,AwcI46FOxG8,RfWGpQ24Chc,_jZxFMbvnKc",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch_videos?video_ids=pZ61eeRCbI0,gvWs4bb1hB0,KBIyLMwdHyw,ILXmWJzijeM,X_m03qrb-vo,lIoXMLJ1XqE,fWeMeJpMVwc,34RaVgplV4E,1uqsgQa2h5A,x2tXqhI6238,AwcI46FOxG8,RfWGpQ24Chc,_jZxFMbvnKc",
+    "title": "Engineering Geology: physical properties of minerals and identification of rocks, 13 lectures (Prof. Mohd. Masroor Alam, YouTube)",
+    "credit": "Prof. Mohd. Masroor Alam",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Civil-Engineering/Sem3/CEA2932_Engineering-Geology-Lab-and-Camp/Books-and-Resources/YouTube-Playlist_Geological-Maps_Prof-Masroor-Alam.link",
+   "url": "https://www.youtube.com/watch_videos?video_ids=cAQApaDaLW8,gwXGH4Hcnbg,vfnTQx_6204,rM3RxLI9fvI,j-fHHYlDhXY,dt4jPzppQFw,2bimZHZVG0g,T3AIQov_81M,bmm-m0yK5Gw,EYG8w6KEsjw,kxS5Ul_roOQ,DVu0bGaV1FA,bVVqy9gtAoc,RbiMxQU2_90",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch_videos?video_ids=cAQApaDaLW8,gwXGH4Hcnbg,vfnTQx_6204,rM3RxLI9fvI,j-fHHYlDhXY,dt4jPzppQFw,2bimZHZVG0g,T3AIQov_81M,bmm-m0yK5Gw,EYG8w6KEsjw,kxS5Ul_roOQ,DVu0bGaV1FA,bVVqy9gtAoc,RbiMxQU2_90",
+    "title": "Geological maps: inclined rocks, unconformity, folds and faults, 14 solutions (Prof. Mohd. Masroor Alam, YouTube)",
+    "credit": "Prof. Mohd. Masroor Alam",
+    "source": "YouTube"
+   }
+  },
+  {
+   "op": "link",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem7/COC4060_Compiler-Design/Books-and-Resources/YouTube-Playlist_Compiler-Design_Misbahur-Warsi.link",
+   "url": "https://www.youtube.com/watch_videos?video_ids=QVWGFRD9Zvk,CzvaFbSoz4I,z8nuOq6AOmM,psGRK3B39Lg,KyzLaHBiA3s,MMCa9tEKo4c,xDFD1ln6T6c,dwUwDkFSodw,vY5_HjzMmAs,pvTQoqKkeN4,DolqvwX1OsE,Sw5wC9d41MQ,kWqWgBbocqU,OjItHx9sd7Q,SNxaqDLYjbg,ml5mA9DSBlM",
+   "t": 1795066265,
+   "meta": {
+    "url": "https://www.youtube.com/watch_videos?video_ids=QVWGFRD9Zvk,CzvaFbSoz4I,z8nuOq6AOmM,psGRK3B39Lg,KyzLaHBiA3s,MMCa9tEKo4c,xDFD1ln6T6c,dwUwDkFSodw,vY5_HjzMmAs,pvTQoqKkeN4,DolqvwX1OsE,Sw5wC9d41MQ,kWqWgBbocqU,OjItHx9sd7Q,SNxaqDLYjbg,ml5mA9DSBlM",
+    "title": "Compiler Design (COC4060), 16 lectures from lexical analysis to SLR parsing (Misbahur Warsi, YouTube)",
+    "credit": "Misbahur Warsi",
+    "source": "YouTube"
+   }
+  }
+ ]
+}
