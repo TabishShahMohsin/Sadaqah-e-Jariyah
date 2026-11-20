@@ -1,0 +1,23 @@
+{
+ "id": "20261120-080428-sej-notes-ela3402",
+ "created": "2026-11-20T08:04:28+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "credit": "Sadaqah-e-Jariyah",
+  "note": "SEJ complete notes: written for the archive from the course material, with previous-year questions"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/ELA3402_Communication-Systems/Complete-Notes/Complete-Notes_SEJ_Communication-Systems.pdf",
+   "s": 1182935,
+   "h": "1b86067dd30f028f5deb4dd89f808a205d5a3583a0b7f3d11afbde5892b162ec",
+   "t": 1795161858,
+   "meta": {
+    "title": "Communication Systems: complete notes with previous-year questions (SEJ)",
+    "credit": "Sadaqah-e-Jariyah"
+   }
+  }
+ ]
+}
