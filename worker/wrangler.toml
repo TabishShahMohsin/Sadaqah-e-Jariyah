@@ -34,4 +34,4 @@ LIMIT_GLOBAL_BYTES_PER_DAY = "40000000000"
 [[d1_databases]]
 binding = "DB"
 database_name = "sej-intake"
-database_id = "REPLACE_WITH_ID_FROM_wrangler_d1_create"
+database_id = "32c99413-daec-4e6b-aecf-9fdeb8770b31"
