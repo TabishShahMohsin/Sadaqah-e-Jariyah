@@ -1,0 +1,23 @@
+{
+ "id": "20261121-192058-sej-notes-coc3092",
+ "created": "2026-11-21T19:20:58+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "credit": "Sadaqah-e-Jariyah",
+  "note": "SEJ complete notes: written for the archive from the course material, with previous-year questions"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3092-AIC3092_Microprocessor-Theory-and-Applications/Complete-Notes/Complete-Notes_SEJ_Microprocessor-Theory-and-Applications.pdf",
+   "s": 5556850,
+   "h": "b796c28d136360b4305b8cf5e6afd8fadb50c0f823a26d37449a6954ee7d204c",
+   "t": 1795288849,
+   "meta": {
+    "title": "Microprocessor Theory & Applications: complete notes with previous-year questions (SEJ)",
+    "credit": "Sadaqah-e-Jariyah"
+   }
+  }
+ ]
+}
