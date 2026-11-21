@@ -10,6 +10,7 @@ Contributions from the site's Contribute page (worker/, at intake.sej.org.in) �
     python3 tools/intake.py done <id> <change-set.json> [--note "…"]
                                                         mark published, with the archive paths from that change set
     python3 tools/intake.py purge <id>                  delete its files from the private inbox (after done/rejected)
+    (done also lists a named contributor on the Sources & credits page; `credit <id> <change-set>` does just that)
 
 Reads catalog/intake-config.json: {"api": "https://intake.sej.org.in", "admin_token": "…"} (written by
 worker/setup.sh; never commit it).
@@ -115,6 +116,35 @@ def cmd_done(a):
     body["note"] = a.note or f"{len(paths)} file{'s' if len(paths) != 1 else ''} added to the archive. Thank you!"
     call(f"/api/admin/submissions/{a.id}", "POST", body)
     print(f"{a.id}: published, {len(paths)} paths")
+    credit_contributor(a.id, paths)
+
+
+def credit_contributor(sid, paths):
+    """List a named contributor on the Sources & credits page (catalog/sources.json), one entry per person."""
+    s = call(f"/api/admin/submissions/{sid}")
+    who = (s.get("credit") or "").strip()
+    if not who or not paths:
+        return
+    courses = []
+    for p in paths:
+        m = re.search(r"/([A-Z]{2,4}\d[0-9A-Z]\d{1,2}[A-Z]?(?:-[A-Z]{2,4}\d[0-9A-Z]\d{1,2}[A-Z]?)*)_([^/]+)/", p)
+        if m:
+            c = f"{m.group(2).replace('-', ' ')} ({m.group(1).split('-')[0]})"
+            if c not in courses:
+                courses.append(c)
+    f = os.path.join(REPO, "catalog", "sources.json")
+    data = json.load(open(f, encoding="utf-8"))
+    title = f"{who} · contributed on the site"
+    e = next((x for x in data["sources"] if x.get("title") == title), None)
+    if e is None:
+        e = {"title": title, "url": "", "covers": "", "status": "merged", "credit": who, "submissions": []}
+        data["sources"].append(e)
+    if sid not in e.setdefault("submissions", []):
+        e["submissions"].append(sid)
+    have = [c for c in e.get("covers", "").split("; ") if c]
+    e["covers"] = "; ".join(have + [c for c in courses if c not in have])
+    json.dump(data, open(f, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
+    print(f"Sources & credits: {title} ({e['covers']})")
 
 
 def cmd_purge(a):
@@ -129,8 +159,10 @@ def main():
     p = sub.add_parser("status"); p.add_argument("id"); p.add_argument("status"); p.add_argument("--note")
     p = sub.add_parser("done"); p.add_argument("id"); p.add_argument("change"); p.add_argument("--note")
     p = sub.add_parser("purge"); p.add_argument("id")
+    p = sub.add_parser("credit"); p.add_argument("id"); p.add_argument("change")
     a = ap.parse_args()
-    {"list": cmd_list, "pull": cmd_pull, "status": cmd_status, "done": cmd_done, "purge": cmd_purge}[a.cmd](a)
+    {"list": cmd_list, "pull": cmd_pull, "status": cmd_status, "done": cmd_done, "purge": cmd_purge,
+     "credit": lambda a: credit_contributor(a.id, [o.get("p") or o.get("to") for o in json.load(open(a.change)).get("ops", [])])}[a.cmd](a)
 
 
 if __name__ == "__main__":
