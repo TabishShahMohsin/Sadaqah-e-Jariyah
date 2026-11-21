@@ -259,7 +259,33 @@ def staged(item, root=REPO):
     return src
 
 
+_IDS = None
+IDS_CACHE = os.path.join(REPO, ".sej-cache", "hf-ids.json")   # path → [size, mtime, sha256, sha1]
+
+
 def file_ids(path):
+    """(sha256, git blob sha1, size) of a file; remembered by size and mtime, so a push doesn't reread the archive."""
+    global _IDS
+    if _IDS is None:
+        _IDS = load_json(IDS_CACHE, {})
+    st = os.stat(path)
+    key = os.path.relpath(path, REPO)
+    hit = _IDS.get(key)
+    if hit and hit[:2] == [st.st_size, int(st.st_mtime)]:
+        return hit[2], hit[3], st.st_size
+    ids = _file_ids(path)
+    _IDS[key] = [st.st_size, int(st.st_mtime), ids[0], ids[1]]
+    if len(_IDS) % 500 == 0:
+        save_json(IDS_CACHE, _IDS)
+    return ids
+
+
+def save_ids():
+    if _IDS is not None:
+        save_json(IDS_CACHE, _IDS)
+
+
+def _file_ids(path):
     """(sha256, git blob sha1, size) of a file."""
     h256, size = hashlib.sha256(), os.path.getsize(path)
     h1 = hashlib.sha1(b"blob %d\0" % size)
@@ -354,6 +380,8 @@ def cmd_push(a, root=REPO):
             s256, size = item["e"]["h"], item["e"]["s"]
             s1 = file_ids(f)[1] if size < 10 << 20 else None
         local[p] = {"sha256": s256, "sha1": s1, "size": size, "file": f}
+    save_ids()
+    print(f"local files checked in {time.time() - t0:.0f}s", flush=True)
     api = HfApi(token=token)
     remote = remote_files(api, repo)
     copies, uploads, deletes = plan(local, remote)

@@ -1,0 +1,24 @@
+{
+ "id": "20261121-091035-contrib-y8sbrqb5k6bf",
+ "created": "2026-11-21T09:10:35+00:00",
+ "source": {
+  "kind": "contribution",
+  "by": "maintainer",
+  "credit": "Arman Ahmad (@techiearman)",
+  "submission": "y8sbrqb5k6bf",
+  "note": "Contribution y8sbrqb5k6bf from the site's Contribute page (Google Drive link): the updated experiments of the Electronic Circuits Lab (ELC2942)."
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electronics-Engineering/Sem3/ELC2942_Electronic-Circuits-Lab/Manuals/Lab-Manual_ELC2942_Updated-2026.pdf",
+   "s": 787393,
+   "h": "cf1e79061a457bd190f6ef828240d17f4c6005c792de33ab9c377f8d0860854a",
+   "t": 1795252232,
+   "meta": {
+    "title": "Electronic Circuits Lab (ELC2942) lab manual: list of experiments, updated",
+    "credit": "Arman Ahmad (@techiearman)"
+   }
+  }
+ ]
+}
