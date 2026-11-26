@@ -1,0 +1,564 @@
+{
+ "id": "20261126-062052-osc-slides",
+ "created": "2026-11-26T06:20:52+00:00",
+ "source": {
+  "kind": "local",
+  "by": "maintainer",
+  "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+  "note": "Official chapter slides for Operating System Concepts, 10th ed. (Silberschatz, Galvin, Gagne), from https://os-book.com/OS11/slide-dir/index.html, converted from PPTX to PDF. Copyright Silberschatz, Galvin and Gagne 2018; the authors allow use in conjunction with a course."
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_AppB_Windows-7.pdf",
+   "s": 1045807,
+   "h": "9b7ba8a690352d77fe25a4d98dfdc1f7f6870d5023be3cd9de3b7f4b85c535c0",
+   "t": 1795673988,
+   "meta": {
+    "title": "Operating System Concepts slides, Appendix B: Windows 7 (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_AppC_BSD-UNIX.pdf",
+   "s": 1247319,
+   "h": "c260d757aebcbba1dc2bc851d226a69ede2e0d2d717e8cadaa3e033a503c9372",
+   "t": 1795673989,
+   "meta": {
+    "title": "Operating System Concepts slides, Appendix C: BSD UNIX (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch01_Introduction.pdf",
+   "s": 2434788,
+   "h": "9bc0bf6443cb4d74382ae534e8bc55a6e13cfc416be98718ef946ae4c60f4f3a",
+   "t": 1795673990,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 1: Introduction (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch02_Operating-System-Structures.pdf",
+   "s": 4459449,
+   "h": "a36b9a3be1fb2c3a156abc8fdc7b20cf73ee19439cbfeb6d7a2885acb2e7a6d1",
+   "t": 1795673992,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 2: Operating-System Structures (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch03_Processes.pdf",
+   "s": 2730364,
+   "h": "e69844844883257f4eb4988050e79fed3ac479edf414c281571c06aa1413c864",
+   "t": 1795673993,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 3: Processes (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch04_Threads-and-Concurrency.pdf",
+   "s": 3064231,
+   "h": "6572328dd1021912fe9e5687180aa9f08f8e12bd7e3bc9bc6e21b27f5985f504",
+   "t": 1795673994,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 4: Threads & Concurrency (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch05_CPU-Scheduling.pdf",
+   "s": 3145234,
+   "h": "e67124a65fa8cfb1b54556b7a9552872af228c3e7042a41ecb8084908ed34bff",
+   "t": 1795673996,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 5: CPU Scheduling (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch06_Synchronization-Tools.pdf",
+   "s": 781883,
+   "h": "55f4e5918a2f3bab79048d47141d64a3810162b392bc2ec2b8534beef1652b28",
+   "t": 1795673997,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 6: Synchronization Tools (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch07_Synchronization-Examples.pdf",
+   "s": 1259031,
+   "h": "b2a8a45c50ed003dec925c28ef2513b1f031729edef10e7a407887686f313093",
+   "t": 1795673998,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 7: Synchronization Examples (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch08_Deadlocks.pdf",
+   "s": 735143,
+   "h": "85712f673f1b32aaf56fb02782fd1dd0bff505fb6c9881b978c0aea5ff7a2a80",
+   "t": 1795673999,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 8: Deadlocks (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch09_Main-Memory.pdf",
+   "s": 1991361,
+   "h": "6c0fa4299096a2fa545003733e89259735accb7201b3f7797eab1621c3c81ee6",
+   "t": 1795674000,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 9: Main Memory (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch10_Virtual-Memory.pdf",
+   "s": 2090505,
+   "h": "e66d39660bc0384ffcc149c99b396b3c8f64bccd59911dbe1448f700a41c9495",
+   "t": 1795674001,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 10: Virtual Memory (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch11_Mass-Storage-Structure.pdf",
+   "s": 2017037,
+   "h": "aae060fffa86d99cc385b6a0135ecbba080d57a3edc2e33613e2bf4877b27531",
+   "t": 1795674003,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 11: Mass-Storage Structure (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch12_IO-Systems.pdf",
+   "s": 4166070,
+   "h": "b98b363d0cb25a612bb74881a73297dd82355998b05453e4dee57fc55075f9b9",
+   "t": 1795674005,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 12: I/O Systems (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch13_File-System-Interface.pdf",
+   "s": 927514,
+   "h": "9c6d378979a2db854f6079c9ccfe440871a8c267fd76579c9de028a5a0f63d9b",
+   "t": 1795674006,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 13: File-System Interface (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch14_File-System-Implementation.pdf",
+   "s": 1803895,
+   "h": "c98455518c2b25a71548b2c85bd686022bd8306421fb8a307a4f33e0e1192028",
+   "t": 1795674007,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 14: File-System Implementation (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch15_File-System-Internals.pdf",
+   "s": 857413,
+   "h": "7f94919bbd222c32966c9def912e64a9ed27992a06d402a6fbdf029ae0dedabb",
+   "t": 1795674008,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 15: File-System Internals (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch16_Security.pdf",
+   "s": 2000844,
+   "h": "843140e0d31336a9b26db620e7f7e29ef7295e43c5404ad263d42c6c82ce6a78",
+   "t": 1795674009,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 16: Security (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch17_Protection.pdf",
+   "s": 2262928,
+   "h": "9155b3b25482d5376c7e0533acad996505d0bc981872111670107706c5377609",
+   "t": 1795674011,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 17: Protection (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch18_Virtual-Machines.pdf",
+   "s": 637912,
+   "h": "e7e44eff2f215198a65e9f59eb74d3b6455cf98296866da3516c10a4920e5115",
+   "t": 1795674012,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 18: Virtual Machines (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch19_Networks-and-Distributed-Systems.pdf",
+   "s": 1495030,
+   "h": "ca3f83cd4c168433e3cb89cb9c2f216e7133a9b0cc727a63d3174ccf438e591f",
+   "t": 1795674013,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 19: Networks and Distributed Systems (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch20_The-Linux-System.pdf",
+   "s": 579526,
+   "h": "b01ed3dc9d7e4bc1c6fd4c0f17fd69aa54d0ceb9879b0931b6e1df00aa185644",
+   "t": 1795674014,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 20: The Linux System (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem5/COC3102-AIC3102_Operating-Systems/Complete-Notes/Lecture-Slides_OSC_Ch21_Windows-10.pdf",
+   "s": 1493368,
+   "h": "c932242f4c0e10840a3d0fafd5138f998d8e71974cf75b26e09013b957cb6097",
+   "t": 1795674015,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 21: Windows 10 (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_AppB_Windows-7.pdf",
+   "s": 1045807,
+   "h": "9b7ba8a690352d77fe25a4d98dfdc1f7f6870d5023be3cd9de3b7f4b85c535c0",
+   "t": 1795674016,
+   "meta": {
+    "title": "Operating System Concepts slides, Appendix B: Windows 7 (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_AppC_BSD-UNIX.pdf",
+   "s": 1247319,
+   "h": "c260d757aebcbba1dc2bc851d226a69ede2e0d2d717e8cadaa3e033a503c9372",
+   "t": 1795674017,
+   "meta": {
+    "title": "Operating System Concepts slides, Appendix C: BSD UNIX (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch01_Introduction.pdf",
+   "s": 2434788,
+   "h": "9bc0bf6443cb4d74382ae534e8bc55a6e13cfc416be98718ef946ae4c60f4f3a",
+   "t": 1795674019,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 1: Introduction (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch02_Operating-System-Structures.pdf",
+   "s": 4459449,
+   "h": "a36b9a3be1fb2c3a156abc8fdc7b20cf73ee19439cbfeb6d7a2885acb2e7a6d1",
+   "t": 1795674020,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 2: Operating-System Structures (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch03_Processes.pdf",
+   "s": 2730364,
+   "h": "e69844844883257f4eb4988050e79fed3ac479edf414c281571c06aa1413c864",
+   "t": 1795674022,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 3: Processes (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch04_Threads-and-Concurrency.pdf",
+   "s": 3064231,
+   "h": "6572328dd1021912fe9e5687180aa9f08f8e12bd7e3bc9bc6e21b27f5985f504",
+   "t": 1795674023,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 4: Threads & Concurrency (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch05_CPU-Scheduling.pdf",
+   "s": 3145234,
+   "h": "e67124a65fa8cfb1b54556b7a9552872af228c3e7042a41ecb8084908ed34bff",
+   "t": 1795674024,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 5: CPU Scheduling (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch06_Synchronization-Tools.pdf",
+   "s": 781883,
+   "h": "55f4e5918a2f3bab79048d47141d64a3810162b392bc2ec2b8534beef1652b28",
+   "t": 1795674025,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 6: Synchronization Tools (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch07_Synchronization-Examples.pdf",
+   "s": 1259031,
+   "h": "b2a8a45c50ed003dec925c28ef2513b1f031729edef10e7a407887686f313093",
+   "t": 1795674027,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 7: Synchronization Examples (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch08_Deadlocks.pdf",
+   "s": 735143,
+   "h": "85712f673f1b32aaf56fb02782fd1dd0bff505fb6c9881b978c0aea5ff7a2a80",
+   "t": 1795674028,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 8: Deadlocks (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch09_Main-Memory.pdf",
+   "s": 1991361,
+   "h": "6c0fa4299096a2fa545003733e89259735accb7201b3f7797eab1621c3c81ee6",
+   "t": 1795674029,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 9: Main Memory (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch10_Virtual-Memory.pdf",
+   "s": 2090505,
+   "h": "e66d39660bc0384ffcc149c99b396b3c8f64bccd59911dbe1448f700a41c9495",
+   "t": 1795674030,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 10: Virtual Memory (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch11_Mass-Storage-Structure.pdf",
+   "s": 2017037,
+   "h": "aae060fffa86d99cc385b6a0135ecbba080d57a3edc2e33613e2bf4877b27531",
+   "t": 1795674031,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 11: Mass-Storage Structure (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch12_IO-Systems.pdf",
+   "s": 4166070,
+   "h": "b98b363d0cb25a612bb74881a73297dd82355998b05453e4dee57fc55075f9b9",
+   "t": 1795674033,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 12: I/O Systems (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch13_File-System-Interface.pdf",
+   "s": 927514,
+   "h": "9c6d378979a2db854f6079c9ccfe440871a8c267fd76579c9de028a5a0f63d9b",
+   "t": 1795674034,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 13: File-System Interface (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch14_File-System-Implementation.pdf",
+   "s": 1803895,
+   "h": "c98455518c2b25a71548b2c85bd686022bd8306421fb8a307a4f33e0e1192028",
+   "t": 1795674036,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 14: File-System Implementation (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch15_File-System-Internals.pdf",
+   "s": 857413,
+   "h": "7f94919bbd222c32966c9def912e64a9ed27992a06d402a6fbdf029ae0dedabb",
+   "t": 1795674037,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 15: File-System Internals (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch16_Security.pdf",
+   "s": 2000844,
+   "h": "843140e0d31336a9b26db620e7f7e29ef7295e43c5404ad263d42c6c82ce6a78",
+   "t": 1795674038,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 16: Security (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch17_Protection.pdf",
+   "s": 2262928,
+   "h": "9155b3b25482d5376c7e0533acad996505d0bc981872111670107706c5377609",
+   "t": 1795674039,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 17: Protection (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch18_Virtual-Machines.pdf",
+   "s": 637912,
+   "h": "e7e44eff2f215198a65e9f59eb74d3b6455cf98296866da3516c10a4920e5115",
+   "t": 1795674040,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 18: Virtual Machines (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch19_Networks-and-Distributed-Systems.pdf",
+   "s": 1495030,
+   "h": "ca3f83cd4c168433e3cb89cb9c2f216e7133a9b0cc727a63d3174ccf438e591f",
+   "t": 1795674041,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 19: Networks and Distributed Systems (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch20_The-Linux-System.pdf",
+   "s": 579526,
+   "h": "b01ed3dc9d7e4bc1c6fd4c0f17fd69aa54d0ceb9879b0931b6e1df00aa185644",
+   "t": 1795674042,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 20: The Linux System (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Science/BCA/Sem5/CCB551_Operating-System-and-System-Programming/Complete-Notes/Lecture-Slides_OSC_Ch21_Windows-10.pdf",
+   "s": 1493368,
+   "h": "c932242f4c0e10840a3d0fafd5138f998d8e71974cf75b26e09013b957cb6097",
+   "t": 1795674044,
+   "meta": {
+    "title": "Operating System Concepts slides, Ch 21: Windows 10 (Silberschatz, Galvin, Gagne)",
+    "credit": "Silberschatz, Galvin and Gagne (os-book.com)",
+    "note": "Source: os-book.com (official book slides, © Silberschatz, Galvin and Gagne 2018)"
+   }
+  }
+ ]
+}
