@@ -450,7 +450,9 @@ main { width: 100%; max-width: var(--w); margin: 0 auto; padding-block: 0 120px;
 .pick { max-width: 900px; }
 .pk-search { width: 100%; height: 48px; margin: 14px 0 10px; padding: 0 18px; border: 1px solid #e5e5ea; border-radius: 14px; font: inherit; font-size: 16px; background: var(--bg); color: var(--ink); }
 .pk-search:focus { outline: none; border-color: var(--ink); }
-.pk-tree { border-top: 1px solid #e5e5ea; padding-bottom: 120px; }
+.pk-tree { border-top: 1px solid #e5e5ea; }
+/* room at the page's end for the floating bar, only while it shows */
+#view:has(.pk-bar:not([hidden])) { padding-bottom: 110px; }
 .pk-row { display: flex; align-items: center; gap: 6px; min-height: 48px; padding: 4px 0 4px calc(var(--d, 0) * 24px); border-bottom: 1px solid #f0f0f3; }
 .pk-tog { flex: none; width: 32px; height: 32px; border-radius: 8px; font-size: 20px; line-height: 1; color: var(--mute); transition: transform .15s, background .15s; }
 button.pk-tog:hover { background: var(--fog); color: var(--ink); }
