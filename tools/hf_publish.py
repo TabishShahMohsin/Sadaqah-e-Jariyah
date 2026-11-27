@@ -603,6 +603,11 @@ def cmd_site(a, root=REPO):
         for asset in ('href="/app.css"', 'src="/app.js"', 'href="/fonts/'):
             attr, path = asset.split('="/')
             html = html.replace(asset, f'{attr}="{FAST_ORIGIN}{path}')
+    # a new address whenever the code changes, so browsers holding a cached app.js / app.css load the new one at once
+    for f in ("app.css", "app.js"):
+        with open(os.path.join(root, "site", f), "rb") as fh:
+            v = hashlib.sha256(fh.read()).hexdigest()[:10]
+        html = html.replace(f'/{f}"', f'/{f}?v={v}"')
     with open(os.path.join(out, "index.html"), "w", encoding="utf-8") as fh:
         fh.write(html)
     # Addresses that are no page get a real 404 status (stray and bot requests), still with the app, which shows a

@@ -472,8 +472,7 @@ function courseView(node) {
 // The browser fetches each file straight from Hugging Face and writes a plain (stored, uncompressed) zip:
 // PDFs and images don't shrink anyway, and storing keeps it fast on phones. Where the browser can save to disk as it
 // goes (Chrome, Edge: showSaveFilePicker) any size works; elsewhere the zip is built in memory first.
-// Staging only for now, while it's being tried.
-const ZIP_ON = STAGING;
+const ZIP_ON = true;
 const ZIP_MAX = 4e9;          // plain zip offsets are 32-bit; bigger folders: use the Hugging Face CLI (Download & API page)
 const ZIP_MEM_WARN = 5e8;     // above this, browsers without a save-as-you-go API may run out of memory
 const zipFiles = node => {
