@@ -446,16 +446,38 @@ main { width: 100%; max-width: var(--w); margin: 0 auto; padding-block: 0 120px;
 /* staging build only (see STAGING in app.js) */
 .staging-badge { position: fixed; left: 16px; bottom: 16px; z-index: 60; padding: 6px 12px; border-radius: 999px; background: #ff9f0a; color: #1d1d1f; font: 600 12px/1 var(--text, system-ui); letter-spacing: .06em; text-transform: uppercase; box-shadow: 0 6px 20px -8px rgba(0,0,0,.35); }
 
-/* download a folder as .zip */
-.zip-row { margin-top: 18px; }
-.zip-btn em { font-style: normal; color: var(--mute); margin-left: 8px; font-weight: 400; }
-.zip-btn.sm { height: 28px; padding: 0 12px; font-size: 13px; align-self: center; }
-.zip-btn.sm em { margin-left: 6px; }
-.zip-bar { position: fixed; left: 50%; bottom: 20px; transform: translateX(-50%); z-index: 60; width: min(520px, calc(100vw - 32px));
-  display: grid; grid-template-columns: 1fr auto; gap: 10px 14px; align-items: center; padding: 14px 16px; border-radius: 16px;
-  background: var(--bg); color: var(--ink); box-shadow: 0 10px 40px rgba(0,0,0,.18); font-size: 14px; }
-.zip-bar .zb-text { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
-.zip-bar .zb-text b { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-weight: 600; }
-.zip-bar .zb-n { color: var(--mute); }
-.zip-bar .zb-track { grid-column: 1 / -1; height: 4px; border-radius: 4px; background: var(--fog); overflow: hidden; }
-.zip-bar .zb-track i { display: block; height: 100%; width: 0; background: var(--ink); transition: width .2s; }
+/* pick and download (Download & API page) */
+.pick { max-width: 900px; }
+.pk-search { width: 100%; height: 48px; margin: 14px 0 10px; padding: 0 18px; border: 1px solid #e5e5ea; border-radius: 14px; font: inherit; font-size: 16px; background: var(--bg); color: var(--ink); }
+.pk-search:focus { outline: none; border-color: var(--ink); }
+.pk-tree { border-top: 1px solid #e5e5ea; padding-bottom: 120px; }
+.pk-row { display: flex; align-items: center; gap: 6px; min-height: 48px; padding: 4px 0 4px calc(var(--d, 0) * 24px); border-bottom: 1px solid #f0f0f3; }
+.pk-tog { flex: none; width: 32px; height: 32px; border-radius: 8px; font-size: 20px; line-height: 1; color: var(--mute); transition: transform .15s, background .15s; }
+button.pk-tog:hover { background: var(--fog); color: var(--ink); }
+.pk-tog[aria-expanded="true"] { transform: rotate(90deg); }
+.pk-lab { flex: 1; min-width: 0; display: flex; align-items: center; gap: 12px; cursor: pointer; }
+.pk-lab input { flex: none; width: 20px; height: 20px; accent-color: var(--ink); cursor: pointer; }
+.pk-name { min-width: 0; overflow: hidden; text-overflow: ellipsis; }
+.pk-name small { display: block; color: var(--mute); font-size: 13px; }
+.pk-code { font-weight: 600; margin-right: 4px; }
+.pk-meta { flex: none; color: var(--mute); font-size: 14px; padding-left: 10px; text-align: right; white-space: nowrap; }
+.pk-empty { padding: 24px 0; color: var(--mute); }
+.pk-bar { position: fixed; left: 50%; bottom: 20px; transform: translateX(-50%); z-index: 60; width: min(720px, calc(100vw - 24px));
+  display: flex; align-items: center; gap: 10px; padding: 14px 16px 14px 20px; border-radius: 18px; background: var(--bg); color: var(--ink);
+  box-shadow: 0 10px 40px rgba(0,0,0,.18); font-size: 15px; }
+.pk-bar[hidden] { display: none; }
+.pk-txt { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+.pk-note { color: var(--mute); font-size: 13.5px; }
+.pk-note:empty { display: none; }
+.pk-track { height: 4px; margin-top: 6px; border-radius: 4px; background: var(--fog); overflow: hidden; }
+.pk-track i { display: block; height: 100%; width: 0; background: var(--ink); transition: width .2s; }
+.pk-bar .pill-btn { height: 40px; padding: 0 18px; font-size: 15px; }
+.pk-bar .pill-btn:disabled { opacity: .4; cursor: default; }
+@media (max-width: 600px) {
+  .pk-row { padding-left: calc(var(--d, 0) * 14px); }
+  .pk-meta { font-size: 13px; }
+  .pk-n { display: none; }
+  .pk-bar { flex-wrap: wrap; bottom: 10px; }
+  .pk-txt { flex-basis: 100%; }
+  .pk-bar .pill-btn { flex: 1; }
+}
