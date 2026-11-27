@@ -1,0 +1,62 @@
+{
+ "id": "20261127-123940-contrib-hqgtryr3rt9x",
+ "created": "2026-11-27T12:39:40+00:00",
+ "source": {
+  "kind": "contribution",
+  "by": "site",
+  "credit": "Md Adnan",
+  "note": "Contribution hqgtryr3rt9x from the site's Contribute page: Mid-Semester-2 papers of Electrical Engineering, B.Tech 2026-27 (photos, made into PDFs)"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem5/EEC3212_Power-Electronics-II/PYQs-and-Assignments/Mid-Sem-2_2026-27.pdf",
+   "s": 3143191,
+   "h": "057515f0248409c1cf51bd938caa03e5a22ff5382c72f0314d223cf415049ab4",
+   "t": 1795783157,
+   "meta": {
+    "credit": "Md Adnan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem5/EEC3312_Power-System-Analysis/PYQs-and-Assignments/Mid-Sem-2_2026-27.pdf",
+   "s": 3286811,
+   "h": "ebb76dcae5a7858f35b13a87f01d24db5c27287ed2e0b6cedfe9dc693b5cea8a",
+   "t": 1795783158,
+   "meta": {
+    "credit": "Md Adnan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem5/EEC3512_Electrical-and-Electronic-Instrumentation/PYQs-and-Assignments/Mid-Sem-2_2026-27.pdf",
+   "s": 3050648,
+   "h": "e999fb6e34fe4ff570b0cef4853ea576a9139d1a0b18f8a10a5181e840b43008",
+   "t": 1795783160,
+   "meta": {
+    "credit": "Md Adnan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem5/EEC3612_High-Voltage-Engineering/PYQs-and-Assignments/Mid-Sem-2_2026-27.pdf",
+   "s": 5831764,
+   "h": "be3ed57f5148fd30083aae8d49cc10d506af2744dc8b510b7bdd9db730bfe57f",
+   "t": 1795783161,
+   "meta": {
+    "credit": "Md Adnan"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Electrical-Engineering/Sem5/ELA3022_Fundamentals-of-Communication-Engineering/PYQs-and-Assignments/Mid-Sem-2_2026-27.pdf",
+   "s": 3088715,
+   "h": "ca1541972b479c624c8104b3c9aa98736ca1f15c3e71a6a304284f5d19b3f466",
+   "t": 1795783163,
+   "meta": {
+    "credit": "Md Adnan"
+   }
+  }
+ ]
+}

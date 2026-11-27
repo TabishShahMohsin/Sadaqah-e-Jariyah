@@ -1,0 +1,152 @@
+{
+ "id": "20261127-123940-contrib-5sk6cbjvj3fe",
+ "created": "2026-11-27T12:39:40+00:00",
+ "source": {
+  "kind": "contribution",
+  "by": "site",
+  "credit": "Abu Madeeha",
+  "note": "Contribution 5sk6cbjvj3fe from the site's Contribute page: Computer & AI 3rd semester Mid-Sem 1 & 2 papers, 2026-27 (one PDF, split by course)"
+ },
+ "ops": [
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/PYQs-and-Assignments/Mid-Sem-1_2026-27.pdf",
+   "s": 872430,
+   "h": "c4fe98d547882e6397a95cb1937b1c2724404f953ef3569d92277ae8186d981d",
+   "t": 1795783143,
+   "meta": {
+    "credit": "Abu Madeeha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/AIC2022_Introduction-to-Artificial-Intelligence/PYQs-and-Assignments/Mid-Sem-2_2026-27.pdf",
+   "s": 197949,
+   "h": "92ce1b6353f1363aec56ba4fabddcf1fd88d818ce114bb3144ab056e129bf558",
+   "t": 1795783143,
+   "meta": {
+    "credit": "Abu Madeeha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/PYQs-and-Assignments/Mid-Sem-1_2026-27.pdf",
+   "s": 488015,
+   "h": "f8824baef89ff2c9b876dc2457f497e221d91f297d2437f52bb038bbd67f87cc",
+   "t": 1795783144,
+   "meta": {
+    "credit": "Abu Madeeha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/AMS2612_Higher-Mathematics/PYQs-and-Assignments/Mid-Sem-2_2026-27.pdf",
+   "s": 337829,
+   "h": "52ca8f302ec9dcc5d19c5e111be15efcfa44f1cb09c3a7fcd79cc637fa9afaf1",
+   "t": 1795783146,
+   "meta": {
+    "credit": "Abu Madeeha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/PYQs-and-Assignments/Mid-Sem-1_2026-27.pdf",
+   "s": 110546,
+   "h": "3c4e3f64192c7b47a7be6d156d672f8e6bfc08f299b247f826263762e7784112",
+   "t": 1795783146,
+   "meta": {
+    "credit": "Abu Madeeha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2032_Object-Oriented-Programming/PYQs-and-Assignments/Mid-Sem-2_2026-27.pdf",
+   "s": 171732,
+   "h": "67a4f07c9a6555c1bccb1984d6ee98ed137337da9637cdc80e6370422e9a5dbe",
+   "t": 1795783147,
+   "meta": {
+    "credit": "Abu Madeeha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/PYQs-and-Assignments/Mid-Sem-1_2026-27.pdf",
+   "s": 161947,
+   "h": "5230729811c01074f6f4e88f1bf96624d85b02b1cd44de864b2b0ffc00faa2f7",
+   "t": 1795783148,
+   "meta": {
+    "credit": "Abu Madeeha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2062-AIC2062_Data-Structure-and-Algorithm/PYQs-and-Assignments/Mid-Sem-2_2026-27.pdf",
+   "s": 520046,
+   "h": "20a6a4e679aeba7299f1e1b17a0f9953d93ca6e1ac7f93043a0e82b1bf9d3643",
+   "t": 1795783149,
+   "meta": {
+    "credit": "Abu Madeeha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/PYQs-and-Assignments/Mid-Sem-1_2026-27.pdf",
+   "s": 1351907,
+   "h": "62afcf501fa589fbb059919401720f7e60db76c0733ab8fd284ea729ccec4712",
+   "t": 1795783150,
+   "meta": {
+    "credit": "Abu Madeeha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2072-AIC2072_Digital-Logic-and-System-Design/PYQs-and-Assignments/Mid-Sem-2_2026-27.pdf",
+   "s": 335534,
+   "h": "34aa120033edf07dd4757b6e864186c943e20eae74ff7d537fd733cd0782c1eb",
+   "t": 1795783151,
+   "meta": {
+    "credit": "Abu Madeeha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2122-AIC2122_Database-Management-System/PYQs-and-Assignments/Mid-Sem-1_2026-27.pdf",
+   "s": 1093421,
+   "h": "0d3f0adf5e635f179b64a580951f653941516e6303d1ed24c62924a55b9edb0b",
+   "t": 1795783152,
+   "meta": {
+    "credit": "Abu Madeeha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/COC2122-AIC2122_Database-Management-System/PYQs-and-Assignments/Mid-Sem-2_2026-27.pdf",
+   "s": 760381,
+   "h": "cd7fa1ed57dcd7c2ec3b64dbe4502235a60be66c5585f3ffc4c95aed71033347",
+   "t": 1795783153,
+   "meta": {
+    "credit": "Abu Madeeha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Mid-Sem-1_2026-27.pdf",
+   "s": 113140,
+   "h": "caabf8ba938ecb729fd7ad03983e90ec7e246e5b7521750fe95327f6a8ff0b63",
+   "t": 1795783154,
+   "meta": {
+    "credit": "Abu Madeeha"
+   }
+  },
+  {
+   "op": "add",
+   "p": "Faculty-of-Engineering-and-Technology/BTech-and-BE/Computer-Engineering/Sem3/ELA2112_Electronic-Devices-and-Circuits/PYQs-and-Assignments/Mid-Sem-2_2026-27.pdf",
+   "s": 579017,
+   "h": "778e604b965ce687e60d727ff77f22c62291ea9542cb690bf22972b2c6965262",
+   "t": 1795783156,
+   "meta": {
+    "credit": "Abu Madeeha"
+   }
+  }
+ ]
+}
