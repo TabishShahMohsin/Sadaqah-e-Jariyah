@@ -520,12 +520,13 @@ function pkSync(root = $('#pkTree')) {
   $('.pk-note', bar).textContent = tooBig ? `That's too much for this browser at once. Choose less than ${fmtSize(MEM_MAX)}, or open this page in Chrome or Edge on a computer, which can save any amount.`
     : parts > 1 ? `It will arrive as ${parts} zip files.` : '';
   $('[data-pkgo]', bar).disabled = tooBig;
+  $('[data-pkgo]', bar).textContent = 'Download';
 }
 function pickerHtml() {
   return `<section class="api-sec pick">
       <h2 class="label">Choose what to download</h2>
       <p class="lede-sm">Tick whatever you want: a whole branch, a semester, a course, or single files. Then press <b>Download</b> and you get one zip file.</p>
-      <input class="pk-search" id="pkSearch" type="search" placeholder="Find a course, e.g. Operating Systems or COC3102" autocomplete="off">
+      <input class="pk-search" id="pkSearch" type="search" placeholder="Search a course name or code" autocomplete="off">
       <div class="pk-tree" id="pkTree"></div>
     </section>
     <div class="pk-bar" id="pkBar" hidden><div class="pk-txt"><span class="pk-sum"></span><span class="pk-note"></span><div class="pk-track" hidden><i></i></div></div>
@@ -675,7 +676,7 @@ async function pkDownload() {
   const ctl = new AbortController();
   PK.busy = ctl;
   const bar = $('#pkBar'), go = $('[data-pkgo]', bar), clr = $('[data-pkclear]', bar), track = $('.pk-track', bar);
-  go.disabled = true; clr.textContent = 'Cancel'; track.hidden = false; bar.classList.add('busy');
+  go.disabled = true; go.textContent = 'Downloading…'; clr.textContent = 'Cancel'; track.hidden = false; bar.classList.add('busy');
   let doneN = 0, doneB = 0;
   const show = () => {
     $('.pk-sum', bar).innerHTML = `<b>Preparing your download…</b> ${doneN} of ${files.length} files`;
@@ -723,9 +724,10 @@ async function pkDownload() {
     $('.pk-note', bar).textContent = ctl.signal.aborted ? '' : 'Check your internet connection and press Download again.';
   } finally {
     PK.busy = null;
-    go.disabled = false; clr.textContent = 'Clear'; track.hidden = true; bar.classList.remove('busy');
+    go.disabled = false; go.textContent = 'Download'; clr.textContent = 'Clear'; track.hidden = true; bar.classList.remove('busy');
   }
   if (ok) {
+    go.textContent = 'Download again';
     $('.pk-sum', bar).innerHTML = `<b>Done.</b> ${nParts > 1 ? `${nParts} zip files are` : 'Your zip file is'} in your Downloads${writable ? ' (or wherever you chose to save it)' : ''}.`;
     $('.pk-note', bar).textContent = failed.length ? `${plural(failed.length, 'file')} couldn't be downloaded; they're listed in About-this-download.txt inside.` : '';
   }
