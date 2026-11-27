@@ -445,3 +445,17 @@ main { width: 100%; max-width: var(--w); margin: 0 auto; padding-block: 0 120px;
 
 /* staging build only (see STAGING in app.js) */
 .staging-badge { position: fixed; left: 16px; bottom: 16px; z-index: 60; padding: 6px 12px; border-radius: 999px; background: #ff9f0a; color: #1d1d1f; font: 600 12px/1 var(--text, system-ui); letter-spacing: .06em; text-transform: uppercase; box-shadow: 0 6px 20px -8px rgba(0,0,0,.35); }
+
+/* download a folder as .zip */
+.zip-row { margin-top: 18px; }
+.zip-btn em { font-style: normal; color: var(--mute); margin-left: 8px; font-weight: 400; }
+.zip-btn.sm { height: 28px; padding: 0 12px; font-size: 13px; align-self: center; }
+.zip-btn.sm em { margin-left: 6px; }
+.zip-bar { position: fixed; left: 50%; bottom: 20px; transform: translateX(-50%); z-index: 60; width: min(520px, calc(100vw - 32px));
+  display: grid; grid-template-columns: 1fr auto; gap: 10px 14px; align-items: center; padding: 14px 16px; border-radius: 16px;
+  background: var(--bg); color: var(--ink); box-shadow: 0 10px 40px rgba(0,0,0,.18); font-size: 14px; }
+.zip-bar .zb-text { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.zip-bar .zb-text b { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-weight: 600; }
+.zip-bar .zb-n { color: var(--mute); }
+.zip-bar .zb-track { grid-column: 1 / -1; height: 4px; border-radius: 4px; background: var(--fog); overflow: hidden; }
+.zip-bar .zb-track i { display: block; height: 100%; width: 0; background: var(--ink); transition: width .2s; }

@@ -380,6 +380,7 @@ function dirView(node) {
     <div class="eyebrow">${esc(parent)}</div>
     <h1>${esc(label(node.n))}</h1>
     <div class="meta"><span><b>${fmtNum(node.count)}</b> files</span><span>${fmtSize(node.size)}</span>${terms ? `<span><b>${terms}</b> semesters</span>` : ''}</div>
+    ${(() => { const zb = zipBtn(node, 'Download folder'); return zb ? `<div class="zip-row">${zb}</div>` : ''; })()}
   </header>
   ${folders.length ? (node.parent === S.root && /^Faculty-of-/.test(node.n)
     ? `<h2 class="label">Programmes</h2><div class="cards">${folders.map((d, j) => card(d, j, 'Programme')).join('')}</div>`
@@ -442,7 +443,7 @@ function courseView(node) {
     const html = s.count
       ? (s.f.length ? fileRows(s.f) : '') + subs.map(x => `<div class="sub-head">${esc(x.dir.p.slice(s.p.length + 1).split('/').map(label).join(' › '))} <span>· ${x.dir.f.length}</span></div>${fileRows(x.dir.f)}`).join('')
       : `<div class="empty">Nothing here yet. Drop files into <code>${esc(s.p)}/</code> and open a pull request.</div>`;
-    blocks.push({ id: 'sec-' + s.n, name: label(s.n), count: s.count, html });
+    blocks.push({ id: 'sec-' + s.n, name: label(s.n), count: s.count, html, p: s.p });
   });
   const filled = sections.filter(s => s.count).length;
   return `
@@ -455,6 +456,7 @@ function courseView(node) {
     })()}
     <h1>${esc(label(node.n))}</h1>
     <div class="meta"><span><b>${fmtNum(node.count)}</b> files</span><span>${fmtSize(node.size)}</span><span><b>${filled}</b>/${sections.length} sections filled</span>${node.latest ? `<span>updated ${fmtDate(node.latest)}</span>` : ''}</div>
+    ${(() => { const zb = zipBtn(node, 'Download course'); return zb ? `<div class="zip-row">${zb}</div>` : ''; })()}
     ${(() => {
       const meta = S.pg?.courses?.[node.p]; if (!meta) return '';
       const P = S.pg.programmes;
@@ -463,10 +465,167 @@ function courseView(node) {
     })()}
   </header>
   <nav class="secnav">${blocks.map(b => `<a class="chip${b.count ? '' : ' empty'}" href="#" data-jump="${esc(b.id)}">${esc(b.name)} <em>${b.count}</em></a>`).join('')}</nav>
-  ${blocks.map((b, i) => `<section class="sec" id="${esc(b.id)}"><div class="sec-head"><span class="si">${pad(i + 1)}</span><h2>${esc(b.name)}</h2><span class="sc">${plural(b.count, 'file')}</span></div>${b.html}</section>`).join('')}`;
+  ${blocks.map((b, i) => `<section class="sec" id="${esc(b.id)}"><div class="sec-head"><span class="si">${pad(i + 1)}</span><h2>${esc(b.name)}</h2><span class="sc">${plural(b.count, 'file')}</span>${b.p ? zipBtn(S.nodes.get(b.p), '', true) : ''}</div>${b.html}</section>`).join('')}`;
+}
+
+/* ── download a folder as .zip ──────────────────────── */
+// The browser fetches each file straight from Hugging Face and writes a plain (stored, uncompressed) zip:
+// PDFs and images don't shrink anyway, and storing keeps it fast on phones. Where the browser can save to disk as it
+// goes (Chrome, Edge: showSaveFilePicker) any size works; elsewhere the zip is built in memory first.
+// Staging only for now, while it's being tried.
+const ZIP_ON = STAGING;
+const ZIP_MAX = 4e9;          // plain zip offsets are 32-bit; bigger folders: use the Hugging Face CLI (Download & API page)
+const ZIP_MEM_WARN = 5e8;     // above this, browsers without a save-as-you-go API may run out of memory
+const zipFiles = node => {
+  const out = [];
+  const walk = n => { out.push(...n.f); n.d.forEach(walk); };
+  walk(node);
+  return out;
+};
+const zipSize = files => files.reduce((a, f) => a + (f.k === 'link' ? 0 : f.s), 0);
+function zipBtn(node, text, small) {
+  if (!ZIP_ON || EMBED || S.base === null || !node) return '';
+  const files = zipFiles(node);
+  const size = zipSize(files);
+  if (!files.some(f => f.k !== 'link') || size > ZIP_MAX || files.length > 65000) return '';
+  return `<button type="button" class="pill-btn zip-btn${small ? ' sm' : ''}" data-zip="${esc(node.p)}" title="Download ${esc(label(node.n))} as a .zip (${fmtSize(size)})">↓ ${text || 'Zip'} <em>${fmtSize(size)}</em></button>`;
+}
+
+const CRC_T = (() => { const t = new Uint32Array(256); for (let n = 0; n < 256; n++) { let c = n; for (let k = 0; k < 8; k++) c = c & 1 ? 0xEDB88320 ^ (c >>> 1) : c >>> 1; t[n] = c >>> 0; } return t; })();
+function crc32(u8) { let c = 0xFFFFFFFF; for (let i = 0; i < u8.length; i++) c = CRC_T[(c ^ u8[i]) & 0xFF] ^ (c >>> 8); return (c ^ 0xFFFFFFFF) >>> 0; }
+function dosTime(t) {
+  const d = new Date((t || Date.now() / 1000) * 1000);
+  const y = Math.max(1980, d.getFullYear());
+  return { time: (d.getHours() << 11) | (d.getMinutes() << 5) | (d.getSeconds() >> 1), date: ((y - 1980) << 9) | ((d.getMonth() + 1) << 5) | d.getDate() };
+}
+// a zip writer: add(name, bytes, mtime) then end(); `sink(u8)` receives the bytes in order
+function zipWriter(sink) {
+  const enc = new TextEncoder(), central = [];
+  let offset = 0;
+  const put = async u8 => { await sink(u8); offset += u8.length; };
+  return {
+    async add(name, data, mtime) {
+      const nm = enc.encode(name), crc = crc32(data), { time, date } = dosTime(mtime);
+      const h = new DataView(new ArrayBuffer(30));
+      h.setUint32(0, 0x04034b50, true); h.setUint16(4, 20, true); h.setUint16(6, 0x0800, true); h.setUint16(8, 0, true);
+      h.setUint16(10, time, true); h.setUint16(12, date, true); h.setUint32(14, crc, true);
+      h.setUint32(18, data.length, true); h.setUint32(22, data.length, true); h.setUint16(26, nm.length, true); h.setUint16(28, 0, true);
+      central.push({ nm, crc, size: data.length, time, date, at: offset });
+      await put(new Uint8Array(h.buffer)); await put(nm); await put(data);
+    },
+    async end() {
+      const start = offset;
+      for (const e of central) {
+        const c = new DataView(new ArrayBuffer(46));
+        c.setUint32(0, 0x02014b50, true); c.setUint16(4, 20, true); c.setUint16(6, 20, true); c.setUint16(8, 0x0800, true);
+        c.setUint16(10, 0, true); c.setUint16(12, e.time, true); c.setUint16(14, e.date, true); c.setUint32(16, e.crc, true);
+        c.setUint32(20, e.size, true); c.setUint32(24, e.size, true); c.setUint16(28, e.nm.length, true);
+        c.setUint32(42, e.at, true);
+        await put(new Uint8Array(c.buffer)); await put(e.nm);
+      }
+      const z = new DataView(new ArrayBuffer(22));
+      z.setUint32(0, 0x06054b50, true); z.setUint16(8, central.length, true); z.setUint16(10, central.length, true);
+      z.setUint32(12, offset - start, true); z.setUint32(16, start, true);
+      await put(new Uint8Array(z.buffer));
+    },
+  };
+}
+
+async function fetchBytes(url, signal) {
+  let err;
+  for (let i = 0; i < 4; i++) {
+    try {
+      const r = await fetch(url, { signal });
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return new Uint8Array(await r.arrayBuffer());
+    } catch (e) {
+      if (signal.aborted) throw e;
+      err = e;
+      await new Promise(res => setTimeout(res, 800 * (i + 1)));
+    }
+  }
+  throw err;
+}
+
+let zipJob = null;
+async function zipFolder(node) {
+  if (!node || zipJob) return;
+  const all = zipFiles(node), files = all.filter(f => f.k !== 'link'), links = all.filter(f => f.k === 'link');
+  // a section is named after its course: COC3102_Syllabus.zip, not Syllabus.zip
+  const course = courseOf(node.parent), top = (isSection(node.n) && course ? course.n.split('_')[0] + '_' : '') + node.n.replace(/^_+/, '');
+  const total = zipSize(all), zipName = top + '.zip';
+  const rel = f => top + f.p.slice(node.p.length);
+  const canStream = typeof window.showSaveFilePicker === 'function';
+  if (!canStream && total > ZIP_MEM_WARN &&
+      !confirm(`${label(node.n)} is ${fmtSize(total)}. This browser builds the zip in memory, which may fail at this size. Chrome or Edge on a computer can save any size. Try anyway?`)) return;
+
+  let writable = null, chunks = null;
+  if (canStream) {
+    try { writable = await (await window.showSaveFilePicker({ suggestedName: zipName, types: [{ description: 'Zip archive', accept: { 'application/zip': ['.zip'] } }] })).createWritable(); }
+    catch (e) { if (e.name === 'AbortError') return; writable = null; }
+  }
+  if (!writable) chunks = [];
+  const ctl = new AbortController();
+  zipJob = ctl;
+  const bar = document.createElement('div');
+  bar.className = 'zip-bar';
+  bar.innerHTML = `<div class="zb-text"><b>${esc(zipName)}</b><span class="zb-n">starting…</span></div><button type="button" class="pill-btn">Cancel</button><div class="zb-track"><i></i></div>`;
+  document.body.appendChild(bar);
+  $('button', bar).addEventListener('click', () => ctl.abort());
+  let doneN = 0, doneB = 0;
+  const show = () => {
+    $('.zb-n', bar).textContent = `${doneN} of ${files.length} files · ${fmtSize(doneB)} of ${fmtSize(total)}`;
+    $('i', bar).style.width = (total ? 100 * doneB / total : 100) + '%';
+  };
+  const zw = zipWriter(writable ? u8 => writable.write(u8) : u8 => { chunks.push(u8); });
+  const failed = [];
+  try {
+    // up to 4 downloads at a time, written to the zip in order
+    const queue = files.map(() => null);
+    let next = 0;
+    const start = () => { if (next < files.length) { const i = next++; queue[i] = fetchBytes(fileUrl(files[i]), ctl.signal).catch(e => { if (ctl.signal.aborted) throw e; return e; }); } };
+    for (let k = 0; k < 4; k++) start();
+    show();
+    for (let i = 0; i < files.length; i++) {
+      const got = await queue[i];
+      queue[i] = null;
+      start();
+      if (got instanceof Error) failed.push(rel(files[i]));
+      else await zw.add(rel(files[i]), got, files[i].m);
+      doneN++; doneB += files[i].s; show();
+    }
+    const base = top + '/';
+    if (links.length) {
+      const txt = links.map(f => `${f.meta?.title || prettyFile(f.n)}\n  ${f.meta?.url || ''}\n  (${rel(f).replace(/\.link$/, '')})`).join('\n\n');
+      await zw.add(base + 'Links.txt', new TextEncoder().encode(txt + '\n'), 0);
+    }
+    const note = `Downloaded from Sadaqah-e-Jariyah: ${SITE_URL}${href(node.p)}\non ${new Date().toUTCString()}\n` +
+      (failed.length ? `\nThese files could not be downloaded; open them on the site:\n${failed.map(x => '  ' + x).join('\n')}\n` : '');
+    await zw.add(base + 'About-this-download.txt', new TextEncoder().encode(note), 0);
+    await zw.end();
+    if (writable) await writable.close();
+    else {
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(new Blob(chunks, { type: 'application/zip' }));
+      a.download = zipName;
+      document.body.appendChild(a); a.click(); a.remove();
+      setTimeout(() => URL.revokeObjectURL(a.href), 60000);
+    }
+    $('.zb-n', bar).textContent = failed.length ? `Saved, but ${plural(failed.length, 'file')} couldn't be downloaded (listed inside).` : `Saved · ${plural(files.length, 'file')}`;
+  } catch (e) {
+    if (writable) try { await writable.abort(); } catch { /* already closed */ }
+    $('.zb-n', bar).textContent = ctl.signal.aborted ? 'Cancelled' : 'Download failed. Check your connection and try again.';
+  } finally {
+    chunks = null;
+    zipJob = null;
+    $('button', bar).textContent = 'Close';
+    $('button', bar).onclick = () => bar.remove();
+    setTimeout(() => bar.remove(), 8000);
+  }
 }
 
 function bindView(v) {
+  $$('[data-zip]', v).forEach(b => b.addEventListener('click', () => zipFolder(S.nodes.get(b.dataset.zip))));
   $$('[data-search]', v).forEach(b => b.addEventListener('click', openPalette));
   $$('[data-more]', v).forEach(b => b.addEventListener('click', () => {
     const node = S.rendered;
