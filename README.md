@@ -56,7 +56,7 @@ To create a legacy of continuous benefit (Ṣadaqah-e-Jāriyah) through knowledg
     * Recommended youtube lectures should be included
     * Notes
     * Syllabus
-
+<!--
 * Mosques times:
     * Dhuhr and Friday times usually don't change in India.
     * Only write the official prayer time
@@ -75,6 +75,7 @@ Fridays:
 |--|--|--|
 | Zubair - New Sir Syed Nagar | Link | 14:00 | 
 
+-->
 
 * Even simple things like guide to calculator should be provided.
     * I myself found that students didn't even know that inverse of matrices, matrix algebra, differentiation, integration, solving equations, filling observation tables using formulae, vectors, imaginary numbers, DFT all can be calculated using calculators.
